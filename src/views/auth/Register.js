@@ -1,5 +1,9 @@
 import React from "react";
 
+// Import social media icons
+import githubIcon from "assets/img/github.svg";
+import googleIcon from "assets/img/google.svg";
+
 export default function Register() {
   return (
     <>
@@ -21,7 +25,7 @@ export default function Register() {
                     <img
                       alt="..."
                       className="w-5 mr-1"
-                      src={require("assets/img/github.svg").default}
+                      src={githubIcon}
                     />
                     Github
                   </button>
@@ -32,7 +36,7 @@ export default function Register() {
                     <img
                       alt="..."
                       className="w-5 mr-1"
-                      src={require("assets/img/google.svg").default}
+                      src={googleIcon}
                     />
                     Google
                   </button>

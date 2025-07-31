@@ -1,6 +1,10 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
+// Import social media icons
+import githubIcon from "assets/img/github.svg";
+import googleIcon from "assets/img/google.svg";
+
 export default function Login() {
   return (
     <>
@@ -22,7 +26,7 @@ export default function Login() {
                     <img
                       alt="..."
                       className="w-5 mr-1"
-                      src={require("assets/img/github.svg").default}
+                      src={githubIcon}
                     />
                     Github
                   </button>
@@ -33,7 +37,7 @@ export default function Login() {
                     <img
                       alt="..."
                       className="w-5 mr-1"
-                      src={require("assets/img/google.svg").default}
+                      src={googleIcon}
                     />
                     Google
                   </button>

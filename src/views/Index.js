@@ -5,6 +5,24 @@ import { Link } from "react-router-dom";
 import IndexNavbar from "components/Navbars/IndexNavbar.js";
 import Footer from "components/Footers/Footer.js";
 
+// Import images
+import patternReact from "assets/img/pattern_react.png";
+import componentBtn from "assets/img/component-btn.png";
+import componentProfileCard from "assets/img/component-profile-card.png";
+import componentInfoCard from "assets/img/component-info-card.png";
+import componentInfo2 from "assets/img/component-info-2.png";
+import componentMenu from "assets/img/component-menu.png";
+import componentBtnPink from "assets/img/component-btn-pink.png";
+import angular from "assets/img/angular.jpg";
+import bootstrap from "assets/img/bootstrap.jpg";
+import sketch from "assets/img/sketch.jpg";
+import react from "assets/img/react.jpg";
+import vue from "assets/img/vue.jpg";
+import documentation from "assets/img/documentation.png";
+import login from "assets/img/login.jpg";
+import profile from "assets/img/profile.jpg";
+import landing from "assets/img/landing.jpg";
+
 export default function Index() {
   return (
     <>
@@ -51,7 +69,7 @@ export default function Index() {
 
         <img
           className="absolute top-0 b-auto right-0 pt-16 sm:w-6/12 -mt-48 sm:mt-0 w-10/12 max-h-860px"
-          src={require("assets/img/pattern_react.png").default}
+          src={patternReact}
           alt="..."
         />
       </section>
@@ -229,32 +247,32 @@ export default function Index() {
               <div className="relative flex flex-col min-w-0 w-full mb-6 mt-48 md:mt-0">
                 <img
                   alt="..."
-                  src={require("assets/img/component-btn.png").default}
+                  src={componentBtn}
                   className="w-full align-middle rounded absolute shadow-lg max-w-100-px z-3 left-145-px -top-29-px"
                 />
                 <img
                   alt="..."
-                  src={require("assets/img/component-profile-card.png").default}
+                  src={componentProfileCard}
                   className="w-full align-middle rounded-lg absolute shadow-lg -top-160-px left-260-px max-w-210-px"
                 />
                 <img
                   alt="..."
-                  src={require("assets/img/component-info-card.png").default}
+                  src={componentInfoCard}
                   className="w-full align-middle rounded-lg absolute shadow-lg max-w-180-px -top-225-px left-40-px z-2"
                 />
                 <img
                   alt="..."
-                  src={require("assets/img/component-info-2.png").default}
+                  src={componentInfo2}
                   className="w-full align-middle rounded-lg absolute shadow-2xl max-w-200-px -left-50-px top-25-px"
                 />
                 <img
                   alt="..."
-                  src={require("assets/img/component-menu.png").default}
+                  src={componentMenu}
                   className="w-full align-middle rounded absolute shadow-lg max-w-580-px -left-20-px top-210-px"
                 />
                 <img
                   alt="..."
-                  src={require("assets/img/component-btn-pink.png").default}
+                  src={componentBtnPink}
                   className="w-full align-middle rounded absolute shadow-xl max-w-120-px left-195-px top-95-px"
                 />
               </div>
@@ -486,7 +504,7 @@ export default function Index() {
                   transform:
                     "scale(1) perspective(1040px) rotateY(-11deg) rotateX(2deg) rotate(2deg)",
                 }}
-                src={require("assets/img/documentation.png").default}
+                src={documentation}
               />
             </div>
           </div>
@@ -518,7 +536,7 @@ export default function Index() {
                       <img
                         alt="..."
                         className="align-middle border-none max-w-full h-auto rounded-lg"
-                        src={require("assets/img/login.jpg").default}
+                        src={login}
                       />
                     </div>
                   </Link>
@@ -533,7 +551,7 @@ export default function Index() {
                       <img
                         alt="..."
                         className="align-middle border-none max-w-full h-auto rounded-lg"
-                        src={require("assets/img/profile.jpg").default}
+                        src={profile}
                       />
                     </div>
                   </Link>
@@ -548,7 +566,7 @@ export default function Index() {
                       <img
                         alt="..."
                         className="align-middle border-none max-w-full h-auto rounded-lg"
-                        src={require("assets/img/landing.jpg").default}
+                        src={landing}
                       />
                     </div>
                   </Link>
