@@ -1,4 +1,5 @@
 import React from "react";
+import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
 
 // components
@@ -13,6 +14,8 @@ import team3 from "assets/img/team-3-800x800.jpg";
 import team4 from "assets/img/team-4-470x470.png";
 
 export default function Landing() {
+  const { t } = useTranslation();
+  
   return (
     <>
       <Navbar transparent />
@@ -34,14 +37,33 @@ export default function Landing() {
             <div className="items-center flex flex-wrap">
               <div className="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
                 <div className="pr-12">
-                  <h1 className="text-white font-semibold text-5xl">
-                    Your story starts with us.
+                  <h1 className="text-white font-semibold text-4xl">
+                    {t('hero.title').split('\n').map((line, index) => (
+                      <React.Fragment key={index}>
+                        {line}
+                        {index === 0 && <br />}
+                      </React.Fragment>
+                    ))}
                   </h1>
-                  <p className="mt-4 text-lg text-blueGray-200">
-                    This is a simple example of a Landing Page you can build
-                    using Notus React. It features multiple CSS components based
-                    on the Tailwind CSS design system.
+                  <p className="mt-4 text-md text-blueGray-200">
+                    {t('hero.subtitle')}
                   </p>
+                  <div className="mt-8">
+                    <a
+                      href="#use-cases"
+                      className="bg-lightBlue-500 text-white active:bg-lightBlue-600 text-sm font-bold px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150"
+                    >
+                      <i className="fas fa-bluetooth-b mr-2"></i>
+                      {t('hero.discoverFeatures')}
+                    </a>
+                    <a
+                      href="#download"
+                      className="bg-blueGray-700 text-white active:bg-blueGray-600 text-sm font-bold px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150 ml-2"
+                    >
+                      <i className="fas fa-download mr-2"></i>
+                      {t('hero.downloadApp')}
+                    </a>
+                  </div>
                 </div>
               </div>
             </div>
@@ -67,19 +89,18 @@ export default function Landing() {
           </div>
         </div>
 
-        <section className="pb-20 bg-blueGray-200 -mt-24">
+        <section id="use-cases" className="pb-20 bg-blueGray-200 -mt-24">
           <div className="container mx-auto px-4">
             <div className="flex flex-wrap">
               <div className="lg:pt-12 pt-6 w-full md:w-4/12 px-4 text-center">
                 <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg">
                   <div className="px-4 py-5 flex-auto">
                     <div className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-red-400">
-                      <i className="fas fa-award"></i>
+                      <i className="fas fa-users"></i>
                     </div>
-                    <h6 className="text-xl font-semibold">Awarded Agency</h6>
+                    <h6 className="text-xl font-semibold">{t('featurePage.eventNetworking')}</h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
-                      Divide details about your product or agency work into
-                      parts. A paragraph describing a feature will be enough.
+                      {t('featurePage.eventNetworkingDesc')}
                     </p>
                   </div>
                 </div>
@@ -89,12 +110,11 @@ export default function Landing() {
                 <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg">
                   <div className="px-4 py-5 flex-auto">
                     <div className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-lightBlue-400">
-                      <i className="fas fa-retweet"></i>
+                      <i className="fas fa-graduation-cap"></i>
                     </div>
-                    <h6 className="text-xl font-semibold">Free Revisions</h6>
+                    <h6 className="text-xl font-semibold">{t('featurePage.studyGroups')}</h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
-                      Keep you user engaged by providing meaningful information.
-                      Remember that by this time, the user is curious.
+                      {t('featurePage.studyGroupsDesc')}
                     </p>
                   </div>
                 </div>
@@ -104,12 +124,11 @@ export default function Landing() {
                 <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-8 shadow-lg rounded-lg">
                   <div className="px-4 py-5 flex-auto">
                     <div className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-emerald-400">
-                      <i className="fas fa-fingerprint"></i>
+                      <i className="fas fa-coffee"></i>
                     </div>
-                    <h6 className="text-xl font-semibold">Verified Company</h6>
+                    <h6 className="text-xl font-semibold">{t('featurePage.workplace')}</h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
-                      Write a few lines about each one. A paragraph describing a
-                      feature will be enough. Keep you user engaged!
+                      {t('featurePage.workplaceDesc')}
                     </p>
                   </div>
                 </div>
@@ -119,24 +138,19 @@ export default function Landing() {
             <div className="flex flex-wrap items-center mt-32">
               <div className="w-full md:w-5/12 px-4 mr-auto ml-auto">
                 <div className="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white">
-                  <i className="fas fa-user-friends text-xl"></i>
+                  <i className="fas fa-bluetooth-b text-xl"></i>
                 </div>
                 <h3 className="text-3xl mb-2 font-semibold leading-normal">
-                  Working with us is a pleasure
+                  {t('featurePage.anonymousNetworking')}
                 </h3>
                 <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
-                  Don't let your uses guess by attaching tooltips and popoves to
-                  any element. Just make sure you enable them first via
-                  JavaScript.
+                  {t('featurePage.anonymousNetworkingDesc')}
                 </p>
                 <p className="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600">
-                  The kit comes with three pre-built pages to help you get
-                  started faster. You can change the text and images and you're
-                  good to go. Just make sure you enable them first via
-                  JavaScript.
+                  {t('featurePage.privacyProtection')}
                 </p>
                 <Link to="/" className="font-bold text-blueGray-700 mt-8">
-                  Check Notus React!
+                  {t('featurePage.downloadNow')}
                 </Link>
               </div>
 
@@ -160,12 +174,11 @@ export default function Landing() {
                       ></polygon>
                     </svg>
                     <h4 className="text-xl font-bold text-white">
-                      Top Notch Services
+                      Anonymous Avatar Networking
                     </h4>
                     <p className="text-md font-light mt-2 text-white">
-                      The Arctic Ocean freezes every winter and much of the
-                      sea-ice then thaws every summer, and that process will
-                      continue whatever happens.
+                      Create avatars, scan nearby users, send friend requests, 
+                      and chat anonymously until you're ready to reveal your identity.
                     </p>
                   </blockquote>
                 </div>
@@ -209,23 +222,21 @@ export default function Landing() {
                   <div className="text-lightBlue-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-lightBlue-300">
                     <i className="fas fa-rocket text-xl"></i>
                   </div>
-                  <h3 className="text-3xl font-semibold">A growing company</h3>
+                  <h3 className="text-3xl font-semibold">{t('featurePage.privacyFeatures.title')}</h3>
                   <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
-                    The extension comes with three pre-built pages to help you
-                    get started faster. You can change the text and images and
-                    you're good to go.
+                    {t('featurePage.privacyFeatures.description')}
                   </p>
                   <ul className="list-none mt-6">
                     <li className="py-2">
                       <div className="flex items-center">
                         <div>
                           <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-lightBlue-600 bg-lightBlue-200 mr-3">
-                            <i className="fas fa-fingerprint"></i>
+                            <i className="fas fa-user-secret"></i>
                           </span>
                         </div>
                         <div>
                           <h4 className="text-blueGray-500">
-                            Carefully crafted components
+                            {t('featurePage.privacyFeatures.avatarProfiles')}
                           </h4>
                         </div>
                       </div>
@@ -234,12 +245,12 @@ export default function Landing() {
                       <div className="flex items-center">
                         <div>
                           <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-lightBlue-600 bg-lightBlue-200 mr-3">
-                            <i className="fab fa-html5"></i>
+                            <i className="fas fa-clock"></i>
                           </span>
                         </div>
                         <div>
                           <h4 className="text-blueGray-500">
-                            Amazing page examples
+                            {t('featurePage.privacyFeatures.autoExpiring')}
                           </h4>
                         </div>
                       </div>
@@ -248,12 +259,12 @@ export default function Landing() {
                       <div className="flex items-center">
                         <div>
                           <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-lightBlue-600 bg-lightBlue-200 mr-3">
-                            <i className="far fa-paper-plane"></i>
+                            <i className="fas fa-eye"></i>
                           </span>
                         </div>
                         <div>
                           <h4 className="text-blueGray-500">
-                            Dynamic components
+                            {t('featurePage.privacyFeatures.progressiveReveal')}
                           </h4>
                         </div>
                       </div>
@@ -267,13 +278,11 @@ export default function Landing() {
 
         <section className="pt-20 pb-48">
           <div className="container mx-auto px-4">
-            <div className="flex flex-wrap justify-center text-center mb-24">
-              <div className="w-full lg:w-6/12 px-4">
-                <h2 className="text-4xl font-semibold">Here are our heroes</h2>
+            <div className="flex flex-wrap justify-center text-center mb-16">
+              <div className="w-full lg:w-8/12 px-4">
+                <h2 className="text-4xl font-semibold">{t('featurePage.team.title')}</h2>
                 <p className="text-lg leading-relaxed m-4 text-blueGray-500">
-                  According to the National Oceanic and Atmospheric
-                  Administration, Ted, Scambos, NSIDClead scentist, puts the
-                  potentially record maximum.
+                  {t('featurePage.team.description')}
                 </p>
               </div>
             </div>
@@ -286,9 +295,9 @@ export default function Landing() {
                     className="shadow-lg rounded-full mx-auto max-w-120-px"
                   />
                   <div className="pt-6 text-center">
-                    <h5 className="text-xl font-bold">Ryan Tompson</h5>
+                    <h5 className="text-xl font-bold">Alex Chen</h5>
                     <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
-                      Web Developer
+                      {t('featurePage.team.roles.engineer')}
                     </p>
                     <div className="mt-6">
                       <button
@@ -321,9 +330,9 @@ export default function Landing() {
                     className="shadow-lg rounded-full mx-auto max-w-120-px"
                   />
                   <div className="pt-6 text-center">
-                    <h5 className="text-xl font-bold">Romina Hadid</h5>
+                    <h5 className="text-xl font-bold">Sarah Johnson</h5>
                     <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
-                      Marketing Specialist
+                      {t('featurePage.team.roles.developer')}
                     </p>
                     <div className="mt-6">
                       <button
@@ -350,9 +359,9 @@ export default function Landing() {
                     className="shadow-lg rounded-full mx-auto max-w-120-px"
                   />
                   <div className="pt-6 text-center">
-                    <h5 className="text-xl font-bold">Alexa Smith</h5>
+                    <h5 className="text-xl font-bold">Maria Rodriguez</h5>
                     <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
-                      UI/UX Designer
+                      {t('featurePage.team.roles.security')}
                     </p>
                     <div className="mt-6">
                       <button
@@ -385,9 +394,9 @@ export default function Landing() {
                     className="shadow-lg rounded-full mx-auto max-w-120-px"
                   />
                   <div className="pt-6 text-center">
-                    <h5 className="text-xl font-bold">Jenna Kardi</h5>
+                    <h5 className="text-xl font-bold">David Kim</h5>
                     <p className="mt-1 text-sm text-blueGray-400 uppercase font-semibold">
-                      Founder and CEO
+                      {t('featurePage.team.roles.ceo')}
                     </p>
                     <div className="mt-6">
                       <button
@@ -447,55 +456,51 @@ export default function Landing() {
             <div className="flex flex-wrap text-center justify-center">
               <div className="w-full lg:w-6/12 px-4">
                 <h2 className="text-4xl font-semibold text-white">
-                  Build something
+                  {t('featurePage.cta.title')}
                 </h2>
                 <p className="text-lg leading-relaxed mt-4 mb-4 text-blueGray-400">
-                  Put the potentially record low maximum sea ice extent tihs
-                  year down to low ice. According to the National Oceanic and
-                  Atmospheric Administration, Ted, Scambos.
+                  {t('featurePage.cta.description')}
                 </p>
               </div>
             </div>
             <div className="flex flex-wrap mt-12 justify-center">
               <div className="w-full lg:w-3/12 px-4 text-center">
                 <div className="text-blueGray-800 p-3 w-12 h-12 shadow-lg rounded-full bg-white inline-flex items-center justify-center">
-                  <i className="fas fa-medal text-xl"></i>
+                  <i className="fas fa-user-secret text-xl"></i>
                 </div>
                 <h6 className="text-xl mt-5 font-semibold text-white">
-                  Excelent Services
+                  {t('featurePage.cta.features.anonymousAvatars')}
                 </h6>
                 <p className="mt-2 mb-4 text-blueGray-400">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card's content.
+                  {t('featurePage.cta.features.anonymousAvatarsDesc')}
                 </p>
               </div>
               <div className="w-full lg:w-3/12 px-4 text-center">
                 <div className="text-blueGray-800 p-3 w-12 h-12 shadow-lg rounded-full bg-white inline-flex items-center justify-center">
-                  <i className="fas fa-poll text-xl"></i>
+                  <i className="fas fa-clock text-xl"></i>
                 </div>
                 <h5 className="text-xl mt-5 font-semibold text-white">
-                  Grow your market
+                  {t('featurePage.cta.features.autoExpire')}
                 </h5>
                 <p className="mt-2 mb-4 text-blueGray-400">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card's content.
+                  {t('featurePage.cta.features.autoExpireDesc')}
                 </p>
               </div>
               <div className="w-full lg:w-3/12 px-4 text-center">
                 <div className="text-blueGray-800 p-3 w-12 h-12 shadow-lg rounded-full bg-white inline-flex items-center justify-center">
-                  <i className="fas fa-lightbulb text-xl"></i>
+                  <i className="fas fa-user-friends text-xl"></i>
                 </div>
                 <h5 className="text-xl mt-5 font-semibold text-white">
-                  Launch time
+                  {t('featurePage.cta.features.friendRequests')}
                 </h5>
                 <p className="mt-2 mb-4 text-blueGray-400">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card's content.
+                  {t('featurePage.cta.features.friendRequestsDesc')}
                 </p>
               </div>
             </div>
           </div>
         </section>
+        {/* Contact Form Section - Commented Out 
         <section className="relative block py-24 lg:pt-0 bg-blueGray-800">
           <div className="container mx-auto px-4">
             <div className="flex flex-wrap justify-center lg:-mt-64 -mt-48">
@@ -565,6 +570,7 @@ export default function Landing() {
             </div>
           </div>
         </section>
+        */}
       </main>
       <Footer />
     </>

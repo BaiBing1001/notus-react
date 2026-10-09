@@ -1,0 +1,1434 @@
+{
+  "navbar": {
+    "features": "Funktioner",
+    "subscription": "Abonnement",
+    "download": "Download",
+    "legal": "Legal",
+    "privacyPolicy": "Privatlivspolitik",
+    "termsOfUse": "Brugsbetingelser",
+    "safetyTips": "Sikkerhedstips og tricks"
+  },
+  "hero": {
+    "title": "Find personer i nærheden.\n Forbind dig i det virkelige liv.",
+    "subtitle": "Ryst for at finde folk omkring dig via Bluetooth , eller deltag i et nærliggende sted for at se, hvem der er der. Send en venneanmodning, match og start med at chatte – med valgfri avatar-privatliv, indtil du er klar til at dele mere.",
+    "discoverFeatures": "Opdag funktioner",
+    "downloadApp": "Download appen",
+    "anonymousAvatars": "Valgfrie avatarer",
+    "autoExpiry": "Bluetooth + Spillesteder",
+    "privacyFirst": "Privatliv først"
+  },
+  "features": {
+    "proximityTitle": "Nærhedsbaseret opdagelse",
+    "proximityDescription": "Find personer i nærheden ved at scanne via Bluetooth eller ved at tilmelde dig et sted på kortet. Send en venneanmodning, og begynd at chatte, når I begge matcher.",
+    "avatarsTitle": "Valgfri avatar-privatliv",
+    "avatarsDescription": "Behold din avatar på, mens du lærer nogen at kende, og skift til dine rigtige billeder, når du er klar.",
+    "expiringTitle": "Stedsbaseret opdagelse",
+    "expiringDescription": "Gennemse foreslåede steder i nærheden, og se, hvem der har tjekket ind inden for en radius – du behøver ikke at scanne konstant.",
+    "revealTitle": "Binding",
+    "revealDescription": "Marker en eksklusiv forbindelse som bundet, når du har fundet en, du vil blive ved med at være sammen med.",
+    "bluetoothTitle": "Bluetooth LE-teknologi",
+    "bluetoothDescription": "Opret forbindelse uden internet ved hjælp af avanceret Bluetooth Low Energy-teknologi til effektivt, lokalt netværk.",
+    "keyFeaturesTitle": "Nøglefunktioner",
+    "keyFeaturesDescription": "Ringdy leveres med kraftfulde funktioner, der er designet til at forbedre din lokale forbindelsesoplevelse, uanset hvor du er.",
+    "downloadNow": "Download nu",
+    "tags": {
+      "autoDiscovery": "Automatisk opdagelse",
+      "chatMessaging": "Chatbeskeder",
+      "fileSharing": "Fildeling",
+      "profiles": "Profiler",
+      "privacyControls": "Privatlivskontroller",
+      "offlineMode": "Offline-tilstand",
+      "crossPlatform": "Krydsplatform",
+      "lowPower": "Lavt strømforbrug"
+    }
+  },
+  "useCases": {
+    "actionTitle": "Ringdy i aktion",
+    "actionDescription": "Automatisk opdagelse, chatbeskeder og profildeling i virkelige sociale miljøer. Oplev problemfri forbindelse med avanceret Bluetooth Low Energy-teknologi, uanset hvor du er.",
+    "campusTitle": "Campus Connect",
+    "campusDescription": "Find studiepartnere med det samme",
+    "eventTitle": "Netværksarbejde for arrangementer",
+    "eventDescription": "Kontakt på konferencer",
+    "businessTitle": "Forretningsmøde",
+    "businessDescription": "Professionelle forbindelser",
+    "cafeTitle": "Caféforbindelser",
+    "cafeDescription": "Mød kaffeelskere i nærheden",
+    "localTitle": "Lokal opdagelse",
+    "localDescription": "Udforsk dit nabolag",
+    "gamingTitle": "Spilgrupper",
+    "gamingDescription": "Find spilpartnere",
+    "perfectTitle": "Perfekte brugsscenarier",
+    "perfectDescription": "Ringdy forvandler ethvert sted til en netværksmulighed. Uanset om du er på universitetet, på en konference eller på din lokale café, ",
+    "perfectDescriptionContinued": "opdage meningsfulde forbindelser med det samme.",
+    "approachDescription": "Fra studiegrupper til professionel netværksarbejde gør vores nærhedsbaserede tilgang det naturligt og ubesværet at skabe kontakt.",
+    "tryItNow": "Prøv det nu",
+    "tags": {
+      "studyGroups": "Studiegrupper",
+      "events": "Begivenheder",
+      "coworking": "Coworking",
+      "gaming": "Spil",
+      "travel": "Rejse",
+      "shopping": "Indkøb",
+      "fitness": "Fitness",
+      "social": "Social"
+    }
+  },
+  "community": {
+    "whyLoveTitle": "Hvorfor folk elsker Ringdy",
+    "whyLoveDescription": "Vores brugere fortæller os konsekvent, hvordan Ringdy har forvandlet deres netværksoplevelse. Fra at møde folk på caféer til at skabe kontakt ved events, skaber appen ægte forbindelser i nærheden.",
+    "privacyProtection": "Design der respekterer privatlivets fred",
+    "instantConnection": "Øjeblikkelig forbindelse uden internet",
+    "lowPowerConsumption": "Ultralavt strømforbrug",
+    "experienceTitle": "Oplev Ringdy",
+    "experienceDescription": "Udforsk vores app gennem forskellige brugergrænseflader. Fra brugerprofiler ",
+    "experienceDescriptionContinued": "til forbindelsesflows, se hvordan Ringdy gør nærhedsbaseret netværk intuitivt og engagerende.",
+    "anonymousProfiles": "Avatarprofiler",
+    "chatInterface": "Chatgrænseflade",
+    "nearbyDiscovery": "Opdagelse i nærheden",
+    "joinTitle": "Bliv en del af vores fællesskab",
+    "joinDescription1": "Ringdy er mere end bare en app - det er en måde at møde ægte mennesker i nærheden, uanset om det er via Bluetooth scanning eller dine lokale yndlingssteder.",
+    "joinDescription2": "Følg os for at holde dig opdateret om nye funktioner, brugerhistorier og begivenheder i dit område!",
+    "downloadNow": "Download nu"
+  },
+  "download": {
+    "title": "Download Ringdy",
+    "subtitle": "Få Ringdy på din mobilenhed, og begynd at komme i kontakt med folk i nærheden. Tilgængelig nu på både Android- og iOS-platforme.",
+    "googlePlay": "Google Play",
+    "appStore": "App Store",
+    "getItOn": "Få den på",
+    "downloadOn": "Download på",
+    "comingSoon": "Kommer snart",
+    "whatYouGet": "Hvad du får",
+    "instantConnections": "Øjeblikkelige forbindelser",
+    "instantConnectionsDesc": "Få øjeblikkelig kontakt med folk i nærheden ved hjælp af Bluetooth Low Energy-teknologi eller ved at deltage i et lokalt mødested.",
+    "anonymousProfiles": "Avatar-privatliv",
+    "anonymousProfilesDesc": "Behold en avatarprofil for at beskytte dit privatliv, og del dine rigtige billeder, når du er klar.",
+    "privacyFirst": "Privatliv først",
+    "privacyFirstDesc": "Du styrer, hvad du deler, og hvornår. Blokerings- og rapporteringsværktøjer holder fællesskabet sikkert.",
+    "crossPlatform": "Krydsende platform",
+    "crossPlatformDesc": "Fungerer problemfrit på tværs af iOS- og Android-enheder.",
+    "requirements": "Systemkrav",
+    "androidReq": "Android 6.0 eller nyere",
+    "iosReq": "iOS 12.0 eller nyere",
+    "bluetoothReq": "Bluetooth 4.0 ( BLE ) understøttelse",
+    "storageReq": "50 MB gratis lagerplads",
+    "systemDescription": "Ringdy kræver enheder med Bluetooth Low Energy ( BLE )-understøttelse. De fleste moderne smartphones og tablets understøtter BLE teknologi.",
+    "androidRequirements": "Android-krav:",
+    "androidReq1": "Android 5.0 (API-niveau 21) eller højere",
+    "androidReq2": "Bluetooth 4.0 LE-understøttelse",
+    "androidReq3": "Placeringstilladelser (til BLE scanning)",
+    "androidReq4": "Minimum 2 GB RAM anbefales",
+    "iosRequirements": "iOS-krav:",
+    "iosReq1": "iOS 12.0 eller nyere",
+    "iosReq2": "iPhone 5s eller nyere, iPad Air eller nyere",
+    "iosReq3": "Bluetooth 4.0 LE-kompatibel enhed",
+    "iosReq4": "Opdatering af baggrundsapps er aktiveret",
+    "learnMoreFeatures": "Lær mere om Ringdy funktioner!",
+    "crossPlatformTitle": "Kompatibilitet på tværs af platforme",
+    "crossPlatformCompatibilityDesc": "Få kontakt med brugere på tværs af forskellige platforme. Android- og iOS-brugere kan nemt finde og chatte med hinanden.",
+    "android": {
+      "title": "Android",
+      "description": "Fuld Ringdy oplevelse tilgængelig på Android-enheder, der kører Android 5.0 (API-niveau 21) og nyere.",
+      "featuresTitle": "Funktioner:",
+      "features": {
+        "bluetooth": "Bluetooth LE-scanning og -annoncering",
+        "background": "Baggrundsoperation",
+        "notifications": "Push-notifikationer",
+        "offline": "Understøttelse af offline-tilstand"
+      },
+      "downloadButton": "Download på Google Play"
+    },
+    "ios": {
+      "title": "iOS",
+      "description": "Native iOS-app optimeret til iPhone og iPad, kompatibel med iOS 12.0 og nyere versioner.",
+      "featuresTitle": "Funktioner:",
+      "features": {
+        "bluetooth": "Kerne- Bluetooth integration",
+        "background": "Opdatering af appen i baggrunden",
+        "privacy": "Design med fokus på privatliv",
+        "universal": "Universel app-understøttelse"
+      },
+      "downloadButton": "Download i App Store"
+    },
+    "qrCode": {
+      "title": "Hurtig download",
+      "description": "Scan QR-koden med din telefons kamera for at downloade Ringdy",
+      "placeholder": "QR-kode",
+      "instruction": "Ret dit kamera mod QR-koden for at downloade"
+    },
+    "installation": {
+      "title": "Nem installation",
+      "description": "Det er nemt at komme i gang med Ringdy . Download appen, giv de nødvendige tilladelser, og begynd at opdage personer i nærheden.",
+      "step1": "Download fra din platforms appbutik",
+      "step2": "Giv Bluetooth og lokationstilladelser",
+      "step3": "Opret din profil og begynd at forbinde!"
+    },
+    "callToAction": {
+      "title": "Bliv en del af Ringdy fællesskabet",
+      "description": "Begynd at få kontakt med folk i nærheden på en sikker og privat måde. Download Ringdy i dag, og oplev fremtiden for nærhedsnetværk.",
+      "googlePlay": "Google Play",
+      "appStore": "App Store"
+    }
+  },
+  "featurePage": {
+    "title": "Opdag steder i nærheden.\n Få kontakt med rigtige mennesker.",
+    "subtitle": "Gennemse foreslåede steder i nærheden, opdag folk omkring dig via Bluetooth , og send venneanmodninger, der fører til rigtige samtaler.",
+    "exploreFeatures": "Udforsk funktioner",
+    "downloadApp": "Download appen",
+    "heroTitle": "Opdag ægte forbindelser i nærheden",
+    "heroSubtitle": "Deltag i et foreslået sted, eller scan omkring dig, se hvem der er i nærheden, og få kontakt med interessante mennesker via Bluetooth Low Energy-teknologi.",
+    "discoverCrowdedPlaces": "Opdag nærliggende spillesteder",
+    "discoverCrowdedPlacesDesc": "Få forslag til populære steder i nærheden, hvor du kan møde ligesindede og danne meningsfulde forbindelser.",
+    "scanThroughAvatars": "Se hvem der er i nærheden",
+    "scanThroughAvatarsDesc": "Gennemse profilkort for personer i nærheden, med mulighed for at beholde din avatar aktiveret, indtil du er klar til at dele mere.",
+    "revealAndMeet": "Match og chat",
+    "revealAndMeetDesc": "Send en venneanmodning, og når den er accepteret, matcher du og kan begynde at chatte i appen.",
+    "proximityBasedConnections": "Nærhedsbaserede reelle forbindelser",
+    "proximityBasedConnectionsDesc": "Vores app foreslår steder i nærheden, hvor du kan finde folk med lignende interesser. Når I begge er inden for rækkevidde, kan du gennemse profiler i nærheden for at finde potentielle forbindelser.",
+    "bleProximityTech": "Bluetooth Low Energy-teknologi sikrer, at du kun kan oprette forbindelse til personer, der rent faktisk er i nærheden, hvilket gør hver forbindelse autentisk og ægte.",
+    "downloadNow": "Download Ringdy nu!",
+    "realTimeProximity": "Nærhedsdetektion i realtid",
+    "realTimeProximityDesc": "Få kun kontakt med folk, der rent faktisk er i nærheden eller på samme sted som dig, for at sikre autentiske forbindelser.",
+    "howItWorks": "Sådan fungerer det",
+    "howItWorksDesc": "Tre enkle trin til at opdage steder i nærheden, komme i kontakt med rigtige mennesker og begynde at chatte.",
+    "step1Title": "Scan eller tilmeld dig et spillested",
+    "step1Desc": "Ryst for at scanne via Bluetooth , eller gennemse vores foreslåede steder i nærheden, og bliv medlem af et, der interesserer dig.",
+    "step2Title": "Gennemse profiler i nærheden",
+    "step2Desc": "Se profilkort for personer i nærheden med valgfri avatarbeskyttelse, indtil du er klar til at dele mere.",
+    "step3Title": "Send en anmodning og chat",
+    "step3Desc": "Send en venneanmodning, og når den er accepteret, matcher du og kan begynde at chatte direkte i appen.",
+    "coreFeatures": "Kernefunktioner",
+    "proximityNetworking": "Nærhedsnetværk",
+    "proximityDesc": "Få kontakt med folk i din umiddelbare nærhed ved hjælp af avanceret Bluetooth Low Energy-teknologi.",
+    "anonymousChat": "Venneforespørgselsmatchning",
+    "anonymousChatDesc": "Send en venneanmodning, og begynd at chatte, når den er accepteret – intet pres, ingen spam.",
+    "autoExpiry": "Opdagelse af spillesteder",
+    "autoExpiryDesc": "Deltag i foreslåede steder i nærheden for at se, hvem der har tjekket ind inden for en bestemt radius.",
+    "gradualReveal": "Gradvis identitetsafsløring",
+    "gradualRevealDesc": "Vælg, hvornår du vil skifte fra din avatar til dine rigtige billeder, efterhånden som forbindelserne udvikler sig naturligt.",
+    "keyPrivacyFeatures": "Vigtige privatlivsfunktioner",
+    "keyPrivacyFeaturesDesc": "Alle funktioner er designet til sikker netværksaktivitet - fra valgfrie avatarer til venneanmodninger, der beskytter dit privatliv.",
+    "avatarBasedProfiles": "Valgfrie avatarbaserede profiler",
+    "autoExpiringChats": "Opdagelse af spillesteder med en fast radius",
+    "progressiveIdentity": "Progressiv identitetsåbenbaring",
+    "ourTeam": "Vores team",
+    "ourTeamDesc": "Passionerede eksperter dedikeret til at forbinde mennesker gennem innovativ teknologi med fokus på privatliv.",
+    "team": {
+      "alex": {
+        "name": "Alex Chen",
+        "role": "BLE protokolingeniør"
+      },
+      "sarah": {
+        "name": "Sarah Johnson",
+        "role": "Mobilapp-udvikler"
+      },
+      "maria": {
+        "name": "Maria Rodriguez",
+        "role": "Leder af privatliv og sikkerhed"
+      },
+      "david": {
+        "name": "David Kim",
+        "role": "Grundlægger og administrerende direktør"
+      },
+      "title": "Vores team",
+      "description": "Passionerede mennesker dedikeret til at forbinde mennesker gennem innovativ teknologi med fokus på privatliv.",
+      "roles": {
+        "engineer": "BLE protokolingeniør",
+        "developer": "Mobilapp-udvikler",
+        "security": "Leder af privatliv og sikkerhed",
+        "ceo": "Grundlægger og administrerende direktør"
+      }
+    },
+    "readyToConnect": "Klar til at oprette forbindelse?",
+    "readyToConnectDesc": "Deltag i netværket sikkert via Bluetooth og venue discovery. Match, chat og afslør kun din identitet, når du finder en ægte forbindelse.",
+    "finalFeatures": {
+      "anonymousAvatars": "Valgfrie avatarer",
+      "anonymousAvatarsDesc": "Behold din avatar på, mens du lærer nogen at kende. Der er intet pres for at afsløre det med det samme.",
+      "autoExpire": "Sted og Bluetooth opdagelse",
+      "autoExpireDesc": "Find personer ved at scanne i nærheden via Bluetooth eller deltage i et foreslået lokalt mødested.",
+      "friendRequests": "Venneforespørgsler",
+      "friendRequestsDesc": "Send anmodninger til interessante personer, og start kun samtaler med fælles interesse."
+    },
+    "eventNetworking": "Netværksarbejde for arrangementer",
+    "eventNetworkingDesc": "Opdag mennesker omkring dig på konferencer, møder og events ved hjælp af Bluetooth nærhed.",
+    "studyGroups": "Studiegrupper",
+    "studyGroupsDesc": "Find studiepartnere i nærheden på campus uden at du behøver at kende dem i forvejen.",
+    "workplace": "Arbejdsplads & Caféer",
+    "workplaceDesc": "Mød kolleger og andre fagfolk i co-working spaces og caféer i nærheden.",
+    "anonymousNetworking": "Avatarbaseret privatliv",
+    "anonymousNetworkingDesc": "Behold en avatar aktiveret, mens du finder dig til rette, og del derefter dine rigtige billeder, når du har lyst.",
+    "privacyProtection": "Du har altid kontrol over, hvad du deler, og med hvem.",
+    "privacyFeatures": {
+      "title": "Privatliv, du kontrollerer",
+      "description": "Ringdy er bygget, så du bestemmer, hvad du vil dele, og hvornår - lige fra hvordan du opdager folk til hvor meget af dig selv du afslører.",
+      "avatarProfiles": "Valgfrie avatarbaserede profiler",
+      "autoExpiring": "Opdagelse af spillesteder med en fast radius",
+      "progressiveReveal": "Afslør dine rigtige billeder i dit eget tempo"
+    },
+    "cta": {
+      "title": "Klar til at oprette forbindelse?",
+      "description": "Slut dig til andre, der opdager ægte forbindelser i nærheden - via Bluetooth eller ved at tjekke ind på et lokalt sted.",
+      "features": {
+        "anonymousAvatars": "Valgfrie avatarer",
+        "anonymousAvatarsDesc": "Behold din avatar på, mens du lærer nogen at kende. Der er intet pres for at afsløre det med det samme.",
+        "autoExpire": "Sted og Bluetooth opdagelse",
+        "autoExpireDesc": "Find folk ved at scanne i nærheden eller deltage i et foreslået lokalt mødested.",
+        "friendRequests": "Venneforespørgsler",
+        "friendRequestsDesc": "Send anmodninger til interessante personer, og start kun samtaler med fælles interesse."
+      }
+    }
+  },
+  "subscription": {
+    "title": "Ringdy Premium",
+    "subtitle": "Lås op for avancerede funktioner for bedre forbindelser. Vælg den plan, der passer til dine netværksbehov.",
+    "weeklyTitle": "Ugentlig Premium",
+    "weeklyPrice": "$1.99",
+    "weeklyPeriod": "/uge",
+    "weeklyDescription": "Perfekt til at prøve premium-funktioner",
+    "chooseWeekly": "Vælg ugentlig",
+    "monthlyTitle": "Månedlig",
+    "monthlyPrice": "Se priser",
+    "monthlyPeriod": "om måneden",
+    "monthlyDescription": "Fleksibel, afbestil når som helst",
+    "mostPopular": "Mest populære",
+    "chooseMonthly": "Vælg månedlig",
+    "sixMonthTitle": "Seks måneder",
+    "sixMonthPrice": "Se priser",
+    "sixMonthPeriod": "pr. 6 måneder",
+    "sixMonthDescription": "Spar mere over seks måneder",
+    "chooseSixMonth": "Vælg seks måneder",
+    "featuresTitle": "Forklaring af Premium -funktioner",
+    "featuresDescription": "Ringdy Premium låser op for effektive funktioner, der er designet til at forbedre din netværksoplevelse og hjælpe dig med at skabe mere meningsfulde forbindelser.",
+    "enhancedNetworking": "Forbedret netværk",
+    "enhancedNetworkingDesc": "Premium funktioner hjælper dig med at oprette forbindelse mere effektivt uden daglige begrænsninger.",
+    "features": {
+      "unlimitedRequests": "Ubegrænsede venneanmodninger",
+      "advancedFilters": "Avancerede filtre",
+      "meetingPlaces": "Smarte forslag til mødesteder",
+      "rematch": "Genmatch med tidligere brugere",
+      "unlimitedRequestsDesc": "Send ubegrænsede venneanmodninger dagligt. Gratis brugere begrænset til 20/dag.",
+      "advancedFiltersDesc": "Filtrer efter interesser, personlighed og verificeret status for autentiske forbindelser.",
+      "meetingPlacesDesc": "Få personlige placeringsforslag baseret på dit nøjagtige område.",
+      "rematchDesc": "Genmatch med tidligere brugere, når I krydser veje igen.",
+      "unlimitedConnections": "Ubegrænsede forbindelser",
+      "unlimitedAreaAccess": "Ubegrænset adgang til området",
+      "unlimitedUndo": "Ubegrænset Fortryd",
+      "profilePriority": "Profilprioritet",
+      "premiumAvatars": "Premium avatarer",
+      "customAvatar": "Brugerdefineret avatar",
+      "unlimitedConnectionsDesc": "Tilføj venner og accepter invitationer uden daglige begrænsninger.",
+      "unlimitedAreaAccessDesc": "Deltag i så mange spillesteder, som du vil, uden begrænsninger.",
+      "unlimitedUndoDesc": "Du kan til enhver tid fortryde enhver venneanmodning.",
+      "profilePriorityDesc": "Din profil vises altid øverst på den liste, der er tilgængelig for andre brugere.",
+      "premiumAvatarsDesc": "Få adgang til en eksklusiv samling af premium avatardesigns.",
+      "customAvatarDesc": "Opret en personlig avatar baseret på dine egne fotos."
+    },
+    "faqTitle": "Ofte stillede spørgsmål",
+    "faqDescription": "Har du spørgsmål om Ringdy Premium ? Vi har svarene.",
+    "faq": {
+      "cancelTitle": "Kan jeg til enhver tid opsige mit abonnement?",
+      "cancelAnswer": "Ja, du kan til enhver tid opsige dit abonnement via dine kontoindstillinger eller din enheds appbutik. Dine premium-funktioner forbliver aktive indtil udgangen af din nuværende faktureringsperiode.",
+      "unlimitedTitle": "Hvad betyder \"Ubegrænsede forbindelser\"?",
+      "unlimitedAnswer": "Med Premium kan du tilføje venner og acceptere invitationer uden de daglige begrænsninger, der gælder for gratis konti.",
+      "filtersTitle": "Hvad er avancerede filtre præcis?",
+      "filtersAnswer": "Avancerede filtre lader dig søge efter interesser, aldersgruppe, profession, afstandsradius og aktivitetsstatus. Du kan også filtrere efter brugere, der er online nu eller har været aktive for nylig for bedre forbindelseschancer.",
+      "meetingTitle": "Hvordan fungerer forslag til mødesteder?",
+      "meetingAnswer": "Vores AI foreslår sikre, offentlige mødesteder som caféer, biblioteker eller co-working-rum inden for gåafstand af begge brugere. Den tager højde for dine præferencer, nuværende placering og tidspunkt på dagen for at anbefale de bedste steder at mødes.",
+      "rematchTitle": "Hvad betyder \"genmatch med tidligere brugere\"?",
+      "rematchAnswer": "Hvis du havde en samtale, der udløb (30 minutter) uden at afsløre identiteter, kan premium-brugere genoprette forbindelsen med den person igen, hvis I krydser veje i nærheden. Dette giver dig en anden chance for at skabe en forbindelse.",
+      "trialTitle": "Er der en gratis prøveperiode tilgængelig?",
+      "trialAnswer": "Ja! Nye brugere får en 7-dages gratis prøveperiode af alle premium-funktioner. Du kan udforske ubegrænsede venneanmodninger, avancerede filtre og forslag til mødesteder, før du beslutter, hvilken plan der fungerer bedst for dig.",
+      "offlineTitle": "Virker premium-funktioner uden internet?",
+      "offlineAnswer": "BLE nærhedsdetektion virker offline, men premium-funktioner som lokalitetsforslag, ubegrænsede anmodninger og avancerede filtre kræver internetforbindelse for fuld funktionalitet.",
+      "paymentTitle": "Hvilke betalingsmetoder accepterer I?",
+      "paymentAnswer": "Vi accepterer betalinger via din enheds appbutik (Google Play eller App Store), inklusive alle understøttede betalingsmetoder der.",
+      "areaTitle": "Hvad er \"Ubegrænset områdeadgang\"?",
+      "areaAnswer": "Premium medlemmer kan tilmelde sig så mange nærliggende steder, som de vil, uden begrænsninger på, hvor mange områder de kan opdage pr. dag.",
+      "ticketsTitle": "Hvad er Discovery Passes?",
+      "ticketsAnswer": "Discovery Passes er et betal-efter-forbrug-alternativ til et abonnement – hvert pas giver dig mulighed for at deltage og udforske et nærliggende sted uden at forpligte dig til et tilbagevendende abonnement.",
+      "nightPassTitle": "Hvad er Night Pass ?",
+      "nightPassAnswer": "Night Pass er et 24-timers pas, der giver dig mulighed for at udforske spillesteder i en hel dag eller nat uden at bruge et Discovery Pass."
+    },
+    "priceDisclaimer": "Priserne er omtrentlige omregninger fra USD baseret på din browserregion. Hvis priserne ikke er tilgængelige, vises priserne i USD. De endelige priser i appen er fastsat af din appbutik og kan variere.",
+    "yearlyTitle": "Årligt",
+    "yearlyPrice": "Se priser",
+    "yearlyPeriod": "om året",
+    "yearlyDescription": "Bedste værdi for almindelige brugere",
+    "bestValue": "Bedste værdi",
+    "chooseYearly": "Vælg Årlig",
+    "tickets": {
+      "title": "Discovery Passes",
+      "subtitle": "Brug opdagelser til at udforske folk på steder i nærheden uden et fuldt abonnement.",
+      "single": "Enkelt opdagelse",
+      "singleDesc": "Brug ét adgangskort til at deltage i ét sted og se, hvem der er der.",
+      "venueAccessFeature": "Hvert adgangskort giver adgang til ét sted.",
+      "pack3": "3 opdagelser",
+      "pack3Desc": "Tre Discovery Passes. Hvert pas låser op for ét sted.",
+      "pack5": "5 opdagelser",
+      "pack5Desc": "Fem Discovery Passes. Hvert pas låser op for ét sted.",
+      "bestValue": "Bedste værdi",
+      "specialTicket": "Night Pass",
+      "specialTicketDesc": "Ubegrænset tilmelding til spillestedet i 24 timer uden brug af Discovery Passes."
+    }
+  },
+  "footer": {
+    "keepInTouch": "Lad os holde kontakten!",
+    "findUsOn": "Find os på en af disse platforme, vi svarer inden for 1-2 hverdage.",
+    "usefulLinks": "Nyttige links",
+    "aboutUs": "Om os",
+    "blog": "Blog",
+    "github": "Github",
+    "freeProducts": "Gratis produkter",
+    "otherResources": "Andre ressourcer",
+    "mitLicense": "MIT-licens",
+    "termsConditions": "Vilkår og betingelser",
+    "privacyPolicy": "Privatlivspolitik",
+    "contactUs": "Kontakt os",
+    "copyright": "Ophavsret © {{year}} Ringdy . Alle rettigheder forbeholdes."
+  },
+  "legal": {
+    "privacyPolicy": {
+      "title": "Privatlivspolitik",
+      "subtitle": "Dit privatliv er vores prioritet. Lær, hvordan vi beskytter dine data og giver dig fuld kontrol over, hvad du deler.",
+      "lastUpdated": "Sidst opdateret: Januar 2025",
+      "introduction": "Denne privatlivspolitik beskriver vores politikker og procedurer for indsamling, brug og videregivelse af dine oplysninger, når du bruger tjenesten, og fortæller dig om dine rettigheder til privatlivets fred og hvordan loven beskytter dig.",
+      "agreement": "Vi bruger dine personoplysninger til at levere og forbedre tjenesten. Ved at bruge tjenesten accepterer du indsamling og brug af oplysninger i overensstemmelse med denne privatlivspolitik.",
+      "sections": {
+        "interpretationTitle": "Fortolkning og definitioner",
+        "interpretationSubtitle": "Fortolkning",
+        "definitionsSubtitle": "Definitioner",
+        "interpretationText": "Ord, hvis første bogstav er skrevet med stort, har betydninger defineret under følgende betingelser. Følgende definitioner skal have samme betydning, uanset om de optræder i ental eller flertal.",
+        "definitionsText": "I forbindelse med denne privatlivspolitik:",
+        "definitionLabels": {
+          "account": "Konto:",
+          "affiliate": "Tilknyttet:",
+          "application": "Anvendelse:",
+          "business": "Forretning:",
+          "ccpaCpra": "CCPA og/eller CPRA:",
+          "company": "Selskab:",
+          "consumer": "Forbruger:",
+          "country": "Land:",
+          "dataController": "Dataansvarlig:",
+          "device": "Enhed:",
+          "doNotTrack": "Spor ikke (DNT):",
+          "gdpr": "GDPR:",
+          "personalData": "Personlige data:",
+          "service": "Service:",
+          "serviceProvider": "Tjenesteudbyder:",
+          "thirdPartySocialMedia": "Tredjepartstjeneste for sociale medier:",
+          "usageData": "Brugsdata:",
+          "you": "Du:"
+        },
+        "definitions": {
+          "account": "En unik konto oprettet til dig for at få adgang til vores tjeneste eller dele af vores tjeneste.",
+          "affiliate": "En enhed, der kontrollerer, kontrolleres af eller er under fælles kontrol med en part, hvor \"kontrol\" betyder ejerskab af 50 % eller mere af aktierne, kapitalandele eller andre værdipapirer, der giver ret til at stemme ved valg af bestyrelsesmedlemmer eller anden ledelsesmyndighed.",
+          "application": "Henviser til Ringdy , softwareprogrammet leveret af virksomheden.",
+          "business": "I forbindelse med CCPA/CPRA henviser *til* virksomheden som den juridiske enhed, der indsamler forbrugernes personlige oplysninger og fastlægger formålene og midlerne til behandling af forbrugernes personlige oplysninger.",
+          "ccpaCpra": "Henviser til California Consumer Privacy Act (\"CCPA\") som ændret ved California Privacy Rights Act fra 2020 (\"CPRA\").",
+          "company": "I denne aftale henviser udtrykkene enten \"Virksomheden\", \"Vi\", \"Os\" eller \"Vores\" til Ringdy . I henhold til GDPR er Virksomheden den dataansvarlige.",
+          "consumer": "I forbindelse med CCPA/CPRA betyder *en* fysisk person, der er bosiddende i Californien.",
+          "country": "Henviser til: USA",
+          "dataController": "I henhold til GDPR (General Data Protection Regulation) henviser virksomheden til den juridiske person, der alene eller i fællesskab med andre fastlægger formålene og midlerne til behandling af personoplysninger.",
+          "device": "Enhver enhed, der kan tilgå Tjenesten, såsom en smartphone, tablet eller computer.",
+          "doNotTrack": "Et koncept, der er blevet promoveret af amerikanske tilsynsmyndigheder for internetbranchen, for at udvikle og implementere en mekanisme, der giver internetbrugere mulighed for at kontrollere sporingen af deres onlineaktiviteter på tværs af websteder.",
+          "gdpr": "Henviser til EU's generelle forordning om databeskyttelse.",
+          "personalData": "Enhver information, der vedrører en identificeret eller identificerbar person. I henhold til GDPR betyder personoplysninger enhver information, der vedrører dig, såsom et navn, et identifikationsnummer, lokationsdata, online-identifikator eller en eller flere faktorer, der er specifikke for den fysiske, fysiologiske, genetiske, mentale, økonomiske, kulturelle eller sociale identitet.",
+          "service": "Henviser til ansøgningen.",
+          "serviceProvider": "Enhver fysisk eller juridisk person, der behandler dataene på vegne af virksomheden. Det henviser til tredjepartsvirksomheder eller enkeltpersoner, der er ansat af virksomheden til at facilitere tjenesten, levere tjenesten på vegne af virksomheden, udføre tjenester relateret til tjenesten eller bistå virksomheden med at analysere, hvordan tjenesten bruges.",
+          "thirdPartySocialMedia": "Enhver hjemmeside eller ethvert socialt netværk, hvorigennem en bruger kan logge ind eller oprette en konto for at bruge tjenesten.",
+          "usageData": "Data indsamlet automatisk, enten genereret ved brug af Tjenesten eller fra selve Tjenestens infrastruktur (for eksempel varigheden af et sidebesøg).",
+          "you": "Den person, der tilgår eller bruger Tjenesten, eller den virksomhed eller anden juridisk enhed, på hvis vegne en sådan person tilgår eller bruger Tjenesten, alt efter hvad der er relevant."
+        },
+        "dataCollectionTitle": "Indsamling og brug af dine personoplysninger",
+        "dataTypesTitle": "Typer af indsamlede data",
+        "personalDataTitle": "Personlige data",
+        "personalDataDescription": "Når du bruger vores tjeneste, kan vi bede dig om at give os visse personligt identificerbare oplysninger, der kan bruges til at kontakte eller identificere dig. Personligt identificerbare oplysninger kan omfatte, men er ikke begrænset til:",
+        "usageDataTitle": "Brugsdata",
+        "usageDataDescription1": "Brugsdata indsamles automatisk, når Tjenesten anvendes.",
+        "usageDataDescription2": "Brugsdata kan omfatte oplysninger såsom din enheds internetprotokoladresse (f.eks. IP-adresse), browsertype, browserversion, de sider i vores tjeneste, du besøger, tidspunktet og datoen for dit besøg, den tid, der bruges på disse sider, unikke enhedsidentifikatorer og andre diagnostiske data.",
+        "usageDataDescription3": "Når du tilgår Tjenesten via en mobilenhed, kan vi indsamle visse oplysninger automatisk, herunder, men ikke begrænset til, den type mobilenhed, du bruger, dit unikke ID for din mobilenhed, IP-adressen på din mobilenhed, dit mobile operativsystem, den type mobil internetbrowser, du bruger, unikke enheds-id'er og andre diagnostiske data.",
+        "thirdPartyTitle": "Oplysninger fra tredjeparts sociale medietjenester",
+        "thirdPartyDescription1": "Virksomheden giver dig mulighed for at oprette en konto og logge ind for at bruge Tjenesten via følgende tredjeparts sociale medietjenester:",
+        "thirdPartyDescription2": "Hvis du beslutter dig for at registrere dig via eller på anden måde give os adgang til en tredjepartstjeneste for sociale medier, kan vi indsamle personoplysninger, der allerede er knyttet til din tredjepartstjenestes konto for sociale medier, såsom dit navn, din e-mailadresse, dine aktiviteter eller din kontaktliste, der er knyttet til den pågældende konto.",
+        "appDataTitle": "Oplysninger indsamlet under brug af applikationen",
+        "appDataDescription1": "Når du bruger vores applikation, kan vi med din forudgående tilladelse indsamle følgende for at kunne levere funktioner i vores applikation:",
+        "appDataDescription2": "Vi bruger disse oplysninger til at levere funktioner i vores tjeneste, til at forbedre og tilpasse vores tjeneste. Oplysningerne kan gemmes lokalt på din enhed eller uploades til krypterede servere. Du kan til enhver tid aktivere eller deaktivere adgang til disse oplysninger via dine enhedsindstillinger.",
+        "dataUseTitle": "Brug af dine personoplysninger",
+        "dataUseDescription": "Virksomheden kan bruge personoplysninger til følgende formål:",
+        "sharingTitle": "Deling af personlige oplysninger",
+        "sharingDescription": "Vi kan dele dine personlige oplysninger i følgende situationer:",
+        "retentionTitle": "Opbevaring af dine personoplysninger"
+      },
+      "dataUses": {
+        "provide": "At levere og vedligeholde vores tjeneste: Herunder at overvåge brugen af vores tjeneste og muliggøre Bluetooth baseret og stedbaseret opdagelse af personer i nærheden.",
+        "account": "For at administrere din konto: For at administrere din registrering som bruger af tjenesten. De personoplysninger, du angiver, kan give dig adgang til forskellige funktioner i tjenesten, der er tilgængelige for dig som registreret bruger.",
+        "contract": "Til opfyldelse af en kontrakt: Udvikling, overholdelse og levering af de tjenester, du har anmodet om, eller af enhver anden kontrakt med os gennem Tjenesten.",
+        "contact": "At kontakte dig: At kontakte dig via e-mail, push-notifikationer eller andre tilsvarende former for elektronisk kommunikation vedrørende opdateringer, sikkerhedsnotifikationer eller informativ kommunikation relateret til funktionerne.",
+        "offers": "At give dig nyheder og særlige tilbud: Om andre varer, tjenester og begivenheder, som vi tilbyder, der ligner dem, du allerede har brugt eller forespurgt om, medmindre du har valgt ikke at modtage sådanne oplysninger.",
+        "requests": "At administrere dine anmodninger: At deltage i og administrere dine anmodninger til os.",
+        "content": "For at levere målrettet indhold: Vi kan bruge dine oplysninger til at udvikle og vise indhold, der er skræddersyet til dine interesser og din placering (til at opdage brugere i nærheden) og til at måle dets effektivitet.",
+        "business": "Ved virksomhedsoverdragelser: Vi kan bruge dine oplysninger til at evaluere eller gennemføre en fusion, frasalg, omstrukturering, reorganisering, opløsning eller andet salg eller overførsel af nogle af eller alle vores aktiver.",
+        "other": "Til andre formål: Vi kan bruge dine oplysninger til andre formål, såsom dataanalyse, identifikation af brugstendenser, bestemmelse af effektiviteten af vores reklamekampagner og til at evaluere og forbedre vores tjeneste, produkter, tjenester, markedsføring og din oplevelse."
+      },
+      "sharingTypes": {
+        "providers": "Med tjenesteudbydere: Vi kan dele dine personlige oplysninger med tjenesteudbydere for at overvåge og analysere brugen af vores tjeneste, til betalingsbehandling og for at kontakte dig.",
+        "transfers": "Ved virksomhedsoverdragelser: Vi kan dele eller overføre dine personlige oplysninger i forbindelse med eller under forhandlinger om enhver fusion, salg af virksomhedens aktiver, finansiering eller opkøb af hele eller en del af vores virksomhed til en anden virksomhed.",
+        "affiliates": "Med tilknyttede selskaber: Vi kan dele dine oplysninger med vores tilknyttede selskaber, i hvilket tilfælde vi kræver, at disse tilknyttede selskaber overholder denne privatlivspolitik.",
+        "partners": "Med forretningspartnere: Vi kan dele dine oplysninger med vores forretningspartnere for at tilbyde dig bestemte produkter, tjenester eller kampagner.",
+        "users": "Med andre brugere: Når du opdager og forbinder dig med andre brugere i nærheden, deles dine profiloplysninger (inklusive dit navn og dine billeder eller din avatar, hvis du har valgt at bruge en i stedet) som en del af opdagelses-, venneanmodnings- og matchningsprocessen. Du styrer til enhver tid, om du vil vise en avatar eller dine rigtige billeder.",
+        "consent": "Med dit samtykke: Vi kan videregive dine personlige oplysninger til ethvert andet formål med dit samtykke."
+      },
+      "security": {
+        "title": "Sikkerhed af dine personoplysninger",
+        "description": "Sikkerheden af dine personoplysninger er vigtig for os, men husk at ingen metode til overførsel via internettet eller elektronisk lagring er 100 % sikker. Selvom vi bestræber os på at bruge kommercielt acceptable metoder til at beskytte dine personoplysninger, herunder end-to-end-kryptering til chatbeskeder og sikre Bluetooth protokoller, kan vi ikke garantere deres absolutte sikkerhed."
+      },
+      "contact": {
+        "title": "Kontakt os",
+        "description": "Hvis du har spørgsmål til denne privatlivspolitik, kan du kontakte os:",
+        "email": "Via e-mail: privacy@ringdy.com",
+        "website": "På denne side på vores hjemmeside: https://ringdy.com/contact",
+        "mail": "Via post: Ringdy Privacy Team, 123 Tech Street, San Francisco, CA 94105, USA"
+      },
+      "shineTheLight": {
+        "title": "Dine rettigheder vedrørende privatlivets fred i Californien (Californiens Shine the Light-lov)",
+        "description1": "I henhold til California Civil Code Section 1798 (Californiens Shine the Light-lov) kan indbyggere i Californien med et etableret forretningsforhold til os én gang om året anmode om oplysninger om deling af deres personoplysninger med tredjeparter med henblik på disse tredjeparters direkte markedsføring.",
+        "description2": "Hvis du ønsker at anmode om yderligere oplysninger i henhold til Californiens Shine the Light-lov, og hvis du er bosiddende i Californien, kan du kontakte os ved hjælp af kontaktoplysningerne nedenfor."
+      },
+      "minorUsers": {
+        "title": "Californiske privatlivsrettigheder for mindreårige brugere (California Business and Professions Code, afsnit 22581)",
+        "description1": "California Business and Professions Code, paragraf 22581, giver indbyggere i Californien under 18 år, der er registrerede brugere af onlinesider, tjenester eller applikationer, mulighed for at anmode om og få fjernet indhold eller oplysninger, de har offentliggjort.",
+        "description2": "For at anmode om fjernelse af sådanne data, og hvis du er bosiddende i Californien, kan du kontakte os ved hjælp af kontaktoplysningerne nedenfor og inkludere den e-mailadresse, der er knyttet til din konto.",
+        "description3": "Vær opmærksom på, at din anmodning ikke garanterer fuldstændig eller omfattende fjernelse af indhold eller oplysninger, der er lagt ud online, og at loven muligvis ikke tillader eller kræver fjernelse under visse omstændigheder."
+      },
+      "childrenPrivacy": {
+        "title": "Børns privatliv",
+        "description1": "Vores tjeneste henvender sig ikke til personer under 13 år. Vi indsamler ikke bevidst personligt identificerbare oplysninger fra personer under 13 år. Hvis du er forælder eller værge, og du er klar over, at dit barn har givet os personoplysninger, bedes du kontakte os.",
+        "description2": "Hvis vi bliver opmærksomme på, at vi har indsamlet personoplysninger fra personer under 13 år uden bekræftelse af forældresamtykke, tager vi skridt til at fjerne disse oplysninger fra vores servere.",
+        "description3": "Hvis vi er nødt til at bruge samtykke som juridisk grundlag for behandling af dine oplysninger, og dit land kræver samtykke fra en forælder, kan vi kræve din forælders samtykke, før vi indsamler og bruger disse oplysninger."
+      },
+      "linksToOtherWebsites": {
+        "title": "Links til andre hjemmesider",
+        "description": "Vores tjeneste kan indeholde links til andre websteder, der ikke drives af os. Hvis du klikker på et link fra en tredjepart, vil du blive omdirigeret til den pågældende tredjeparts websted. Vi anbefaler kraftigt, at du gennemgår privatlivspolitikken for hvert websted, du besøger. Vi har ingen kontrol over og påtager os intet ansvar for indholdet, privatlivspolitikkerne eller praksisserne på tredjepartswebsteder eller -tjenester."
+      },
+      "changes": {
+        "title": "Ændringer i denne privatlivspolitik",
+        "description1": "Vi kan opdatere vores privatlivspolitik fra tid til anden. Vi vil underrette dig om eventuelle ændringer ved at offentliggøre den nye privatlivspolitik på denne side.",
+        "description2": "Vi giver dig besked via e-mail og/eller en tydelig meddelelse på vores tjeneste, inden ændringen træder i kraft, og opdaterer datoen \"Sidst opdateret\" øverst i denne privatlivspolitik.",
+        "description3": "Du rådes til at gennemgå denne privatlivspolitik regelmæssigt for eventuelle ændringer. Ændringer i denne privatlivspolitik træder i kraft, når de offentliggøres på denne side."
+      },
+      "backToHome": "Tilbage til forsiden",
+      "retention": {
+        "description1": "Virksomheden opbevarer kun dine personoplysninger, så længe det er nødvendigt for de formål, der er angivet i denne privatlivspolitik. Vi opbevarer og bruger dine personoplysninger i det omfang, det er nødvendigt for at overholde vores juridiske forpligtelser, løse tvister og håndhæve vores juridiske aftaler og politikker.",
+        "description2": "Virksomheden opbevarer også brugsdata til interne analyseformål. Brugsdata opbevares generelt i en kortere periode, undtagen når disse data bruges til at styrke sikkerheden eller forbedre funktionaliteten af vores tjeneste, eller vi er juridisk forpligtet til at opbevare disse data i længere perioder."
+      },
+      "transfer": {
+        "title": "Overførsel af dine personoplysninger",
+        "description1": "Dine oplysninger, herunder personoplysninger, behandles på virksomhedens driftskontorer og på alle andre steder, hvor de involverede parter i behandlingen befinder sig. Det betyder, at disse oplysninger kan overføres til – og opbevares på – computere, der er placeret uden for din stat, provins, land eller anden offentlig jurisdiktion, hvor databeskyttelseslovgivningen kan afvige fra dem i din jurisdiktion.",
+        "description2": "Dit samtykke til denne privatlivspolitik efterfulgt af din indsendelse af sådanne oplysninger repræsenterer din accept af denne overførsel. Virksomheden vil træffe alle rimeligt nødvendige foranstaltninger for at sikre, at dine data behandles sikkert og i overensstemmelse med denne privatlivspolitik, og ingen overførsel af dine personoplysninger vil finde sted til en organisation eller et land, medmindre der er tilstrækkelige kontroller på plads, herunder sikkerheden af dine data og andre personlige oplysninger."
+      },
+      "deletion": {
+        "title": "Slet dine personlige data",
+        "description1": "Du har ret til at slette eller anmode om, at vi hjælper med at slette de personoplysninger, som vi har indsamlet om dig.",
+        "description2": "Vores Tjeneste kan give dig mulighed for at slette visse oplysninger om dig i Tjenesten.",
+        "description3": "Du kan til enhver tid opdatere, ændre eller slette dine oplysninger ved at logge ind på din konto, hvis du har en, og besøge afsnittet med kontoindstillinger, der giver dig mulighed for at administrere dine personlige oplysninger. Du kan også kontakte os for at anmode om adgang til, rette eller slette personlige oplysninger, som du har givet os."
+      },
+      "disclosure": {
+        "title": "Videregivelse af dine personoplysninger",
+        "businessTitle": "Forretningstransaktioner",
+        "businessDescription": "Hvis virksomheden er involveret i en fusion, et opkøb eller et salg af aktiver, kan dine personoplysninger blive overført. Vi vil give besked, inden dine personoplysninger overføres og bliver underlagt en anden privatlivspolitik.",
+        "lawTitle": "Retshåndhævelse",
+        "lawDescription": "Under visse omstændigheder kan virksomheden være forpligtet til at videregive dine personoplysninger, hvis det er påkrævet ved lov eller som svar på gyldige anmodninger fra offentlige myndigheder (f.eks. en domstol eller en myndighed).",
+        "legalTitle": "Andre juridiske krav",
+        "legalDescription": "Virksomheden kan videregive dine personoplysninger i god tro om, at en sådan handling er nødvendig for at:",
+        "legalReasons": {
+          "comply": "Overhold en juridisk forpligtelse",
+          "protect": "Beskytte og forsvare virksomhedens rettigheder eller ejendom",
+          "prevent": "Forebygge eller undersøge mulige forseelser i forbindelse med Tjenesten",
+          "safety": "Beskyt brugernes eller offentlighedens personlige sikkerhed",
+          "liability": "Beskyt mod juridisk ansvar"
+        },
+        "detailedInfo": {
+          "title": "Detaljeret information om behandling af dine personoplysninger",
+          "description": "De tjenesteudbydere, vi bruger, kan have adgang til dine personoplysninger. Disse tredjepartsleverandører indsamler, opbevarer, bruger, behandler og overfører oplysninger om din aktivitet på vores tjeneste i overensstemmelse med deres privatlivspolitikker.",
+          "analyticsTitle": "Analyse",
+          "analyticsDescription": "Vi kan bruge tredjepartstjenesteudbydere til at overvåge og analysere brugen af vores tjeneste."
+        },
+        "analytics": {
+          "title": "Adfærdsmæssig remarketing",
+          "description": "Virksomheden bruger remarketingtjenester til at annoncere til dig på tredjepartswebsteder, efter du har besøgt vores tjeneste. Vi og vores tredjepartsleverandører bruger cookies til at informere, optimere og vise annoncer baseret på dine tidligere besøg på vores tjeneste.",
+          "googleAnalytics": {
+            "title": "Google Analytics",
+            "description1": "Google Analytics er en webanalysetjeneste, der tilbydes af Google, og som sporer og rapporterer hjemmesidetrafik. Google bruger de indsamlede data til at spore og overvåge brugen af vores tjeneste. Disse data deles med andre Google-tjenester. Google kan bruge de indsamlede data til at kontekstualisere og personliggøre annoncerne i sit eget annoncenetværk.",
+            "description2": "Du kan fravælge visse Google Analytics-funktioner via din mobilenheds indstillinger, f.eks. din enheds annonceringsindstillinger, eller ved at følge instruktionerne fra Google i deres privatlivspolitik:",
+            "description3": "For mere information om Googles privatlivspraksis, besøg venligst Googles webside om privatliv og vilkår:"
+          },
+          "firebase": {
+            "title": "Firebase",
+            "description1": "Firebase er en analysetjeneste leveret af Google Inc.",
+            "description2": "Du kan fravælge visse Firebase-funktioner via din mobilenheds indstillinger, f.eks. din enheds annonceringsindstillinger, eller ved at følge instruktionerne fra Google i deres privatlivspolitik:",
+            "description3": "Vi opfordrer dig også til at gennemgå Googles politik for beskyttelse af dine data:",
+            "description4": "For mere information om, hvilke typer oplysninger Firebase indsamler, kan du besøge websiden \"Sådan bruger Google data, når du bruger vores partneres websteder eller apps\":"
+          }
+        },
+        "advertising": {
+          "title": "Reklame",
+          "description": "Vi kan bruge tjenesteudbydere til at vise dig reklamer for at understøtte og vedligeholde vores tjeneste.",
+          "googleAdSense": {
+            "title": "Google AdSense og DoubleClick-cookie",
+            "description1": "Google bruger, som tredjepartsleverandør, cookies til at vise annoncer på vores tjeneste. Googles brug af DoubleClick-cookien gør det muligt for Google og dets partnere at vise annoncer til vores brugere baseret på deres besøg på vores tjeneste eller andre websteder på internettet.",
+            "description2": "Du kan fravælge brugen af DoubleClick-cookien til interessebaseret annoncering ved at besøge websiden for Google Ads-indstillinger:"
+          },
+          "adMob": {
+            "title": "AdMob fra Google",
+            "description1": "AdMob fra Google leveres af Google Inc.",
+            "description2": "Du kan framelde dig AdMob by Google-tjenesten ved at følge instruktionerne beskrevet af Google:",
+            "description3": "For mere information om, hvordan Google bruger de indsamlede oplysninger, kan du besøge siden \"Sådan bruger Google data, når du bruger vores partneres websteder eller apps\": eller besøge Googles privatlivspolitik:"
+          }
+        },
+        "payments": {
+          "title": "Betalinger",
+          "description1": "Vi kan tilbyde betalte produkter og/eller tjenester inden for Tjenesten. I så fald kan vi bruge tredjepartstjenester til betalingsbehandling (f.eks. betalingsudbydere).",
+          "description2": "Vi hverken gemmer eller indsamler dine betalingskortoplysninger. Disse oplysninger videregives direkte til vores tredjeparts betalingsudbydere, hvis brug af dine personlige oplysninger er underlagt deres privatlivspolitik. Disse betalingsudbydere overholder standarderne fastsat af PCI-DSS, som administreres af PCI Security Standards Council, som er et fælles projekt mellem brands som Visa, Mastercard, American Express og Discover. PCI-DSS-kravene er med til at sikre sikker håndtering af betalingsoplysninger.",
+          "appleStore": {
+            "title": "Betalinger i appen i Apple Store",
+            "description": "Deres privatlivspolitik kan ses på"
+          },
+          "googlePlay": {
+            "title": "Betalinger i appen i Google Play",
+            "description": "Deres privatlivspolitik kan ses på"
+          },
+          "stripe": {
+            "title": "Stribe",
+            "description": "Deres privatlivspolitik kan ses på"
+          },
+          "payPal": {
+            "title": "PayPal eller Braintree",
+            "description": "Deres privatlivspolitik kan ses på"
+          }
+        }
+      },
+      "behavioralRemarketing": {
+        "title": "Adfærdsmæssig remarketing",
+        "description": "Virksomheden bruger remarketingtjenester til at annoncere til dig på tredjepartswebsteder, efter du har besøgt vores tjeneste. Vi og vores tredjepartsleverandører bruger cookies til at informere, optimere og vise annoncer baseret på dine tidligere besøg på vores tjeneste.",
+        "vendorsDescription1": "Disse tredjepartsleverandører indsamler, opbevarer, bruger, behandler og overfører oplysninger om din aktivitet på vores tjeneste i overensstemmelse med deres privatlivspolitikker og for at gøre det muligt for os at:",
+        "purposes": {
+          "measure": "Mål og analyser trafik og browsingaktivitet på vores tjeneste",
+          "show": "Vise dig reklamer for vores produkter og/eller tjenester på tredjepartswebsteder eller i apps",
+          "analyze": "Mål og analyser effektiviteten af vores reklamekampagner"
+        },
+        "vendorsDescription2": "Nogle af disse tredjepartsleverandører bruger muligvis ikke-cookie-teknologier, der muligvis ikke påvirkes af browserindstillinger, der blokerer cookies. Din browser tillader dig muligvis ikke at blokere sådanne teknologier. Du kan bruge følgende tredjepartsværktøjer til at afvise indsamling og brug af oplysninger med det formål at vise dig interessebaseret annoncering:",
+        "optOutTools": {
+          "nai": "NAI's fravalgsplatform:",
+          "edaa": "EDAA's fravalgsplatform:",
+          "daa": "DAA's fravalgsplatform:"
+        },
+        "mobileOptOut": "Du kan fravælge al personlig annoncering ved at aktivere privatlivsfunktioner på din mobilenhed, f.eks. Begræns annoncesporing (iOS) og Fravælg annoncepersonalisering (Android). Se din mobilenheds hjælpesystem for at få flere oplysninger.",
+        "dataSharing": "Vi kan dele oplysninger, såsom hashede e-mailadresser (hvis tilgængelige) eller andre online-identifikatorer indsamlet på vores tjeneste, med disse tredjepartsleverandører. Dette gør det muligt for vores tredjepartsleverandører at genkende og levere annoncer til dig på tværs af enheder og browsere. For at læse mere om de teknologier, der anvendes af disse tredjepartsleverandører, og deres muligheder på tværs af enheder, henvises til privatlivspolitikken for hver leverandør, der er anført nedenfor.",
+        "vendorsIntro": "De tredjepartsleverandører, vi bruger, er:",
+        "googleAds": {
+          "title": "Google-annoncer (AdWords)",
+          "description1": "Google Ads (AdWords) remarketingtjeneste leveres af Google Inc.",
+          "description2": "Du kan fravælge Google Analytics til displayannoncering og tilpasse annoncerne på Google Displaynetværket ved at besøge siden med indstillinger for Google-annoncer:",
+          "description3": "Google anbefaler også at installere Google Analytics Opt-out Browser Add-on – til din webbrowser. Google Analytics Opt-out Browser Add-on giver besøgende mulighed for at forhindre, at deres data indsamles og bruges af Google Analytics.",
+          "description4": "For mere information om Googles privatlivspraksis, besøg venligst Googles webside om privatliv og vilkår:"
+        },
+        "facebook": {
+          "title": "Facebook",
+          "description1": "Facebooks remarketingtjeneste leveres af Facebook Inc.",
+          "description2": "Du kan lære mere om interessebaseret annoncering fra Facebook ved at besøge denne side:",
+          "description3": "For at fravælge Facebooks interessebaserede annoncer skal du følge disse instruktioner fra Facebook:",
+          "description4": "Facebook overholder de selvregulerende principper for online adfærdsreklame, der er fastsat af Digital Advertising Alliance. Du kan også framelde dig Facebook og andre deltagende virksomheder via Digital Advertising Alliance i USA, Digital Advertising Alliance of Canada i Canada eller European Interactive Digital Advertising Alliance i Europa, eller du kan framelde dig via dine mobilindstillinger.",
+          "description5": "For mere information om Facebooks privatlivspraksis, besøg venligst Facebooks datapolitik:"
+        }
+      },
+      "detailedInfo": {
+        "title": "Detaljeret information om behandling af dine personoplysninger",
+        "description": "De tjenesteudbydere, vi bruger, kan have adgang til dine personoplysninger. Disse tredjepartsleverandører indsamler, opbevarer, bruger, behandler og overfører oplysninger om din aktivitet på vores tjeneste i overensstemmelse med deres privatlivspolitikker.",
+        "analyticsTitle": "Analyse",
+        "analyticsDescription": "Vi kan bruge tredjepartstjenesteudbydere til at overvåge og analysere brugen af vores tjeneste."
+      },
+      "analytics": {
+        "firebase": {
+          "title": "Firebase",
+          "description1": "Firebase er en analysetjeneste leveret af Google Inc.",
+          "description2": "Du kan fravælge visse Firebase-funktioner via din mobilenheds indstillinger, f.eks. din enheds annonceringsindstillinger, eller ved at følge instruktionerne fra Google i deres privatlivspolitik:",
+          "description3": "Vi opfordrer dig også til at gennemgå Googles politik for beskyttelse af dine data:",
+          "description4": "For mere information om, hvilke typer oplysninger Firebase indsamler, kan du besøge websiden \"Sådan bruger Google data, når du bruger vores partneres websteder eller apps\":"
+        },
+        "googleAnalytics": {
+          "title": "Google Analytics",
+          "description1": "Google Analytics er en webanalysetjeneste, der tilbydes af Google, og som sporer og rapporterer hjemmesidetrafik. Google bruger de indsamlede data til at spore og overvåge brugen af vores tjeneste. Disse data deles med andre Google-tjenester. Google kan bruge de indsamlede data til at kontekstualisere og personliggøre annoncerne i sit eget annoncenetværk.",
+          "description2": "Du kan fravælge at din aktivitet på Tjenesten gøres tilgængelig for Google Analytics ved at installere browsertilføjelsen til framelding af Google Analytics. Tilføjelsen forhindrer Google Analytics JavaScript (ga.js, analytics.js og gtag.js) i at dele oplysninger om besøgsaktivitet med Google Analytics. For mere information om Googles privatlivspraksis, besøg venligst Googles webside om privatliv og vilkår:",
+          "description3": "Google anbefaler også at installere Google Analytics Opt-out Browser Add-on til din webbrowser. Google Analytics Opt-out Browser Add-on giver besøgende mulighed for at forhindre, at deres data indsamles og bruges af Google Analytics. For mere information om installation og brug af Google Analytics Opt-out Browser Add-on, besøg venligst følgende Google Analytics frameldingsside:"
+        }
+      },
+      "advertising": {
+        "title": "Reklame",
+        "description": "Vi kan bruge tjenesteudbydere til at vise dig reklamer for at understøtte og vedligeholde vores tjeneste.",
+        "googleAdSense": {
+          "title": "Google AdSense og DoubleClick-cookie",
+          "description1": "Google bruger, som tredjepartsleverandør, cookies til at vise annoncer på vores tjeneste. Googles brug af DoubleClick-cookien gør det muligt for Google og dets partnere at vise annoncer til vores brugere baseret på deres besøg på vores tjeneste eller andre websteder på internettet.",
+          "description2": "Du kan fravælge brugen af DoubleClick-cookien til interessebaseret annoncering ved at besøge websiden for Google Ads-indstillinger:"
+        },
+        "adMob": {
+          "title": "AdMob fra Google",
+          "description1": "AdMob fra Google leveres af Google Inc.",
+          "description2": "Du kan framelde dig AdMob by Google-tjenesten ved at følge instruktionerne beskrevet af Google:",
+          "description3": "For mere information om, hvordan Google bruger de indsamlede oplysninger, kan du besøge siden \"Sådan bruger Google data, når du bruger vores partneres websteder eller apps\": eller besøge Googles privatlivspolitik:"
+        }
+      },
+      "payments": {
+        "title": "Betalinger",
+        "description1": "Vi kan tilbyde betalte produkter og/eller tjenester inden for Tjenesten. I så fald kan vi bruge tredjepartstjenester til betalingsbehandling (f.eks. betalingsudbydere).",
+        "description2": "Vi hverken gemmer eller indsamler dine betalingskortoplysninger. Disse oplysninger videregives direkte til vores tredjeparts betalingsudbydere, hvis brug af dine personlige oplysninger er underlagt deres privatlivspolitik. Disse betalingsudbydere overholder standarderne fastsat af PCI-DSS, som administreres af PCI Security Standards Council, som er et fælles projekt mellem brands som Visa, Mastercard, American Express og Discover. PCI-DSS-kravene er med til at sikre sikker håndtering af betalingsoplysninger.",
+        "appleStore": {
+          "title": "Betalinger i appen i Apple Store",
+          "description": "Deres privatlivspolitik kan ses på"
+        },
+        "googlePlay": {
+          "title": "Betalinger i appen i Google Play",
+          "description": "Deres privatlivspolitik kan ses på"
+        },
+        "stripe": {
+          "title": "Stribe",
+          "description": "Deres privatlivspolitik kan ses på"
+        },
+        "payPal": {
+          "title": "PayPal eller Braintree",
+          "description": "Deres privatlivspolitik kan ses på"
+        }
+      },
+      "gdpr": {
+        "title": "GDPR-privatliv",
+        "legalBasis": {
+          "title": "Retsgrundlag for behandling af personoplysninger i henhold til GDPR",
+          "description": "Vi kan behandle personoplysninger under følgende betingelser:",
+          "consent": "Samtykke: Du har givet dit samtykke til behandling af personoplysninger til et eller flere specifikke formål.",
+          "contract": "Opfyldelse af en kontrakt: Levering af personoplysninger er nødvendig for at opfylde en aftale med dig og/eller for eventuelle prækontraktuelle forpligtelser i forbindelse med denne.",
+          "legal": "Juridiske forpligtelser: Behandling af personoplysninger er nødvendig for at overholde en juridisk forpligtelse, som virksomheden er underlagt.",
+          "vital": "Vitale interesser: Behandling af personoplysninger er nødvendig for at beskytte dine eller en anden fysisk persons vitale interesser.",
+          "public": "Offentlige interesser: Behandling af personoplysninger er relateret til en opgave, der udføres i offentlighedens interesse eller som led i udøvelsen af offentlig myndighed, der er tildelt virksomheden.",
+          "legitimate": "Legitime interesser: Behandling af personoplysninger er nødvendig med henblik på at varetage de legitime interesser, som virksomheden forfølger."
+        },
+        "rights": {
+          "title": "Dine rettigheder i henhold til GDPR",
+          "description": "Virksomheden forpligter sig til at respektere fortroligheden af dine personoplysninger og garantere, at du kan udøve dine rettigheder. Du har ret i henhold til denne privatlivspolitik, og ved lov, hvis du befinder dig i EU, til at:",
+          "access": "Anmodning om adgang til dine personoplysninger: Retten til at få adgang til, opdatere eller slette de oplysninger, vi har om dig.",
+          "correction": "Anmodning om berigtigelse af personoplysninger: Du har ret til at få berigtiget ufuldstændige eller unøjagtige oplysninger, vi har om dig.",
+          "object": "Indsigelse mod behandling: Denne ret gælder, når vi påberåber os en legitim interesse som retsgrundlag for vores behandling.",
+          "erasure": "Anmodning om sletning: Du har ret til at anmode os om at slette eller fjerne personoplysninger, når der ikke er nogen god grund til, at vi fortsætter med at behandle dem.",
+          "transfer": "Anmod om overførsel: Vi vil give dig, eller en tredjepart, du har valgt, dine personoplysninger i et struktureret, almindeligt anvendt og maskinlæsbart format.",
+          "withdraw": "Tilbagekald dit samtykke: Du har ret til at tilbagekalde dit samtykke til brug af dine personoplysninger."
+        },
+        "exercising": {
+          "title": "Udøvelse af dine GDPR-databeskyttelsesrettigheder",
+          "description1": "Du kan udøve dine rettigheder til indsigt, berigtigelse, annullering og indsigelse ved at kontakte os. Bemærk venligst, at vi kan bede dig om at bekræfte din identitet, før vi besvarer sådanne anmodninger. Hvis du fremsætter en anmodning, vil vi gøre vores bedste for at svare dig hurtigst muligt.",
+          "description2": "Du har ret til at klage til en databeskyttelsesmyndighed over vores indsamling og brug af dine personoplysninger. Hvis du befinder dig i Det Europæiske Økonomiske Samarbejdsområde (EØS), bedes du kontakte din lokale databeskyttelsesmyndighed i EØS for at få flere oplysninger."
+        }
+      },
+      "ccpa": {
+        "title": "CCPA/CPRA privatlivspolitik",
+        "introduction": "Dette afsnit om privatlivsmeddelelse for indbyggere i Californien supplerer oplysningerne i vores privatlivspolitik, og det gælder udelukkende for alle besøgende, brugere og andre, der er bosiddende i staten Californien.",
+        "categoriesTitle": "Kategorier af indsamlede personoplysninger",
+        "categoriesDescription1": "Vi indsamler oplysninger, der identificerer, relaterer til, beskriver, refererer til, kan forbindes med eller med rimelighed kan forbindes, direkte eller indirekte, med en bestemt Forbruger eller Enhed. Følgende er en liste over kategorier af personlige oplysninger, som vi kan indsamle eller kan være blevet indsamlet fra indbyggere i Californien inden for de sidste tolv (12) måneder.",
+        "categoriesDescription2": "Bemærk venligst, at de kategorier og eksempler, der er angivet på listen nedenfor, er dem, der er defineret i CCPA/CPRA. Dette betyder ikke, at alle eksempler på den pågældende kategori af personoplysninger faktisk er blevet indsamlet af os, men det afspejler vores gode tro, efter vores bedste overbevisning, om at nogle af disse oplysninger fra den relevante kategori kan være og kan være blevet indsamlet. For eksempel vil visse kategorier af personoplysninger kun blive indsamlet, hvis du har givet sådanne personoplysninger direkte til os.",
+        "categoryLabels": {
+          "examples": "Eksempler:",
+          "collected": "Indsamlet:"
+        },
+        "categories": {
+          "identifiers": {
+            "title": "Kategori A: Identifikatorer",
+            "examples": "Et rigtigt navn, alias, postadresse, unikt personligt identifikationsnummer, online-identifikationsnummer, internetprotokoladresse, e-mailadresse, kontonavn, kørekortnummer, pasnummer eller andre lignende identifikatorer.",
+            "collected": "Ja"
+          },
+          "personalInfo": {
+            "title": "Kategori B: Personlige oplysningskategorier anført i Californiens kunderegisterlovgivning",
+            "examples": "Navn, underskrift, CPR-nummer, fysiske karakteristika eller beskrivelse, adresse, telefonnummer, pasnummer, kørekort- eller statsligt identifikationskortnummer, forsikringspolicenummer, uddannelse, beskæftigelse, ansættelseshistorik, bankkontonummer, kreditkortnummer, betalingskortnummer eller andre økonomiske oplysninger, medicinske oplysninger eller sygeforsikringsoplysninger. Nogle personlige oplysninger i denne kategori kan overlappe med andre kategorier.",
+            "collected": "Ja"
+          },
+          "protected": {
+            "title": "Kategori C: Beskyttede klassificeringsegenskaber i henhold til californisk eller føderal lov",
+            "examples": "Alder (40 år eller ældre), race, hudfarve, afstamning, national oprindelse, statsborgerskab, religion eller tro, civilstand, helbredstilstand, fysisk eller psykisk handicap, køn (herunder køn, kønsidentitet, kønsudtryk, graviditet eller fødsel og relaterede helbredstilstande), seksuel orientering, veteran- eller militærstatus, genetiske oplysninger (herunder familiære genetiske oplysninger).",
+            "collected": "Ingen"
+          },
+          "commercial": {
+            "title": "Kategori D: Kommerciel information",
+            "examples": "Optegnelser og historik over købte eller overvejede produkter eller tjenester.",
+            "collected": "Ja"
+          },
+          "biometric": {
+            "title": "Kategori E: Biometriske oplysninger",
+            "examples": "Genetiske, fysiologiske, adfærdsmæssige og biologiske karakteristika eller aktivitetsmønstre, der bruges til at udtrække en skabelon eller anden identifikator eller identificerende information, såsom fingeraftryk, ansigtsaftryk og stemmeaftryk, iris- eller nethindescanninger, tastetryk, gang eller andre fysiske mønstre samt søvn-, sundheds- eller træningsdata.",
+            "collected": "Ingen"
+          },
+          "internet": {
+            "title": "Kategori F: Internet- eller anden lignende netværksaktivitet",
+            "examples": "Interaktion med vores tjeneste eller reklame.",
+            "collected": "Ja"
+          },
+          "geolocation": {
+            "title": "Kategori G: Geolokationsdata",
+            "examples": "Omtrentlig fysisk placering.",
+            "collected": "Ja"
+          },
+          "sensory": {
+            "title": "Kategori H: Sensoriske data",
+            "examples": "Lyd-, elektronisk-, visuel-, termisk-, olfaktorisk eller lignende information.",
+            "collected": "Ingen"
+          },
+          "professional": {
+            "title": "Kategori I: Faglige eller ansættelsesrelaterede oplysninger",
+            "examples": "Nuværende eller tidligere jobhistorik eller præstationsevalueringer.",
+            "collected": "Ingen"
+          },
+          "education": {
+            "title": "Kategori J: Ikke-offentlig uddannelsesinformation",
+            "examples": "Uddannelsesregistre, der er direkte relateret til en studerende, og som vedligeholdes af en uddannelsesinstitution eller en part, der handler på dennes vegne, såsom karakterer, karakterudskrifter, klasselister, elevskemaer, elevidentifikationskoder, økonomiske oplysninger om studerende eller disciplinære optegnelser.",
+            "collected": "Ingen"
+          },
+          "inferences": {
+            "title": "Kategori K: Konklusioner draget af andre personlige oplysninger",
+            "examples": "En profil, der afspejler en persons præferencer, karakteristika, psykologiske tendenser, dispositioner, adfærd, holdninger, intelligens, evner og evner.",
+            "collected": "Ingen"
+          },
+          "sensitive": {
+            "title": "Kategori L: Følsomme personoplysninger",
+            "examples": "Oplysninger om kontologin og adgangskode, geoplaceringsdata.",
+            "collected": "Ja"
+          }
+        },
+        "exclusions": {
+          "description": "I henhold til CCPA/CPRA omfatter personoplysninger ikke:",
+          "publicRecords": "Offentligt tilgængelige oplysninger fra offentlige registre",
+          "deidentified": "Afidentificerede eller aggregerede forbrugeroplysninger",
+          "excludedScope": "Oplysninger, der er undtaget fra CCPA/CPRA's anvendelsesområde, såsom:",
+          "hipaa": "Helbreds- eller medicinske oplysninger, der er dækket af Health Insurance Portability and Accountability Act fra 1996 (HIPAA) og California Confidentiality of Medical Information Act (CMIA) eller data fra kliniske forsøg",
+          "sectorSpecific": "Personlige oplysninger, der er omfattet af visse sektorspecifikke privatlivslove, herunder Fair Credit Reporting Act (FRCA), Gramm-Leach-Bliley Act (GLBA) eller California Financial Information Privacy Act (FIPA) og Driver's Privacy Protection Act fra 1994"
+        },
+        "sources": {
+          "title": "Kilder til personlige oplysninger",
+          "description": "Vi indhenter ovenstående kategorier af personoplysninger fra følgende kildekategorier:",
+          "directlyFromYou": "Direkte fra dig.",
+          "directlyDescription": "For eksempel fra de formularer, du udfylder på vores tjeneste, præferencer, du udtrykker eller angiver via vores tjeneste, eller fra dine køb på vores tjeneste.",
+          "indirectlyFromYou": "Indirekte fra dig.",
+          "indirectlyDescription": "For eksempel ved at observere din aktivitet på vores tjeneste.",
+          "automaticallyFromYou": "Automatisk fra dig.",
+          "automaticallyDescription": "For eksempel via cookies, som vi eller vores tjenesteudbydere sætter på din enhed, når du navigerer gennem vores tjeneste.",
+          "fromServiceProviders": "Fra tjenesteudbydere.",
+          "serviceProvidersDescription": "For eksempel tredjepartsleverandører til at overvåge og analysere brugen af vores Tjeneste, tredjepartsleverandører til at levere reklame på vores Tjeneste, tredjepartsleverandører til at levere målrettet reklame til dig, tredjepartsleverandører til betalingsbehandling eller andre tredjepartsleverandører, som vi bruger til at levere Tjenesten til dig."
+        },
+        "usage": {
+          "title": "Brug af personlige oplysninger",
+          "description": "Vi kan bruge eller videregive personlige oplysninger, som vi indsamler, til \"forretningsformål\" eller \"kommercielle formål\" (som defineret i CCPA/CPRA), hvilket kan omfatte følgende eksempler:",
+          "operateService": "For at drive vores tjeneste og levere vores tjeneste til dig.",
+          "provideSupport": "For at yde dig support og besvare dine forespørgsler, herunder at undersøge og imødekomme dine bekymringer og overvåge og forbedre vores tjeneste.",
+          "fulfillReason": "For at opfylde eller imødekomme den årsag, du gav oplysningerne. Hvis du f.eks. deler dine kontaktoplysninger for at stille et spørgsmål om vores tjeneste, bruger vi disse personlige oplysninger til at besvare din forespørgsel. Hvis du giver dine personlige oplysninger for at købe et produkt eller en tjeneste, bruger vi disse oplysninger til at behandle din betaling og fremme levering.",
+          "lawEnforcement": "For at besvare anmodninger fra retshåndhævende myndigheder og som påkrævet i henhold til gældende lov, retskendelse eller offentlige bestemmelser.",
+          "asDescribed": "Som beskrevet for dig ved indsamling af dine personlige oplysninger eller som ellers angivet i CCPA/CPRA.",
+          "administrative": "Til interne administrative og revisionsformål.",
+          "securityIncidents": "At opdage sikkerhedshændelser og beskytte mod ondsindet, vildledende, svigagtig eller ulovlig aktivitet, herunder, når det er nødvendigt, at retsforfølge de ansvarlige for sådanne aktiviteter.",
+          "otherUses": "Andre engangsanvendelser.",
+          "noteExamples": "Bemærk venligst, at ovenstående eksempler er illustrative og ikke udtømmende. For yderligere oplysninger om, hvordan vi bruger disse oplysninger, henvises til afsnittet \"Brug af dine personoplysninger\".",
+          "additionalCategories": "Hvis vi beslutter at indsamle yderligere kategorier af personoplysninger eller bruge de personoplysninger, vi har indsamlet, til væsentligt forskellige, uafhængige eller uforenelige formål, vil vi opdatere denne privatlivspolitik."
+        },
+        "ccpaDisclosure": {
+          "title": "Videregivelse af personlige oplysninger",
+          "description": "Vi kan bruge eller videregive og kan have brugt eller videregivet i de sidste tolv (12) måneder følgende kategorier af personoplysninger til forretningsmæssige eller kommercielle formål:",
+          "categoryA": "Kategori A: Identifikatorer",
+          "categoryB": "Kategori B: Personlige oplysningskategorier anført i Californiens kunderegisterlovgivning",
+          "categoryD": "Kategori D: Kommerciel information",
+          "categoryF": "Kategori F: Internet- eller anden lignende netværksaktivitet",
+          "categoryG": "Kategori G: Geolokationsdata",
+          "categoryL": "Kategori L: Følsomme personoplysninger",
+          "noteCategories": "Bemærk venligst, at ovenstående kategorier er dem, der er defineret i CCPA/CPRA. Dette betyder ikke, at alle eksempler på denne kategori af personoplysninger faktisk er blevet videregivet, men det afspejler vores gode tro, så vidt vi ved, om, at nogle af disse oplysninger fra den relevante kategori kan være og kan være blevet videregivet.",
+          "contractRequirement": "Når vi videregiver personlige oplysninger til et forretningsmæssigt eller kommercielt formål, indgår vi en kontrakt, der beskriver formålet og kræver, at modtageren både holder disse personlige oplysninger fortrolige og ikke bruger dem til andet formål end at opfylde kontrakten."
+        },
+        "sharing": {
+          "title": "Andel af personlige oplysninger",
+          "description": "Vi kan dele, og har i de sidste tolv (12) måneder delt, dine personoplysninger, der er identificeret i ovenstående kategorier, med følgende kategorier af tredjeparter:",
+          "recipients": {
+            "serviceProviders": "Tjenesteudbydere",
+            "paymentProcessors": "Betalingsbehandlere",
+            "affiliates": "Vores partnere",
+            "businessPartners": "Vores forretningspartnere",
+            "authorizedVendors": "Tredjepartsleverandører, som du eller dine agenter bemyndiger os til at videregive dine personlige oplysninger til i forbindelse med produkter eller tjenester, vi leverer til dig"
+          }
+        },
+        "sale": {
+          "title": "Salg af personlige oplysninger",
+          "definition": "Som defineret i CCPA/CPRA betyder \"sælge\" og \"salg\" salg, udleje, frigive, videregive, formidle, stille til rådighed, overføre eller på anden måde kommunikere mundtligt, skriftligt eller elektronisk eller på anden måde en Forbrugers personlige oplysninger fra Virksomheden til en tredjepart mod vederlag. Det betyder, at Vi kan have modtaget en form for fordel til gengæld for at dele personlige oplysninger, men ikke nødvendigvis en økonomisk fordel.",
+          "doNotSell": "Vi sælger ikke personlige oplysninger, som udtrykket \"sælg\" almindeligvis forstås. Vi tillader dog tjenesteudbydere at bruge dine personlige oplysninger til de forretningsmæssige formål, der er beskrevet i vores privatlivspolitik, til aktiviteter såsom reklame, markedsføring og analyse, og disse kan betragtes som salg i henhold til CCPA/CPRA.",
+          "description": "Vi kan sælge og kan have solgt i de seneste tolv (12) måneder følgende kategorier af personoplysninger:",
+          "sharedCategories": {
+            "categoryA": "Kategori A: Identifikatorer",
+            "categoryB": "Kategori B: Personlige oplysningskategorier anført i Californiens kunderegisterlovgivning",
+            "categoryD": "Kategori D: Kommerciel information",
+            "categoryF": "Kategori F: Internet- eller anden lignende netværksaktivitet",
+            "categoryG": "Kategori G: Geolokationsdata",
+            "categoryL": "Kategori L: Følsomme personoplysninger"
+          }
+        },
+        "userRights": {
+          "title": "Dine rettigheder i henhold til CCPA/CPRA",
+          "description": "CCPA/CPRA giver indbyggere i Californien specifikke rettigheder vedrørende deres personlige oplysninger. Hvis du er bosiddende i Californien, har du følgende rettigheder:",
+          "rightToNotice": "Retten til at lægge mærke til det.",
+          "rightToNoticeDescription": "Du har ret til at blive underrettet om, hvilke kategorier af personoplysninger der indsamles, og til hvilke formål personoplysningerne anvendes.",
+          "disclosureItems": {
+            "categoriesCollected": "De kategorier af personlige oplysninger, vi har indsamlet om dig",
+            "sources": "Kategorierne af kilder til de personlige oplysninger, vi har indsamlet om dig",
+            "purposes": "Vores forretningsmæssige eller kommercielle formål med at indsamle eller sælge disse personoplysninger",
+            "thirdParties": "De kategorier af tredjeparter, som vi deler disse personoplysninger med",
+            "specificPieces": "De specifikke personlige oplysninger, vi har indsamlet om dig",
+            "soldDisclosed": "Hvis vi har solgt dine personlige oplysninger eller videregivet dine personlige oplysninger til et forretningsformål, vil vi oplyse dig om de kategorier af personlige oplysninger, der er solgt og videregivet"
+          },
+          "rightToOptOut": "Retten til at sige nej til salg eller deling af personoplysninger (fravalg).",
+          "rightToOptOutDescription": "Du har ret til at bede os om ikke at sælge dine personlige oplysninger. For at indsende en anmodning om framelding, se venligst afsnittet \"Sælg ikke mine personlige oplysninger\" eller kontakt os.",
+          "doNotSellSection": "Sælg ikke mine personlige oplysninger",
+          "rightToCorrect": "Retten til at rette personoplysninger.",
+          "rightToCorrectDescription": "Du har ret til at rette eller berigtige eventuelle unøjagtige personlige oplysninger om dig, som vi har indsamlet. Når vi modtager og bekræfter din anmodning, vil vi gøre en kommercielt rimelig indsats for at rette (og instruere vores tjenesteudbydere i at rette) dine personlige oplysninger, medmindre der gælder en undtagelse.",
+          "rightToLimit": "Retten til at begrænse brugen og videregivelsen af følsomme personoplysninger.",
+          "rightToLimitDescription": "Du har ret til at anmode om at begrænse brugen eller videregivelsen af visse følsomme personoplysninger, som vi har indsamlet om dig, medmindre der gælder en undtagelse. For at indsende anmodningen, se venligst afsnittet \"Begræns brugen eller videregivelsen af mine følsomme personoplysninger\" eller kontakt os.",
+          "limitSensitiveSection": "Begræns brugen eller videregivelsen af mine følsomme personoplysninger",
+          "rightToDelete": "Retten til at slette personoplysninger.",
+          "rightToDeleteDescription": "Du har ret til at anmode om sletning af dine personoplysninger under visse omstændigheder, med forbehold af visse undtagelser. Når vi modtager og bekræfter din anmodning, sletter vi (og instruerer vores tjenesteudbydere i at slette) dine personoplysninger fra vores registre, medmindre der gælder en undtagelse.",
+          "rightNonDiscrimination": "Retten til ikke at blive diskrimineret.",
+          "rightNonDiscriminationDescription": "Du har ret til ikke at blive diskrimineret for at udøve nogen af dine forbrugerrettigheder, herunder ved at nægte varer eller tjenester, opkræve forskellige priser, levere forskellige serviceniveauer eller foreslå forskellige priser eller serviceniveauer."
+        },
+        "exercisingRights": {
+          "title": "Udøvelse af dine CCPA/CPRA-databeskyttelsesrettigheder",
+          "intro": "For at udøve dine rettigheder i henhold til CCPA/CPRA, og hvis du er bosiddende i Californien, kan du kontakte os ved hjælp af nedenstående oplysninger.",
+          "authorization": "Kun du, eller en person, der er registreret hos Californiens udenrigsminister, som du bemyndiger til at handle på dine vegne, må fremsætte en verificerbar anmodning vedrørende dine personlige oplysninger.",
+          "requestRequirements": "Din anmodning til os skal:",
+          "requirements": {
+            "verify": "Giv tilstrækkelige oplysninger, der giver os mulighed for med rimelighed at verificere, at du er den person, som vi har indsamlet personlige oplysninger om, eller en bemyndiget repræsentant",
+            "describe": "Beskriv din anmodning med tilstrækkelige detaljer, så vi kan forstå, evaluere og besvare den korrekt"
+          },
+          "verification": "Vi kan ikke svare på din anmodning eller give dig de nødvendige oplysninger, hvis vi ikke kan verificere din identitet eller bemyndigelse til at fremsætte anmodningen og bekræfte, at de personlige oplysninger vedrører dig.",
+          "response": "Vi videregiver og leverer de nødvendige oplysninger gratis inden for 45 dage efter modtagelsen af din verificerbare anmodning. Fristen til at give de nødvendige oplysninger kan forlænges én gang med yderligere 45 dage, når det er rimeligt nødvendigt og med forudgående varsel.",
+          "dataPortability": "Ved anmodninger om dataportabilitet vælger vi et format til at levere dine personlige oplysninger, der er let anvendeligt og skal give dig mulighed for at overføre oplysningerne fra én enhed til en anden uden hindring."
+        },
+        "doNotSell": {
+          "title": "Sælg ikke mine personlige oplysninger",
+          "definition": "Som defineret i CCPA/CPRA betyder \"sælge\" og \"salg\" salg, udleje, frigive, videregive, formidle, stille til rådighed, overføre eller på anden måde kommunikere mundtligt, skriftligt eller elektronisk eller på anden måde en Forbrugers personlige oplysninger fra Virksomheden til en tredjepart mod vederlag. Det betyder, at Vi kan have modtaget en form for fordel til gengæld for at dele personlige oplysninger, men ikke nødvendigvis en økonomisk fordel.",
+          "policy": "Vi sælger ikke personlige oplysninger, som udtrykket \"sælg\" almindeligvis forstås. Vi tillader dog tjenesteudbydere at bruge dine personlige oplysninger til de forretningsmæssige formål, der er beskrevet i vores privatlivspolitik, til aktiviteter såsom reklame, markedsføring og analyse, og disse kan betragtes som salg i henhold til CCPA/CPRA.",
+          "optOutRight": "Du har ret til at fravælge salg af dine personlige oplysninger. Når vi modtager og bekræfter en verificerbar forbrugeranmodning fra dig, stopper vi med at sælge dine personlige oplysninger. For at udøve din ret til at fravælge, bedes du kontakte os.",
+          "serviceProviders": "De tjenesteudbydere, vi samarbejder med (f.eks. vores analyse- eller reklamepartnere), kan bruge teknologi på tjenesten, der sælger personlige oplysninger som defineret i CCPA/CPRA-loven. Hvis du ønsker at fravælge brugen af dine personlige oplysninger til interessebaserede reklameformål og disse potentielle salg som defineret i CCPA/CPRA-loven, kan du gøre det ved at følge instruktionerne nedenfor.",
+          "browserNote": "Bemærk venligst, at enhver framelding er specifik for den browser, du bruger. Du skal muligvis framelde dig i alle de browsere, du bruger.",
+          "websiteTitle": "Hjemmeside",
+          "websiteInstructions": "Hvis det er relevant, skal du klikke på knapperne \"Privatlivsindstillinger\", \"Opdater privatlivsindstillinger\" eller \"Sælg ikke mine personlige oplysninger\", der er angivet på Tjenesten, for at gennemgå dine privatlivsindstillinger og fravælge cookies og andre teknologier, som vi måtte bruge. Bemærk venligst, at du skal fravælge i hver browser, du bruger til at få adgang til Tjenesten."
+        },
+        "mobileOptOut": {
+          "title": "Mobile enheder",
+          "description": "Din mobilenhed kan give dig mulighed for at fravælge brugen af oplysninger om de apps, du bruger, for at vise dig annoncer, der er målrettet dine interesser:",
+          "androidAds": "\"Fravælg interessebaserede annoncer\" eller \"Fravælg annoncepersonalisering\" på Android-enheder",
+          "iosTracking": "\"Begræns annoncesporing\" på iOS-enheder",
+          "locationNote": "Du kan også stoppe indsamlingen af placeringsoplysninger fra din mobilenhed ved at ændre præferencerne på din mobilenhed."
+        },
+        "sensitiveInfo": {
+          "title": "Begræns brugen eller videregivelsen af mine følsomme personoplysninger",
+          "description": "Hvis du er bosiddende i Californien, har du ret til at begrænse brugen og videregivelsen af dine følsomme personoplysninger til den brug, der er nødvendig for at udføre tjenesterne eller levere de varer, som en gennemsnitlig forbruger, der anmoder om sådanne tjenester eller varer, med rimelighed kan forvente. Vi indsamler, bruger og videregiver følsomme personoplysninger på måder, der er nødvendige for at levere Tjenesten. For mere information om, hvordan vi bruger dine personoplysninger, se venligst afsnittet \"Brug af dine personoplysninger\" eller kontakt os."
+        },
+        "caloppaPolicy": {
+          "doNotTrackResponse": "Vores tjeneste reagerer ikke på \"Do Not Track\"-signaler.",
+          "thirdPartyTracking": "Nogle tredjepartswebsteder holder dog styr på dine browsingaktiviteter. Hvis du besøger sådanne websteder, kan du indstille dine præferencer i din webbrowser for at informere websteder om, at du ikke ønsker at blive sporet. Du kan aktivere eller deaktivere DNT ved at besøge præferencer- eller indstillingssiden i din webbrowser."
+        },
+        "caloppa": {
+          "title": "\"Spor ikke\"-politik som påkrævet af California Online Privacy Protection Act (CalOPPA)"
+        },
+        "saleNote": {
+          "categoriesListed": "Bemærk venligst, at ovenstående kategorier er dem, der er defineret i CCPA/CPRA. Dette betyder ikke, at alle eksempler på denne kategori af personoplysninger faktisk blev solgt, men det afspejler vores gode tro, så vidt vi ved, om, at nogle af disse oplysninger fra den relevante kategori kan være og kan være blevet delt mod betaling til gengæld."
+        },
+        "minorsUnder16": {
+          "title": "Salg af personlige oplysninger om mindreårige under 16 år",
+          "description1": "Vi indsamler ikke bevidst personlige oplysninger fra mindreårige under 16 år via vores tjeneste, selvom visse tredjepartswebsteder, som vi linker til, kan gøre det. Disse tredjepartswebsteder har deres egne brugsbetingelser og privatlivspolitikker, og vi opfordrer forældre og værger til at overvåge deres børns internetbrug og instruerer deres børn i aldrig at give oplysninger på andre websteder uden deres tilladelse.",
+          "description2": "Vi sælger ikke personlige oplysninger fra forbrugere, som vi rent faktisk ved er under 16 år, medmindre vi modtager bekræftende tilladelse (\"retten til at tilmelde sig\") fra enten forbrugeren, der er mellem 13 og 16 år, eller forælderen eller værgen til en forbruger under 13 år. Forbrugere, der tilmelder sig salg af personlige oplysninger, kan til enhver tid framelde sig fremtidigt salg. For at udøve retten til at framelde sig kan du (eller din bemyndigede repræsentant) indsende en anmodning til os ved at kontakte os.",
+          "description3": "Hvis du har grund til at tro, at et barn under 13 (eller 16) år har givet os personlige oplysninger, bedes du kontakte os med tilstrækkelige detaljer til, at vi kan slette disse oplysninger."
+        },
+        "optOutPlatforms": {
+          "description": "Derudover kan du fravælge at modtage annoncer, der er personligt tilpasset, som vist af vores tjenesteudbydere, ved at følge vores instruktioner på tjenesten:",
+          "nai": "NAI's fravalgsplatform:",
+          "edaa": "EDAA's fravalgsplatform:",
+          "daa": "DAA's fravalgsplatform:",
+          "cookieNote": "Frameldingen placerer en cookie på din computer, som er unik for den browser, du bruger til at framelde dig. Hvis du skifter browser eller sletter de cookies, der er gemt af din browser, skal du framelde dig igen."
+        },
+        "rights": {
+          "rightToKnowAccess": "Retten til at vide/tilgå.",
+          "rightToKnowAccessDescription": "I henhold til CCPA/CPRA har du ret til at anmode om, at vi videregiver oplysninger til dig om vores indsamling, brug, salg, videregivelse til forretningsformål og deling af personlige oplysninger. Når vi modtager og bekræfter din anmodning, vil vi videregive følgende til dig:"
+        }
+      },
+      "optOut": {
+        "androidAds": "\"Fravælg interessebaserede annoncer\" eller \"Fravælg annoncepersonalisering\" på Android-enheder",
+        "androidInterestBased": "Fravælg interessebaserede annoncer",
+        "androidPersonalization": "Fravælg annoncepersonalisering",
+        "iosTracking": "\"Begræns annoncesporing\" på iOS-enheder",
+        "iosLimit": "Begræns annoncesporing"
+      },
+      "dataTypes": {
+        "email": "E-mailadresse",
+        "name": "Fornavn og efternavn",
+        "phone": "Telefonnummer",
+        "address": "Adresse, stat, provins, postnummer, by",
+        "usageData": "Brugsdata"
+      },
+      "socialMedia": {
+        "google": "Google",
+        "facebook": "Facebook",
+        "apple": "Æble"
+      },
+      "appPermissions": {
+        "location": "Oplysninger om din placering (til Bluetooth nærhedsdetektion)",
+        "bluetooth": "Bluetooth -enhedsoplysninger og scanning af enheder i nærheden",
+        "camera": "Oplysninger fra din enheds kamera til oprettelse af avatarer",
+        "contacts": "Enhedskontakter (valgfrit, til at finde venner)"
+      }
+    },
+    "termsOfUse": {
+      "title": "Brugsbetingelser",
+      "subtitle": "Forstå dine rettigheder og pligter, når du bruger Ringdy tjenester.",
+      "lastUpdated": "Sidst opdateret: Januar 2025",
+      "introduction": "Læs venligst disse vilkår og betingelser omhyggeligt, inden du bruger vores tjeneste.",
+      "sections": {
+        "interpretationTitle": "Fortolkning og definitioner",
+        "interpretationSubtitle": "Fortolkning",
+        "interpretationText": "Ord, hvis første bogstav er skrevet med stort, har betydninger defineret under følgende betingelser. Følgende definitioner skal have samme betydning, uanset om de optræder i ental eller flertal.",
+        "definitionsSubtitle": "Definitioner",
+        "definitionsText": "I henhold til disse vilkår og betingelser:",
+        "definitions": {
+          "application": "Betyder det softwareprogram, der leveres af virksomheden, som du har downloadet på en elektronisk enhed, kaldet Ringdy .",
+          "applicationStore": "Betyder den digitale distributionstjeneste, der drives og udvikles af Apple Inc. (Apple App Store) eller Google Inc. (Google Play Store), hvor applikationen er blevet downloadet.",
+          "affiliate": "Betyder en enhed, der kontrollerer, kontrolleres af eller er under fælles kontrol med en part, hvor \"kontrol\" betyder ejerskab af 50 % eller mere af aktierne, kapitalandele eller andre værdipapirer, der giver ret til at stemme ved valg af bestyrelsesmedlemmer eller anden ledelsesmyndighed.",
+          "account": "Betyder en unik konto, der er oprettet til dig for at få adgang til vores tjeneste eller dele af vores tjeneste.",
+          "country": "Henviser til: Vietnam",
+          "company": "(i denne aftale enten omtalt som \"Virksomheden\", \"Vi\", \"Os\" eller \"Vores\") henviser til Ringdy .",
+          "content": "Henviser til indhold såsom tekst, billeder eller andre oplysninger, der kan offentliggøres, uploades, linkes til eller på anden måde stilles til rådighed af dig, uanset indholdets form.",
+          "device": "Betyder enhver enhed, der kan tilgå Tjenesten, såsom en computer, en smartphone eller en digital tablet.",
+          "feedback": "Betyder feedback, innovationer eller forslag sendt af dig vedrørende vores tjenestes egenskaber, ydeevne eller funktioner.",
+          "freeTrial": "Henviser til en begrænset periode, der kan være gratis ved køb af et abonnement.",
+          "goods": "Se de varer, der udbydes til salg på Tjenesten.",
+          "inAppPurchase": "Henviser til køb af et produkt, en vare, en tjeneste eller et abonnement foretaget via applikationen og underlagt disse vilkår og betingelser og/eller applikationsbutikkens egne vilkår og betingelser.",
+          "orders": "Betyder en anmodning fra dig om at købe varer fra os.",
+          "promotions": "Henvise til konkurrencer, lodtrækninger eller andre kampagner, der tilbydes via Tjenesten.",
+          "service": "Henviser til ansøgningen.",
+          "subscriptions": "Henvis til de tjenester eller adgang til Tjenesten, som Virksomheden tilbyder dig på abonnementsbasis.",
+          "termsAndConditions": "(også kaldet \"Vilkår\") betyder disse Vilkår og Betingelser, der udgør hele aftalen mellem dig og Virksomheden vedrørende brugen af Tjenesten.",
+          "thirdPartySocialMedia": "Betyder enhver tjeneste eller ethvert indhold (herunder data, information, produkter eller tjenester) leveret af en tredjepart, som kan vises, inkluderes eller stilles til rådighed af Tjenesten.",
+          "you": "Betyder den person, der tilgår eller bruger Tjenesten, eller den virksomhed eller anden juridisk enhed, på hvis vegne en sådan person tilgår eller bruger Tjenesten, alt efter hvad der er relevant."
+        },
+        "definitionLabels": {
+          "application": "Anvendelse:",
+          "applicationStore": "Applikationsbutik:",
+          "affiliate": "Tilknyttet:",
+          "account": "Konto:",
+          "country": "Land:",
+          "company": "Selskab:",
+          "content": "Tilfreds:",
+          "device": "Enhed:",
+          "feedback": "Feedback:",
+          "freeTrial": "Gratis prøveperiode:",
+          "goods": "Gods:",
+          "inAppPurchase": "Køb i appen:",
+          "orders": "Ordrer:",
+          "promotions": "Kampagner:",
+          "service": "Service:",
+          "subscriptions": "Abonnementer:",
+          "termsAndConditions": "Vilkår og betingelser:",
+          "thirdPartySocialMedia": "Tredjepartstjeneste for sociale medier:",
+          "you": "Du:"
+        }
+      },
+      "acknowledgment": {
+        "title": "Anerkendelse",
+        "description1": "Dette er de vilkår og betingelser, der gælder for brugen af denne tjeneste, og den aftale, der gælder mellem dig og virksomheden. Disse vilkår og betingelser beskriver alle brugeres rettigheder og forpligtelser vedrørende brugen af tjenesten.",
+        "description2": "Din adgang til og brug af Tjenesten er betinget af din accept af og overholdelse af disse Vilkår og Betingelser. Disse Vilkår og Betingelser gælder for alle besøgende, brugere og andre, der tilgår eller bruger Tjenesten.",
+        "description3": "Ved at tilgå eller bruge Tjenesten accepterer du at være bundet af disse Vilkår og Betingelser. Hvis du er uenig i nogen del af disse Vilkår og Betingelser, må du ikke tilgå Tjenesten.",
+        "description4": "Du erklærer, at du er over 18 år. Virksomheden tillader ikke personer under 18 år at bruge Tjenesten.",
+        "description5": "Din adgang til og brug af Tjenesten er også betinget af din accept af og overholdelse af Virksomhedens Privatlivspolitik. Vores Privatlivspolitik beskriver vores politikker og procedurer for indsamling, brug og videregivelse af dine personlige oplysninger, når du bruger Applikationen, og fortæller dig om dine rettigheder til privatlivets fred og hvordan loven beskytter dig. Læs venligst vores Privatlivspolitik omhyggeligt, før du bruger vores Tjeneste.",
+        "bluetoothNotice": "Ved at bruge vores Tjeneste accepterer du, at Applikationen bruger Bluetooth og placeringstjenester til at finde og oprette forbindelse til brugere i nærheden. Du giver samtykke til vores brug af sådanne teknologier til at levere nærhedsbaserede funktioner.",
+        "bluetoothTitle": "Bluetooth og placeringstjenester"
+      },
+      "orders": {
+        "title": "Køb af digitale varer",
+        "introduction": "Ved at købe et Discovery Pass, Night Pass eller et abonnement via Tjenesten garanterer du, at du er juridisk i stand til at indgå bindende kontrakter.",
+        "yourInformation": {
+          "title": "Dine oplysninger",
+          "description1": "Betaling for Discovery Passes, Night Pass og abonnementer behandles udelukkende via din enheds appbutik (Google Play eller App Store). Vi indsamler eller gemmer ikke dine betalingskortoplysninger.",
+          "description2": "Du erklærer og garanterer, at: (i) Du har juridisk ret til at bruge enhver betalingsmetode, der er registreret på din app store-konto; og (ii) at de oplysninger, du giver til app store, er sande, korrekte og fuldstændige.",
+          "description3": "Alle betalingsoplysninger sendes direkte til Google Play eller App Store, ikke til virksomheden."
+        },
+        "cancellation": {
+          "title": "Annullering af køb",
+          "description1": "Vi forbeholder os retten til at afvise eller annullere dit køb når som helst af visse årsager, herunder, men ikke begrænset til:",
+          "reasons": {
+            "availability": "Varetilgængelighed",
+            "errors": "Fejl i beskrivelsen eller prisen på en vare",
+            "orderErrors": "Fejl i dit køb"
+          },
+          "description2": "Vi forbeholder os retten til at afvise eller annullere dit køb, hvis der er mistanke om bedrageri eller en uautoriseret eller ulovlig transaktion.",
+          "yourRights": {
+            "title": "Dine fortrydelsesrettigheder",
+            "description1": "Discovery Passes, Night Pass og andre digitale forbrugsvarer forbruges, når de er indløst, og kan generelt ikke returneres.",
+            "description2": "Vores refusionspraksis for digitale køb er beskrevet i afsnittene Køb i appen og Refusioner nedenfor.",
+            "description3": "Når et Discovery Pass eller Night Pass er blevet indløst til at låse op for et sted, kan det ikke annulleres eller refunderes.",
+            "description4": "Berettigede refusionsanmodninger håndteres i henhold til App Stores refusionspolitik, som beskrevet i afsnittet Refusioner nedenfor.",
+            "description5": "Du har ikke ret til at fortryde et køb af følgende varer:",
+            "exceptions": {
+              "personalized": "Genstande, der allerede er blevet anvendt på din konto eller brugt, såsom et Discovery Pass, der bruges til at låse op for et spillested.",
+              "perishable": "Tidsbegrænsede adgangskort, såsom Night Pass , når deres aktive periode er begyndt.",
+              "hygiene": "Abonnementsperioder, hvor Tjenesten allerede er leveret til dig.",
+              "mixed": "Digitale varer kombineret med andre købte varer som en del af en pakke.",
+              "digital": "Levering af digitalt indhold, der ikke leveres på et fysisk medie, hvis udførelsen er påbegyndt med dit forudgående udtrykkelige samtykke, og du har anerkendt dit tab af fortrydelsesretten."
+            }
+          }
+        },
+        "availability": {
+          "title": "Tilgængelighed, fejl og unøjagtigheder",
+          "description1": "Vi opdaterer løbende vores tilbud af Discovery Passes, Night Pass og abonnementsplaner på Tjenesten. Disse kan være forkert prissat, beskrevet unøjagtigt eller utilgængelige, og vi kan opleve forsinkelser i opdateringen af disse oplysninger.",
+          "description2": "Vi kan ikke og garanterer ikke for nøjagtigheden eller fuldstændigheden af nogen information, herunder priser og tilgængelighed. Vi forbeholder os retten til at ændre eller opdatere information og til at rette fejl, unøjagtigheder eller udeladelser når som helst uden forudgående varsel."
+        },
+        "pricing": {
+          "title": "Prispolitik",
+          "description1": "Virksomheden forbeholder sig retten til at ændre priserne for Discovery Passes, Night Pass og abonnementer når som helst, inden et køb accepteres.",
+          "description2": "Priserne er fastsat og vist via din enheds appbutik (Google Play eller App Store) og kan variere afhængigt af region og valuta."
+        },
+        "payments": {
+          "title": "Betalinger",
+          "description1": "Alle køb behandles via din enheds appbutik (Google Play eller App Store) ved hjælp af de understøttede betalingsmetoder.",
+          "description2": "Betalingsmetoder er underlagt valideringstjek og godkendelse fra appbutikken og din kortudsteder. Hvis godkendelse ikke modtages, er virksomheden ikke ansvarlig for forsinkelser eller manglende levering af dit køb."
+        }
+      },
+      "subscriptions": {
+        "title": "Abonnementer",
+        "period": {
+          "title": "Abonnementsperiode",
+          "description1": "Tjenesten eller dele af Tjenesten er kun tilgængelige med et betalt abonnement. Du vil blive faktureret forud på en tilbagevendende og periodisk basis (f.eks. dagligt, ugentligt, månedligt eller årligt), afhængigt af den type abonnementsplan, du vælger, når du køber abonnementet.",
+          "description2": "Ved udgangen af hver periode fornyes dit abonnement automatisk under nøjagtig de samme betingelser, medmindre du opsiger det, eller virksomheden opsiger det."
+        },
+        "cancellations": {
+          "title": "Opsigelser af abonnementer",
+          "description1": "Du kan annullere din abonnementsfornyelse enten via din kontoindstillingsside eller ved at kontakte virksomheden. Du vil ikke modtage refusion for de gebyrer, du allerede har betalt for din nuværende abonnementsperiode, og du vil kunne få adgang til tjenesten indtil udgangen af din nuværende abonnementsperiode.",
+          "description2": "Hvis abonnementet er foretaget via et køb i appen, kan du annullere fornyelsen af dit abonnement i appbutikken."
+        },
+        "billing": {
+          "title": "Fakturering",
+          "description1": "Du skal give virksomheden nøjagtige og fuldstændige faktureringsoplysninger, herunder fuldt navn, adresse, stat, postnummer, telefonnummer og oplysninger om en gyldig betalingsmetode.",
+          "description2": "Hvis automatisk fakturering af en eller anden grund ikke finder sted, udsteder virksomheden en elektronisk faktura, der angiver, at du manuelt skal betale den fulde betaling svarende til faktureringsperioden som angivet på fakturaen inden for en bestemt deadline.",
+          "description3": "Hvis abonnementet er foretaget via et køb i appen, håndteres al fakturering af App Store og er underlagt App Stores egne vilkår og betingelser."
+        },
+        "feeChanges": {
+          "title": "Gebyrændringer",
+          "description1": "Virksomheden kan efter eget skøn og til enhver tid ændre abonnementsgebyrerne. Enhver ændring af abonnementsgebyret træder i kraft ved udgangen af den daværende abonnementsperiode.",
+          "description2": "Virksomheden vil give dig rimeligt varsel om enhver ændring i abonnementsgebyrer for at give dig mulighed for at opsige dit abonnement, før en sådan ændring træder i kraft.",
+          "description3": "Din fortsatte brug af Tjenesten efter ændringen af Abonnementsgebyret træder i kraft udgør din accept af at betale det ændrede Abonnementsgebyrbeløb."
+        },
+        "refunds": {
+          "title": "Refusioner",
+          "description1": "Medmindre loven kræver det, refunderes betalte abonnementsgebyrer ikke.",
+          "description2": "Visse anmodninger om refusion af abonnementer kan blive behandlet af virksomheden fra sag til sag og imødekommes efter virksomhedens eget skøn.",
+          "description3": "Hvis abonnementet er foretaget via et køb i appen, gælder App Stores refusionspolitik. Hvis du ønsker at anmode om refusion, kan du gøre det ved at kontakte App Store direkte."
+        },
+        "freeTrial": {
+          "title": "Gratis prøveperiode",
+          "description1": "Virksomheden kan efter eget skøn tilbyde et abonnement med en gratis prøveperiode i en begrænset periode.",
+          "description2": "Du skal muligvis indtaste dine faktureringsoplysninger for at tilmelde dig den gratis prøveperiode.",
+          "description3": "Hvis du indtaster dine faktureringsoplysninger, når du tilmelder dig en gratis prøveperiode, vil virksomheden ikke opkræve betaling, før den gratis prøveperiode er udløbet. På den sidste dag i den gratis prøveperiode vil du automatisk blive opkrævet de gældende abonnementsgebyrer for den type abonnement, du har valgt, medmindre du har annulleret dit abonnement.",
+          "description4": "Virksomheden forbeholder sig retten til når som helst og uden varsel at (i) ændre vilkårene og betingelserne for tilbuddet om gratis prøveperiode eller (ii) annullere et sådant tilbud om gratis prøveperiode."
+        }
+      },
+      "inAppPurchases": {
+        "title": "Køb i appen",
+        "description1": "Applikationen kan indeholde køb i appen, der giver dig mulighed for at købe produkter, tjenester eller abonnementer.",
+        "description2": "Du kan finde flere oplysninger om, hvordan du muligvis kan administrere køb i appen ved hjælp af din enhed, i appbutikkens egne vilkår og betingelser eller i din enheds hjælpeindstillinger.",
+        "description3": "Køb i appen kan kun foretages i applikationen. Hvis du foretager et køb i appen, kan det ikke annulleres, efter du har startet download. Køb i appen kan ikke indløses til kontanter eller anden modydelse eller på anden måde overføres.",
+        "description4": "Du anerkender og accepterer, at alle fakturerings- og transaktionsprocesser håndteres af den App Store, hvorfra du downloadede applikationen, og er underlagt den pågældende App Stores egne vilkår og betingelser."
+      },
+      "promotions": {
+        "title": "Kampagner",
+        "description1": "Eventuelle kampagner, der gøres tilgængelige via Tjenesten, kan være underlagt regler, der er separate fra disse Vilkår.",
+        "description2": "Hvis du deltager i kampagner, bedes du gennemgå de gældende regler samt vores privatlivspolitik. Hvis reglerne for en kampagne er i konflikt med disse vilkår, gælder kampagnereglerne."
+      },
+      "userAccounts": {
+        "title": "Brugerkonti",
+        "description1": "Når du opretter en konto hos os, skal du give os oplysninger, der er nøjagtige, fuldstændige og aktuelle til enhver tid. Undladelse af at gøre dette udgør en overtrædelse af vilkårene, hvilket kan resultere i øjeblikkelig opsigelse af din konto på vores tjeneste.",
+        "description2": "Du er ansvarlig for at beskytte den adgangskode, du bruger til at få adgang til Tjenesten, og for alle aktiviteter eller handlinger under din adgangskode, uanset om din adgangskode er til Vores Tjeneste eller en tredjepartstjeneste på sociale medier.",
+        "description3": "Du accepterer ikke at videregive din adgangskode til tredjeparter. Du skal straks underrette os, når du bliver opmærksom på ethvert sikkerhedsbrud eller uautoriseret brug af din konto.",
+        "description4": "Du må ikke bruge et navn på en anden person eller enhed som brugernavn, eller et navn eller varemærke, der ikke er lovligt tilgængeligt til brug, et navn eller varemærke, der er underlagt rettigheder tilhørende en anden person eller enhed end dig selv, uden passende tilladelse, eller et navn, der på anden måde er stødende, vulgært eller uanstændigt."
+      },
+      "userConduct": {
+        "title": "Brugeradfærd og sikkerhed",
+        "zeroTolerance": {
+          "title": "Nultolerancepolitik",
+          "description": "Du accepterer ikke at bruge Tjenesten til at chikanere, true, forfølge eller intimidere andre. Virksomheden har en nultolerancepolitik over for krænkende adfærd, chikane eller krænkelser af andres rettigheder eller sikkerhed. Overtrædelser kan resultere i øjeblikkelig suspendering eller lukning af din konto."
+        },
+        "safetyDisclaimer": {
+          "title": "Sikkerhedsansvarsfraskrivelse",
+          "description": "Tjenesten muliggør forbindelser og kommunikation mellem brugere, der kan vælge at mødes personligt. Vi udfører ikke baggrundstjek eller verificerer brugernes identitet. Du er eneansvarlig for dine interaktioner med andre. Udvis forsigtighed, brug sund fornuft og tag passende sikkerhedsforanstaltninger, når du kommunikerer eller mødes med andre brugere offline."
+        }
+      },
+      "content": {
+        "title": "Tilfreds",
+        "yourRight": {
+          "title": "Din ret til at poste indhold",
+          "description1": "Vores tjeneste giver dig mulighed for at poste indhold. Du er ansvarlig for det indhold, du poster på tjenesten, herunder dets lovlighed, pålidelighed og passende indhold.",
+          "description2": "Ved at poste indhold på Tjenesten giver du os retten og licensen til at bruge, ændre, offentligt fremføre, offentligt vise, reproducere og distribuere sådant indhold på og via Tjenesten. Du bevarer alle dine rettigheder til ethvert indhold, du indsender, poster eller viser på eller via Tjenesten, og du er ansvarlig for at beskytte disse rettigheder.",
+          "description3": "Du erklærer og garanterer, at: (i) Indholdet er Dit (Du ejer det), eller Du har ret til at bruge det og giver Os de rettigheder og den licens, der er angivet i disse Vilkår, og (ii) offentliggørelsen af Dit Indhold på eller via Tjenesten ikke krænker nogen persons rettigheder til privatlivets fred, offentliggørelsesrettigheder, ophavsrettigheder, kontraktrettigheder eller andre rettigheder."
+        },
+        "restrictions": {
+          "title": "Indholdsbegrænsninger",
+          "description1": "Virksomheden er ikke ansvarlig for indholdet af Tjenestens brugere. Du forstår og accepterer udtrykkeligt, at du alene er ansvarlig for Indholdet og for al aktivitet, der finder sted under din konto, uanset om det gøres af dig eller en tredjepart, der bruger din konto.",
+          "description2": "Du må ikke overføre indhold, der er ulovligt, stødende, forstyrrende, har til formål at vække afsky, truende, injurierende, ærekrænkende, uanstændigt eller på anden måde anstødeligt. Eksempler på sådant anstødeligt indhold omfatter, men er ikke begrænset til, følgende:",
+          "prohibitedContent": {
+            "unlawful": "Ulovlig aktivitet eller aktivitet der fremmer ulovlig aktivitet.",
+            "discriminatory": "Ærekrænkende, diskriminerende eller ondsindet indhold, herunder referencer til eller kommentarer om religion, race, seksuel orientering, køn, national/etnisk oprindelse eller andre målrettede grupper.",
+            "spam": "Spam, maskingenereret – eller tilfældigt genereret – som udgør uautoriseret eller uopfordret reklame, kædebreve, enhver anden form for uautoriseret henvendelse eller enhver form for lotteri eller hasardspil.",
+            "malware": "Indeholder eller installerer virus, orme, malware, trojanske heste eller andet indhold, der er designet eller beregnet til at forstyrre, beskadige eller begrænse funktionen af software, hardware eller telekommunikationsudstyr.",
+            "infringing": "Krænkelse af nogen parts ejendomsrettigheder, herunder patenter, varemærker, forretningshemmeligheder, ophavsret, offentlighedsrettigheder eller andre rettigheder.",
+            "impersonating": "At udgive sig for at være en anden person eller enhed, herunder virksomheden og dens medarbejdere eller repræsentanter.",
+            "privacy": "Krænke en tredjeparts privatliv.",
+            "false": "Falske oplysninger og funktioner."
+          },
+          "description3": "Virksomheden forbeholder sig retten, men ikke forpligtelsen, til efter eget skøn at afgøre, om indhold er passende og overholder disse vilkår. Vi kan nægte at vise eller fjerne indhold, og vi forbeholder os retten til at suspendere eller opsige konti, der overtræder disse vilkår eller vores fællesskabsstandarder."
+        },
+        "backups": {
+          "title": "Sikkerhedskopier af indhold",
+          "description1": "Selvom der udføres regelmæssige sikkerhedskopier af indhold, garanterer Virksomheden ikke, at der ikke vil være tab eller beskadigelse af data.",
+          "description2": "Korrupte eller ugyldige backuppunkter kan skyldes, uden begrænsning, indhold, der er beskadiget, før det sikkerhedskopieres, eller som ændrer sig, mens en backup udføres.",
+          "description3": "Virksomheden vil yde support og forsøge at fejlfinde eventuelle kendte eller opdagede problemer, der kan påvirke sikkerhedskopier af indhold. Du anerkender dog, at Virksomheden ikke har noget ansvar i forbindelse med indholdets integritet eller manglende gendannelse af indhold til en brugbar tilstand.",
+          "description4": "Du accepterer at opbevare en fuldstændig og nøjagtig kopi af ethvert Indhold på et sted uafhængigt af Tjenesten."
+        }
+      },
+      "copyright": {
+        "title": "Ophavsretspolitik",
+        "intellectualProperty": {
+          "title": "Krænkelse af intellektuel ejendomsret",
+          "description1": "Vi respekterer andres immaterielle rettigheder. Det er vores politik at reagere på enhver påstand om, at indhold, der er lagt ud på Tjenesten, krænker en ophavsret eller anden form for krænkelse af immaterielle rettigheder tilhørende en person.",
+          "description2": "Hvis du er indehaver af ophavsret, eller er bemyndiget på vegne af en, og du mener, at det ophavsretligt beskyttede værk er blevet kopieret på en måde, der udgør en krænkelse af ophavsretten, der finder sted via Tjenesten, skal du indsende din skriftlige meddelelse til vores ophavsretsagent via e-mail på support@ringdy.com og inkludere en detaljeret beskrivelse af den påståede krænkelse i din meddelelse.",
+          "description3": "Du kan blive holdt ansvarlig for skader (herunder omkostninger og advokatsalærer) for at give en fejlagtig fremstilling af, at Indhold krænker din ophavsret."
+        },
+        "dmca": {
+          "title": "DMCA-meddelelse og DMCA-procedure for krav om krænkelse af ophavsret",
+          "description": "Du kan indsende en anmeldelse i henhold til Digital Millennium Copyright Act (DMCA) ved at give vores ophavsretsagent følgende oplysninger skriftligt:",
+          "requirements": {
+            "signature": "En elektronisk eller fysisk underskrift fra den person, der er bemyndiget til at handle på vegne af indehaveren af ophavsretten.",
+            "description": "En beskrivelse af det ophavsretligt beskyttede værk, som du hævder er blevet krænket, herunder URL'en (dvs. websideadressen) på den placering, hvor det ophavsretligt beskyttede værk findes, eller en kopi af det ophavsretligt beskyttede værk.",
+            "identification": "Identifikation af URL'en eller anden specifik placering på Tjenesten, hvor det materiale, som du hævder krænker, befinder sig.",
+            "contact": "Din adresse, telefonnummer og e-mailadresse.",
+            "goodFaith": "En erklæring fra dig om, at du i god tro mener, at den omstridte brug ikke er godkendt af indehaveren af ophavsretten, dennes agent eller loven.",
+            "accuracy": "En erklæring fra dig, afgivet under straf for mened, om, at ovenstående oplysninger i din meddelelse er nøjagtige, og at du er indehaveren af ophavsretten eller er bemyndiget til at handle på vegne af indehaveren af ophavsretten."
+          },
+          "contact": "Du kan kontakte vores copyright-agent via e-mail på support@ringdy.com. Når virksomheden modtager en meddelelse, vil den efter eget skøn træffe de foranstaltninger, den finder passende, herunder fjernelse af det anfægtede indhold fra tjenesten."
+        }
+      },
+      "intellectualProperty": {
+        "title": "Intellektuel ejendom",
+        "description1": "Tjenesten og dens originale indhold (eksklusive indhold leveret af dig eller andre brugere), funktioner og funktionalitet er og forbliver Virksomhedens og dens licensgiveres eksklusive ejendom.",
+        "description2": "Tjenesten er beskyttet af ophavsret, varemærker og andre love i både landet og andre lande.",
+        "description3": "Vores varemærker og handelsudstyr må ikke anvendes i forbindelse med produkter eller tjenester uden forudgående skriftlig tilladelse fra virksomheden."
+      },
+      "feedback": {
+        "title": "Din feedback til os",
+        "description": "Du overdrager alle rettigheder, ejendomsret og interesser i enhver feedback, du giver virksomheden. Hvis en sådan overdragelse af en eller anden grund er ineffektiv, accepterer du at give virksomheden en ikke-eksklusiv, tidsubegrænset, uigenkaldelig, royaltyfri, verdensomspændende ret og licens til at bruge, reproducere, videregive, underlicensere, distribuere, ændre og udnytte sådan feedback uden begrænsning."
+      },
+      "links": {
+        "title": "Links til andre hjemmesider",
+        "description1": "Vores Tjeneste kan indeholde links til tredjepartswebsteder eller -tjenester, der ikke ejes eller kontrolleres af Virksomheden.",
+        "description2": "Virksomheden har ingen kontrol over og påtager sig intet ansvar for indholdet, privatlivspolitikkerne eller praksisserne på tredjepartswebsteder eller -tjenester. Du anerkender og accepterer endvidere, at Virksomheden ikke er ansvarlig, direkte eller indirekte, for skader eller tab forårsaget eller påstået forårsaget af eller i forbindelse med brugen af eller tillid til sådant indhold, varer eller tjenester, der er tilgængelige på eller via sådanne websteder eller tjenester.",
+        "description3": "Vi anbefaler kraftigt, at du læser vilkårene og betingelserne samt privatlivspolitikkerne for alle tredjepartswebsteder eller -tjenester, som du besøger."
+      },
+      "termination": {
+        "title": "Afslutning",
+        "description1": "Vi kan opsige eller suspendere din konto med øjeblikkelig virkning, uden forudgående varsel eller ansvar, uanset årsag, herunder, men ikke begrænset til, hvis du overtræder disse vilkår og betingelser.",
+        "description2": "Ved opsigelse ophører din ret til at bruge Tjenesten med øjeblikkelig virkning. Hvis du ønsker at opsige din Konto, kan du blot ophøre med at bruge Tjenesten.",
+        "dataDeletion": {
+          "title": "Sletning af data og lukning af konto",
+          "description": "Du kan til enhver tid anmode om sletning af din konto og dine personlige data ved at kontakte os på support@ringdy.com eller ved at bruge en hvilken som helst funktion til sletning af din konto i appen. Ved opsigelse eller sletning vil vi fjerne eller anonymisere dine personlige data i overensstemmelse med gældende lov, undtagen i det omfang vi er forpligtet til at opbevare visse data af juridiske, sikkerhedsmæssige eller driftsmæssige årsager."
+        }
+      },
+      "liability": {
+        "title": "Ansvarsbegrænsning",
+        "importantNotice": "Vigtig juridisk meddelelse",
+        "notice": "Uanset eventuelle skader, som du måtte pådrage dig, er Selskabets og dets leverandørers fulde ansvar i henhold til enhver bestemmelse i disse Vilkår og din eneste retsmiddel for alt ovenstående begrænset til det beløb, du faktisk har betalt via Tjenesten, eller 100 USD, hvis du ikke har købt noget via Tjenesten.",
+        "description1": "I det videst mulige omfang tilladt af gældende lov, er Virksomheden eller dens leverandører under ingen omstændigheder ansvarlige for nogen særlige, tilfældige, indirekte eller følgeskader af nogen art (herunder, men ikke begrænset til, erstatning for tabt fortjeneste, tab af data eller andre oplysninger, for driftsafbrydelse, for personskade, tab af privatlivets fred som følge af eller på nogen måde relateret til brugen af eller manglende evne til at bruge Tjenesten, tredjepartssoftware og/eller tredjepartshardware, der anvendes med Tjenesten, eller på anden måde i forbindelse med nogen bestemmelse i disse Vilkår), selvom Virksomheden eller en leverandør er blevet underrettet om muligheden for sådanne skader, og selvom afhjælpningen ikke opfylder sit væsentligste formål.",
+        "description2": "Nogle stater tillader ikke udelukkelse af underforståede garantier eller begrænsning af ansvar for hændelige skader eller følgeskader, hvilket betyder, at nogle af ovenstående begrænsninger muligvis ikke gælder. I disse stater vil hver parts ansvar være begrænset i det videst mulige omfang ved lov."
+      },
+      "disclaimer": {
+        "title": "Ansvarsfraskrivelse for \"SOM DEN ER\" og \"SOM BLE \"",
+        "description1": "Tjenesten leveres til dig \"SOM DEN ER\" og \"SOM BLE \" og med alle fejl og mangler uden nogen form for garanti. I det videst mulige omfang tilladt i henhold til gældende lov fraskriver Virksomheden sig, på egne vegne og på vegne af sine tilknyttede selskaber og sine respektive licensgivere og tjenesteudbydere, udtrykkeligt alle garantier, uanset om de er udtrykkelige, stiltiende, lovpligtige eller på anden måde, med hensyn til Tjenesten, herunder alle stiltiende garantier for salgbarhed, egnethed til et bestemt formål, ejendomsret og ikke-krænkelse samt garantier, der måtte opstå som følge af forretningsførelse, udførelse, brug eller handelspraksis.",
+        "description2": "Uden begrænsning til ovenstående giver Virksomheden ingen garanti eller forpligtelse og afgiver ingen erklæring af nogen art om, at Tjenesten vil opfylde Dine krav, opnå de tilsigtede resultater, være kompatibel med eller fungere med anden software, applikationer, systemer eller tjenester, fungere uden afbrydelser, opfylde nogen ydeevne- eller pålidelighedsstandarder eller være fejlfri, eller at eventuelle fejl eller mangler kan eller vil blive rettet.",
+        "description3": "Uden at begrænse det foregående, giver hverken Selskabet eller nogen af virksomhedens udbydere nogen form for erklæring eller garanti, hverken udtrykkelig eller underforstået: (i) vedrørende driften eller tilgængeligheden af Tjenesten eller de oplysninger, indhold og materialer eller produkter, der er inkluderet heri; (ii) at Tjenesten vil være uafbrudt eller fejlfri; (iii) vedrørende nøjagtigheden, pålideligheden eller aktualiteten af oplysninger eller indhold, der leveres via Tjenesten; eller (iv) at Tjenesten, dens servere, indholdet eller e-mails sendt fra eller på vegne af Selskabet er fri for virus, scripts, trojanske heste, orme, malware, tidsbomber eller andre skadelige komponenter.",
+        "description4": "Nogle jurisdiktioner tillader ikke udelukkelse af visse typer garantier eller begrænsninger af gældende lovfæstede rettigheder for en forbruger, så nogle eller alle ovenstående udelukkelser og begrænsninger gælder muligvis ikke for dig. Men i et sådant tilfælde skal de udelukkelser og begrænsninger, der er angivet i dette afsnit, anvendes i det videst mulige omfang, der er muligt i henhold til gældende lov."
+      },
+      "governingLaw": {
+        "title": "Gældende lov",
+        "description": "Landets love, eksklusive dets lovvalgsregler, er gældende for disse vilkår og din brug af tjenesten. Din brug af applikationen kan også være underlagt andre lokale, statslige, nationale eller internationale love."
+      },
+      "disputes": {
+        "title": "Tvistløsning",
+        "description": "Hvis du har bekymringer eller tvister vedrørende Tjenesten, accepterer du først at forsøge at løse tvisten uformelt ved at kontakte Virksomheden."
+      },
+      "euUsers": {
+        "title": "For brugere i Den Europæiske Union (EU)",
+        "description": "Hvis du er forbruger i Den Europæiske Union, er du omfattet af alle obligatoriske bestemmelser i lovgivningen i det land, hvor du er bosiddende."
+      },
+      "usLegal": {
+        "title": "Juridisk overholdelse i USA",
+        "description": "Du erklærer og garanterer, at (i) Du ikke befinder dig i et land, der er underlagt den amerikanske regerings embargo, eller som er blevet udpeget af den amerikanske regering som et \"terrorstøttende\" land, og (ii) Du ikke er opført på nogen af de amerikanske regerings lister over forbudte eller begrænsede parter."
+      },
+      "severability": {
+        "title": "Adskillelighed og fraskrivelse",
+        "severabilityTitle": "Adskillelighed",
+        "severabilityDescription": "Hvis nogen bestemmelse i disse vilkår findes at være ugyldig eller ikke kan håndhæves, vil en sådan bestemmelse blive ændret og fortolket for at opnå formålene med en sådan bestemmelse i videst muligt omfang i henhold til gældende lov, og de resterende bestemmelser vil fortsat være fuldt gyldige og virkningsfulde.",
+        "waiverTitle": "Dispensation",
+        "waiverDescription": "Medmindre andet er angivet heri, skal undladelse af at udøve en rettighed eller kræve opfyldelse af en forpligtelse i henhold til disse vilkår ikke påvirke en parts mulighed for at udøve en sådan rettighed eller kræve en sådan opfyldelse på noget tidspunkt derefter, og afkald på en misligholdelse skal ikke udgøre et afkald på efterfølgende misligholdelse."
+      },
+      "translation": {
+        "title": "Oversættelsestolkning",
+        "description": "Disse vilkår og betingelser kan være blevet oversat, hvis vi har gjort dem tilgængelige for dig på vores tjeneste. Du accepterer, at den originale engelske tekst har forrang i tilfælde af en tvist."
+      },
+      "changes": {
+        "title": "Ændringer af disse vilkår og betingelser",
+        "description1": "Vi forbeholder os retten til, efter eget skøn, at ændre eller erstatte disse vilkår til enhver tid. Hvis en revision er væsentlig, vil vi gøre en rimelig indsats for at give mindst 30 dages varsel, før nye vilkår træder i kraft. Hvad der udgør en væsentlig ændring, vil blive afgjort efter eget skøn.",
+        "description2": "Ved fortsat at tilgå eller bruge vores tjeneste efter disse ændringer er trådt i kraft, accepterer du at være bundet af de reviderede vilkår. Hvis du ikke accepterer de nye vilkår, helt eller delvist, bedes du stoppe med at bruge hjemmesiden og tjenesten."
+      },
+      "contact": {
+        "title": "Kontakt os",
+        "description": "Hvis du har spørgsmål til disse vilkår og betingelser, kan du kontakte os:",
+        "email": "Via e-mail: support@ringdy.com",
+        "support": "Gennem vores supportsystem i appen",
+        "website": "Ved at besøge vores hjemmeside: www.ringdy.com"
+      },
+      "backToHome": "Tilbage til forsiden",
+      "privacyPolicy": "Privatlivspolitik"
+    }
+  },
+  "safety": {
+    "title": "Sikkerhedstips og tricks",
+    "subtitle": "Din sikkerhed er vores prioritet. Lær vigtige tips til sikkert netværk og sikre forbindelser.",
+    "lastUpdated": "Sidst opdateret: Januar 2025",
+    "commitment": {
+      "title": "Vores engagement i din sikkerhed",
+      "items": {
+        "privacy": "Du bestemmer, hvor meget du vil dele – skift til en avatar når som helst, og vi deler aldrig dit telefonnummer eller din nøjagtige adresse med andre brugere.",
+        "noStorage": "Vi videregiver ikke dine private kontaktoplysninger til andre brugere, medmindre du selv vælger at dele dem.",
+        "tools": "Vi tilbyder værktøjer som blokering og rapportering for at sikre din kontrol over hver interaktion.",
+        "ageLimit": "Ringdy er kun for brugere på 18 år og derover."
+      }
+    },
+    "respectfulBehavior": {
+      "title": "Respektfuld opførsel er påkrævet",
+      "expectation": "Vi forventer, at du:",
+      "items": {
+        "kind": "Vær venlig, respektfuld og ærlig",
+        "language": "Brug et rent og passende sprog",
+        "laws": "Følg lokale love og lokale standarder",
+        "genuine": "Brug kun appen til ægte og respektfuld interaktion"
+      }
+    },
+    "prohibitedConduct": {
+      "title": "Forbudt adfærd",
+      "warning": "For at sikre alles sikkerhed må du ikke:",
+      "items": {
+        "harassment": "Chikanere, forfølge eller mobbe nogen",
+        "hateful": "Del hadefuldt, voldeligt eller diskriminerende indhold",
+        "impersonation": "Udgiv dig for at være andre eller opret falske sessioner",
+        "personalData": "Bed om personlige oplysninger som adresse, telefonnummer eller sociale adresser",
+        "explicit": "Send eksplicitte, pornografiske eller stødende beskeder",
+        "scamming": "Deltag i svindel, phishing eller pengeanmodninger",
+        "offPlatform": "Forsøg at flytte chats til eksterne beskedapps med vildledende formål",
+        "tracking": "Forsøg på at spore eller lokalisere brugere ud over, hvad Bluetooth tilbyder"
+      },
+      "consequence": "Enhver af disse handlinger kan resultere i suspendering eller permanent udelukkelse."
+    },
+    "commonSense": {
+      "title": "Brug sund fornuft og forsigtighed",
+      "intro": "Du kender din sikkerhed bedst. Disse tips er her for at hjælpe:",
+      "chatting": {
+        "title": "🗣 Når du chatter:",
+        "items": {
+          "noPersonalInfo": "Del ikke dit fulde navn, adresse, telefonnummer eller økonomiske oplysninger",
+          "cautious": "Vær forsigtig med folk, der hurtigt beder om at flytte chatten et andet sted hen",
+          "noPressure": "Føl dig ikke presset til at svare eller fortsætte en samtale"
+        }
+      },
+      "redFlags": {
+        "title": "🛑 Hold øje med røde flag:",
+        "items": {
+          "quickLove": "Nogen påstår at være forelsket efter kun et par beskeder",
+          "moneyRequests": "Anmodninger om at sende penge eller personlige oplysninger",
+          "strangeLinks": "Mærkelige links eller anmodninger om chats uden for platformen",
+          "emergencyStories": "Historier om nødrejser, hospitalsregninger eller visumproblemer"
+        },
+        "advice": "Hvis noget føles forkert, så bloker og anmeld."
+      }
+    },
+    "reportBlock": {
+      "title": "Rapporterings- og blokeringsværktøjer",
+      "intro": "Hvis nogen:",
+      "reasons": {
+        "uncomfortable": "Gør dig utilpas",
+        "violates": "Overtræder vores retningslinjer",
+        "suspicious": "Sender mistænkelige eller skadelige beskeder"
+      },
+      "instruction": "Brug blokerings- og rapporteringsfunktionerne med det samme. Vi gennemgår alle rapporter alvorligt, og gentagne overtrædelser kan resultere i permanent suspendering.",
+      "anonymity": "Du vil forblive anonym, når du anmelder andre. Personen vil ikke blive underrettet om, hvem der anmeldte dem."
+    },
+    "meetingInPerson": {
+      "title": "Møde i det virkelige liv (hvis relevant)",
+      "disclaimer": "Ringdy er designet til at hjælpe dig med at finde og komme i kontakt med personer i nærheden via Bluetooth scanning eller lokale mødesteder, og mange brugere vælger at mødes personligt efter matchning. Følg disse forholdsregler:",
+      "safetyTips": {
+        "publicPlaces": "Mødes kun på offentlige steder",
+        "tellFriend": "Fortæl en ven om dine planer",
+        "shareLocation": "Del din placering med en person, du stoler på",
+        "noRides": "Tag ikke imod ture fra folk, du lige har mødt",
+        "staySober": "Hold dig ædru og årvågen",
+        "chargePhone": "Oplad din telefon, og hav den i nærheden",
+        "ownTransport": "Arranger din egen transport i begge retninger"
+      },
+      "reminder": "Hvis du føler dig utilpas, er du velkommen til at forlade siden når som helst. Bloker brugeren og anmeld vedkommende til os bagefter."
+    },
+    "enforcement": {
+      "title": "Håndhævelse og sikkerhedsforanstaltninger",
+      "intro": "Ringdy kan træffe følgende foranstaltninger, når der opstår overtrædelser:",
+      "actions": {
+        "suspend": "Midlertidig suspendering af konti",
+        "ban": "Udelukk misbrugere permanent",
+        "lawEnforcement": "Rapportér alvorlige trusler mod politiet",
+        "verification": "Kræv verifikation ved mistanke om efterligning"
+      }
+    },
+    "appeals": {
+      "title": "Appel og støtte",
+      "intro": "Hvis du føler, at du er blevet udelukket uretfærdigt, eller hvis du vil rapportere en alvorlig bekymring:",
+      "contact": {
+        "email": "📧 E-mail: support@ringdy.com",
+        "website": "🌐 Besøg: Ringdy Sikkerhedscenter (Kommer snart)"
+      }
+    },
+    "finalThoughts": {
+      "title": "Afsluttende tanker",
+      "message": "Ringdy er her for at hjælpe folk med at komme i kontakt på sikre og meningsfulde måder uden at afsløre personlige identiteter. Du har altid kontrol over, hvem du chatter med, og vi er her for at bakke dig op."
+    },
+    "navigation": {
+      "backToHome": "Tilbage til forsiden",
+      "downloadApp": "Download appen"
+    }
+  },
+  "profile": {
+    "connectViaBLE": "Forbind via BLE",
+    "stats": {
+      "connections": "Forbindelser",
+      "messages": "Beskeder",
+      "filesShared": "Delte filer"
+    },
+    "location": "San Francisco, Californien",
+    "onlineViaBLE": "Online via BLE",
+    "occupation": "Softwareudvikler - Tech Startup",
+    "education": "Stanford Universitet - Datalogi",
+    "interests": "Interesser: IoT, Bluetooth teknologi, mobiludvikling",
+    "bio": "Passioneret omkring at skabe problemfri forbindelser gennem teknologi. Jeg elsker at udforske mulighederne med Bluetooth Low Energy og bygge apps, der bringer folk sammen. Jeg glæder mig altid til at komme i kontakt med andre udviklere og teknologientusiaster i mit område. Du er velkommen til at kontakte mig for samarbejde eller bare en god teknisk diskussion!",
+    "showMore": "Vis mere"
+  },
+  "auth": {
+    "agreeWith": "Jeg er enig med"
+  }
+}

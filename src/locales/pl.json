@@ -1,0 +1,1434 @@
+{
+  "navbar": {
+    "features": "Cechy",
+    "subscription": "Prenumerata",
+    "download": "Pobierać",
+    "legal": "Prawny",
+    "privacyPolicy": "Polityka prywatności",
+    "termsOfUse": "Warunki korzystania",
+    "safetyTips": "Wskazówki i porady dotyczące bezpieczeństwa"
+  },
+  "hero": {
+    "title": "Znajdź ludzi w pobliżu.\n Nawiąż kontakt w prawdziwym życiu.",
+    "subtitle": "Potrząśnij, aby odkryć osoby w pobliżu przez Bluetooth lub dołącz do pobliskiego lokalu, aby sprawdzić, kto tam jest. Wyślij zaproszenie do znajomych, dopasuj i zacznij czatować – z opcjonalną prywatnością awatara, aż będziesz gotowy podzielić się czymś więcej.",
+    "discoverFeatures": "Odkryj funkcje",
+    "downloadApp": "Pobierz aplikację",
+    "anonymousAvatars": "Opcjonalne awatary",
+    "autoExpiry": "Bluetooth + Miejsca",
+    "privacyFirst": "Prywatność przede wszystkim"
+  },
+  "features": {
+    "proximityTitle": "Odkrywanie oparte na bliskości",
+    "proximityDescription": "Znajdź osoby w pobliżu, skanując przez Bluetooth lub dołączając do obiektu na mapie. Wyślij zaproszenie do znajomych i zacznij czatować, gdy już się dopasujecie.",
+    "avatarsTitle": "Opcjonalna prywatność awatara",
+    "avatarsDescription": "Pozostaw swój awatar, gdy poznajesz nową osobę, i przełącz się na swoje prawdziwe zdjęcia, gdy będziesz gotowy.",
+    "expiringTitle": "Odkrywanie oparte na miejscu",
+    "expiringDescription": "Przeglądaj proponowane miejsca w pobliżu i sprawdzaj, kto zameldował się w danym promieniu – nie ma potrzeby ciągłego skanowania.",
+    "revealTitle": "Wiązanie",
+    "revealDescription": "Oznacz ekskluzywną znajomość jako przywiązaną, gdy już znajdziesz kogoś, z kim chcesz pozostać.",
+    "bluetoothTitle": "Technologia Bluetooth LE",
+    "bluetoothDescription": "Połącz się bez dostępu do Internetu, korzystając z zaawansowanej technologii Bluetooth Low Energy, zapewniającej wydajną sieć lokalną.",
+    "keyFeaturesTitle": "Główne cechy",
+    "keyFeaturesDescription": "Ringdy oferuje szereg zaawansowanych funkcji zaprojektowanych w celu usprawnienia łączności lokalnej, gdziekolwiek jesteś.",
+    "downloadNow": "Pobierz teraz",
+    "tags": {
+      "autoDiscovery": "Automatyczne wykrywanie",
+      "chatMessaging": "Wiadomości czatowe",
+      "fileSharing": "Udostępnianie plików",
+      "profiles": "Profile",
+      "privacyControls": "Kontrola prywatności",
+      "offlineMode": "Tryb offline",
+      "crossPlatform": "Międzyplatformowy",
+      "lowPower": "Niska moc"
+    }
+  },
+  "useCases": {
+    "actionTitle": "Ringdy w akcji",
+    "actionDescription": "Automatyczne wykrywanie, czatowanie i udostępnianie profili w rzeczywistych środowiskach społecznościowych. Ciesz się bezproblemową łącznością dzięki zaawansowanej technologii Bluetooth Low Energy, gdziekolwiek jesteś.",
+    "campusTitle": "Campus Connect",
+    "campusDescription": "Znajdź partnerów do nauki natychmiast",
+    "eventTitle": "Networking wydarzeń",
+    "eventDescription": "Połącz się na konferencjach",
+    "businessTitle": "Spotkanie biznesowe",
+    "businessDescription": "Połączenia zawodowe",
+    "cafeTitle": "Połączenia kawiarniane",
+    "cafeDescription": "Poznaj miłośników kawy w pobliżu",
+    "localTitle": "Lokalne odkrycie",
+    "localDescription": "Poznaj swoją okolicę",
+    "gamingTitle": "Grupy graczy",
+    "gamingDescription": "Znajdź partnerów do gier",
+    "perfectTitle": "Idealne przypadki użycia",
+    "perfectDescription": "Ringdy zmienia każdą lokalizację w okazję do nawiązywania kontaktów. Niezależnie od tego, czy jesteś na uniwersytecie, konferencji, czy w lokalnej kawiarni, ",
+    "perfectDescriptionContinued": "Odkryj natychmiast znaczące powiązania.",
+    "approachDescription": "Od grup studyjnych po profesjonalne nawiązywanie kontaktów – nasze podejście bazujące na bliskości sprawia, że nawiązywanie kontaktów staje się naturalne i bezwysiłkowe.",
+    "tryItNow": "Wypróbuj teraz",
+    "tags": {
+      "studyGroups": "Grupy studyjne",
+      "events": "Wydarzenia",
+      "coworking": "Współpraca",
+      "gaming": "Hazard",
+      "travel": "Podróż",
+      "shopping": "Zakupy",
+      "fitness": "Zdatność",
+      "social": "Społeczny"
+    }
+  },
+  "community": {
+    "whyLoveTitle": "Dlaczego ludzie kochają Ringdy",
+    "whyLoveDescription": "Nasi użytkownicy stale mówią nam, jak Ringdy odmienił ich doświadczenia networkingowe. Od spotkań w kawiarniach po łączenie się na wydarzeniach – aplikacja tworzy autentyczne relacje w pobliżu.",
+    "privacyProtection": "Projekt szanujący prywatność",
+    "instantConnection": "Natychmiastowe połączenie bez internetu",
+    "lowPowerConsumption": "Bardzo niskie zużycie energii",
+    "experienceTitle": "Poznaj Ringdy",
+    "experienceDescription": "Poznaj naszą aplikację za pomocą różnych interfejsów użytkownika. Od profili użytkowników ",
+    "experienceDescriptionContinued": "Zobacz, w jaki sposób Ringdy sprawia, że nawiązywanie kontaktów w oparciu o bliskość staje się intuicyjne i angażujące.",
+    "anonymousProfiles": "Profile awatarów",
+    "chatInterface": "Interfejs czatu",
+    "nearbyDiscovery": "Odkrycia w pobliżu",
+    "joinTitle": "Dołącz do naszej społeczności",
+    "joinDescription1": "Ringdy to coś więcej niż tylko aplikacja – to sposób na poznanie prawdziwych ludzi w pobliżu, czy to za pośrednictwem skanowania Bluetooth , czy w ulubionych lokalnych miejscach.",
+    "joinDescription2": "Obserwuj nas, aby być na bieżąco z nowymi funkcjami, historiami użytkowników i wydarzeniami społecznościowymi w Twojej okolicy!",
+    "downloadNow": "Pobierz teraz"
+  },
+  "download": {
+    "title": "Pobierz Ringdy",
+    "subtitle": "Pobierz Ringdy na swoje urządzenie mobilne i zacznij kontaktować się z osobami w pobliżu. Aplikacja dostępna już teraz na platformach Android i iOS.",
+    "googlePlay": "Google Play",
+    "appStore": "Sklep z aplikacjami",
+    "getItOn": "Załóż to",
+    "downloadOn": "Pobierz na",
+    "comingSoon": "Już wkrótce",
+    "whatYouGet": "Co otrzymasz",
+    "instantConnections": "Natychmiastowe połączenia",
+    "instantConnectionsDesc": "Nawiąż natychmiastową łączność z osobami w pobliżu, korzystając z technologii Bluetooth Low Energy lub dołączając do lokalnego wydarzenia.",
+    "anonymousProfiles": "Prywatność awatara",
+    "anonymousProfilesDesc": "Aby zachować prywatność, stwórz profil awatara i udostępniaj swoje prawdziwe zdjęcia, kiedy tylko będziesz gotowy.",
+    "privacyFirst": "Prywatność przede wszystkim",
+    "privacyFirstDesc": "Masz kontrolę nad tym, co i kiedy udostępniasz. Narzędzia do blokowania i zgłaszania zapewniają bezpieczeństwo społeczności.",
+    "crossPlatform": "Wieloplatformowy",
+    "crossPlatformDesc": "Działa bezproblemowo na urządzeniach z systemem iOS i Android.",
+    "requirements": "Wymagania systemowe",
+    "androidReq": "Android 6.0 lub nowszy",
+    "iosReq": "iOS 12.0 lub nowszy",
+    "bluetoothReq": "Obsługa Bluetooth 4.0 ( BLE )",
+    "storageReq": "50 MB bezpłatnej przestrzeni dyskowej",
+    "systemDescription": "Ringdy wymaga urządzeń obsługujących technologię Bluetooth Low Energy ( BLE ). Większość nowoczesnych smartfonów i tabletów obsługuje technologię BLE .",
+    "androidRequirements": "Wymagania Androida:",
+    "androidReq1": "Android 5.0 (poziom API 21) lub nowszy",
+    "androidReq2": "Obsługa Bluetooth 4.0 LE",
+    "androidReq3": "Uprawnienia do lokalizacji (do skanowania BLE )",
+    "androidReq4": "Zalecane minimum 2 GB pamięci RAM",
+    "iosRequirements": "Wymagania iOS:",
+    "iosReq1": "iOS 12.0 lub nowszy",
+    "iosReq2": "iPhone 5s lub nowszy, iPad Air lub nowszy",
+    "iosReq3": "Urządzenie obsługujące Bluetooth 4.0 LE",
+    "iosReq4": "Włączono odświeżanie aplikacji w tle",
+    "learnMoreFeatures": "Dowiedz się więcej o funkcjach Ringdy !",
+    "crossPlatformTitle": "Kompatybilność międzyplatformowa",
+    "crossPlatformCompatibilityDesc": "Łącz się z użytkownikami na różnych platformach. Użytkownicy Androida i iOS mogą się bezproblemowo odkrywać i czatować ze sobą.",
+    "android": {
+      "title": "Android",
+      "description": "Pełna funkcjonalność Ringdy jest dostępna na urządzeniach z systemem Android 5.0 (poziom API 21) i nowszym.",
+      "featuresTitle": "Cechy:",
+      "features": {
+        "bluetooth": "Skanowanie i reklama Bluetooth LE",
+        "background": "Operacja w tle",
+        "notifications": "Powiadomienia push",
+        "offline": "Obsługa trybu offline"
+      },
+      "downloadButton": "Pobierz w Google Play"
+    },
+    "ios": {
+      "title": "iOS",
+      "description": "Natywna aplikacja iOS zoptymalizowana dla iPhone'a i iPada, zgodna z systemem iOS 12.0 i nowszymi wersjami.",
+      "featuresTitle": "Cechy:",
+      "features": {
+        "bluetooth": "Integracja rdzenia Bluetooth",
+        "background": "Odświeżanie aplikacji w tle",
+        "privacy": "Projektowanie zorientowane na prywatność",
+        "universal": "Obsługa aplikacji uniwersalnych"
+      },
+      "downloadButton": "Pobierz w App Store"
+    },
+    "qrCode": {
+      "title": "Szybkie pobieranie",
+      "description": "Zeskanuj kod QR aparatem w telefonie, aby pobrać Ringdy",
+      "placeholder": "Kod QR",
+      "instruction": "Aby pobrać, skieruj kamerę na kod QR"
+    },
+    "installation": {
+      "title": "Łatwa instalacja",
+      "description": "Rozpoczęcie korzystania z Ringdy jest proste. Pobierz aplikację, udziel niezbędnych uprawnień i zacznij odkrywać osoby w pobliżu.",
+      "step1": "Pobierz ze sklepu z aplikacjami swojej platformy",
+      "step2": "Udziel uprawnień do Bluetooth i lokalizacji",
+      "step3": "Utwórz swój profil i zacznij nawiązywać kontakty!"
+    },
+    "callToAction": {
+      "title": "Dołącz do społeczności Ringdy",
+      "description": "Zacznij łączyć się z osobami w pobliżu w bezpieczny i prywatny sposób. Pobierz Ringdy już dziś i odkryj przyszłość sieci zbliżeniowych.",
+      "googlePlay": "Google Play",
+      "appStore": "Sklep z aplikacjami"
+    }
+  },
+  "featurePage": {
+    "title": "Odkryj miejsca w pobliżu.\n Nawiąż kontakt z prawdziwymi ludźmi.",
+    "subtitle": "Przeglądaj propozycje pobliskich miejsc, poznawaj ludzi w swojej okolicy przez Bluetooth i wysyłaj zaproszenia do znajomych, które pozwolą Ci na prowadzenie prawdziwych rozmów.",
+    "exploreFeatures": "Poznaj funkcje",
+    "downloadApp": "Pobierz aplikację",
+    "heroTitle": "Odkryj prawdziwe połączenia w pobliżu",
+    "heroSubtitle": "Dołącz do zaproponowanego miejsca lub rozejrzyj się po okolicy, zobacz, kto jest w pobliżu i nawiąż kontakt z ciekawymi ludźmi dzięki technologii Bluetooth Low Energy.",
+    "discoverCrowdedPlaces": "Odkryj pobliskie miejsca",
+    "discoverCrowdedPlacesDesc": "Uzyskaj sugestie dotyczące popularnych miejsc w okolicy, w których możesz spotkać ludzi o podobnych poglądach i nawiązać wartościowe znajomości.",
+    "scanThroughAvatars": "Zobacz, kto jest w pobliżu",
+    "scanThroughAvatarsDesc": "Przeglądaj profile osób w pobliżu, z możliwością pozostawienia awatara włączonego do momentu, aż będziesz gotowy udostępnić więcej informacji.",
+    "revealAndMeet": "Dopasuj i czatuj",
+    "revealAndMeetDesc": "Wyślij prośbę o dodanie do znajomych. Po jej zaakceptowaniu zostaniesz dopasowany i będziesz mógł rozpocząć czatowanie w aplikacji.",
+    "proximityBasedConnections": "Połączenia rzeczywiste oparte na bliskości",
+    "proximityBasedConnectionsDesc": "Nasza aplikacja podpowiada miejsca w pobliżu, w których możesz poznać osoby o podobnych zainteresowaniach. Gdy już będziecie w pobliżu, przejrzyjcie profile osób z okolicy, aby znaleźć potencjalne znajomości.",
+    "bleProximityTech": "Technologia Bluetooth Low Energy zapewnia łączność wyłącznie z osobami, które znajdują się w pobliżu, dzięki czemu każde połączenie jest autentyczne i rzeczywiste.",
+    "downloadNow": "Pobierz Ringdy teraz!",
+    "realTimeProximity": "Wykrywanie bliskości w czasie rzeczywistym",
+    "realTimeProximityDesc": "Łącz się tylko z osobami, które faktycznie znajdują się w pobliżu lub w tym samym miejscu, co Ty. W ten sposób zapewnisz sobie autentyczne więzi.",
+    "howItWorks": "Jak to działa",
+    "howItWorksDesc": "Trzy proste kroki, dzięki którym odkryjesz pobliskie miejsca, nawiążesz kontakt z prawdziwymi ludźmi i zaczniesz rozmawiać.",
+    "step1Title": "Zeskanuj lub dołącz do obiektu",
+    "step1Desc": "Wstrząśnij, aby przeskanować urządzenie przez Bluetooth lub przejrzyj nasze propozycje pobliskich miejsc i dołącz do tego, które Cię interesuje.",
+    "step2Title": "Przeglądaj profile w pobliżu",
+    "step2Desc": "Zobacz profile osób w pobliżu, z opcjonalną ochroną prywatności awatara, dopóki nie będziesz gotowy udostępnić więcej informacji.",
+    "step3Title": "Wyślij prośbę i porozmawiaj",
+    "step3Desc": "Wyślij prośbę o dodanie do znajomych. Po jej zaakceptowaniu zostaniesz dopasowany i będziesz mógł rozpocząć rozmowę bezpośrednio w aplikacji.",
+    "coreFeatures": "Główne funkcje",
+    "proximityNetworking": "Sieci zbliżeniowe",
+    "proximityDesc": "Nawiąż łączność z osobami w Twoim otoczeniu, korzystając z zaawansowanej technologii Bluetooth Low Energy.",
+    "anonymousChat": "Dopasowanie prośby o dodanie do znajomych",
+    "anonymousChatDesc": "Wyślij prośbę o dodanie do znajomych i zacznij czatować, gdy tylko zostanie zaakceptowana — bez presji i spamu.",
+    "autoExpiry": "Odkrywanie miejsc",
+    "autoExpiryDesc": "Dołącz do proponowanych pobliskich miejsc, aby zobaczyć, kto zameldował się w określonym promieniu.",
+    "gradualReveal": "Stopniowe ujawnianie tożsamości",
+    "gradualRevealDesc": "Wybierz moment, w którym chcesz przełączać się między swoim awatarem a prawdziwymi zdjęciami, ponieważ relacje między wami rozwijają się naturalnie.",
+    "keyPrivacyFeatures": "Kluczowe funkcje prywatności",
+    "keyPrivacyFeaturesDesc": "Każda funkcja została zaprojektowana z myślą o bezpiecznym korzystaniu z sieci — od opcjonalnych awatarów po dopasowywanie próśb o dodanie do znajomych, co chroni Twoją prywatność.",
+    "avatarBasedProfiles": "Opcjonalne profile oparte na awatarze",
+    "autoExpiringChats": "Odkrywanie miejsc z określonym promieniem",
+    "progressiveIdentity": "Postępowe ujawnianie tożsamości",
+    "ourTeam": "Nasz zespół",
+    "ourTeamDesc": "Eksperci z pasją, którzy poświęcają się łączeniu ludzi za pośrednictwem innowacyjnych technologii dbających o prywatność.",
+    "team": {
+      "alex": {
+        "name": "Alex Chen",
+        "role": "Inżynier protokołu BLE"
+      },
+      "sarah": {
+        "name": "Sarah Johnson",
+        "role": "Programista aplikacji mobilnych"
+      },
+      "maria": {
+        "name": "Maria Rodriguez",
+        "role": "Kierownik ds. prywatności i bezpieczeństwa"
+      },
+      "david": {
+        "name": "Dawid Kim",
+        "role": "Założyciel i dyrektor generalny"
+      },
+      "title": "Nasz zespół",
+      "description": "Ludzie pełni pasji, poświęcający się łączeniu ludzi za pośrednictwem innowacyjnych technologii, które na pierwszym miejscu stawiają prywatność.",
+      "roles": {
+        "engineer": "Inżynier protokołu BLE",
+        "developer": "Programista aplikacji mobilnych",
+        "security": "Kierownik ds. prywatności i bezpieczeństwa",
+        "ceo": "Założyciel i dyrektor generalny"
+      }
+    },
+    "readyToConnect": "Gotowy na połączenie?",
+    "readyToConnectDesc": "Dołącz do sieci bezpiecznie dzięki Bluetooth i wyszukiwaniu obiektów. Dopasuj, czatuj i ujawnij swoją tożsamość tylko wtedy, gdy nawiążesz prawdziwą więź.",
+    "finalFeatures": {
+      "anonymousAvatars": "Opcjonalne awatary",
+      "anonymousAvatarsDesc": "Nie wyłączaj swojego awatara, gdy poznajesz kogoś bliżej. Nie ma presji, aby od razu się ujawnić.",
+      "autoExpire": "Odkrywanie miejsca i Bluetooth",
+      "autoExpireDesc": "Znajdź osoby w pobliżu, skanując okolicę przez Bluetooth lub dołączając do sugerowanego lokalnego miejsca spotkań.",
+      "friendRequests": "Prośby o dodanie do znajomych",
+      "friendRequestsDesc": "Wysyłaj zaproszenia do interesujących osób i rozpoczynaj rozmowy tylko z osobami o wspólnym zainteresowaniu."
+    },
+    "eventNetworking": "Networking wydarzeń",
+    "eventNetworkingDesc": "Poznaj ludzi wokół siebie na konferencjach, spotkaniach i wydarzeniach, korzystając z Bluetooth .",
+    "studyGroups": "Grupy studyjne",
+    "studyGroupsDesc": "Znajdź partnerów do nauki w pobliżu kampusu, nie musząc ich wcześniej znać.",
+    "workplace": "Miejsce pracy i kawiarnie",
+    "workplaceDesc": "Poznaj współpracowników i innych profesjonalistów w pobliskich przestrzeniach coworkingowych i kawiarniach.",
+    "anonymousNetworking": "Prywatność oparta na awatarze",
+    "anonymousNetworkingDesc": "Pozostaw awatara, gdy już poczujesz się komfortowo, i udostępnij swoje prawdziwe zdjęcia, kiedy tylko zechcesz.",
+    "privacyProtection": "Zawsze masz kontrolę nad tym, co udostępniasz i z kim.",
+    "privacyFeatures": {
+      "title": "Prywatność, którą kontrolujesz",
+      "description": "Ringdy jest tak skonstruowane, że to Ty decydujesz, co i kiedy chcesz udostępnić – od tego, w jaki sposób poznajesz ludzi, po to, ile siebie ujawniasz.",
+      "avatarProfiles": "Opcjonalne profile oparte na awatarze",
+      "autoExpiring": "Odkrywanie obiektów z określonym promieniem",
+      "progressiveReveal": "Ujawnij swoje prawdziwe zdjęcia we własnym tempie"
+    },
+    "cta": {
+      "title": "Gotowy na połączenie?",
+      "description": "Dołącz do osób odkrywających autentyczne więzi w pobliżu — przez Bluetooth lub meldując się w lokalnym lokalu.",
+      "features": {
+        "anonymousAvatars": "Opcjonalne awatary",
+        "anonymousAvatarsDesc": "Nie wyłączaj swojego awatara, gdy poznajesz kogoś bliżej. Nie ma presji, aby od razu się ujawnić.",
+        "autoExpire": "Odkrywanie miejsca i Bluetooth",
+        "autoExpireDesc": "Znajdź osoby w pobliżu, skanując okolicę lub dołączając do sugerowanego lokalnego miejsca spotkań.",
+        "friendRequests": "Prośby o dodanie do znajomych",
+        "friendRequestsDesc": "Wysyłaj zaproszenia do interesujących osób i rozpoczynaj rozmowy tylko z osobami o wspólnym zainteresowaniu."
+      }
+    }
+  },
+  "subscription": {
+    "title": "Ringdy Premium",
+    "subtitle": "Odblokuj zaawansowane funkcje, aby zapewnić sobie lepsze połączenia. Wybierz plan, który odpowiada Twoim potrzebom sieciowym.",
+    "weeklyTitle": "Premium tygodniowe",
+    "weeklyPrice": "$1.99",
+    "weeklyPeriod": "/tydzień",
+    "weeklyDescription": "Idealne do wypróbowania funkcji premium",
+    "chooseWeekly": "Wybierz tygodniowe",
+    "monthlyTitle": "Miesięczny",
+    "monthlyPrice": "Zobacz cennik",
+    "monthlyPeriod": "na miesiąc",
+    "monthlyDescription": "Elastyczność, anuluj w dowolnym momencie",
+    "mostPopular": "Najpopularniejsze",
+    "chooseMonthly": "Wybierz miesięczną",
+    "sixMonthTitle": "Sześć miesięcy",
+    "sixMonthPrice": "Zobacz cennik",
+    "sixMonthPeriod": "co 6 miesięcy",
+    "sixMonthDescription": "Oszczędzaj więcej w ciągu sześciu miesięcy",
+    "chooseSixMonth": "Wybierz sześć miesięcy",
+    "featuresTitle": "Wyjaśnienie funkcji Premium",
+    "featuresDescription": "Ringdy Premium odblokowuje zaawansowane funkcje zaprojektowane z myślą o ulepszeniu Twoich doświadczeń sieciowych i pomocy w nawiązywaniu bardziej wartościowych kontaktów.",
+    "enhancedNetworking": "Ulepszona sieć",
+    "enhancedNetworkingDesc": "Funkcje Premium pozwalają na efektywniejszą łączność bez codziennych limitów.",
+    "features": {
+      "unlimitedRequests": "Nieograniczone zaproszenia do znajomych",
+      "advancedFilters": "Zaawansowane filtry",
+      "meetingPlaces": "Inteligentne sugestie miejsc spotkań",
+      "rematch": "Ponowne połączenie z poprzednimi użytkownikami",
+      "unlimitedRequestsDesc": "Wysyłaj nieograniczone zaproszenia do znajomych codziennie. Darmowi użytkownicy ograniczeni do 20/dzień.",
+      "advancedFiltersDesc": "Filtruj według zainteresowań, osobowości i statusu zweryfikowanego dla autentycznych połączeń.",
+      "meetingPlacesDesc": "Otrzymuj spersonalizowane sugestie lokalizacji na podstawie twojego dokładnego obszaru.",
+      "rematchDesc": "Ponownie połącz się z poprzednimi użytkownikami, gdy znów się spotkacie.",
+      "unlimitedConnections": "Nieograniczone połączenia",
+      "unlimitedAreaAccess": "Nieograniczony dostęp do obszaru",
+      "unlimitedUndo": "Nieograniczone cofanie",
+      "profilePriority": "Priorytet profilu",
+      "premiumAvatars": "Awatary Premium",
+      "customAvatar": "Niestandardowy awatar",
+      "unlimitedConnectionsDesc": "Dodawaj znajomych i akceptuj zaproszenia bez żadnych dziennych limitów.",
+      "unlimitedAreaAccessDesc": "Dołącz do tylu miejsc, ile chcesz, bez żadnych ograniczeń.",
+      "unlimitedUndoDesc": "Możesz w każdej chwili cofnąć prośbę o dodanie do znajomych.",
+      "profilePriorityDesc": "Twój profil jest zawsze wyświetlany na górze listy udostępnianej innym użytkownikom.",
+      "premiumAvatarsDesc": "Uzyskaj dostęp do ekskluzywnej kolekcji projektów awatarów premium.",
+      "customAvatarDesc": "Utwórz spersonalizowany awatar na podstawie własnych zdjęć."
+    },
+    "faqTitle": "Często zadawane pytania",
+    "faqDescription": "Masz pytania dotyczące Ringdy Premium ? Mamy odpowiedzi.",
+    "faq": {
+      "cancelTitle": "Czy mogę anulować subskrypcję w dowolnym momencie?",
+      "cancelAnswer": "Tak, możesz anulować subskrypcję w dowolnym momencie w ustawieniach konta lub w sklepie z aplikacjami na swoim urządzeniu. Funkcje premium pozostają aktywne do końca bieżącego okresu rozliczeniowego.",
+      "unlimitedTitle": "Co oznacza „Nieograniczone połączenia”?",
+      "unlimitedAnswer": "Dzięki Premium możesz dodawać znajomych i przyjmować zaproszenia bez dziennych limitów obowiązujących na kontach bezpłatnych.",
+      "filtersTitle": "Czym dokładnie są zaawansowane filtry?",
+      "filtersAnswer": "Zaawansowane filtry pozwalają szukać według zainteresowań, przedziału wiekowego, zawodu, promienia odległości i statusu aktywności. Możesz także filtrować według użytkowników, którzy są obecnie online lub byli aktywni niedawno, dla lepszych szans na połączenie.",
+      "meetingTitle": "Jak działa sugestia miejsc spotkań?",
+      "meetingAnswer": "Nasza AI sugeruje bezpieczne, publiczne miejsca spotkań jak kawiarnie, biblioteki czy przestrzenie coworkingowe w odległości spaceru od obu użytkowników. Uwzględnia twoje preferencje, obecną lokalizację i porę dnia, aby polecić najlepsze miejsca do spotkania.",
+      "rematchTitle": "Co oznacza 'ponowne połączenie z poprzednimi użytkownikami'?",
+      "rematchAnswer": "Jeśli miałeś rozmowę, która wygasła (30 minut) bez ujawniania tożsamości, użytkownicy premium mogą ponownie połączyć się z tą osobą, jeśli spotkasz ją w pobliżu. To daje ci drugą szansę na nawiązanie połączenia.",
+      "trialTitle": "Czy dostępny jest darmowy okres próbny?",
+      "trialAnswer": "Tak! Nowi użytkownicy otrzymują 7-dniowy darmowy okres próbny wszystkich funkcji premium. Możesz eksplorować nieograniczone zaproszenia do znajomych, zaawansowane filtry i sugestie spotkań przed podjęciem decyzji, który plan najlepiej ci odpowiada.",
+      "offlineTitle": "Czy funkcje premium działają bez internetu?",
+      "offlineAnswer": "Wykrywanie bliskości BLE działa offline, ale funkcje premium takie jak sugestie lokalizacji, nieograniczone prośby i zaawansowane filtry wymagają połączenia internetowego do pełnej funkcjonalności.",
+      "paymentTitle": "Jakie metody płatności akceptujecie?",
+      "paymentAnswer": "Akceptujemy płatności za pośrednictwem sklepu z aplikacjami na Twoim urządzeniu (Google Play lub App Store), w tym wszystkie obsługiwane tam metody płatności.",
+      "areaTitle": "Czym jest „nieograniczony dostęp do obszaru”?",
+      "areaAnswer": "Członkowie Premium mogą dołączyć do dowolnej liczby pobliskich obiektów, bez ograniczeń co do liczby obszarów, które mogą odkryć w ciągu jednego dnia.",
+      "ticketsTitle": "Czym są karnety Discovery?",
+      "ticketsAnswer": "Karnety Discovery to alternatywa dla tradycyjnej subskrypcji, oparta na zasadzie płatności za każde użycie. Każdy karnet umożliwia Ci dołączenie do jednego pobliskiego obiektu i zwiedzanie go bez konieczności angażowania się w cykliczny plan.",
+      "nightPassTitle": "Czym jest Night Pass ?",
+      "nightPassAnswer": "Night Pass to 24-godzinny karnet, który umożliwia odkrywanie obiektów przez cały dzień lub noc bez konieczności korzystania z Discovery Pass."
+    },
+    "priceDisclaimer": "Ceny są przybliżonymi przeliczeniami z USD na podstawie regionu Twojej przeglądarki. Jeśli stawki są niedostępne, ceny są wyświetlane w USD. Ostateczne ceny w aplikacji są ustalane przez Twój sklep z aplikacjami i mogą się różnić.",
+    "yearlyTitle": "Rocznie",
+    "yearlyPrice": "Zobacz cennik",
+    "yearlyPeriod": "na rok",
+    "yearlyDescription": "Najlepsza wartość dla zwykłych użytkowników",
+    "bestValue": "Najlepszy stosunek jakości do ceny",
+    "chooseYearly": "Wybierz Rocznie",
+    "tickets": {
+      "title": "Karnety Discovery",
+      "subtitle": "Korzystaj z funkcji odkryć, aby poznawać ludzi w pobliskich miejscach, bez konieczności wykupywania pełnej subskrypcji.",
+      "single": "Pojedyncze odkrycie",
+      "singleDesc": "Użyj jednego karnetu, aby wejść do jednego miejsca i zobaczyć, kto tam jest.",
+      "venueAccessFeature": "Każdy karnet umożliwia dostęp do jednego miejsca.",
+      "pack3": "3 odkrycia",
+      "pack3Desc": "Trzy Karnety Discovery. Każdy karnet odblokowuje jedno miejsce.",
+      "pack5": "5 odkryć",
+      "pack5Desc": "Pięć Karnetów Discovery. Każdy karnet odblokowuje jedno miejsce.",
+      "bestValue": "Najlepszy stosunek jakości do ceny",
+      "specialTicket": "Night Pass",
+      "specialTicketDesc": "Możliwość dołączenia do nieograniczonej liczby obiektów na okres 24 godzin bez konieczności korzystania z karnetów Discovery Pass."
+    }
+  },
+  "footer": {
+    "keepInTouch": "Bądźmy w kontakcie!",
+    "findUsOn": "Możesz nas znaleźć na dowolnej z tych platform. Odpowiadamy w ciągu 1–2 dni roboczych.",
+    "usefulLinks": "Przydatne linki",
+    "aboutUs": "O nas",
+    "blog": "Blog",
+    "github": "GitHub",
+    "freeProducts": "Darmowe produkty",
+    "otherResources": "Inne zasoby",
+    "mitLicense": "Licencja MIT",
+    "termsConditions": "Warunki korzystania",
+    "privacyPolicy": "Polityka prywatności",
+    "contactUs": "Skontaktuj się z nami",
+    "copyright": "Prawa autorskie © {{year}} Ringdy . Wszelkie prawa zastrzeżone."
+  },
+  "legal": {
+    "privacyPolicy": {
+      "title": "Polityka prywatności",
+      "subtitle": "Twoja prywatność jest naszym priorytetem. Dowiedz się, jak chronimy Twoje dane i dajemy Ci pełną kontrolę nad tym, co udostępniasz.",
+      "lastUpdated": "Ostatnia aktualizacja: styczeń 2025 r.",
+      "introduction": "Niniejsza Polityka prywatności opisuje naszą politykę i procedury dotyczące gromadzenia, wykorzystywania i ujawniania Twoich danych podczas korzystania z Usługi, a także informuje Cię o Twoich prawach do prywatności i sposobie, w jaki chroni Cię prawo.",
+      "agreement": "Wykorzystujemy Twoje dane osobowe w celu świadczenia i ulepszania Usługi. Korzystając z Usługi, wyrażasz zgodę na gromadzenie i wykorzystywanie informacji zgodnie z niniejszą Polityką Prywatności.",
+      "sections": {
+        "interpretationTitle": "Interpretacja i definicje",
+        "interpretationSubtitle": "Interpretacja",
+        "definitionsSubtitle": "Definicje",
+        "interpretationText": "Słowa, których pierwsza litera jest wielka, mają znaczenie zdefiniowane pod następującymi warunkami. Poniższe definicje mają to samo znaczenie niezależnie od tego, czy występują w liczbie pojedynczej, czy mnogiej.",
+        "definitionsText": "Na potrzeby niniejszej Polityki Prywatności:",
+        "definitionLabels": {
+          "account": "Konto:",
+          "affiliate": "Przyłączać:",
+          "application": "Aplikacja:",
+          "business": "Biznes:",
+          "ccpaCpra": "CCPA i/lub CPRA:",
+          "company": "Firma:",
+          "consumer": "Konsument:",
+          "country": "Kraj:",
+          "dataController": "Administrator danych:",
+          "device": "Urządzenie:",
+          "doNotTrack": "Nie śledź (DNT):",
+          "gdpr": "RODO:",
+          "personalData": "Dane osobowe:",
+          "service": "Praca:",
+          "serviceProvider": "Dostawca usług:",
+          "thirdPartySocialMedia": "Usługa mediów społecznościowych stron trzecich:",
+          "usageData": "Dane dotyczące użytkowania:",
+          "you": "Ty:"
+        },
+        "definitions": {
+          "account": "Unikalne konto utworzone dla Ciebie, umożliwiające dostęp do naszych Usług lub ich części.",
+          "affiliate": "Podmiot kontrolujący, kontrolowany lub podlegający wspólnej kontroli ze stroną, gdzie „kontrola” oznacza posiadanie 50% lub więcej akcji, udziałów kapitałowych lub innych papierów wartościowych uprawniających do głosowania w wyborach dyrektorów lub innych organów zarządzających.",
+          "application": "Dotyczy oprogramowania Ringdy dostarczanego przez Spółkę.",
+          "business": "Na potrzeby CCPA/CPRA oznacza Spółkę jako podmiot prawny, który zbiera dane osobowe Konsumentów i ustala cele i sposoby przetwarzania danych osobowych Konsumentów.",
+          "ccpaCpra": "Odnosi się do kalifornijskiej ustawy o ochronie prywatności konsumentów („CCPA”) ze zmianami wprowadzonymi przez kalifornijską ustawę o prawach prywatności z 2020 r. („CPRA”).",
+          "company": "Określane w niniejszej Umowie jako „Firma”, „My”, „Nas” lub „Nasz” odnosi się do Ringdy . W rozumieniu RODO, Spółka jest Administratorem Danych.",
+          "consumer": "Na potrzeby CCPA/CPRA oznacza osobę fizyczną będącą rezydentem Kalifornii.",
+          "country": "Odnosi się do: Stanów Zjednoczonych",
+          "dataController": "Dla celów RODO (Rozporządzenie o Ochronie Danych Osobowych) rozumie się Spółkę jako osobę prawną, która samodzielnie lub wspólnie z innymi ustala cele i sposoby przetwarzania Danych Osobowych.",
+          "device": "Każde urządzenie umożliwiające dostęp do Usługi, takie jak smartfon, tablet lub komputer.",
+          "doNotTrack": "Koncepcja promowana przez amerykańskie organy regulacyjne branży internetowej, mająca na celu opracowanie i wdrożenie mechanizmu umożliwiającego użytkownikom Internetu kontrolowanie śledzenia ich aktywności online na różnych stronach internetowych.",
+          "gdpr": "Dotyczy ogólnego rozporządzenia UE o ochronie danych.",
+          "personalData": "Wszelkie informacje dotyczące zidentyfikowanej lub możliwej do zidentyfikowania osoby fizycznej. Na potrzeby RODO, Dane Osobowe oznaczają wszelkie informacje dotyczące Użytkownika, takie jak imię i nazwisko, numer identyfikacyjny, dane o lokalizacji, identyfikator internetowy lub jeden lub więcej czynników określających fizyczną, fizjologiczną, genetyczną, psychiczną, ekonomiczną, kulturową lub społeczną tożsamość.",
+          "service": "Odnosi się do Aplikacji.",
+          "serviceProvider": "Każda osoba fizyczna lub prawna przetwarzająca dane w imieniu Spółki. Dotyczy to firm zewnętrznych lub osób zatrudnionych przez Spółkę w celu ułatwienia świadczenia Usługi, świadczenia Usługi w imieniu Spółki, świadczenia usług związanych z Usługą lub pomagania Spółce w analizowaniu sposobu korzystania z Usługi.",
+          "thirdPartySocialMedia": "Każda strona internetowa lub witryna sieci społecznościowej, poprzez którą Użytkownik może zalogować się lub utworzyć konto w celu korzystania z Usługi.",
+          "usageData": "Dane zbierane automatycznie, generowane albo podczas korzystania z Usługi, albo przez samą infrastrukturę Usługi (na przykład czas trwania wizyty na stronie).",
+          "you": "Osoba uzyskująca dostęp do Usługi lub korzystająca z niej albo spółka lub inny podmiot prawny, w imieniu którego taka osoba uzyskuje dostęp do Usługi lub z niej korzysta, w zależności od przypadku."
+        },
+        "dataCollectionTitle": "Gromadzenie i wykorzystywanie Twoich danych osobowych",
+        "dataTypesTitle": "Rodzaje zbieranych danych",
+        "personalDataTitle": "Dane osobowe",
+        "personalDataDescription": "Podczas korzystania z Naszej Usługi, możemy poprosić Cię o podanie nam pewnych danych osobowych, które mogą posłużyć do skontaktowania się z Tobą lub zidentyfikowania Cię. Dane osobowe mogą obejmować między innymi:",
+        "usageDataTitle": "Dane dotyczące użytkowania",
+        "usageDataDescription1": "Dane dotyczące użytkowania są zbierane automatycznie podczas korzystania z Usługi.",
+        "usageDataDescription2": "Dane dotyczące użytkowania mogą obejmować informacje takie jak adres protokołu internetowego Twojego urządzenia (np. adres IP), typ przeglądarki, wersja przeglądarki, strony naszego Serwisu, które odwiedzasz, czas i datę Twojej wizyty, czas spędzony na tych stronach, unikalne identyfikatory urządzenia i inne dane diagnostyczne.",
+        "usageDataDescription3": "Gdy uzyskujesz dostęp do Usługi za pośrednictwem urządzenia mobilnego, możemy automatycznie zbierać pewne informacje, w tym między innymi rodzaj używanego urządzenia mobilnego, unikalny identyfikator urządzenia mobilnego, adres IP urządzenia mobilnego, system operacyjny urządzenia mobilnego, rodzaj używanej mobilnej przeglądarki internetowej, unikalne identyfikatory urządzeń i inne dane diagnostyczne.",
+        "thirdPartyTitle": "Informacje z zewnętrznych serwisów społecznościowych",
+        "thirdPartyDescription1": "Spółka umożliwia Użytkownikowi utworzenie konta i zalogowanie się w celu korzystania z Usługi za pośrednictwem następujących Usług Mediów Społecznościowych Stron Trzecich:",
+        "thirdPartyDescription2": "Jeśli zdecydujesz się zarejestrować za pośrednictwem serwisu mediów społecznościowych stron trzecich lub w inny sposób udzielić nam dostępu do niego, możemy zbierać dane osobowe, które są już powiązane z Twoim kontem w serwisie mediów społecznościowych stron trzecich, takie jak Twoje imię i nazwisko, adres e-mail, Twoje działania lub lista kontaktów powiązana z tym kontem.",
+        "appDataTitle": "Informacje zbierane podczas korzystania z aplikacji",
+        "appDataDescription1": "Podczas korzystania z Naszej Aplikacji, w celu zapewnienia funkcji Naszej Aplikacji, możemy za Twoją uprzednią zgodą zbierać:",
+        "appDataDescription2": "Wykorzystujemy te informacje do udostępniania funkcji Naszej Usługi, jej ulepszania i personalizacji. Informacje te mogą być przechowywane lokalnie na Twoim urządzeniu lub przesyłane na szyfrowane serwery. Możesz w dowolnym momencie włączyć lub wyłączyć dostęp do tych informacji w ustawieniach Twojego Urządzenia.",
+        "dataUseTitle": "Wykorzystanie Twoich danych osobowych",
+        "dataUseDescription": "Spółka może wykorzystywać Dane Osobowe w następujących celach:",
+        "sharingTitle": "Udostępnianie danych osobowych",
+        "sharingDescription": "Możemy udostępniać Twoje dane osobowe w następujących sytuacjach:",
+        "retentionTitle": "Przechowywanie Twoich danych osobowych"
+      },
+      "dataUses": {
+        "provide": "Aby świadczyć i utrzymywać naszą Usługę, w tym monitorować korzystanie z naszej Usługi i umożliwić wyszukiwanie osób w pobliżu za pomocą technologii Bluetooth i lokalizacji.",
+        "account": "Zarządzanie Twoim Kontem: Aby zarządzać Twoją rejestracją jako użytkownika Usługi. Podane przez Ciebie Dane Osobowe mogą zapewnić Ci dostęp do różnych funkcjonalności Usługi, które są dostępne dla Ciebie jako zarejestrowanego użytkownika.",
+        "contract": "W celu wykonania umowy: Opracowanie, wykonanie i realizacja usług, o które Państwo poprosili, lub jakiejkolwiek innej umowy zawartej z Nami za pośrednictwem Serwisu.",
+        "contact": "Aby się z Tobą skontaktować: Aby się z Tobą skontaktować za pośrednictwem poczty elektronicznej, powiadomień push lub innych równoważnych form komunikacji elektronicznej w sprawie aktualizacji, powiadomień dotyczących bezpieczeństwa lub komunikatów informacyjnych związanych z funkcjonalnościami.",
+        "offers": "Aby dostarczać Ci wiadomości i oferty specjalne: O innych towarach, usługach i wydarzeniach, które oferujemy, a które są podobne do tych, z których już korzystałeś lub o które pytałeś, chyba że zdecydowałeś się nie otrzymywać takich informacji.",
+        "requests": "Aby zarządzać Twoimi prośbami: Aby odpowiadać na Twoje prośby kierowane do Nas i nimi zarządzać.",
+        "content": "W celu dostarczania ukierunkowanych treści: Możemy wykorzystywać Twoje dane do tworzenia i wyświetlania treści dostosowanych do Twoich zainteresowań i lokalizacji (w celu umożliwienia odnalezienia użytkowników w pobliżu) oraz do pomiaru ich skuteczności.",
+        "business": "W przypadku przeniesienia własności przedsiębiorstwa: Możemy wykorzystać Twoje dane w celu oceny lub przeprowadzenia fuzji, sprzedaży, restrukturyzacji, reorganizacji, rozwiązania lub innej sprzedaży lub przeniesienia części lub całości Naszych aktywów.",
+        "other": "W innych celach: Możemy wykorzystywać Twoje dane w innych celach, takich jak analiza danych, identyfikacja trendów użytkowania, określanie skuteczności naszych kampanii promocyjnych oraz ocena i ulepszanie naszych Usług, produktów, usług, marketingu i Twoich doświadczeń."
+      },
+      "sharingTypes": {
+        "providers": "Dostawcom usług: Możemy udostępniać Twoje dane osobowe Dostawcom usług w celu monitorowania i analizowania sposobu korzystania z naszych Usług, przetwarzania płatności, a także w celu skontaktowania się z Tobą.",
+        "transfers": "W przypadku przeniesienia własności przedsiębiorstwa: Możemy udostępniać lub przekazywać Twoje dane osobowe w związku z jakąkolwiek fuzją, sprzedażą aktywów Spółki, finansowaniem lub przejęciem całości lub części Naszego przedsiębiorstwa przez inną spółkę lub w trakcie negocjacji takich transakcji.",
+        "affiliates": "Podmiotom stowarzyszonym: Możemy udostępniać Twoje dane naszym podmiotom stowarzyszonym. W takim przypadku będziemy wymagać od tych podmiotów stowarzyszonych przestrzegania niniejszej Polityki prywatności.",
+        "partners": "Z partnerami biznesowymi: Możemy udostępniać Twoje dane naszym partnerom biznesowym w celu oferowania Ci określonych produktów, usług lub promocji.",
+        "users": "Z innymi użytkownikami: Kiedy odkryjesz i połączysz się z innymi użytkownikami w pobliżu, Twoje dane profilowe (w tym Twoje imię i nazwisko oraz zdjęcia, a nawet Twój awatar, jeśli zdecydujesz się go użyć) zostaną udostępnione w ramach procesu odkrywania, dodawania do znajomych i dopasowywania. W dowolnym momencie możesz samodzielnie decydować, czy wyświetlić awatar, czy Twoje prawdziwe zdjęcia.",
+        "consent": "Za Twoją zgodą: Możemy ujawniać Twoje dane osobowe w dowolnym innym celu za Twoją zgodą."
+      },
+      "security": {
+        "title": "Bezpieczeństwo Twoich danych osobowych",
+        "description": "Bezpieczeństwo Twoich Danych Osobowych jest dla nas ważne, ale pamiętaj, że żadna metoda transmisji danych przez Internet ani metoda elektronicznego przechowywania danych nie jest w 100% bezpieczna. Chociaż dokładamy wszelkich starań, aby chronić Twoje Dane Osobowe za pomocą komercyjnie akceptowalnych metod, w tym kompleksowego szyfrowania wiadomości czatu i bezpiecznych protokołów Bluetooth , nie możemy zagwarantować ich całkowitego bezpieczeństwa."
+      },
+      "contact": {
+        "title": "Skontaktuj się z nami",
+        "description": "Jeśli masz jakiekolwiek pytania dotyczące niniejszej Polityki Prywatności, możesz się z nami skontaktować:",
+        "email": "E-mail: privacy@ringdy.com",
+        "website": "Na tej stronie naszej witryny internetowej: https://ringdy.com/contact",
+        "mail": "Pocztą: Ringdy Privacy Team, 123 Tech Street, San Francisco, CA 94105, Stany Zjednoczone"
+      },
+      "shineTheLight": {
+        "title": "Twoje prawa do prywatności w Kalifornii (kalifornijska ustawa Shine the Light)",
+        "description1": "Zgodnie z sekcją 1798 Kodeksu cywilnego Kalifornii (kalifornijska ustawa Shine the Light) mieszkańcy Kalifornii, którzy mają z nami ugruntowane relacje biznesowe, mogą raz w roku zażądać informacji o udostępnianiu swoich Danych osobowych stronom trzecim do celów marketingu bezpośredniego prowadzonego przez te strony trzecie.",
+        "description2": "Jeśli chcesz uzyskać więcej informacji na temat kalifornijskiej ustawy Shine the Light i jesteś rezydentem Kalifornii, możesz skontaktować się z nami, korzystając z danych kontaktowych podanych poniżej."
+      },
+      "minorUsers": {
+        "title": "Prawa do prywatności dla nieletnich użytkowników w Kalifornii (Kodeks biznesu i zawodów Kalifornii, sekcja 22581)",
+        "description1": "Artykuł 22581 Kodeksu biznesu i zawodów Kalifornii pozwala mieszkańcom Kalifornii, którzy nie ukończyli 18 lat i są zarejestrowanymi użytkownikami witryn, usług lub aplikacji internetowych, na żądanie i uzyskanie usunięcia opublikowanych przez nich publicznie treści lub informacji.",
+        "description2": "Jeśli jesteś mieszkańcem Kalifornii i chcesz poprosić o usunięcie takich danych, możesz skontaktować się z nami, korzystając z danych kontaktowych podanych poniżej, podając adres e-mail powiązany z Twoim kontem.",
+        "description3": "Należy pamiętać, że Twoja prośba nie gwarantuje całkowitego lub wszechstronnego usunięcia treści lub informacji zamieszczonych w Internecie oraz że prawo może nie zezwalać na usunięcie lub nakazywać jego wykonania w określonych okolicznościach."
+      },
+      "childrenPrivacy": {
+        "title": "Prywatność dzieci",
+        "description1": "Nasza Usługa nie jest skierowana do osób poniżej 13. roku życia. Nie gromadzimy świadomie danych osobowych od osób poniżej 13. roku życia. Jeśli jesteś rodzicem lub opiekunem i wiesz, że Twoje dziecko przekazało nam Dane Osobowe, skontaktuj się z nami.",
+        "description2": "Jeżeli dowiemy się, że zebraliśmy Dane Osobowe od osoby poniżej 13. roku życia bez weryfikacji zgody rodzicielskiej, podejmiemy kroki mające na celu usunięcie tych informacji z Naszych serwerów.",
+        "description3": "Jeżeli musimy oprzeć się na zgodzie jako podstawie prawnej do przetwarzania Twoich danych, a Twój kraj wymaga zgody rodzica, możemy zażądać zgody rodzica przed zebraniem i wykorzystaniem tych danych."
+      },
+      "linksToOtherWebsites": {
+        "title": "Linki do innych stron internetowych",
+        "description": "Nasz Serwis może zawierać linki do innych stron internetowych, które nie są przez nas obsługiwane. Kliknięcie linku strony trzeciej spowoduje przekierowanie do witryny tej strony trzeciej. Zdecydowanie zalecamy zapoznanie się z Polityką Prywatności każdej odwiedzanej witryny. Nie mamy kontroli nad treścią, polityką prywatności ani praktykami stron lub usług stron trzecich i nie ponosimy za nie odpowiedzialności."
+      },
+      "changes": {
+        "title": "Zmiany w niniejszej Polityce prywatności",
+        "description1": "Możemy okresowo aktualizować naszą Politykę Prywatności. Powiadomimy Cię o wszelkich zmianach, publikując nową Politykę Prywatności na tej stronie.",
+        "description2": "Poinformujemy Cię o tym za pośrednictwem poczty elektronicznej i/lub widocznego powiadomienia w Naszej Usłudze przed wejściem zmian w życie i zaktualizujemy datę „Ostatniej aktualizacji” znajdującą się na górze niniejszej Polityki prywatności.",
+        "description3": "Zalecamy okresowe zapoznawanie się z niniejszą Polityką Prywatności w celu zapoznania się z wszelkimi zmianami. Zmiany w niniejszej Polityce Prywatności wchodzą w życie z chwilą ich opublikowania na tej stronie."
+      },
+      "backToHome": "Powrót do strony głównej",
+      "retention": {
+        "description1": "Spółka będzie przechowywać Twoje Dane Osobowe wyłącznie tak długo, jak będzie to konieczne do celów określonych w niniejszej Polityce Prywatności. Będziemy przechowywać i wykorzystywać Twoje Dane Osobowe w zakresie niezbędnym do wypełnienia naszych zobowiązań prawnych, rozstrzygania sporów oraz egzekwowania naszych umów i polityk prawnych.",
+        "description2": "Firma będzie również przechowywać Dane Użytkowania do celów analizy wewnętrznej. Dane Użytkowania są zazwyczaj przechowywane przez krótszy okres, chyba że są wykorzystywane do wzmocnienia bezpieczeństwa lub poprawy funkcjonalności Naszej Usługi, lub gdy jesteśmy prawnie zobowiązani do przechowywania tych danych przez dłuższy okres."
+      },
+      "transfer": {
+        "title": "Przekazywanie Twoich danych osobowych",
+        "description1": "Twoje dane, w tym Dane Osobowe, są przetwarzane w biurach operacyjnych Spółki oraz w innych miejscach, w których znajdują się strony zaangażowane w przetwarzanie. Oznacza to, że informacje te mogą być przesyłane i przechowywane na komputerach znajdujących się poza Twoim stanem, prowincją, krajem lub inną jurysdykcją rządową, gdzie przepisy o ochronie danych mogą różnić się od przepisów obowiązujących w Twojej jurysdykcji.",
+        "description2": "Wyrażenie przez Państwa zgody na niniejszą Politykę Prywatności, a następnie przesłanie tych informacji, oznacza zgodę na takie przekazanie. Spółka podejmie wszelkie uzasadnione kroki niezbędne do zapewnienia, że Państwa dane będą traktowane bezpiecznie i zgodnie z niniejszą Polityką Prywatności. Państwa Dane Osobowe nie zostaną przekazane żadnej organizacji ani do żadnego kraju, chyba że zostaną wdrożone odpowiednie środki kontroli, w tym bezpieczeństwo Państwa danych i innych informacji osobowych."
+      },
+      "deletion": {
+        "title": "Usuń swoje dane osobowe",
+        "description1": "Masz prawo usunąć lub zażądać od nas pomocy w usunięciu Danych Osobowych, które zebraliśmy na Twój temat.",
+        "description2": "Nasza Usługa może zapewnić Ci możliwość usunięcia pewnych informacji o Tobie z poziomu Usługi.",
+        "description3": "Możesz zaktualizować, zmienić lub usunąć swoje dane w dowolnym momencie, logując się na swoje Konto (jeśli je posiadasz) i przechodząc do sekcji ustawień konta, która umożliwia zarządzanie Twoimi danymi osobowymi. Możesz również skontaktować się z nami w celu uzyskania dostępu do danych osobowych, ich poprawienia lub usunięcia."
+      },
+      "disclosure": {
+        "title": "Ujawnienie Twoich danych osobowych",
+        "businessTitle": "Transakcje biznesowe",
+        "businessDescription": "W przypadku fuzji, przejęcia lub sprzedaży aktywów Spółki, Twoje Dane Osobowe mogą zostać przeniesione. Powiadomimy Cię o tym przed przeniesieniem Twoich Danych Osobowych i objęciem ich inną Polityką Prywatności.",
+        "lawTitle": "Organy ścigania",
+        "lawDescription": "W pewnych okolicznościach Spółka może być zobowiązana do ujawnienia Twoich Danych Osobowych, jeżeli wymaga tego prawo lub w odpowiedzi na uzasadnione żądanie organów publicznych (np. sądu lub agencji rządowej).",
+        "legalTitle": "Inne wymagania prawne",
+        "legalDescription": "Spółka może ujawnić Twoje Dane Osobowe, działając w dobrej wierze, jeżeli uzna, że takie działanie jest konieczne w celu:",
+        "legalReasons": {
+          "comply": "Spełniać obowiązek prawny",
+          "protect": "Chronić i bronić praw lub majątku Spółki",
+          "prevent": "Zapobieganie lub badanie możliwych nadużyć w związku z Usługą",
+          "safety": "Chroń bezpieczeństwo osobiste Użytkowników Serwisu lub społeczeństwa",
+          "liability": "Chroń się przed odpowiedzialnością prawną"
+        },
+        "detailedInfo": {
+          "title": "Szczegółowe informacje o przetwarzaniu Twoich danych osobowych",
+          "description": "Dostawcy Usług, z których korzystamy, mogą mieć dostęp do Twoich Danych Osobowych. Ci zewnętrzni dostawcy zbierają, przechowują, wykorzystują, przetwarzają i przesyłają informacje o Twojej aktywności w Naszym Serwisie zgodnie ze swoimi Politykami Prywatności.",
+          "analyticsTitle": "Analityka",
+          "analyticsDescription": "Możemy korzystać z usług zewnętrznych dostawców usług w celu monitorowania i analizowania korzystania z naszych Usług."
+        },
+        "analytics": {
+          "title": "Remarketing behawioralny",
+          "description": "Firma korzysta z usług remarketingu, aby wyświetlać reklamy na stronach internetowych osób trzecich po odwiedzeniu przez Ciebie naszego Serwisu. My i nasi zewnętrzni dostawcy używamy plików cookie do informowania, optymalizowania i wyświetlania reklam na podstawie Twoich poprzednich wizyt w naszym Serwisie.",
+          "googleAnalytics": {
+            "title": "Google Analytics",
+            "description1": "Google Analytics to usługa analityki internetowej oferowana przez Google, która śledzi i raportuje ruch w witrynie. Google wykorzystuje zebrane dane do śledzenia i monitorowania korzystania z naszej Usługi. Dane te są udostępniane innym usługom Google. Google może wykorzystywać zebrane dane do kontekstualizacji i personalizacji reklam w swojej sieci reklamowej.",
+            "description2": "Możesz zrezygnować z niektórych funkcji Google Analytics za pomocą ustawień swojego urządzenia mobilnego, na przykład ustawień reklamowych, lub postępując zgodnie z instrukcjami podanymi przez Google w Polityce prywatności:",
+            "description3": "Aby uzyskać więcej informacji na temat zasad ochrony prywatności obowiązujących w Google, odwiedź stronę internetową poświęconą polityce prywatności i warunkom Google:"
+          },
+          "firebase": {
+            "title": "Firebase",
+            "description1": "Firebase to usługa analityczna udostępniana przez Google Inc.",
+            "description2": "Możesz zrezygnować z niektórych funkcji Firebase za pomocą ustawień swojego urządzenia mobilnego, na przykład ustawień reklam na urządzeniu, lub postępując zgodnie z instrukcjami podanymi przez Google w ich Polityce prywatności:",
+            "description3": "Zachęcamy również do zapoznania się z polityką Google dotyczącą ochrony danych:",
+            "description4": "Aby uzyskać więcej informacji na temat rodzaju informacji gromadzonych przez Firebase, odwiedź stronę internetową Jak Google wykorzystuje dane, gdy korzystasz z witryn lub aplikacji naszych partnerów:"
+          }
+        },
+        "advertising": {
+          "title": "Reklama",
+          "description": "Możemy korzystać z usług Dostawców Usług w celu wyświetlania Ci reklam, które pomogą w obsłudze i utrzymaniu Naszej Usługi.",
+          "googleAdSense": {
+            "title": "Pliki cookie Google AdSense i DoubleClick",
+            "description1": "Google, jako dostawca zewnętrzny, używa plików cookie do wyświetlania reklam w naszym Serwisie. Korzystanie przez Google z pliku cookie DoubleClick umożliwia Google i jego partnerom wyświetlanie reklam naszym użytkownikom na podstawie ich wizyt w naszym Serwisie lub innych witrynach internetowych.",
+            "description2": "Możesz zrezygnować z używania pliku cookie DoubleClick w celu wyświetlania reklam opartych na zainteresowaniach, odwiedzając stronę Ustawienia reklam Google:"
+          },
+          "adMob": {
+            "title": "AdMob od Google",
+            "description1": "Usługę AdMob by Google dostarcza firma Google Inc.",
+            "description2": "Możesz zrezygnować z usługi AdMob by Google, postępując zgodnie z instrukcjami opisanymi przez Google:",
+            "description3": "Aby uzyskać więcej informacji na temat sposobu wykorzystywania przez Google gromadzonych informacji, odwiedź stronę „Jak Google wykorzystuje dane gromadzone podczas korzystania z witryn lub aplikacji naszych partnerów” lub zapoznaj się z Polityką prywatności Google:"
+          }
+        },
+        "payments": {
+          "title": "Płatności",
+          "description1": "W ramach Serwisu możemy oferować płatne produkty i/lub usługi. W takim przypadku możemy korzystać z usług stron trzecich do przetwarzania płatności (np. podmiotów przetwarzających płatności).",
+          "description2": "Nie będziemy przechowywać ani gromadzić danych Twojej karty płatniczej. Informacje te są przekazywane bezpośrednio naszym zewnętrznym podmiotom przetwarzającym płatności, których przetwarzanie Twoich danych osobowych podlega ich Polityce Prywatności. Te podmioty przetwarzające płatności przestrzegają standardów PCI-DSS, zarządzanych przez Radę ds. Standardów Bezpieczeństwa PCI (PCI Security Standards Council), będącą wspólnym przedsięwzięciem marek takich jak Visa, Mastercard, American Express i Discover. Wymagania PCI-DSS pomagają zapewnić bezpieczne przetwarzanie informacji płatniczych.",
+          "appleStore": {
+            "title": "Płatności w aplikacji Apple Store",
+            "description": "Ich Politykę Prywatności można zobaczyć na stronie"
+          },
+          "googlePlay": {
+            "title": "Płatności w aplikacji Google Play",
+            "description": "Ich Politykę Prywatności można zobaczyć na stronie"
+          },
+          "stripe": {
+            "title": "Naszywka",
+            "description": "Ich Politykę Prywatności można zobaczyć na stronie"
+          },
+          "payPal": {
+            "title": "PayPal lub Braintree",
+            "description": "Ich Politykę Prywatności można zobaczyć na stronie"
+          }
+        }
+      },
+      "behavioralRemarketing": {
+        "title": "Remarketing behawioralny",
+        "description": "Firma korzysta z usług remarketingu, aby wyświetlać reklamy na stronach internetowych osób trzecich po odwiedzeniu przez Ciebie naszego Serwisu. My i nasi zewnętrzni dostawcy używamy plików cookie do informowania, optymalizowania i wyświetlania reklam na podstawie Twoich poprzednich wizyt w naszym Serwisie.",
+        "vendorsDescription1": "Ci zewnętrzni dostawcy zbierają, przechowują, wykorzystują, przetwarzają i przekazują informacje o Twojej aktywności w Naszym Serwisie zgodnie ze swoimi Politykami prywatności, aby umożliwić Nam:",
+        "purposes": {
+          "measure": "Mierz i analizuj ruch oraz aktywność przeglądania w naszej Usłudze",
+          "show": "Wyświetlanie reklam naszych produktów i/lub usług na stronach internetowych lub w aplikacjach osób trzecich",
+          "analyze": "Mierz i analizuj skuteczność naszych kampanii reklamowych"
+        },
+        "vendorsDescription2": "Niektórzy z tych zewnętrznych dostawców mogą korzystać z technologii innych niż pliki cookie, na które ustawienia przeglądarki blokujące pliki cookie mogą nie mieć wpływu. Twoja przeglądarka może nie zezwalać na blokowanie takich technologii. Możesz skorzystać z następujących narzędzi zewnętrznych, aby zablokować gromadzenie i wykorzystywanie informacji w celu wyświetlania reklam opartych na zainteresowaniach:",
+        "optOutTools": {
+          "nai": "Platforma rezygnacji NAI:",
+          "edaa": "Platforma rezygnacji EDAA:",
+          "daa": "Platforma rezygnacji DAA:"
+        },
+        "mobileOptOut": "Możesz zrezygnować ze wszystkich spersonalizowanych reklam, włączając funkcje prywatności na swoim urządzeniu mobilnym, takie jak Ogranicz śledzenie reklam (iOS) i Wyłącz personalizację reklam (Android). Więcej informacji znajdziesz w systemie Pomocy Twojego urządzenia mobilnego.",
+        "dataSharing": "Możemy udostępniać tym zewnętrznym dostawcom informacje, takie jak zahaszowane adresy e-mail (jeśli są dostępne) lub inne identyfikatory online zebrane w Naszym Serwisie. Dzięki temu nasi zewnętrzni dostawcy mogą rozpoznawać i wyświetlać Ci reklamy na różnych urządzeniach i w różnych przeglądarkach. Aby dowiedzieć się więcej o technologiach wykorzystywanych przez tych zewnętrznych dostawców i ich możliwościach działania na różnych urządzeniach, zapoznaj się z Polityką Prywatności każdego z wymienionych poniżej dostawców.",
+        "vendorsIntro": "Dostawcy zewnętrzni, z których korzystamy to:",
+        "googleAds": {
+          "title": "Reklamy Google (AdWords)",
+          "description1": "Usługa remarketingu Google Ads (AdWords) jest świadczona przez Google Inc.",
+          "description2": "Możesz zrezygnować z usługi Google Analytics dla reklam displayowych i dostosować reklamy w sieci reklamowej Google, odwiedzając stronę Ustawień reklam Google:",
+          "description3": "Google zaleca również zainstalowanie dodatku do przeglądarki blokującego Google Analytics. Dodatek do przeglądarki blokujący Google Analytics umożliwia użytkownikom zablokowanie gromadzenia i wykorzystywania ich danych przez Google Analytics.",
+          "description4": "Aby uzyskać więcej informacji na temat zasad ochrony prywatności obowiązujących w Google, odwiedź stronę internetową poświęconą polityce prywatności i warunkom Google:"
+        },
+        "facebook": {
+          "title": "Facebook",
+          "description1": "Usługę remarketingu na Facebooku świadczy firma Facebook Inc.",
+          "description2": "Więcej informacji na temat reklam opartych na zainteresowaniach na Facebooku znajdziesz na tej stronie:",
+          "description3": "Aby zrezygnować z reklam opartych na zainteresowaniach na Facebooku, postępuj zgodnie z poniższymi instrukcjami Facebooka:",
+          "description4": "Facebook przestrzega zasad samoregulacji reklamy behawioralnej online, ustanowionych przez Digital Advertising Alliance. Możesz również zrezygnować z reklam na Facebooku i innych partnerskich firmach za pośrednictwem Digital Advertising Alliance w USA, Digital Advertising Alliance of Canada w Kanadzie lub European Interactive Digital Advertising Alliance w Europie, a także za pomocą ustawień swojego urządzenia mobilnego.",
+          "description5": "Więcej informacji na temat zasad ochrony prywatności obowiązujących na Facebooku znajdziesz w Zasadach dotyczących danych Facebooka:"
+        }
+      },
+      "detailedInfo": {
+        "title": "Szczegółowe informacje o przetwarzaniu Twoich danych osobowych",
+        "description": "Dostawcy Usług, z których korzystamy, mogą mieć dostęp do Twoich Danych Osobowych. Ci zewnętrzni dostawcy zbierają, przechowują, wykorzystują, przetwarzają i przesyłają informacje o Twojej aktywności w Naszym Serwisie zgodnie ze swoimi Politykami Prywatności.",
+        "analyticsTitle": "Analityka",
+        "analyticsDescription": "Możemy korzystać z usług zewnętrznych dostawców usług w celu monitorowania i analizowania korzystania z naszych Usług."
+      },
+      "analytics": {
+        "firebase": {
+          "title": "Firebase",
+          "description1": "Firebase to usługa analityczna udostępniana przez Google Inc.",
+          "description2": "Możesz zrezygnować z niektórych funkcji Firebase za pomocą ustawień swojego urządzenia mobilnego, na przykład ustawień reklam na urządzeniu, lub postępując zgodnie z instrukcjami podanymi przez Google w ich Polityce prywatności:",
+          "description3": "Zachęcamy również do zapoznania się z polityką Google dotyczącą ochrony danych:",
+          "description4": "Aby uzyskać więcej informacji na temat rodzaju informacji gromadzonych przez Firebase, odwiedź stronę internetową Jak Google wykorzystuje dane, gdy korzystasz z witryn lub aplikacji naszych partnerów:"
+        },
+        "googleAnalytics": {
+          "title": "Google Analytics",
+          "description1": "Google Analytics to usługa analityki internetowej oferowana przez Google, która śledzi i raportuje ruch w witrynie. Google wykorzystuje zebrane dane do śledzenia i monitorowania korzystania z naszej Usługi. Dane te są udostępniane innym usługom Google. Google może wykorzystywać zebrane dane do kontekstualizacji i personalizacji reklam w swojej sieci reklamowej.",
+          "description2": "Możesz zrezygnować z udostępniania Google Analytics danych o Twojej aktywności w Usłudze, instalując dodatek do przeglądarki blokujący Google Analytics. Dodatek ten uniemożliwia skryptom JavaScript Google Analytics (ga.js, analytics.js i gtag.js) udostępnianie Google Analytics informacji o aktywności podczas wizyt. Więcej informacji na temat zasad ochrony prywatności Google można znaleźć na stronie internetowej Google Privacy & Terms:",
+          "description3": "Google zaleca również zainstalowanie dodatku do przeglądarki Google Analytics Opt-out. Dodatek ten umożliwia użytkownikom zablokowanie gromadzenia i wykorzystywania ich danych przez Google Analytics. Aby uzyskać więcej informacji na temat instalacji i korzystania z dodatku do przeglądarki Google Analytics Opt-out, odwiedź następującą stronę rezygnacji z Google Analytics:"
+        }
+      },
+      "advertising": {
+        "title": "Reklama",
+        "description": "Możemy korzystać z usług Dostawców Usług w celu wyświetlania Ci reklam, które pomogą w obsłudze i utrzymaniu Naszej Usługi.",
+        "googleAdSense": {
+          "title": "Pliki cookie Google AdSense i DoubleClick",
+          "description1": "Google, jako dostawca zewnętrzny, używa plików cookie do wyświetlania reklam w naszym Serwisie. Korzystanie przez Google z pliku cookie DoubleClick umożliwia Google i jego partnerom wyświetlanie reklam naszym użytkownikom na podstawie ich wizyt w naszym Serwisie lub innych witrynach internetowych.",
+          "description2": "Możesz zrezygnować z używania pliku cookie DoubleClick w celu wyświetlania reklam opartych na zainteresowaniach, odwiedzając stronę Ustawienia reklam Google:"
+        },
+        "adMob": {
+          "title": "AdMob od Google",
+          "description1": "Usługę AdMob by Google dostarcza firma Google Inc.",
+          "description2": "Możesz zrezygnować z usługi AdMob by Google, postępując zgodnie z instrukcjami opisanymi przez Google:",
+          "description3": "Aby uzyskać więcej informacji na temat sposobu wykorzystywania przez Google gromadzonych informacji, odwiedź stronę „Jak Google wykorzystuje dane gromadzone podczas korzystania z witryn lub aplikacji naszych partnerów” lub zapoznaj się z Polityką prywatności Google:"
+        }
+      },
+      "payments": {
+        "title": "Płatności",
+        "description1": "W ramach Serwisu możemy oferować płatne produkty i/lub usługi. W takim przypadku możemy korzystać z usług stron trzecich do przetwarzania płatności (np. podmiotów przetwarzających płatności).",
+        "description2": "Nie będziemy przechowywać ani gromadzić danych Twojej karty płatniczej. Informacje te są przekazywane bezpośrednio naszym zewnętrznym podmiotom przetwarzającym płatności, których przetwarzanie Twoich danych osobowych podlega ich Polityce Prywatności. Te podmioty przetwarzające płatności przestrzegają standardów PCI-DSS, zarządzanych przez Radę ds. Standardów Bezpieczeństwa PCI (PCI Security Standards Council), będącą wspólnym przedsięwzięciem marek takich jak Visa, Mastercard, American Express i Discover. Wymagania PCI-DSS pomagają zapewnić bezpieczne przetwarzanie danych płatniczych.",
+        "appleStore": {
+          "title": "Płatności w aplikacji Apple Store",
+          "description": "Ich Politykę Prywatności można zobaczyć na stronie"
+        },
+        "googlePlay": {
+          "title": "Płatności w aplikacji Google Play",
+          "description": "Ich Politykę Prywatności można zobaczyć na stronie"
+        },
+        "stripe": {
+          "title": "Naszywka",
+          "description": "Ich Politykę Prywatności można zobaczyć na stronie"
+        },
+        "payPal": {
+          "title": "PayPal lub Braintree",
+          "description": "Ich Politykę Prywatności można zobaczyć na stronie"
+        }
+      },
+      "gdpr": {
+        "title": "Prywatność RODO",
+        "legalBasis": {
+          "title": "Podstawa prawna przetwarzania danych osobowych zgodnie z RODO",
+          "description": "Dane osobowe możemy przetwarzać na następujących warunkach:",
+          "consent": "Zgoda: Wyraziłeś zgodę na przetwarzanie Danych Osobowych w jednym lub większej liczbie określonych celów.",
+          "contract": "Wykonanie umowy: Podanie Danych Osobowych jest konieczne w celu wykonania umowy zawartej z Tobą i/lub w celu wypełnienia wszelkich zobowiązań przedumownych.",
+          "legal": "Obowiązki prawne: Przetwarzanie Danych Osobowych jest konieczne w celu wypełnienia obowiązku prawnego ciążącego na Spółce.",
+          "vital": "Istotne interesy: Przetwarzanie Danych Osobowych jest konieczne w celu ochrony Twoich istotnych interesów lub interesów innej osoby fizycznej.",
+          "public": "Interes publiczny: Przetwarzanie Danych Osobowych jest związane z zadaniem wykonywanym w interesie publicznym lub w ramach sprawowania władzy publicznej powierzonej Spółce.",
+          "legitimate": "Uzasadnione interesy: Przetwarzanie Danych Osobowych jest niezbędne do celów wynikających z uzasadnionych interesów realizowanych przez Spółkę."
+        },
+        "rights": {
+          "title": "Twoje prawa wynikające z RODO",
+          "description": "Spółka zobowiązuje się do poszanowania poufności Twoich Danych Osobowych i zagwarantowania Ci możliwości korzystania z przysługujących Ci praw. Zgodnie z niniejszą Polityką Prywatności, a także przepisami prawa, jeśli znajdujesz się na terenie UE, masz prawo do:",
+          "access": "Żądanie dostępu do Twoich Danych Osobowych: Prawo do dostępu, aktualizacji lub usunięcia informacji, które o Tobie posiadamy.",
+          "correction": "Żądanie korekty danych osobowych: Masz prawo zażądać korekty wszelkich niekompletnych lub niedokładnych informacji, jakie o Tobie posiadamy.",
+          "object": "Sprzeciw wobec przetwarzania: Prawo to przysługuje w przypadku, gdy podstawą prawną przetwarzania jest uzasadniony interes.",
+          "erasure": "Żądanie usunięcia: Masz prawo poprosić nas o usunięcie lub usunięcie Danych osobowych, jeżeli nie ma uzasadnionego powodu, abyśmy kontynuowali ich przetwarzanie.",
+          "transfer": "Poproś o przeniesienie: Dostarczymy Tobie lub wybranej przez Ciebie osobie trzeciej Twoje Dane Osobowe w ustrukturyzowanym, powszechnie używanym formacie nadającym się do odczytu maszynowego.",
+          "withdraw": "Wycofanie zgody: Masz prawo wycofać swoją zgodę na wykorzystanie Twoich Danych Osobowych."
+        },
+        "exercising": {
+          "title": "Korzystanie z praw dotyczących ochrony danych osobowych zgodnie z RODO",
+          "description1": "Możesz skorzystać ze swoich praw dostępu, sprostowania, anulowania i sprzeciwu, kontaktując się z nami. Informujemy, że możemy poprosić Cię o weryfikację tożsamości przed udzieleniem odpowiedzi na takie żądania. Jeśli złożysz żądanie, dołożymy wszelkich starań, aby odpowiedzieć Ci jak najszybciej.",
+          "description2": "Masz prawo złożyć skargę do organu ochrony danych w związku z gromadzeniem i wykorzystywaniem przez nas Twoich danych osobowych. Aby uzyskać więcej informacji, jeśli znajdujesz się w Europejskim Obszarze Gospodarczym (EOG), skontaktuj się z lokalnym organem ochrony danych w EOG."
+        }
+      },
+      "ccpa": {
+        "title": "Powiadomienie o ochronie prywatności CCPA/CPRA",
+        "introduction": "Niniejsza sekcja dotycząca prywatności dla mieszkańców Kalifornii stanowi uzupełnienie informacji zawartych w Naszej Polityce Prywatności i ma zastosowanie wyłącznie do wszystkich odwiedzających, użytkowników i innych osób zamieszkałych w stanie Kalifornia.",
+        "categoriesTitle": "Kategorie gromadzonych danych osobowych",
+        "categoriesDescription1": "Gromadzimy informacje, które identyfikują, odnoszą się do, opisują, odwołują się do konkretnego Konsumenta lub Urządzenia, mogą być z nim powiązane lub mogą być w uzasadniony sposób powiązane, bezpośrednio lub pośrednio, z nim. Poniżej znajduje się lista kategorii danych osobowych, które możemy gromadzić lub mogły zostać zebrane od mieszkańców Kalifornii w ciągu ostatnich dwunastu (12) miesięcy.",
+        "categoriesDescription2": "Należy pamiętać, że kategorie i przykłady podane na poniższej liście są zdefiniowane w CCPA/CPRA. Nie oznacza to, że wszystkie przykłady tej kategorii danych osobowych zostały przez nas faktycznie zebrane, ale odzwierciedla nasze przekonanie w dobrej wierze, zgodnie z Naszą najlepszą wiedzą, że niektóre z tych informacji z odpowiedniej kategorii mogły być i mogły być gromadzone. Na przykład, niektóre kategorie danych osobowych byłyby gromadzone tylko wtedy, gdybyś przekazał nam je bezpośrednio.",
+        "categoryLabels": {
+          "examples": "Przykłady:",
+          "collected": "Zebrano:"
+        },
+        "categories": {
+          "identifiers": {
+            "title": "Kategoria A: Identyfikatory",
+            "examples": "Prawdziwe imię i nazwisko, pseudonim, adres pocztowy, unikalny identyfikator osobisty, identyfikator internetowy, adres protokołu internetowego, adres e-mail, nazwa konta, numer prawa jazdy, numer paszportu lub inne podobne identyfikatory.",
+            "collected": "Tak"
+          },
+          "personalInfo": {
+            "title": "Kategoria B: Kategorie danych osobowych wymienione w ustawie kalifornijskiej o dokumentacji klientów",
+            "examples": "Imię i nazwisko, podpis, numer ubezpieczenia społecznego, cechy fizyczne lub opis, adres, numer telefonu, numer paszportu, numer prawa jazdy lub dowodu osobistego, numer polisy ubezpieczeniowej, wykształcenie, zatrudnienie, historia zatrudnienia, numer konta bankowego, numer karty kredytowej, numer karty debetowej lub wszelkie inne informacje finansowe, medyczne lub dotyczące ubezpieczenia zdrowotnego. Niektóre dane osobowe zawarte w tej kategorii mogą pokrywać się z innymi kategoriami.",
+            "collected": "Tak"
+          },
+          "protected": {
+            "title": "Kategoria C: Chronione cechy klasyfikacji zgodnie z prawem kalifornijskim lub federalnym",
+            "examples": "Wiek (40 lat lub więcej), rasa, kolor skóry, pochodzenie, narodowość, obywatelstwo, religia lub wyznanie, stan cywilny, stan zdrowia, niepełnosprawność fizyczna lub psychiczna, płeć (w tym płeć kulturowa, tożsamość płciowa, ekspresja płciowa, ciąża lub poród oraz powiązane z tym warunki medyczne), orientacja seksualna, status weterana lub wojskowy, informacje genetyczne (w tym rodzinne informacje genetyczne).",
+            "collected": "NIE"
+          },
+          "commercial": {
+            "title": "Kategoria D: Informacje handlowe",
+            "examples": "Rejestry i historia zakupionych lub rozważanych produktów lub usług.",
+            "collected": "Tak"
+          },
+          "biometric": {
+            "title": "Kategoria E: Informacje biometryczne",
+            "examples": "Cechy genetyczne, fizjologiczne, behawioralne i biologiczne lub wzorce aktywności wykorzystywane do wyodrębnienia szablonu lub innego identyfikatora lub informacji identyfikujących, takich jak odciski palców, odciski twarzy i głosu, skany tęczówki lub siatkówki oka, wzorce naciśnięć klawiszy, chodu lub inne wzorce fizyczne, a także dane dotyczące snu, zdrowia lub ćwiczeń.",
+            "collected": "NIE"
+          },
+          "internet": {
+            "title": "Kategoria F: Internet lub inna podobna aktywność sieciowa",
+            "examples": "Interakcja z naszą Usługą lub reklamą.",
+            "collected": "Tak"
+          },
+          "geolocation": {
+            "title": "Kategoria G: Dane geolokalizacyjne",
+            "examples": "Przybliżona lokalizacja fizyczna.",
+            "collected": "Tak"
+          },
+          "sensory": {
+            "title": "Kategoria H: Dane sensoryczne",
+            "examples": "Informacje dźwiękowe, elektroniczne, wizualne, termiczne, zapachowe lub podobne.",
+            "collected": "NIE"
+          },
+          "professional": {
+            "title": "Kategoria I: Informacje zawodowe lub związane z zatrudnieniem",
+            "examples": "Obecna lub poprzednia historia zatrudnienia lub ocena wyników pracy.",
+            "collected": "NIE"
+          },
+          "education": {
+            "title": "Kategoria J: Informacje o edukacji niepublicznej",
+            "examples": "Dokumentacja edukacyjna bezpośrednio związana ze studentem, prowadzona przez instytucję edukacyjną lub podmiot działający w jej imieniu, taka jak oceny, transkrypty, listy klasowe, plany zajęć studentów, kody identyfikacyjne studentów, informacje finansowe dotyczące studentów lub zapisy dyscyplinarne dotyczące studentów.",
+            "collected": "NIE"
+          },
+          "inferences": {
+            "title": "Kategoria K: Wnioski wyciągnięte z innych danych osobowych",
+            "examples": "Profil odzwierciedlający preferencje, cechy charakterystyczne, tendencje psychologiczne, predyspozycje, zachowania, postawy, inteligencję, umiejętności i predyspozycje danej osoby.",
+            "collected": "NIE"
+          },
+          "sensitive": {
+            "title": "Kategoria L: Dane osobowe wrażliwe",
+            "examples": "Informacje o loginie i haśle do konta, dane geolokalizacyjne.",
+            "collected": "Tak"
+          }
+        },
+        "exclusions": {
+          "description": "Zgodnie z CCPA/CPRA, dane osobowe nie obejmują:",
+          "publicRecords": "Informacje publicznie dostępne z rejestrów rządowych",
+          "deidentified": "Zanonimizowane lub zagregowane informacje o konsumentach",
+          "excludedScope": "Informacje wyłączone z zakresu CCPA/CPRA, takie jak:",
+          "hipaa": "Informacje medyczne lub dotyczące stanu zdrowia objęte ustawą o przenoszalności i odpowiedzialności w zakresie ubezpieczeń zdrowotnych z 1996 r. (HIPAA) oraz kalifornijską ustawą o poufności informacji medycznych (CMIA) lub dane z badań klinicznych",
+          "sectorSpecific": "Informacje osobiste objęte przepisami dotyczącymi prywatności obowiązującymi w określonych sektorach, w tym ustawą Fair Credit Reporting Act (FRCA), ustawą Gramm-Leach-Bliley Act (GLBA) lub kalifornijską ustawą o ochronie prywatności informacji finansowych (FIPA) oraz ustawą Driver's Privacy Protection Act z 1994 r."
+        },
+        "sources": {
+          "title": "Źródła danych osobowych",
+          "description": "Wymienione powyżej kategorie danych osobowych pozyskujemy z następujących kategorii źródeł:",
+          "directlyFromYou": "Bezpośrednio od Ciebie.",
+          "directlyDescription": "Na przykład z formularzy wypełnianych w ramach naszego Serwisu, preferencji wyrażanych lub dostarczanych za pośrednictwem naszego Serwisu lub z zakupów dokonanych w ramach naszego Serwisu.",
+          "indirectlyFromYou": "Pośrednio od Ciebie.",
+          "indirectlyDescription": "Na przykład, obserwując Twoją aktywność w naszym Serwisie.",
+          "automaticallyFromYou": "Automatycznie od Ciebie.",
+          "automaticallyDescription": "Na przykład za pomocą plików cookie, które My lub nasi Dostawcy Usług umieściliśmy na Twoim Urządzeniu, gdy korzystasz z naszych Usług.",
+          "fromServiceProviders": "Od dostawców usług.",
+          "serviceProvidersDescription": "Na przykład, zewnętrzni dostawcy usług monitorują i analizują korzystanie z naszej Usługi, zewnętrzni dostawcy usług dostarczają reklamy w naszej Usłudze, zewnętrzni dostawcy usług dostarczają Ci ukierunkowane reklamy, zewnętrzni dostawcy usług przetwarzania płatności lub inni zewnętrzni dostawcy usług, z których usług korzystamy w celu świadczenia Ci Usługi."
+        },
+        "usage": {
+          "title": "Wykorzystanie danych osobowych",
+          "description": "Możemy wykorzystywać lub ujawniać dane osobowe, które zbieramy „w celach biznesowych” lub „w celach komercyjnych” (zgodnie z definicją zawartą w ustawie CCPA/CPRA), co może obejmować następujące przykłady:",
+          "operateService": "Aby świadczyć Państwu nasze Usługi i świadczyć Państwu Nasze Usługi.",
+          "provideSupport": "Aby zapewnić Ci wsparcie i odpowiedzieć na Twoje zapytania, w tym zbadać i rozwiązać Twoje wątpliwości, a także monitorować i udoskonalać naszą Usługę.",
+          "fulfillReason": "Aby zrealizować cel, dla którego podałeś(-aś) informacje. Na przykład, jeśli udostępnisz swoje dane kontaktowe, aby zadać pytanie dotyczące naszej Usługi, wykorzystamy te dane osobowe, aby odpowiedzieć na Twoje zapytanie. Jeśli podasz swoje dane osobowe w celu zakupu produktu lub usługi, wykorzystamy je do przetworzenia Twojej płatności i umożliwienia dostawy.",
+          "lawEnforcement": "W celu reagowania na żądania organów ścigania, zgodnie z wymogami obowiązującego prawa, nakazu sądowego lub regulacji rządowych.",
+          "asDescribed": "Zgodnie z opisem przedstawionym podczas zbierania Twoich danych osobowych lub zgodnie z postanowieniami CCPA/CPRA.",
+          "administrative": "Do wewnętrznych celów administracyjnych i audytowych.",
+          "securityIncidents": "W celu wykrywania incydentów bezpieczeństwa i ochrony przed złośliwą, oszukańczą, nieuczciwą lub nielegalną działalnością, w tym, w razie potrzeby, ścigania osób odpowiedzialnych za takie działania.",
+          "otherUses": "Inne jednorazowe zastosowania.",
+          "noteExamples": "Należy pamiętać, że powyższe przykłady mają charakter ilustracyjny i nie są wyczerpujące. Aby uzyskać więcej informacji na temat sposobu wykorzystywania tych informacji, zapoznaj się z sekcją „Wykorzystanie Twoich danych osobowych”.",
+          "additionalCategories": "Jeżeli zdecydujemy się na zbieranie dodatkowych kategorii danych osobowych lub wykorzystanie zebranych przez nas danych osobowych w zasadniczo odmiennych, niezwiązanych lub niezgodnych celach, zaktualizujemy niniejszą Politykę prywatności."
+        },
+        "ccpaDisclosure": {
+          "title": "Ujawnianie danych osobowych",
+          "description": "Możemy wykorzystywać lub ujawniać i mogliśmy wykorzystywać lub ujawniać w ciągu ostatnich dwunastu (12) miesięcy następujące kategorie danych osobowych w celach biznesowych lub handlowych:",
+          "categoryA": "Kategoria A: Identyfikatory",
+          "categoryB": "Kategoria B: Kategorie danych osobowych wymienione w ustawie kalifornijskiej o dokumentacji klientów",
+          "categoryD": "Kategoria D: Informacje handlowe",
+          "categoryF": "Kategoria F: Internet lub inna podobna aktywność sieciowa",
+          "categoryG": "Kategoria G: Dane geolokalizacyjne",
+          "categoryL": "Kategoria L: Dane osobowe wrażliwe",
+          "noteCategories": "Należy pamiętać, że kategorie wymienione powyżej są zdefiniowane w ustawach CCPA/CPRA. Nie oznacza to, że wszystkie przykłady danych osobowych z tej kategorii zostały faktycznie ujawnione, ale odzwierciedla nasze przekonanie w dobrej wierze, zgodnie z naszą najlepszą wiedzą, że niektóre z tych informacji z odpowiedniej kategorii mogły zostać ujawnione.",
+          "contractRequirement": "Kiedy ujawniamy dane osobowe w celach biznesowych lub komercyjnych, zawieramy umowę, która opisuje cel i zobowiązuje odbiorcę do zachowania poufności danych osobowych i niewykorzystywania ich w żadnym celu innym niż realizacja umowy."
+        },
+        "sharing": {
+          "title": "Udostępnianie danych osobowych",
+          "description": "Możemy udostępniać i udostępnialiśmy w ciągu ostatnich dwunastu (12) miesięcy Twoje dane osobowe określone w powyższych kategoriach następującym kategoriom osób trzecich:",
+          "recipients": {
+            "serviceProviders": "Dostawcy usług",
+            "paymentProcessors": "Przetwarzacze płatności",
+            "affiliates": "Nasi partnerzy",
+            "businessPartners": "Nasi partnerzy biznesowi",
+            "authorizedVendors": "Dostawcy zewnętrzni, którym Ty lub Twoi agenci upoważniliście nas do ujawnienia Twoich danych osobowych w związku z produktami lub usługami, które Ci dostarczamy"
+          }
+        },
+        "sale": {
+          "title": "Sprzedaż danych osobowych",
+          "definition": "Zgodnie z definicją zawartą w ustawach CCPA/CPRA, „sprzedaż” oznacza sprzedaż, wynajem, udostępnianie, ujawnianie, rozpowszechnianie, udostępnianie, przekazywanie lub inną formę komunikowania ustnie, pisemnie, elektronicznie lub w inny sposób danych osobowych Konsumenta przez Firmę osobie trzeciej za wynagrodzeniem. Oznacza to, że mogliśmy otrzymać jakąś korzyść w zamian za udostępnienie danych osobowych, ale niekoniecznie korzyść pieniężną.",
+          "doNotSell": "Nie sprzedajemy danych osobowych w powszechnie przyjętym rozumieniu tego terminu. Zezwalamy Dostawcom Usług na wykorzystywanie Twoich danych osobowych do celów biznesowych opisanych w Naszej Polityce Prywatności, w tym do działań takich jak reklama, marketing i analityka, co może zostać uznane za sprzedaż w rozumieniu CCPA/CPRA.",
+          "description": "Możemy sprzedawać i mogliśmy sprzedawać w ciągu ostatnich dwunastu (12) miesięcy następujące kategorie danych osobowych:",
+          "sharedCategories": {
+            "categoryA": "Kategoria A: Identyfikatory",
+            "categoryB": "Kategoria B: Kategorie danych osobowych wymienione w ustawie kalifornijskiej o dokumentacji klientów",
+            "categoryD": "Kategoria D: Informacje handlowe",
+            "categoryF": "Kategoria F: Internet lub inna podobna aktywność sieciowa",
+            "categoryG": "Kategoria G: Dane geolokalizacyjne",
+            "categoryL": "Kategoria L: Dane osobowe wrażliwe"
+          }
+        },
+        "userRights": {
+          "title": "Twoje prawa wynikające z CCPA/CPRA",
+          "description": "Ustawa CCPA/CPRA zapewnia mieszkańcom Kalifornii określone prawa dotyczące ich danych osobowych. Jeśli jesteś mieszkańcem Kalifornii, przysługują Ci następujące prawa:",
+          "rightToNotice": "Prawo do powiadomienia.",
+          "rightToNoticeDescription": "Masz prawo zostać powiadomiony o tym, jakie kategorie Danych Osobowych są gromadzone i w jakich celach Dane Osobowe są wykorzystywane.",
+          "disclosureItems": {
+            "categoriesCollected": "Kategorie danych osobowych, które zebraliśmy na Twój temat",
+            "sources": "Kategorie źródeł danych osobowych, które zebraliśmy na Twój temat",
+            "purposes": "Nasze cele biznesowe lub handlowe w zakresie gromadzenia lub sprzedaży tych danych osobowych",
+            "thirdParties": "Kategorie podmiotów trzecich, z którymi udostępniamy te dane osobowe",
+            "specificPieces": "Konkretne dane osobowe, które zebraliśmy na Twój temat",
+            "soldDisclosed": "Jeżeli sprzedaliśmy Twoje dane osobowe lub ujawniliśmy Twoje dane osobowe w celach biznesowych, ujawnimy Ci kategorie sprzedanych i ujawnionych danych osobowych."
+          },
+          "rightToOptOut": "Prawo do odmowy sprzedaży lub udostępniania danych osobowych (rezygnacja).",
+          "rightToOptOutDescription": "Masz prawo zażądać od nas, abyśmy nie sprzedawali Twoich danych osobowych. Aby złożyć wniosek o rezygnację, zapoznaj się z sekcją „Nie sprzedawaj moich danych osobowych” lub skontaktuj się z nami.",
+          "doNotSellSection": "Nie sprzedawaj moich danych osobowych",
+          "rightToCorrect": "Prawo do poprawiania danych osobowych.",
+          "rightToCorrectDescription": "Masz prawo do poprawienia lub sprostowania wszelkich nieprawidłowych danych osobowych, które zebraliśmy na Twój temat. Po otrzymaniu i potwierdzeniu Twojego żądania, dołożymy wszelkich uzasadnionych komercyjnie starań, aby poprawić (i nakazać naszym Dostawcom Usług poprawienie) Twoje dane osobowe, chyba że ma to zastosowanie.",
+          "rightToLimit": "Prawo do ograniczenia wykorzystania i ujawniania wrażliwych danych osobowych.",
+          "rightToLimitDescription": "Masz prawo zażądać ograniczenia wykorzystania lub ujawnienia niektórych wrażliwych danych osobowych, które zebraliśmy na Twój temat, chyba że ma zastosowanie wyjątek. Aby to zrobić, zapoznaj się z sekcją „Ograniczenie wykorzystania lub ujawnienia moich wrażliwych danych osobowych” lub skontaktuj się z nami.",
+          "limitSensitiveSection": "Ogranicz użycie lub ujawnienie moich poufnych danych osobowych",
+          "rightToDelete": "Prawo do usunięcia danych osobowych.",
+          "rightToDeleteDescription": "Masz prawo zażądać usunięcia Twoich Danych Osobowych w określonych okolicznościach, z zastrzeżeniem pewnych wyjątków. Po otrzymaniu i potwierdzeniu Twojego żądania usuniemy (i nakażemy naszym Dostawcom Usług usunięcie) Twoje dane osobowe z naszych rejestrów, chyba że ma zastosowanie wyjątek.",
+          "rightNonDiscrimination": "Prawo do niedyskryminacji.",
+          "rightNonDiscriminationDescription": "Masz prawo nie być dyskryminowanym w związku z korzystaniem z praw konsumenckich, w tym poprzez odmowę dostarczenia towarów lub usług, pobieranie innych cen, zapewnianie innego poziomu usług lub sugerowanie innych cen lub poziomów usług."
+        },
+        "exercisingRights": {
+          "title": "Korzystanie z praw do ochrony danych na mocy CCPA/CPRA",
+          "intro": "Aby skorzystać z praw przysługujących Ci na mocy CCPA/CPRA, jeżeli jesteś rezydentem Kalifornii, możesz skontaktować się z nami, korzystając z informacji podanych poniżej.",
+          "authorization": "Tylko Ty lub osoba zarejestrowana w Sekretariacie Stanu Kalifornii, którą upoważnisz do działania w Twoim imieniu, może złożyć weryfikowalny wniosek dotyczący Twoich danych osobowych.",
+          "requestRequirements": "Twoje zapytanie do Nas musi:",
+          "requirements": {
+            "verify": "Podaj wystarczające informacje, które pozwolą nam w rozsądny sposób zweryfikować, czy jesteś osobą, o której zebraliśmy dane osobowe, lub upoważnionym przedstawicielem",
+            "describe": "Opisz swoją prośbę na tyle szczegółowo, abyśmy mogli ją właściwie zrozumieć, ocenić i na nią odpowiedzieć."
+          },
+          "verification": "Nie będziemy mogli odpowiedzieć na Twoją prośbę ani udzielić Ci wymaganych informacji, jeśli nie będziemy w stanie zweryfikować Twojej tożsamości lub uprawnień do złożenia prośby i potwierdzić, że dane osobowe dotyczą Ciebie.",
+          "response": "Ujawnimy i dostarczymy wymagane informacje bezpłatnie w ciągu 45 dni od otrzymania Państwa weryfikowalnego żądania. Termin dostarczenia wymaganych informacji może zostać jednokrotnie przedłużony o dodatkowe 45 dni, jeśli zajdzie uzasadniona potrzeba i po uprzednim powiadomieniu.",
+          "dataPortability": "W przypadku wniosków o przenoszenie danych wybierzemy format przekazania Twoich danych osobowych, który będzie łatwy w użyciu i umożliwi Ci przesyłanie informacji z jednego podmiotu do drugiego bez przeszkód."
+        },
+        "doNotSell": {
+          "title": "Nie sprzedawaj moich danych osobowych",
+          "definition": "Zgodnie z definicją zawartą w ustawach CCPA/CPRA, „sprzedaż” oznacza sprzedaż, wynajem, udostępnianie, ujawnianie, rozpowszechnianie, udostępnianie, przekazywanie lub inną formę komunikowania ustnie, pisemnie, elektronicznie lub w inny sposób danych osobowych Konsumenta przez Firmę osobie trzeciej za wynagrodzeniem. Oznacza to, że mogliśmy otrzymać jakąś korzyść w zamian za udostępnienie danych osobowych, ale niekoniecznie korzyść pieniężną.",
+          "policy": "Nie sprzedajemy danych osobowych w powszechnie przyjętym rozumieniu tego terminu. Zezwalamy Dostawcom Usług na wykorzystywanie Twoich danych osobowych do celów biznesowych opisanych w Naszej Polityce Prywatności, w tym do działań takich jak reklama, marketing i analityka, co może zostać uznane za sprzedaż w rozumieniu CCPA/CPRA.",
+          "optOutRight": "Masz prawo zrezygnować ze sprzedaży Twoich danych osobowych. Po otrzymaniu i potwierdzeniu przez nas weryfikowalnego wniosku konsumenckiego od Ciebie, zaprzestaniemy sprzedaży Twoich danych osobowych. Aby skorzystać z prawa do rezygnacji, skontaktuj się z nami.",
+          "serviceProviders": "Dostawcy Usług, z którymi współpracujemy (na przykład nasi partnerzy analityczni lub reklamowi), mogą wykorzystywać w ramach Usługi technologię, która sprzedaje dane osobowe zgodnie z definicją zawartą w ustawach CCPA/CPRA. Jeśli chcesz zrezygnować z wykorzystywania Twoich danych osobowych do celów reklam opartych na zainteresowaniach i potencjalnej sprzedaży zgodnie z definicją zawartą w ustawach CCPA/CPRA, możesz to zrobić, postępując zgodnie z poniższymi instrukcjami.",
+          "browserNote": "Należy pamiętać, że każda rezygnacja jest specyficzna dla przeglądarki, której używasz. Rezygnacja może być konieczna w każdej przeglądarce, z której korzystasz.",
+          "websiteTitle": "Strona internetowa",
+          "websiteInstructions": "W stosownych przypadkach kliknij przyciski „Preferencje prywatności”, „Aktualizuj preferencje prywatności” lub „Nie sprzedawaj moich danych osobowych” w Serwisie, aby sprawdzić swoje preferencje prywatności i zrezygnować z plików cookie oraz innych technologii, których możemy używać. Pamiętaj, że musisz zrezygnować z każdej przeglądarki, z której korzystasz, aby uzyskać dostęp do Serwisu."
+        },
+        "mobileOptOut": {
+          "title": "Urządzenia mobilne",
+          "description": "Twoje urządzenie mobilne może dać Ci możliwość rezygnacji z wykorzystywania informacji o aplikacjach, z których korzystasz, w celu wyświetlania Ci reklam dostosowanych do Twoich zainteresowań:",
+          "androidAds": "„Zrezygnuj z reklam opartych na zainteresowaniach” lub „Zrezygnuj z personalizacji reklam” na urządzeniach z systemem Android",
+          "iosTracking": "„Ogranicz śledzenie reklam” na urządzeniach z systemem iOS",
+          "locationNote": "Możesz również zatrzymać zbieranie informacji o lokalizacji z Twojego urządzenia mobilnego poprzez zmianę preferencji w Twoim urządzeniu mobilnym."
+        },
+        "sensitiveInfo": {
+          "title": "Ogranicz użycie lub ujawnienie moich poufnych danych osobowych",
+          "description": "Jeśli jesteś mieszkańcem Kalifornii, masz prawo ograniczyć wykorzystanie i ujawnienie Twoich wrażliwych danych osobowych do zakresu niezbędnego do wykonania usług lub dostarczenia towarów, których przeciętny Konsument w uzasadniony sposób oczekuje, zamawiający takie usługi lub towary. Gromadzimy, wykorzystujemy i ujawniamy wrażliwe dane osobowe w sposób niezbędny do świadczenia Usługi. Aby uzyskać więcej informacji na temat sposobu wykorzystywania przez nas Twoich danych osobowych, zapoznaj się z sekcją „Wykorzystanie Twoich Danych Osobowych” lub skontaktuj się z nami."
+        },
+        "caloppaPolicy": {
+          "doNotTrackResponse": "Nasza Usługa nie reaguje na sygnały Do Not Track (Nie śledź).",
+          "thirdPartyTracking": "Niektóre witryny internetowe osób trzecich śledzą jednak Twoją aktywność w sieci. Jeśli odwiedzasz takie witryny, możesz ustawić preferencje w przeglądarce internetowej, aby poinformować witryny, że nie chcesz być śledzony. Możesz włączyć lub wyłączyć funkcję DNT, odwiedzając stronę preferencji lub ustawień w swojej przeglądarce internetowej."
+        },
+        "caloppa": {
+          "title": "Polityka „Nie śledź” zgodnie z wymogami kalifornijskiej ustawy o ochronie prywatności w Internecie (CalOPPA)"
+        },
+        "saleNote": {
+          "categoriesListed": "Należy pamiętać, że kategorie wymienione powyżej są zdefiniowane w ustawach CCPA/CPRA. Nie oznacza to, że wszystkie przykłady danych osobowych z tej kategorii zostały faktycznie sprzedane, ale odzwierciedla nasze przekonanie w dobrej wierze, zgodnie z naszą najlepszą wiedzą, że niektóre z tych informacji z danej kategorii mogły być i mogły być udostępniane w zamian za korzyści majątkowe."
+        },
+        "minorsUnder16": {
+          "title": "Sprzedaż danych osobowych osób nieletnich poniżej 16 roku życia",
+          "description1": "Nie gromadzimy świadomie danych osobowych osób niepełnoletnich poniżej 16. roku życia za pośrednictwem naszego Serwisu, choć niektóre strony internetowe osób trzecich, do których linkujemy, mogą to robić. Strony te mają własne warunki korzystania i polityki prywatności. Zachęcamy rodziców i opiekunów prawnych do monitorowania korzystania z Internetu przez ich dzieci i poinstruowania ich, aby nigdy nie podawały informacji na innych stronach internetowych bez ich zgody.",
+          "description2": "Nie sprzedajemy danych osobowych Konsumentów, o których wiemy, że mają mniej niż 16 lat, chyba że otrzymamy wyraźną zgodę („prawo do wyrażenia zgody”) od Konsumenta w wieku od 13 do 16 lat lub rodzica lub opiekuna Konsumenta w wieku poniżej 13 lat. Konsumenci, którzy wyrażą zgodę na sprzedaż danych osobowych, mogą w dowolnym momencie zrezygnować z dalszej sprzedaży. Aby skorzystać z prawa do rezygnacji, Ty (lub Twój upoważniony przedstawiciel) możesz złożyć do Nas wniosek, kontaktując się z Nami.",
+          "description3": "Jeżeli masz podstawy sądzić, że dziecko poniżej 13. roku życia (lub 16.) przekazało nam swoje dane osobowe, skontaktuj się z nami i podaj nam wystarczająco dużo szczegółów, abyśmy mogli usunąć te dane."
+        },
+        "optOutPlatforms": {
+          "description": "Ponadto możesz zrezygnować z otrzymywania spersonalizowanych reklam dostarczanych przez naszych Dostawców Usług, postępując zgodnie z instrukcjami przedstawionymi w Usłudze:",
+          "nai": "Platforma rezygnacji NAI:",
+          "edaa": "Platforma rezygnacji EDAA:",
+          "daa": "Platforma rezygnacji DAA:",
+          "cookieNote": "Rezygnacja spowoduje umieszczenie na Twoim komputerze pliku cookie, który jest unikalny dla przeglądarki, której używasz do rezygnacji. Jeśli zmienisz przeglądarkę lub usuniesz pliki cookie zapisane przez przeglądarkę, będziesz musiał ponownie zrezygnować."
+        },
+        "rights": {
+          "rightToKnowAccess": "Prawo do wiedzy/dostępu.",
+          "rightToKnowAccessDescription": "Zgodnie z CCPA/CPRA masz prawo zażądać od nas ujawnienia informacji dotyczących gromadzenia, wykorzystywania, sprzedaży, ujawniania w celach biznesowych i udostępniania danych osobowych. Po otrzymaniu i potwierdzeniu Twojej prośby, ujawnimy Ci:"
+        }
+      },
+      "optOut": {
+        "androidAds": "„Zrezygnuj z reklam opartych na zainteresowaniach” lub „Zrezygnuj z personalizacji reklam” na urządzeniach z systemem Android",
+        "androidInterestBased": "Zrezygnuj z reklam opartych na zainteresowaniach",
+        "androidPersonalization": "Zrezygnuj z personalizacji reklam",
+        "iosTracking": "„Ogranicz śledzenie reklam” na urządzeniach z systemem iOS",
+        "iosLimit": "Ogranicz śledzenie reklam"
+      },
+      "dataTypes": {
+        "email": "Adres e-mail",
+        "name": "Imię i nazwisko",
+        "phone": "Numer telefonu",
+        "address": "Adres, Województwo, Województwo, Kod pocztowy, Miasto",
+        "usageData": "Dane dotyczące użytkowania"
+      },
+      "socialMedia": {
+        "google": "Google",
+        "facebook": "Facebook",
+        "apple": "Jabłko"
+      },
+      "appPermissions": {
+        "location": "Informacje dotyczące Twojej lokalizacji (do wykrywania bliskości Bluetooth )",
+        "bluetooth": "Informacje o urządzeniu Bluetooth i skanowanie urządzeń w pobliżu",
+        "camera": "Informacje z aparatu Twojego urządzenia służące do tworzenia awatara",
+        "contacts": "Kontakty w urządzeniu (opcjonalne, do znajdowania znajomych)"
+      }
+    },
+    "termsOfUse": {
+      "title": "Warunki korzystania",
+      "subtitle": "Zrozumienie swoich praw i obowiązków podczas korzystania z usług Ringdy .",
+      "lastUpdated": "Ostatnia aktualizacja: styczeń 2025 r.",
+      "introduction": "Przed skorzystaniem z Naszej Usługi prosimy o dokładne zapoznanie się z niniejszym regulaminem.",
+      "sections": {
+        "interpretationTitle": "Interpretacja i definicje",
+        "interpretationSubtitle": "Interpretacja",
+        "interpretationText": "Słowa, których pierwsza litera jest wielka, mają znaczenie zdefiniowane pod następującymi warunkami. Poniższe definicje mają to samo znaczenie niezależnie od tego, czy występują w liczbie pojedynczej, czy mnogiej.",
+        "definitionsSubtitle": "Definicje",
+        "definitionsText": "Na potrzeby niniejszego Regulaminu:",
+        "definitions": {
+          "application": "Oznacza program komputerowy dostarczony przez Spółkę, pobrany przez Ciebie na dowolne urządzenie elektroniczne o nazwie Ringdy .",
+          "applicationStore": "Oznacza usługę dystrybucji cyfrowej obsługiwaną i opracowaną przez Apple Inc. (Apple App Store) lub Google Inc. (Google Play Store), z której pobrano aplikację.",
+          "affiliate": "Oznacza podmiot kontrolujący, kontrolowany lub podlegający wspólnej kontroli ze stroną, gdzie „kontrola” oznacza posiadanie 50% lub więcej akcji, udziałów kapitałowych lub innych papierów wartościowych uprawniających do głosowania w wyborach dyrektorów lub innych organów zarządzających.",
+          "account": "Oznacza unikalne konto utworzone dla Ciebie w celu uzyskania dostępu do naszych Usług lub ich części.",
+          "country": "Odnosi się do: Wietnamu",
+          "company": "(zwana dalej w niniejszej Umowie „Spółką”, „My”, „Nas” lub „Nasz”) odnosi się do Ringdy .",
+          "content": "Odnosi się do treści, takich jak tekst, obrazy lub inne informacje, które mogą być publikowane, przesyłane, linkowane lub w inny sposób udostępniane przez Ciebie, niezależnie od formy tej treści.",
+          "device": "Oznacza każde urządzenie umożliwiające dostęp do Usługi, takie jak komputer, smartfon lub tablet cyfrowy.",
+          "feedback": "Oznacza opinie, innowacje lub sugestie przesłane przez Ciebie dotyczące atrybutów, wydajności lub cech naszej Usługi.",
+          "freeTrial": "Odnosi się do ograniczonego okresu czasu, który może być bezpłatny przy zakupie Subskrypcji.",
+          "goods": "Zapoznaj się z przedmiotami oferowanymi do sprzedaży w Serwisie.",
+          "inAppPurchase": "Odnosi się do zakupu produktu, przedmiotu, usługi lub Subskrypcji dokonanego za pośrednictwem Aplikacji i podlegającego niniejszym Warunkom i/lub własnym warunkom Sklepu z Aplikacjami.",
+          "orders": "Oznacza Twoją prośbę o zakup Towarów od Nas.",
+          "promotions": "Zapoznaj się z konkursami, loteriami i innymi promocjami oferowanymi za pośrednictwem Serwisu.",
+          "service": "Odnosi się do Aplikacji.",
+          "subscriptions": "Odnosi się do usług lub dostępu do Usługi oferowanych Tobie przez Spółkę na zasadzie subskrypcji.",
+          "termsAndConditions": "(zwane także „Warunkami”) oznaczają niniejsze Warunki, które stanowią całość umowy pomiędzy Użytkownikiem a Spółką w zakresie korzystania z Usługi.",
+          "thirdPartySocialMedia": "Oznacza wszelkie usługi lub treści (w tym dane, informacje, produkty lub usługi) dostarczane przez osoby trzecie, które mogą być wyświetlane, uwzględniane lub udostępniane w ramach Serwisu.",
+          "you": "Oznacza osobę uzyskującą dostęp do Usługi lub korzystającą z niej albo spółkę lub inny podmiot prawny, w imieniu którego taka osoba uzyskuje dostęp do Usługi lub z niej korzysta, w zależności od przypadku."
+        },
+        "definitionLabels": {
+          "application": "Aplikacja:",
+          "applicationStore": "Sklep z aplikacjami:",
+          "affiliate": "Przyłączać:",
+          "account": "Konto:",
+          "country": "Kraj:",
+          "company": "Firma:",
+          "content": "Treść:",
+          "device": "Urządzenie:",
+          "feedback": "Informacja zwrotna:",
+          "freeTrial": "Bezpłatny okres próbny:",
+          "goods": "Towary:",
+          "inAppPurchase": "Zakup w aplikacji:",
+          "orders": "Święcenia:",
+          "promotions": "Promocje:",
+          "service": "Praca:",
+          "subscriptions": "Subskrypcje:",
+          "termsAndConditions": "Warunki i zasady:",
+          "thirdPartySocialMedia": "Usługa mediów społecznościowych stron trzecich:",
+          "you": "Ty:"
+        }
+      },
+      "acknowledgment": {
+        "title": "Potwierdzenie",
+        "description1": "Niniejszy Regulamin reguluje korzystanie z Usługi oraz umowę między Użytkownikiem a Spółką. Regulamin określa prawa i obowiązki wszystkich użytkowników w zakresie korzystania z Usługi.",
+        "description2": "Dostęp do Serwisu i korzystanie z niego są uzależnione od akceptacji i przestrzegania niniejszych Warunków. Niniejsze Warunki mają zastosowanie do wszystkich odwiedzających, użytkowników i innych osób uzyskujących dostęp do Serwisu lub korzystających z niego.",
+        "description3": "Uzyskując dostęp do Usługi lub korzystając z niej, wyrażasz zgodę na przestrzeganie niniejszych Warunków. Jeśli nie zgadzasz się z jakąkolwiek częścią niniejszych Warunków, nie możesz korzystać z Usługi.",
+        "description4": "Oświadczasz, że masz ukończone 18 lat. Spółka nie zezwala na korzystanie z Usługi osobom, które nie ukończyły 18 lat.",
+        "description5": "Dostęp do Usługi i korzystanie z niej jest również uzależnione od akceptacji i przestrzegania Polityki Prywatności Spółki. Nasza Polityka Prywatności opisuje nasze zasady i procedury dotyczące gromadzenia, wykorzystywania i ujawniania Twoich danych osobowych podczas korzystania z Aplikacji, a także informuje Cię o Twoich prawach do prywatności i sposobach ochrony Twoich danych przez prawo. Przed skorzystaniem z Naszej Usługi prosimy o uważne zapoznanie się z Naszą Polityką Prywatności.",
+        "bluetoothNotice": "Korzystając z naszej Usługi, potwierdzasz, że Aplikacja korzysta z technologii Bluetooth i usług lokalizacyjnych w celu odnajdywania i łączenia się z pobliskimi użytkownikami. Wyrażasz zgodę na korzystanie z tych technologii w celu zapewnienia funkcji opartych na bliskości.",
+        "bluetoothTitle": "Usługi Bluetooth i lokalizacji"
+      },
+      "orders": {
+        "title": "Zakup przedmiotów cyfrowych",
+        "introduction": "Kupując Discovery Pass, Night Pass lub Subskrypcję za pośrednictwem Serwisu, gwarantujesz, że posiadasz zdolność prawną do zawierania wiążących umów.",
+        "yourInformation": {
+          "title": "Twoje informacje",
+          "description1": "Płatności za karnety Discovery, Night Pass i Subskrypcje są realizowane wyłącznie za pośrednictwem sklepu z aplikacjami na Twoim urządzeniu (Google Play lub App Store). Nie gromadzimy ani nie przechowujemy danych Twojej karty płatniczej.",
+          "description2": "Oświadczasz i gwarantujesz, że: (i) posiadasz prawo do korzystania z dowolnej metody płatności zarejestrowanej na Twoim koncie w sklepie z aplikacjami; oraz (ii) informacje, które dostarczasz sklepowi z aplikacjami, są prawdziwe, poprawne i kompletne.",
+          "description3": "Wszystkie informacje dotyczące płatności są przesyłane bezpośrednio do Google Play lub App Store, a nie do Spółki."
+        },
+        "cancellation": {
+          "title": "Anulowanie zakupu",
+          "description1": "Zastrzegamy sobie prawo do odmowy lub anulowania zakupu w dowolnym momencie z określonych powodów, w tym między innymi:",
+          "reasons": {
+            "availability": "Dostępność przedmiotu",
+            "errors": "Błędy w opisie lub cenie przedmiotu",
+            "orderErrors": "Błędy w Twoim zakupie"
+          },
+          "description2": "Zastrzegamy sobie prawo do odmowy lub anulowania zakupu w przypadku podejrzenia oszustwa lub nieautoryzowanej lub niezgodnej z prawem transakcji.",
+          "yourRights": {
+            "title": "Twoje prawa do odstąpienia od umowy",
+            "description1": "Karnety Discovery Pass, Night Pass i inne jednorazowe przedmioty cyfrowe podlegają zużyciu po ich wykorzystaniu i zazwyczaj nie można ich zwrócić.",
+            "description2": "Nasze zasady zwrotów za zakupy cyfrowe opisano w poniższych sekcjach Zakupy w aplikacji i Zwroty.",
+            "description3": "Po wykorzystaniu karnetu Discovery Pass lub Night Pass w celu odblokowania danego miejsca, nie można go anulować ani dokonać zwrotu pieniędzy.",
+            "description4": "Uprawnione prośby o zwrot pieniędzy są rozpatrywane zgodnie z polityką zwrotów sklepu z aplikacjami, opisaną poniżej w sekcji Zwroty.",
+            "description5": "Nie masz prawa anulować zakupu następujących produktów:",
+            "exceptions": {
+              "personalized": "Elementy, które zostały już przypisane do Twojego konta lub wykorzystane, np. karnet Discovery Pass służący do odblokowania miejsca.",
+              "perishable": "Karnety czasowe, takie jak Night Pass , obowiązują po rozpoczęciu okresu ich ważności.",
+              "hygiene": "Okresy subskrypcji, w ramach których Usługa została już Tobie świadczona.",
+              "mixed": "Przedmioty cyfrowe połączone z innymi zakupionymi przedmiotami w ramach pakietu.",
+              "digital": "Dostarczanie treści cyfrowych, które nie są zapisane na nośniku materialnym, jeżeli spełnianie świadczenia rozpoczęło się za Twoją uprzednią wyraźną zgodą i po zapoznaniu się z utratą prawa odstąpienia od umowy."
+            }
+          }
+        },
+        "availability": {
+          "title": "Dostępność, błędy i nieścisłości",
+          "description1": "Stale aktualizujemy naszą ofertę karnetów Discovery Pass, Night Pass i planów subskrypcji w ramach Usługi. Mogą one być błędnie wycenione, opisane nieprecyzyjnie lub niedostępne, a aktualizacja tych informacji może się opóźnić.",
+          "description2": "Nie możemy zagwarantować i nie gwarantujemy dokładności ani kompletności jakichkolwiek informacji, w tym cen i dostępności. Zastrzegamy sobie prawo do zmiany lub aktualizacji informacji oraz do poprawiania błędów, nieścisłości lub pominięć w dowolnym momencie i bez uprzedniego powiadomienia."
+        },
+        "pricing": {
+          "title": "Polityka cenowa",
+          "description1": "Spółka zastrzega sobie prawo do zmiany cen karnetów Discovery Pass, Night Pass i subskrypcji w dowolnym momencie przed zaakceptowaniem zakupu.",
+          "description2": "Ceny są ustalane i wyświetlane za pośrednictwem sklepu z aplikacjami na Twoim urządzeniu (Google Play lub App Store) i mogą się różnić w zależności od regionu i waluty."
+        },
+        "payments": {
+          "title": "Płatności",
+          "description1": "Wszystkie zakupy są realizowane za pośrednictwem sklepu z aplikacjami na Twoim urządzeniu (Google Play lub App Store) i przy użyciu obsługiwanych przez niego metod płatności.",
+          "description2": "Metody płatności podlegają weryfikacji i autoryzacji przez sklep z aplikacjami oraz wystawcę karty. W przypadku braku autoryzacji, Spółka nie ponosi odpowiedzialności za opóźnienie lub brak dostawy zakupionego produktu."
+        }
+      },
+      "subscriptions": {
+        "title": "Subskrypcje",
+        "period": {
+          "title": "Okres subskrypcji",
+          "description1": "Usługa lub niektóre jej części są dostępne wyłącznie w ramach płatnej Subskrypcji. Opłaty będą naliczane z góry w sposób cykliczny i okresowy (np. dzienny, tygodniowy, miesięczny lub roczny), w zależności od rodzaju planu Subskrypcji wybranego podczas zakupu Subskrypcji.",
+          "description2": "Pod koniec każdego okresu Twoja Subskrypcja zostanie automatycznie odnowiona na dokładnie tych samych warunkach, chyba że ją anulujesz Ty lub Spółka ją anuluje."
+        },
+        "cancellations": {
+          "title": "Anulowanie subskrypcji",
+          "description1": "Możesz anulować odnowienie Subskrypcji za pośrednictwem strony ustawień Konta lub kontaktując się z Firmą. Nie otrzymasz zwrotu opłat, które już uiściłeś za bieżący okres Subskrypcji, a dostęp do Usługi będzie możliwy do końca bieżącego okresu Subskrypcji.",
+          "description2": "Jeżeli Subskrypcja została zakupiona za pośrednictwem zakupu w aplikacji, możesz anulować odnowienie Subskrypcji w Sklepie z aplikacjami."
+        },
+        "billing": {
+          "title": "Rozliczanie",
+          "description1": "Należy podać Spółce dokładne i kompletne dane dotyczące rozliczeń, w tym imię i nazwisko, adres, stan, kod pocztowy, numer telefonu oraz informacje dotyczące prawidłowej metody płatności.",
+          "description2": "Jeżeli z jakiegokolwiek powodu automatyczne naliczenie opłaty nie nastąpi, Spółka wystawi fakturę elektroniczną wskazującą, że należy dokonać ręcznej płatności w pełnej wysokości za okres rozliczeniowy wskazany na fakturze, w określonym terminie.",
+          "description3": "Jeżeli Subskrypcja została zakupiona za pośrednictwem Zakupu w aplikacji, wszelkie rozliczenia są obsługiwane przez Sklep z aplikacjami i podlegają jego własnym regulaminom."
+        },
+        "feeChanges": {
+          "title": "Zmiany opłat",
+          "description1": "Spółka może, według własnego uznania i w dowolnym momencie, modyfikować wysokość opłat abonamentowych. Wszelkie zmiany wysokości opłat abonamentowych wchodzą w życie z końcem bieżącego okresu abonamentowego.",
+          "description2": "Spółka powiadomi Cię z odpowiednim wyprzedzeniem o każdej zmianie opłat za Subskrypcję, aby dać Ci możliwość rozwiązania Subskrypcji przed wejściem takiej zmiany w życie.",
+          "description3": "Dalsze korzystanie z Usługi po wejściu w życie zmiany opłaty za subskrypcję oznacza zgodę na zapłatę zmienionej kwoty opłaty za subskrypcję."
+        },
+        "refunds": {
+          "title": "Zwroty",
+          "description1": "Opłaty za Subskrypcję nie podlegają zwrotowi, chyba że wymaga tego prawo.",
+          "description2": "Niektóre wnioski o zwrot pieniędzy za Subskrypcje mogą być rozpatrywane przez Spółkę indywidualnie i uwzględniane według jej wyłącznego uznania.",
+          "description3": "Jeśli Subskrypcja została zakupiona w aplikacji, zastosowanie ma polityka zwrotów sklepu z aplikacjami. Jeśli chcesz ubiegać się o zwrot pieniędzy, możesz to zrobić, kontaktując się bezpośrednio ze sklepem z aplikacjami."
+        },
+        "freeTrial": {
+          "title": "Bezpłatny okres próbny",
+          "description1": "Spółka może według własnego uznania zaoferować Subskrypcję z Bezpłatnym Okresem Próbnym na ograniczony czas.",
+          "description2": "Aby zapisać się na bezpłatny okres próbny, konieczne może być podanie danych rozliczeniowych.",
+          "description3": "Jeśli podasz swoje dane rozliczeniowe podczas rejestracji na Bezpłatny Okres Próbny, Firma nie obciąży Cię opłatą do czasu wygaśnięcia Bezpłatnego Okresu Próbnego. Ostatniego dnia Bezpłatnego Okresu Próbnego, o ile nie anulujesz Subskrypcji, zostaniesz automatycznie obciążony opłatami za Subskrypcję obowiązującymi dla wybranego przez Ciebie rodzaju Subskrypcji.",
+          "description4": "Spółka zastrzega sobie prawo do (i) zmiany warunków oferty bezpłatnego okresu próbnego lub (ii) anulowania takiej oferty bezpłatnego okresu próbnego w dowolnym momencie i bez powiadomienia."
+        }
+      },
+      "inAppPurchases": {
+        "title": "Zakupy w aplikacji",
+        "description1": "Aplikacja może obejmować Zakupy w aplikacji, które umożliwiają zakup produktów, usług lub Subskrypcji.",
+        "description2": "Więcej informacji o tym, jak możesz zarządzać Zakupami w aplikacji przy użyciu swojego Urządzenia, znajdziesz w regulaminie sklepu z aplikacjami lub w ustawieniach Pomocy Twojego Urządzenia.",
+        "description3": "Zakupy w aplikacji można zrealizować wyłącznie w Aplikacji. Zakupu w aplikacji nie można anulować po rozpoczęciu pobierania. Zakupów w aplikacji nie można wymienić na gotówkę ani inne świadczenie, ani przenieść w inny sposób.",
+        "description4": "Użytkownik potwierdza i wyraża zgodę, że wszystkimi procesami rozliczeniowymi i transakcyjnymi zajmuje się Sklep z aplikacjami, z którego pobrano Aplikację, i że podlegają one regulaminowi tego Sklepu z aplikacjami."
+      },
+      "promotions": {
+        "title": "Promocje",
+        "description1": "Wszelkie Promocje udostępniane za pośrednictwem Serwisu mogą podlegać zasadom odrębnym od niniejszych Warunków.",
+        "description2": "Jeśli bierzesz udział w Promocji, zapoznaj się z obowiązującymi zasadami oraz naszą Polityką Prywatności. W przypadku sprzeczności zasad Promocji z niniejszym Regulaminem, zastosowanie mają zasady Promocji."
+      },
+      "userAccounts": {
+        "title": "Konta użytkowników",
+        "description1": "Tworząc u nas konto, musisz podać nam zawsze dokładne, kompletne i aktualne informacje. Niedopełnienie tego obowiązku stanowi naruszenie Regulaminu, co może skutkować natychmiastowym zamknięciem Twojego konta w naszym Serwisie.",
+        "description2": "Odpowiadasz za ochronę hasła, którego używasz do uzyskania dostępu do Usługi, a także za wszelkie działania i czynności wykonywane przy użyciu Twojego hasła, niezależnie od tego, czy Twoje hasło znajduje się w Naszej Usłudze, czy w serwisie społecznościowym strony trzeciej.",
+        "description3": "Zgadzasz się nie ujawniać swojego hasła osobom trzecim. Musisz nas natychmiast powiadomić, gdy tylko dowiesz się o jakimkolwiek naruszeniu bezpieczeństwa lub nieautoryzowanym użyciu Twojego konta.",
+        "description4": "Nie możesz używać jako nazwy użytkownika nazwy innej osoby lub podmiotu ani nazwy, która nie jest prawnie dostępna do użytku, nazwy lub znaku towarowego podlegającego prawom innej osoby lub podmiotu bez odpowiedniego upoważnienia, ani nazwy, która jest w inny sposób obraźliwa, wulgarna lub obsceniczna."
+      },
+      "userConduct": {
+        "title": "Postępowanie i bezpieczeństwo użytkowników",
+        "zeroTolerance": {
+          "title": "Polityka zerowej tolerancji",
+          "description": "Zgadzasz się nie używać Serwisu do nękania, grożenia, prześladowania ani zastraszania innych osób. Firma stosuje politykę zerowej tolerancji wobec zachowań o charakterze agresywnym, nękania lub naruszania praw lub bezpieczeństwa innych osób. Naruszenia mogą skutkować natychmiastowym zawieszeniem lub zamknięciem Twojego konta."
+        },
+        "safetyDisclaimer": {
+          "title": "Zastrzeżenie dotyczące bezpieczeństwa",
+          "description": "Usługa ułatwia nawiązywanie kontaktów i komunikację między użytkownikami, którzy mogą zechcieć spotkać się osobiście. Nie przeprowadzamy weryfikacji przeszłości ani tożsamości użytkowników. Ponosisz wyłączną odpowiedzialność za swoje interakcje z innymi użytkownikami. Zachowaj ostrożność, kieruj się zdrowym rozsądkiem i podejmuj odpowiednie środki bezpieczeństwa podczas komunikowania się lub spotykania z innymi użytkownikami offline."
+        }
+      },
+      "content": {
+        "title": "Treść",
+        "yourRight": {
+          "title": "Twoje prawo do publikowania treści",
+          "description1": "Nasza Usługa umożliwia Ci publikowanie Treści. Ponosisz odpowiedzialność za Treści, które publikujesz w Usłudze, w tym za ich legalność, rzetelność i stosowność.",
+          "description2": "Publikując Treści w Serwisie, udzielasz nam prawa i licencji do używania, modyfikowania, publicznego wykonywania, publicznego wyświetlania, powielania i rozpowszechniania takich Treści w Serwisie i za jego pośrednictwem. Zachowujesz wszelkie prawa do wszelkich Treści, które przesyłasz, publikujesz lub wyświetlasz w Serwisie lub za jego pośrednictwem, i jesteś odpowiedzialny za ochronę tych praw.",
+          "description3": "Oświadczasz i gwarantujesz, że: (i) Treść jest Twoją własnością (jesteś jej właścicielem) lub masz prawo do jej używania i udzielenia nam praw i licencji zgodnie z postanowieniami niniejszych Warunków, oraz (ii) publikowanie Twojej Treści w ramach Usługi lub za jej pośrednictwem nie narusza praw do prywatności, praw do wizerunku, praw autorskich, praw umownych ani żadnych innych praw żadnej osoby."
+        },
+        "restrictions": {
+          "title": "Ograniczenia treści",
+          "description1": "Firma nie ponosi odpowiedzialności za treści użytkowników Serwisu. Użytkownik wyraźnie rozumie i zgadza się, że ponosi wyłączną odpowiedzialność za Treści i wszelkie działania podejmowane na jego koncie, niezależnie od tego, czy są one podejmowane przez Użytkownika, czy przez osobę trzecią korzystającą z jego konta.",
+          "description2": "Nie wolno przesyłać Treści, które są niezgodne z prawem, obraźliwe, drażniące, mają na celu wzbudzenie obrzydzenia, stanowią groźbę, są oszczercze, zniesławiające, obsceniczne lub w inny sposób budzą sprzeciw. Przykłady takich Treści budzących sprzeciw obejmują między innymi:",
+          "prohibitedContent": {
+            "unlawful": "Działalność niezgodna z prawem lub promująca działalność niezgodną z prawem.",
+            "discriminatory": "Treści zniesławiające, dyskryminujące lub złośliwe, w tym odniesienia lub komentarze na temat religii, rasy, orientacji seksualnej, płci, pochodzenia narodowego/etnicznego lub innych grup docelowych.",
+            "spam": "Spam generowany maszynowo lub losowo, stanowiący nieautoryzowaną lub niechcianą reklamę, listy łańcuszkowe, jakąkolwiek inną formę nieautoryzowanego nakłaniania lub jakąkolwiek formę loterii lub hazardu.",
+            "malware": "Zawieranie lub instalowanie wirusów, robaków, złośliwego oprogramowania, koni trojańskich lub innej zawartości, której celem jest zakłócanie, uszkadzanie lub ograniczanie funkcjonowania oprogramowania, sprzętu lub urządzeń telekomunikacyjnych.",
+            "infringing": "Naruszanie jakichkolwiek praw własności jakiejkolwiek strony, w tym patentów, znaków towarowych, tajemnic handlowych, praw autorskich, praw do wizerunku i innych praw.",
+            "impersonating": "Podawanie się za inną osobę lub podmiot, w tym za Spółkę oraz jej pracowników lub przedstawicieli.",
+            "privacy": "Naruszenie prywatności osób trzecich.",
+            "false": "Fałszywe informacje i cechy."
+          },
+          "description3": "Spółka zastrzega sobie prawo, ale nie obowiązek, do decydowania według własnego uznania, czy dana Treść jest odpowiednia i zgodna z niniejszymi Warunkami. Możemy odmówić wyświetlenia lub usunąć Treść, a także zastrzegamy sobie prawo do zawieszenia lub zamknięcia kont, które naruszają niniejsze Warunki lub nasze standardy społeczności."
+        },
+        "backups": {
+          "title": "Kopie zapasowe zawartości",
+          "description1": "Mimo że regularnie tworzone są kopie zapasowe Treści, Spółka nie gwarantuje, że nie dojdzie do utraty lub uszkodzenia danych.",
+          "description2": "Uszkodzone lub nieprawidłowe punkty kopii zapasowej mogą być spowodowane, między innymi, uszkodzeniem Treści przed utworzeniem kopii zapasowej lub zmianą Treści w trakcie tworzenia kopii zapasowej.",
+          "description3": "Firma zapewni wsparcie i podejmie próbę rozwiązania wszelkich znanych lub wykrytych problemów, które mogą mieć wpływ na kopie zapasowe Treści. Użytkownik przyjmuje jednak do wiadomości, że Firma nie ponosi odpowiedzialności za integralność Treści ani za niepowodzenie w przywróceniu Treści do stanu używalności.",
+          "description4": "Użytkownik zgadza się przechowywać pełną i dokładną kopię wszelkich Treści w miejscu niezależnym od Usługi."
+        }
+      },
+      "copyright": {
+        "title": "Polityka praw autorskich",
+        "intellectualProperty": {
+          "title": "Naruszenie własności intelektualnej",
+          "description1": "Szanujemy prawa własności intelektualnej innych osób. Naszą polityką jest reagowanie na wszelkie roszczenia, że Treści publikowane w Serwisie naruszają prawa autorskie lub inne prawa własności intelektualnej jakiejkolwiek osoby.",
+          "description2": "Jeżeli jesteś właścicielem praw autorskich lub osobą upoważnioną w imieniu właściciela i uważasz, że chronione prawem autorskim dzieło zostało skopiowane w sposób stanowiący naruszenie praw autorskich, do którego dochodzi za pośrednictwem Usługi, musisz przesłać swoje zawiadomienie w formie pisemnej do naszego agenta ds. praw autorskich, wysyłając wiadomość e-mail na adres support@ringdy.com, podając szczegółowy opis domniemanego naruszenia.",
+          "description3": "Możesz zostać pociągnięty do odpowiedzialności za szkody (w tym koszty i honoraria adwokackie) w przypadku wprowadzenia w błąd, że jakakolwiek Treść narusza Twoje prawa autorskie."
+        },
+        "dmca": {
+          "title": "Zawiadomienie DMCA i procedura DMCA w przypadku roszczeń dotyczących naruszenia praw autorskich",
+          "description": "Możesz przesłać powiadomienie zgodnie z ustawą Digital Millennium Copyright Act (DMCA), podając naszemu Agentowi ds. Praw Autorskich następujące informacje w formie pisemnej:",
+          "requirements": {
+            "signature": "Elektroniczny lub fizyczny podpis osoby upoważnionej do działania w imieniu właściciela praw autorskich.",
+            "description": "Opis chronionego prawem autorskim dzieła, które Twoim zdaniem zostało naruszone, w tym adres URL (tj. adres strony internetowej) miejsca, w którym znajduje się chronione prawem autorskim dzieło lub kopia chronionego prawem autorskim dzieła.",
+            "identification": "Wskazanie adresu URL lub innego konkretnego miejsca w Serwisie, w którym znajduje się materiał, który Twoim zdaniem narusza prawa.",
+            "contact": "Twój adres, numer telefonu i adres e-mail.",
+            "goodFaith": "Oświadczenie złożone przez Ciebie, że w dobrej wierze uważasz, iż kwestionowane wykorzystanie nie zostało autoryzowane przez właściciela praw autorskich, jego przedstawiciela lub prawo.",
+            "accuracy": "Oświadczenie złożone przez Ciebie pod groźbą kary za krzywoprzysięstwo, że powyższe informacje zawarte w Twoim zawiadomieniu są prawdziwe i że jesteś właścicielem praw autorskich lub posiadasz upoważnienie do działania w imieniu właściciela praw autorskich."
+          },
+          "contact": "Możesz skontaktować się z naszym agentem ds. praw autorskich, pisząc na adres support@ringdy.com. Po otrzymaniu powiadomienia, Spółka podejmie wszelkie działania, według własnego uznania, które uzna za stosowne, w tym usunie zakwestionowaną treść z Serwisu."
+        }
+      },
+      "intellectualProperty": {
+        "title": "Własność intelektualna",
+        "description1": "Usługa i jej oryginalna zawartość (z wyłączeniem Treści dostarczonych przez Ciebie lub innych użytkowników), funkcje i funkcjonalności są i pozostaną wyłączną własnością Spółki i jej licencjodawców.",
+        "description2": "Usługa jest chroniona prawami autorskimi, znakami towarowymi i innymi prawami zarówno kraju, jak i zagranicy.",
+        "description3": "Naszych znaków towarowych i szaty graficznej nie wolno używać w związku z żadnym produktem ani usługą bez uprzedniej pisemnej zgody Spółki."
+      },
+      "feedback": {
+        "title": "Twoja opinia dla nas",
+        "description": "Przenosisz wszelkie prawa, tytuły i udziały do wszelkich Opinii, które przekazujesz Spółce. Jeśli z jakiegokolwiek powodu taka cesja okaże się nieskuteczna, zgadzasz się udzielić Spółce niewyłącznej, wieczystej, nieodwołalnej, wolnej od opłat licencyjnych, ogólnoświatowej licencji i prawa do wykorzystywania, powielania, ujawniania, udzielania sublicencji, dystrybuowania, modyfikowania i wykorzystywania takich Opinii bez ograniczeń."
+      },
+      "links": {
+        "title": "Linki do innych stron internetowych",
+        "description1": "Nasz Serwis może zawierać odnośniki do stron internetowych lub usług stron trzecich, które nie są własnością Spółki ani nie podlegają jej kontroli.",
+        "description2": "Spółka nie ma kontroli nad treścią, polityką prywatności ani praktykami stron internetowych lub usług stron trzecich i nie ponosi za nie odpowiedzialności. Ponadto Użytkownik przyjmuje do wiadomości i zgadza się, że Spółka nie ponosi odpowiedzialności, bezpośrednio ani pośrednio, za jakiekolwiek szkody lub straty spowodowane lub rzekomo spowodowane przez lub w związku z korzystaniem z lub poleganiem na takich treściach, towarach lub usługach dostępnych na lub za pośrednictwem takich stron internetowych lub usług.",
+        "description3": "Zdecydowanie zalecamy zapoznanie się z regulaminem i polityką prywatności wszelkich stron internetowych lub usług stron trzecich, które odwiedzasz."
+      },
+      "termination": {
+        "title": "Zakończenie",
+        "description1": "Mamy prawo natychmiast zamknąć lub zawiesić Twoje Konto, bez wcześniejszego powiadomienia i ponoszenia odpowiedzialności, z dowolnego powodu, w tym, ale nie wyłącznie, w przypadku naruszenia przez Ciebie niniejszych Warunków.",
+        "description2": "Po rozwiązaniu Umowy Twoje prawo do korzystania z Usługi wygasa natychmiast. Jeśli chcesz zamknąć swoje Konto, możesz po prostu zaprzestać korzystania z Usługi.",
+        "dataDeletion": {
+          "title": "Usuwanie danych i zamknięcie konta",
+          "description": "Możesz w dowolnym momencie zażądać usunięcia swojego konta i danych osobowych, kontaktując się z nami pod adresem support@ringdy.com lub korzystając z dowolnej funkcji usuwania konta w aplikacji. Po rozwiązaniu umowy lub usunięciu konta usuniemy lub zanonimizujemy Twoje dane osobowe zgodnie z obowiązującym prawem, z wyjątkiem sytuacji, gdy jesteśmy zobowiązani do przechowywania określonych danych ze względów prawnych, bezpieczeństwa lub operacyjnych."
+        }
+      },
+      "liability": {
+        "title": "Ograniczenie odpowiedzialności",
+        "importantNotice": "Ważna informacja prawna",
+        "notice": "Niezależnie od jakichkolwiek szkód, jakie możesz ponieść, całkowita odpowiedzialność Spółki i każdego z jej dostawców na mocy któregokolwiek z postanowień niniejszych Warunków oraz Twoje wyłączne zadośćuczynienie za wszystkie powyższe zdarzenia będą ograniczone do kwoty faktycznie zapłaconej przez Ciebie za pośrednictwem Usługi lub 100 USD, jeśli nie dokonałeś żadnego zakupu za pośrednictwem Usługi.",
+        "description1": "W maksymalnym zakresie dozwolonym przez obowiązujące prawo, Spółka ani jej dostawcy nie ponoszą w żadnym wypadku odpowiedzialności za jakiekolwiek szkody szczególne, przypadkowe, pośrednie lub wynikowe (w tym, ale nie wyłącznie, szkody z tytułu utraty zysków, utraty danych lub innych informacji, przerwy w działalności, obrażeń ciała, utraty prywatności wynikającej z lub w jakikolwiek sposób związanej z korzystaniem z Usługi lub niemożnością korzystania z niej, oprogramowania stron trzecich i/lub sprzętu stron trzecich używanego z Usługą lub w inny sposób w związku z jakimkolwiek postanowieniem niniejszych Warunków), nawet jeśli Spółka lub którykolwiek z dostawców został poinformowany o możliwości wystąpienia takich szkód i nawet jeśli środek zaradczy nie spełni swojego zasadniczego celu.",
+        "description2": "Niektóre stany nie zezwalają na wyłączenie gwarancji dorozumianych lub ograniczenie odpowiedzialności za szkody przypadkowe lub następcze, co oznacza, że niektóre z powyższych ograniczeń mogą nie mieć zastosowania. W tych stanach odpowiedzialność każdej ze stron będzie ograniczona w maksymalnym zakresie dozwolonym przez prawo."
+      },
+      "disclaimer": {
+        "title": "Zastrzeżenie prawne „TAK JAK JEST” i „TAK JAK BLE ”",
+        "description1": "Usługa jest świadczona Użytkownikowi „W STANIE, W JAKIM SIĘ ZNAJDUJE” i „W MIARĘ BLE ”, z wszelkimi wadami i usterkami, bez jakiejkolwiek gwarancji. W maksymalnym zakresie dozwolonym przez obowiązujące prawo, Spółka, w imieniu własnym oraz w imieniu swoich Podmiotów Powiązanych oraz swoich i ich odpowiednich licencjodawców i dostawców usług, wyraźnie zrzeka się wszelkich gwarancji, wyraźnych, dorozumianych, ustawowych lub innych, w odniesieniu do Usługi, w tym wszelkich dorozumianych gwarancji przydatności handlowej, przydatności do określonego celu, tytułu prawnego i nienaruszalności praw, a także gwarancji wynikających z toku transakcji, wykonania, użytkowania lub praktyki handlowej.",
+        "description2": "Bez ograniczeń do powyższego, Spółka nie udziela żadnych gwarancji ani zobowiązań i nie składa żadnych oświadczeń, że Usługa spełni Twoje wymagania, osiągnie jakiekolwiek zamierzone rezultaty, będzie kompatybilna lub będzie współpracować z jakimkolwiek innym oprogramowaniem, aplikacjami, systemami lub usługami, będzie działać bez zakłóceń, spełni jakiekolwiek standardy wydajności lub niezawodności lub będzie wolna od błędów lub że jakiekolwiek błędy lub wady mogą lub zostaną naprawione.",
+        "description3": "Bez ograniczania powyższego, ani Spółka ani żaden z dostawców Spółki nie składa żadnych oświadczeń ani gwarancji żadnego rodzaju, wyraźnych ani dorozumianych: (i) co do działania lub dostępności Usługi lub informacji, treści, materiałów lub produktów w niej zawartych; (ii) że Usługa będzie nieprzerwana i wolna od błędów; (iii) co do dokładności, niezawodności lub aktualności jakichkolwiek informacji lub treści dostarczanych za pośrednictwem Usługi; lub (iv) że Usługa, jej serwery, treść lub wiadomości e-mail wysyłane z lub w imieniu Spółki są wolne od wirusów, skryptów, koni trojańskich, robaków, złośliwego oprogramowania, bomb zegarowych lub innych szkodliwych komponentów.",
+        "description4": "W niektórych jurysdykcjach wyłączenie określonych rodzajów gwarancji lub ograniczeń ustawowych praw konsumenta nie jest dozwolone, dlatego niektóre lub wszystkie z powyższych wyłączeń i ograniczeń mogą nie mieć zastosowania do Użytkownika. W takim przypadku wyłączenia i ograniczenia określone w niniejszym punkcie będą stosowane w najszerszym zakresie egzekwowalnym na mocy obowiązującego prawa."
+      },
+      "governingLaw": {
+        "title": "Prawo właściwe",
+        "description": "Niniejsze Warunki oraz korzystanie z Usługi podlegają prawu danego kraju, z wyłączeniem przepisów kolizyjnych. Korzystanie z Aplikacji może również podlegać innym przepisom prawa lokalnego, stanowego, krajowego lub międzynarodowego."
+      },
+      "disputes": {
+        "title": "Rozwiązywanie sporów",
+        "description": "Jeżeli masz jakiekolwiek wątpliwości lub spory dotyczące Usługi, zgadzasz się najpierw podjąć próbę rozwiązania sporu drogą nieformalną, kontaktując się ze Spółką."
+      },
+      "euUsers": {
+        "title": "Dla użytkowników z Unii Europejskiej (UE)",
+        "description": "Jeżeli jesteś konsumentem z Unii Europejskiej, przysługują Ci wszelkie obowiązkowe przepisy prawa kraju, w którym mieszkasz."
+      },
+      "usLegal": {
+        "title": "Zgodność z prawem Stanów Zjednoczonych",
+        "description": "Oświadczasz i gwarantujesz, że (i) nie znajdujesz się w kraju objętym embargiem rządu Stanów Zjednoczonych lub który został oznaczony przez rząd Stanów Zjednoczonych jako kraj „wspierający terroryzm” oraz (ii) nie znajdujesz się na żadnej liście podmiotów objętych zakazem lub ograniczeniami rządu Stanów Zjednoczonych."
+      },
+      "severability": {
+        "title": "Podzielność i zrzeczenie się",
+        "severabilityTitle": "Podzielność",
+        "severabilityDescription": "Jeżeli którekolwiek z postanowień niniejszych Warunków okaże się niewykonalne lub nieważne, postanowienie takie zostanie zmienione i zinterpretowane w sposób umożliwiający osiągnięcie celów takiego postanowienia w najszerszym zakresie dopuszczalnym przez obowiązujące prawo, a pozostałe postanowienia pozostaną w pełnej mocy i będą w pełni skuteczne.",
+        "waiverTitle": "Zrzeczenie się",
+        "waiverDescription": "Z wyjątkiem przypadków określonych w niniejszym dokumencie, zaniechanie wykonania prawa lub zażądanie wykonania obowiązku wynikającego z niniejszych Warunków nie ma wpływu na zdolność strony do wykonania takiego prawa lub zażądania takiego wykonania w dowolnym momencie w przyszłości, a zrzeczenie się dochodzenia naruszenia nie stanowi zrzeczenia się dochodzenia dochodzenia jakiegokolwiek późniejszego naruszenia."
+      },
+      "translation": {
+        "title": "Tłumaczenie Interpretacja",
+        "description": "Niniejsze Warunki mogą zostać przetłumaczone, jeśli udostępniliśmy je Użytkownikowi w ramach naszej Usługi. Użytkownik zgadza się, że w przypadku sporu rozstrzygający będzie oryginalny tekst w języku angielskim."
+      },
+      "changes": {
+        "title": "Zmiany w niniejszych Warunkach",
+        "description1": "Zastrzegamy sobie prawo, według naszego wyłącznego uznania, do modyfikacji lub zastąpienia niniejszego Regulaminu w dowolnym momencie. W przypadku istotnych zmian dołożymy wszelkich starań, aby powiadomić o nich co najmniej 30 dni przed wejściem w życie nowych warunków. O tym, co stanowi istotną zmianę, będziemy decydować według naszego wyłącznego uznania.",
+        "description2": "Kontynuując dostęp do Naszej Usługi lub korzystanie z niej po wejściu w życie tych zmian, wyrażasz zgodę na przestrzeganie zmienionych warunków. Jeśli nie zgadzasz się z nowymi warunkami, w całości lub w części, prosimy o zaprzestanie korzystania ze strony internetowej i Usługi."
+      },
+      "contact": {
+        "title": "Skontaktuj się z nami",
+        "description": "Jeśli masz jakiekolwiek pytania dotyczące niniejszego Regulaminu, możesz się z nami skontaktować:",
+        "email": "E-mail: support@ringdy.com",
+        "support": "Za pośrednictwem naszego systemu wsparcia w aplikacji",
+        "website": "Odwiedzając naszą stronę internetową: www.ringdy.com"
+      },
+      "backToHome": "Powrót do strony głównej",
+      "privacyPolicy": "Polityka prywatności"
+    }
+  },
+  "safety": {
+    "title": "Wskazówki i porady dotyczące bezpieczeństwa",
+    "subtitle": "Twoje bezpieczeństwo jest naszym priorytetem. Poznaj podstawowe wskazówki dotyczące bezpiecznego korzystania z sieci i połączeń.",
+    "lastUpdated": "Ostatnia aktualizacja: styczeń 2025 r.",
+    "commitment": {
+      "title": "Nasze zaangażowanie w Twoje bezpieczeństwo",
+      "items": {
+        "privacy": "Ty decydujesz, ile informacji chcesz udostępnić — możesz w każdej chwili zmienić profil na awatar, a my nigdy nie udostępnimy Twojego numeru telefonu ani dokładnego adresu innym użytkownikom.",
+        "noStorage": "Nie udostępniamy Twoich prywatnych danych kontaktowych innym użytkownikom, chyba że sam wyrazisz na to zgodę.",
+        "tools": "Oferujemy narzędzia takie jak blokowanie i raportowanie, które zapewnią Ci kontrolę nad każdą interakcją.",
+        "ageLimit": "Ringdy jest przeznaczony wyłącznie dla użytkowników, którzy ukończyli 18 lat."
+      }
+    },
+    "respectfulBehavior": {
+      "title": "Wymagane jest zachowanie szacunku",
+      "expectation": "Oczekujemy od Ciebie:",
+      "items": {
+        "kind": "Bądź miły, pełen szacunku i uczciwy",
+        "language": "Używaj czystego, odpowiedniego języka",
+        "laws": "Przestrzegaj lokalnych przepisów i standardów społeczności",
+        "genuine": "Używaj aplikacji wyłącznie w celu autentycznej i pełnej szacunku interakcji"
+      }
+    },
+    "prohibitedConduct": {
+      "title": "Zabronione zachowanie",
+      "warning": "Aby zapewnić bezpieczeństwo wszystkim, nie wolno Ci:",
+      "items": {
+        "harassment": "Nękać, prześladować lub zastraszać kogokolwiek",
+        "hateful": "Udostępniaj treści szerzące nienawiść, przemoc lub dyskryminację",
+        "impersonation": "Podszywanie się pod inne osoby lub tworzenie fałszywych sesji",
+        "personalData": "Poproś o dane osobowe, takie jak adres, numer telefonu lub identyfikatory społecznościowe",
+        "explicit": "Wysyłaj wiadomości o charakterze pornograficznym lub obraźliwym",
+        "scamming": "Angażuj się w oszustwa, phishing lub prośby o pieniądze",
+        "offPlatform": "Spróbuj przenieść czaty do zewnętrznych aplikacji do przesyłania wiadomości w celach oszukańczych",
+        "tracking": "Próba śledzenia lub lokalizowania użytkowników poza zasięgiem Bluetooth"
+      },
+      "consequence": "Każda z tych czynności może skutkować zawieszeniem lub trwałym zakazem."
+    },
+    "commonSense": {
+      "title": "Zachowaj zdrowy rozsądek i ostrożność",
+      "intro": "Ty najlepiej znasz swoje bezpieczeństwo. Te wskazówki Ci w tym pomogą:",
+      "chatting": {
+        "title": "🗣 Podczas czatowania:",
+        "items": {
+          "noPersonalInfo": "Nie udostępniaj swojego pełnego imienia i nazwiska, adresu, numeru telefonu ani informacji finansowych",
+          "cautious": "Zachowaj ostrożność wobec osób, które szybko proszą o przeniesienie czatu w inne miejsce",
+          "noPressure": "Nie czuj się zmuszony do odpowiedzi lub kontynuowania rozmowy"
+        }
+      },
+      "redFlags": {
+        "title": "🛑 Uważaj na sygnały ostrzegawcze:",
+        "items": {
+          "quickLove": "Ktoś twierdzi, że jest zakochany po zaledwie kilku wiadomościach",
+          "moneyRequests": "Prośby o przesłanie pieniędzy lub danych osobowych",
+          "strangeLinks": "Dziwne linki lub prośby o czaty poza platformą",
+          "emergencyStories": "Historie dotyczące nagłych podróży, rachunków szpitalnych lub problemów z wizą"
+        },
+        "advice": "Jeśli cokolwiek wydaje Ci się niepokojące, zablokuj i zgłoś."
+      }
+    },
+    "reportBlock": {
+      "title": "Narzędzia raportowania i blokowania",
+      "intro": "Jeśli ktoś:",
+      "reasons": {
+        "uncomfortable": "Sprawia, że czujesz się niekomfortowo",
+        "violates": "Narusza nasze wytyczne",
+        "suspicious": "Wysyła podejrzane lub szkodliwe wiadomości"
+      },
+      "instruction": "Skorzystaj z funkcji blokowania i zgłaszania natychmiast. Wszystkie zgłoszenia analizujemy bardzo dokładnie, a powtarzające się naruszenia mogą skutkować trwałym zawieszeniem.",
+      "anonymity": "Zgłaszając innych, zachowasz anonimowość. Osoba zgłaszająca nie zostanie powiadomiona, kto ją zgłosił."
+    },
+    "meetingInPerson": {
+      "title": "Spotkanie w prawdziwym życiu (jeśli dotyczy)",
+      "disclaimer": "Ringdy został zaprojektowany, aby pomóc Ci odkrywać i nawiązywać kontakt z osobami w pobliżu poprzez skanowanie Bluetooth lub lokalne miejsca spotkań. Wielu użytkowników decyduje się na spotkanie osobiste po dopasowaniu. Prosimy o przestrzeganie następujących środków ostrożności:",
+      "safetyTips": {
+        "publicPlaces": "Spotykaj się tylko w miejscach publicznych",
+        "tellFriend": "Opowiedz znajomemu o swoich planach",
+        "shareLocation": "Udostępnij swoją lokalizację komuś, komu ufasz",
+        "noRides": "Nie akceptuj podwózek od osób, które dopiero co poznałeś",
+        "staySober": "Zachowaj trzeźwość i czujność",
+        "chargePhone": "Naładuj telefon i trzymaj go w pobliżu",
+        "ownTransport": "Zorganizuj własny transport w obu kierunkach"
+      },
+      "reminder": "Jeśli czujesz się niekomfortowo, możesz w każdej chwili opuścić stronę. Zablokuj użytkownika i zgłoś go nam później."
+    },
+    "enforcement": {
+      "title": "Środki egzekwowania i bezpieczeństwa",
+      "intro": "W przypadku wystąpienia naruszeń Ringdy może podjąć następujące działania:",
+      "actions": {
+        "suspend": "Tymczasowo zawieś konta",
+        "ban": "Trwale zablokuj użytkowników naruszających zasady",
+        "lawEnforcement": "Zgłaszaj poważne zagrożenia organom ścigania",
+        "verification": "Wymagaj weryfikacji w przypadku podejrzenia podszywania się"
+      }
+    },
+    "appeals": {
+      "title": "Apelacje i wsparcie",
+      "intro": "Jeśli uważasz, że zostałeś niesłusznie zbanowany lub chcesz zgłosić poważny problem:",
+      "contact": {
+        "email": "📧 E-mail: support@ringdy.com",
+        "website": "🌐 Odwiedź: Ringdy Safety Center (wkrótce)"
+      }
+    },
+    "finalThoughts": {
+      "title": "Ostatnie myśli",
+      "message": "Ringdy pomaga ludziom nawiązywać bezpieczne i wartościowe kontakty bez ujawniania tożsamości. Zawsze masz kontrolę nad tym, z kim rozmawiasz, a my jesteśmy tu, aby Cię wspierać."
+    },
+    "navigation": {
+      "backToHome": "Powrót do strony głównej",
+      "downloadApp": "Pobierz aplikację"
+    }
+  },
+  "profile": {
+    "connectViaBLE": "Połącz przez BLE",
+    "stats": {
+      "connections": "Znajomości",
+      "messages": "Wiadomości",
+      "filesShared": "Udostępnione pliki"
+    },
+    "location": "San Francisco, Kalifornia",
+    "onlineViaBLE": "Online przez BLE",
+    "occupation": "Programista oprogramowania – startup technologiczny",
+    "education": "Uniwersytet Stanforda – Informatyka",
+    "interests": "Zainteresowania: IoT, technologia Bluetooth , rozwój mobilny",
+    "bio": "Pasjonuję się tworzeniem płynnych połączeń za pomocą technologii. Uwielbiam odkrywać możliwości technologii Bluetooth Low Energy i tworzyć aplikacje, które łączą ludzi. Zawsze cieszę się na kontakt z innymi programistami i entuzjastami technologii w mojej okolicy. Zapraszam do współpracy lub po prostu do dyskusji o technologii!",
+    "showMore": "Pokaż więcej"
+  },
+  "auth": {
+    "agreeWith": "Zgadzam się z"
+  }
+}

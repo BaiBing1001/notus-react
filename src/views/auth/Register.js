@@ -1,10 +1,13 @@
 import React from "react";
+import { useTranslation } from 'react-i18next';
 
 // Import social media icons
 import githubIcon from "assets/img/github.svg";
 import googleIcon from "assets/img/google.svg";
 
 export default function Register() {
+  const { t } = useTranslation();
+  
   return (
     <>
       <div className="container mx-auto px-4 h-full">
@@ -98,13 +101,13 @@ export default function Register() {
                         className="form-checkbox border-0 rounded text-blueGray-700 ml-1 w-5 h-5 ease-linear transition-all duration-150"
                       />
                       <span className="ml-2 text-sm font-semibold text-blueGray-600">
-                        I agree with the{" "}
+                        {t('auth.agreeWith')}{" "}
                         <a
                           href="#pablo"
                           className="text-lightBlue-500"
                           onClick={(e) => e.preventDefault()}
                         >
-                          Privacy Policy
+                          {t('legal.privacyPolicy.title')}
                         </a>
                       </span>
                     </label>

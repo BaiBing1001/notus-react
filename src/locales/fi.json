@@ -1,0 +1,1434 @@
+{
+  "navbar": {
+    "features": "Ominaisuudet",
+    "subscription": "Tilaus",
+    "download": "Lataa",
+    "legal": "Oikeudellinen",
+    "privacyPolicy": "Tietosuojakäytäntö",
+    "termsOfUse": "Käyttöehdot",
+    "safetyTips": "Turvallisuusvinkkejä ja -niksejä"
+  },
+  "hero": {
+    "title": "Etsi ihmisiä läheltä.\n Yhdistä tosielämässä.",
+    "subtitle": "Ravista laitetta löytääksesi ympärilläsi olevia ihmisiä Bluetooth kautta tai liity lähellä olevaan tapahtumapaikkaan nähdäksesi, ketkä siellä ovat. Lähetä kaveripyyntö, löydä match-kumppani ja aloita keskustelu – valinnaisella avatarin yksityisyystoiminnolla, kunnes olet valmis jakamaan lisää.",
+    "discoverFeatures": "Tutustu ominaisuuksiin",
+    "downloadApp": "Lataa sovellus",
+    "anonymousAvatars": "Valinnaiset avatarit",
+    "autoExpiry": "Bluetooth + Tapahtumapaikat",
+    "privacyFirst": "Tietosuoja ensin"
+  },
+  "features": {
+    "proximityTitle": "Läheisyyteen perustuva etsintä",
+    "proximityDescription": "Löydä lähellä olevia ihmisiä skannaamalla Bluetooth kautta tai liittymällä paikkaan kartalla. Lähetä kaveripyyntö ja aloita keskustelu, kun olette samaa mieltä.",
+    "avatarsTitle": "Valinnainen avatarin yksityisyys",
+    "avatarsDescription": "Pidä avatariasi päällä, kun tutustut johonkuhun, ja vaihda oikeisiin kuviisi, kun olet valmis.",
+    "expiringTitle": "Paikkakohtainen löytö",
+    "expiringDescription": "Selaa ehdotettuja lähellä olevia paikkoja ja katso, ketkä ovat kirjautuneet sisään säteellä – ei tarvitse jatkuvasti skannata.",
+    "revealTitle": "Liimaus",
+    "revealDescription": "Merkitse eksklusiivinen yhteys kiinteäksi, kun olet löytänyt jonkun, jonka kanssa haluat pysyä.",
+    "bluetoothTitle": "Bluetooth LE -tekniikka",
+    "bluetoothDescription": "Yhdistä ilman internetiä käyttämällä edistynyttä Bluetooth Low Energy -tekniikkaa tehokasta paikallista verkkoa varten.",
+    "keyFeaturesTitle": "Tärkeimmät ominaisuudet",
+    "keyFeaturesDescription": "Ringdy on täynnä tehokkaita ominaisuuksia, jotka on suunniteltu parantamaan paikallista yhteyskokemustasi missä tahansa oletkin.",
+    "downloadNow": "Lataa nyt",
+    "tags": {
+      "autoDiscovery": "Automaattinen etsintä",
+      "chatMessaging": "Chat-viestit",
+      "fileSharing": "Tiedostojen jakaminen",
+      "profiles": "Profiilit",
+      "privacyControls": "Tietosuoja-asetukset",
+      "offlineMode": "Offline-tila",
+      "crossPlatform": "Monialustainen",
+      "lowPower": "Vähävirtainen"
+    }
+  },
+  "useCases": {
+    "actionTitle": "Ringdy toiminnassa",
+    "actionDescription": "Automaattinen tunnistus, chat-viestit ja profiilien jakaminen tosielämän sosiaalisissa ympäristöissä. Koe saumaton yhteys edistyneellä Bluetooth Low Energy -tekniikalla missä tahansa oletkin.",
+    "campusTitle": "Campus Connect",
+    "campusDescription": "Löydä opiskelukumppaneita välittömästi",
+    "eventTitle": "Tapahtumaverkostoituminen",
+    "eventDescription": "Yhdistä konferensseissa",
+    "businessTitle": "Liiketapaaminen",
+    "businessDescription": "Ammatilliset yhteydet",
+    "cafeTitle": "Kahvilayhteydet",
+    "cafeDescription": "Tapaa lähellä olevia kahvin ystäviä",
+    "localTitle": "Paikallinen löytö",
+    "localDescription": "Tutki naapurustoasi",
+    "gamingTitle": "Peliryhmät",
+    "gamingDescription": "Etsi pelikumppaneita",
+    "perfectTitle": "Täydelliset käyttötapaukset",
+    "perfectDescription": "Ringdy muuttaa minkä tahansa paikan verkostoitumistilaisuudeksi. Olitpa sitten yliopistossa, konferenssissa tai paikallisessa kahvilassa, ",
+    "perfectDescriptionContinued": "löydä merkityksellisiä yhteyksiä välittömästi.",
+    "approachDescription": "Opiskeluryhmistä ammatilliseen verkostoitumiseen, läheisyyteen perustuva lähestymistapamme tekee yhteydenpidosta luonnollista ja vaivatonta.",
+    "tryItNow": "Kokeile nyt",
+    "tags": {
+      "studyGroups": "Opintoryhmät",
+      "events": "Tapahtumat",
+      "coworking": "Yhteistyötilat",
+      "gaming": "Pelaaminen",
+      "travel": "Matkustaa",
+      "shopping": "Ostokset",
+      "fitness": "Kuntoilu",
+      "social": "Sosiaalinen"
+    }
+  },
+  "community": {
+    "whyLoveTitle": "Miksi ihmiset rakastavat Ringdy",
+    "whyLoveDescription": "Käyttäjämme kertovat meille jatkuvasti, kuinka Ringdy on mullistanut heidän verkostoitumiskokemuksensa. Kahviloissa tapaamisesta tapahtumissa yhteydenpitoon, sovellus luo aitoja yhteyksiä lähistöllä.",
+    "privacyProtection": "Yksityisyyttä kunnioittava suunnittelu",
+    "instantConnection": "Välitön yhteys ilman internetiä",
+    "lowPowerConsumption": "Erittäin alhainen virrankulutus",
+    "experienceTitle": "Koe Ringdy",
+    "experienceDescription": "Tutustu sovellukseemme eri käyttöliittymien kautta. Käyttäjäprofiileista ",
+    "experienceDescriptionContinued": "yhteysvirtoihin, katso, miten Ringdy tekee läheisyyspohjaisesta verkostoitumisesta intuitiivista ja mukaansatempaavaa.",
+    "anonymousProfiles": "Avatar-profiilit",
+    "chatInterface": "Chat-käyttöliittymä",
+    "nearbyDiscovery": "Lähellä oleva löytö",
+    "joinTitle": "Liity yhteisöömme",
+    "joinDescription1": "Ringdy on enemmän kuin vain sovellus – se on tapa tavata aitoja ihmisiä lähelläsi, joko Bluetooth skannauksen tai suosikkipaikkojesi kautta.",
+    "joinDescription2": "Seuraa meitä pysyäksesi ajan tasalla uusista ominaisuuksista, käyttäjätarinoista ja yhteisötapahtumista alueellasi!",
+    "downloadNow": "Lataa nyt"
+  },
+  "download": {
+    "title": "Lataa Ringdy",
+    "subtitle": "Hanki Ringdy mobiililaitteellesi ja aloita yhteydenpito lähellä olevien ihmisten kanssa. Saatavilla nyt sekä Android- että iOS-alustoille.",
+    "googlePlay": "Google Play",
+    "appStore": "App Store",
+    "getItOn": "Ota se käyttöön",
+    "downloadOn": "Lataa osoitteesta",
+    "comingSoon": "Tulossa pian",
+    "whatYouGet": "Mitä saat",
+    "instantConnections": "Pikayhteydet",
+    "instantConnectionsDesc": "Yhdistä lähellä oleviin ihmisiin välittömästi Bluetooth Low Energy -tekniikan avulla tai liittymällä paikalliseen tapahtumapaikkaan.",
+    "anonymousProfiles": "Avatarin yksityisyys",
+    "anonymousProfilesDesc": "Pidä avatar-profiilia yksityisyyden suojaamiseksi ja jaa oikeita kuviasi aina kun olet valmis.",
+    "privacyFirst": "Tietosuoja ensin",
+    "privacyFirstDesc": "Sinä hallitset, mitä jaat ja milloin. Estämis- ja ilmoitustyökalut pitävät yhteisön turvassa.",
+    "crossPlatform": "Eri alustoilla",
+    "crossPlatformDesc": "Toimii saumattomasti iOS- ja Android-laitteilla.",
+    "requirements": "Järjestelmävaatimukset",
+    "androidReq": "Android 6.0 tai uudempi",
+    "iosReq": "iOS 12.0 tai uudempi",
+    "bluetoothReq": "Bluetooth 4.0 ( BLE ) -tuki",
+    "storageReq": "50 Mt ilmaista tallennustilaa",
+    "systemDescription": "Ringdy vaatii laitteita, joissa on Bluetooth Low Energy ( BLE ) -tuki. Useimmat nykyaikaiset älypuhelimet ja tabletit tukevat BLE -tekniikkaa.",
+    "androidRequirements": "Android-vaatimukset:",
+    "androidReq1": "Android 5.0 (API-taso 21) tai uudempi",
+    "androidReq2": "Bluetooth 4.0 LE -tuki",
+    "androidReq3": "Sijaintiluvat ( BLE skannausta varten)",
+    "androidReq4": "Suositellaan vähintään 2 Gt RAM-muistia",
+    "iosRequirements": "iOS-vaatimukset:",
+    "iosReq1": "iOS 12.0 tai uudempi",
+    "iosReq2": "iPhone 5s tai uudempi, iPad Air tai uudempi",
+    "iosReq3": "Bluetooth 4.0 LE -yhteensopiva laite",
+    "iosReq4": "Taustasovelluksen päivitys käytössä",
+    "learnMoreFeatures": "Lue lisää Ringdy ominaisuuksista!",
+    "crossPlatformTitle": "Yhteensopivuus eri alustojen välillä",
+    "crossPlatformCompatibilityDesc": "Yhdistä käyttäjiin eri alustoilla. Android- ja iOS-käyttäjät voivat löytää toisensa ja keskustella heidän kanssaan saumattomasti.",
+    "android": {
+      "title": "Android",
+      "description": "Täysi Ringdy kokemus on saatavilla Android-laitteilla, joissa on Android 5.0 (API-taso 21) tai uudempi.",
+      "featuresTitle": "Ominaisuudet:",
+      "features": {
+        "bluetooth": "Bluetooth LE -skannaus ja -mainonta",
+        "background": "Taustatoiminto",
+        "notifications": "Push-ilmoitukset",
+        "offline": "Offline-tilan tuki"
+      },
+      "downloadButton": "Lataa Google Playsta"
+    },
+    "ios": {
+      "title": "iOS",
+      "description": "Natiivi iOS-sovellus, optimoitu iPhonelle ja iPadille, yhteensopiva iOS 12.0:n ja uudempien versioiden kanssa.",
+      "featuresTitle": "Ominaisuudet:",
+      "features": {
+        "bluetooth": "Ydin- Bluetooth -integraatio",
+        "background": "Taustasovelluksen päivitys",
+        "privacy": "Yksityisyyteen keskittyvä suunnittelu",
+        "universal": "Universaali sovellustuki"
+      },
+      "downloadButton": "Lataa App Storesta"
+    },
+    "qrCode": {
+      "title": "Nopea lataus",
+      "description": "Skannaa QR-koodi puhelimesi kameralla ladataksesi Ringdy",
+      "placeholder": "QR-koodi",
+      "instruction": "Osoita kameralla QR-koodia ladataksesi"
+    },
+    "installation": {
+      "title": "Helppo asennus",
+      "description": "Ringdy käytön aloittaminen on helppoa. Lataa sovellus, myönnä tarvittavat käyttöoikeudet ja ala löytää ihmisiä lähelläsi.",
+      "step1": "Lataa alustasi sovelluskaupasta",
+      "step2": "Myönnä Bluetooth ja sijaintiluvat",
+      "step3": "Luo profiilisi ja aloita yhteydenpito!"
+    },
+    "callToAction": {
+      "title": "Liity Ringdy yhteisöön",
+      "description": "Aloita yhteydenpito lähellä olevien ihmisten kanssa turvallisesti ja yksityisesti. Lataa Ringdy tänään ja tutustu lähiverkostoitumisen tulevaisuuteen.",
+      "googlePlay": "Google Play",
+      "appStore": "App Store"
+    }
+  },
+  "featurePage": {
+    "title": "Löydä lähellä olevia paikkoja.\n Yhdistä oikeisiin ihmisiin.",
+    "subtitle": "Selaa ehdotettuja lähellä olevia paikkoja, löydä ympärilläsi olevia ihmisiä Bluetooth kautta ja lähetä kaveripyyntöjä, jotka johtavat oikeisiin keskusteluihin.",
+    "exploreFeatures": "Tutustu ominaisuuksiin",
+    "downloadApp": "Lataa sovellus",
+    "heroTitle": "Löydä aitoja yhteyksiä läheltä",
+    "heroSubtitle": "Liity ehdotettuun paikkaan tai skannaa ympärillesi, katso lähistöllä olevia ihmisiä ja ole yhteydessä mielenkiintoisiin ihmisiin Bluetooth Low Energy -tekniikan avulla.",
+    "discoverCrowdedPlaces": "Tutustu lähellä oleviin tapahtumapaikkoihin",
+    "discoverCrowdedPlacesDesc": "Hanki ehdotuksia suosituista lähellä olevista paikoista, joissa voit tavata samanhenkisiä ihmisiä ja luoda merkityksellisiä yhteyksiä.",
+    "scanThroughAvatars": "Katso, kuka on lähellä",
+    "scanThroughAvatarsDesc": "Selaa lähellä olevien ihmisten profiilikortteja ja voit pitää avatarisi päällä, kunnes olet valmis jakamaan lisää.",
+    "revealAndMeet": "Match & Chat",
+    "revealAndMeetDesc": "Lähetä kaveripyyntö, ja kun se on hyväksytty, löydätte kumppanin ja voitte aloittaa keskustelun sovelluksessa.",
+    "proximityBasedConnections": "Läheisyyteen perustuvat todelliset yhteydet",
+    "proximityBasedConnectionsDesc": "Sovelluksemme ehdottaa lähellä olevia paikkoja, joista voit löytää samanhenkisiä ihmisiä. Kun olette molemmat samalla alueella, selaa lähellä olevia profiileja löytääksesi potentiaalisia kontakteja.",
+    "bleProximityTech": "Bluetooth Low Energy -tekniikka varmistaa, että voit olla yhteydessä vain lähellä oleviin ihmisiin, mikä tekee jokaisesta yhteydestä aidon ja todellisen.",
+    "downloadNow": "Lataa Ringdy nyt!",
+    "realTimeProximity": "Reaaliaikainen läheisyystunnistus",
+    "realTimeProximityDesc": "Ole yhteydessä vain ihmisiin, jotka ovat lähelläsi tai samassa paikassa kanssasi, varmistaen aidot yhteydet.",
+    "howItWorks": "Miten se toimii",
+    "howItWorksDesc": "Kolme helppoa vaihetta lähellä olevien paikkojen löytämiseen, yhteydenpitoon oikeiden ihmisten kanssa ja keskustelun aloittamiseen.",
+    "step1Title": "Skannaa tai liity tapahtumapaikkaan",
+    "step1Desc": "Ravista laitetta skannataksesi Bluetooth kautta tai selaa ehdottamiamme lähellä olevia paikkoja ja liity mukaan sellaiseen, joka kiinnostaa sinua.",
+    "step2Title": "Selaa lähellä olevia profiileja",
+    "step2Desc": "Näe lähellä olevien ihmisten profiilikortteja ja voit halutessasi käyttää profiilikuvan yksityisyyttä, kunnes olet valmis jakamaan lisää.",
+    "step3Title": "Lähetä pyyntö ja keskustele",
+    "step3Desc": "Lähetä kaveripyyntö, ja kun se on hyväksytty, löydät sopivan henkilön ja voit aloittaa keskustelun suoraan sovelluksessa.",
+    "coreFeatures": "Ydinominaisuudet",
+    "proximityNetworking": "Läheisyysverkostoituminen",
+    "proximityDesc": "Yhdistä lähiympäristösi ihmisiin edistyneen Bluetooth Low Energy -tekniikan avulla.",
+    "anonymousChat": "Ystäväpyyntöjen yhteensovittaminen",
+    "anonymousChatDesc": "Lähetä kaveripyyntö ja aloita keskustelu, kun se on hyväksytty – ei paineita, ei roskapostia.",
+    "autoExpiry": "Tapahtumapaikan löytäminen",
+    "autoExpiryDesc": "Liity ehdotettuihin lähellä oleviin tapahtumapaikkoihin nähdäksesi, ketkä ovat kirjautuneet sisään tietyllä säteellä.",
+    "gradualReveal": "Asteittainen identiteetin paljastuminen",
+    "gradualRevealDesc": "Valitse, milloin vaihdat avatari-kuvasta oikeisiin kuviisi, kun yhteydet kehittyvät luonnollisesti.",
+    "keyPrivacyFeatures": "Tärkeimmät tietosuojaominaisuudet",
+    "keyPrivacyFeaturesDesc": "Jokainen ominaisuus on suunniteltu turvallista verkostoitumista varten – valinnaisista avatareista yksityisyyttäsi suojaavaan kaveripyyntöjen yhdistämiseen.",
+    "avatarBasedProfiles": "Valinnaiset avatar-pohjaiset profiilit",
+    "autoExpiringChats": "Paikan löytäminen tietyllä säteellä",
+    "progressiveIdentity": "Progressiivinen identiteetin paljastus",
+    "ourTeam": "Tiimimme",
+    "ourTeamDesc": "Intohimoisia asiantuntijoita, jotka ovat omistautuneet yhdistämään ihmisiä innovatiivisen, yksityisyyttä etusijalle asettavan teknologian avulla.",
+    "team": {
+      "alex": {
+        "name": "Alex Chen",
+        "role": "BLE protokollainsinööri"
+      },
+      "sarah": {
+        "name": "Sarah Johnson",
+        "role": "Mobiilisovelluskehittäjä"
+      },
+      "maria": {
+        "name": "Maria Rodriguez",
+        "role": "Tietosuoja- ja tietoturvapäällikkö"
+      },
+      "david": {
+        "name": "David Kim",
+        "role": "Perustaja ja toimitusjohtaja"
+      },
+      "title": "Tiimimme",
+      "description": "Intohimoisia ihmisiä, jotka ovat omistautuneet yhdistämään ihmisiä innovatiivisen, yksityisyyttä etusijalle asettavan teknologian avulla.",
+      "roles": {
+        "engineer": "BLE protokollainsinööri",
+        "developer": "Mobiilisovelluskehittäjä",
+        "security": "Tietosuoja- ja tietoturvapäällikkö",
+        "ceo": "Perustaja ja toimitusjohtaja"
+      }
+    },
+    "readyToConnect": "Valmiina yhteyden muodostamiseen?",
+    "readyToConnectDesc": "Liity ihmisten verkostoitumiseen turvallisesti Bluetooth ja tapahtumapaikkojen löytön kautta. Löydä, keskustele ja paljasta henkilöllisyytesi vain, kun löydät aidon yhteyden.",
+    "finalFeatures": {
+      "anonymousAvatars": "Valinnaiset avatarit",
+      "anonymousAvatarsDesc": "Pidä avatariasi päällä, kun tutustut johonkuhun, ilman paineita paljastaa heti.",
+      "autoExpire": "Paikka ja Bluetooth löytö",
+      "autoExpireDesc": "Löydä ihmisiä skannaamalla lähistöltä Bluetooth kautta tai liittymällä ehdotettuun paikalliseen tapahtumapaikkaan.",
+      "friendRequests": "Ystäväpyynnöt",
+      "friendRequestsDesc": "Lähetä pyyntöjä mielenkiintoisille ihmisille ja aloita keskusteluja vain, jos teillä on yhteistä kiinnostusta."
+    },
+    "eventNetworking": "Tapahtumaverkostoituminen",
+    "eventNetworkingDesc": "Löydä ympärilläsi olevia ihmisiä konferensseissa, tapaamisissa ja tapahtumissa Bluetooth lähietäisyyden avulla.",
+    "studyGroups": "Opintoryhmät",
+    "studyGroupsDesc": "Löydä opiskelukumppaneita kampuksen läheltä ilman, että sinun tarvitsee tuntea heitä jo ennestään.",
+    "workplace": "Työpaikka ja kahvilat",
+    "workplaceDesc": "Tapaa kollegoita ja muita ammattilaisia lähistöllä sijaitsevissa yhteistyötiloissa ja kahviloissa.",
+    "anonymousNetworking": "Avatar-pohjainen yksityisyys",
+    "anonymousNetworkingDesc": "Pidä avatar päällä, kun totuttelet, ja jaa sitten oikeita kuviasi milloin haluat.",
+    "privacyProtection": "Sinä päätät aina, mitä jaat ja kenen kanssa.",
+    "privacyFeatures": {
+      "title": "Tietosuoja, jota hallitset",
+      "description": "Ringdy on rakennettu niin, että sinä päätät, mitä jaat ja milloin – siitä, miten löydät ihmisiä, siihen, kuinka paljon itsestäsi paljastat.",
+      "avatarProfiles": "Valinnaiset avatar-pohjaiset profiilit",
+      "autoExpiring": "Paikan löytäminen tietyllä säteellä",
+      "progressiveReveal": "Paljasta aidot valokuvasi omaan tahtiisi"
+    },
+    "cta": {
+      "title": "Valmiina yhteyden muodostamiseen?",
+      "description": "Liity ihmisten seuraan, jotka löytävät aitoja yhteyksiä lähistöllä – Bluetooth kautta tai kirjautumalla paikalliseen tapahtumapaikkaan.",
+      "features": {
+        "anonymousAvatars": "Valinnaiset avatarit",
+        "anonymousAvatarsDesc": "Pidä avatariasi päällä, kun tutustut johonkuhun, ilman paineita paljastaa heti.",
+        "autoExpire": "Paikka ja Bluetooth löytö",
+        "autoExpireDesc": "Löydä ihmisiä skannaamalla lähistöltä tai liittymällä ehdotettuun paikalliseen tapahtumapaikkaan.",
+        "friendRequests": "Ystäväpyynnöt",
+        "friendRequestsDesc": "Lähetä pyyntöjä mielenkiintoisille ihmisille ja aloita keskusteluja vain, jos teillä on yhteistä kiinnostusta."
+      }
+    }
+  },
+  "subscription": {
+    "title": "Ringdy Premium",
+    "subtitle": "Avaa edistyneet ominaisuudet parempia yhteyksiä varten. Valitse verkkotarpeisiisi sopiva paketti.",
+    "weeklyTitle": "Viikottainen Premium",
+    "weeklyPrice": "1,99 €",
+    "weeklyPeriod": "/viikko",
+    "weeklyDescription": "Täydellinen premium-ominaisuuksien kokeiluun",
+    "chooseWeekly": "Valitse Viikottainen",
+    "monthlyTitle": "Kuukausittain",
+    "monthlyPrice": "Katso hinnoittelu",
+    "monthlyPeriod": "kuukaudessa",
+    "monthlyDescription": "Joustava, voit peruuttaa milloin tahansa",
+    "mostPopular": "Suosituimmat",
+    "chooseMonthly": "Valitse kuukausittainen",
+    "sixMonthTitle": "Kuusi kuukautta",
+    "sixMonthPrice": "Katso hinnoittelu",
+    "sixMonthPeriod": "6 kuukauden välein",
+    "sixMonthDescription": "Säästä enemmän kuuden kuukauden aikana",
+    "chooseSixMonth": "Valitse kuusi kuukautta",
+    "featuresTitle": "Premium ominaisuuksien selitys",
+    "featuresDescription": "Ringdy Premium avaa tehokkaita ominaisuuksia, jotka on suunniteltu parantamaan verkostoitumiskokemustasi ja auttamaan sinua luomaan merkityksellisempiä yhteyksiä.",
+    "enhancedNetworking": "Parannettu verkostoituminen",
+    "enhancedNetworkingDesc": "Premium -ominaisuudet auttavat sinua olemaan yhteydessä tehokkaammin ilman päivittäisiä rajoituksia.",
+    "features": {
+      "unlimitedRequests": "Rajoittamattomat kaveripyynnöt",
+      "advancedFilters": "Edistyneet suodattimet",
+      "meetingPlaces": "Älykkäät tapaamispaikka ehdotukset",
+      "rematch": "Uudelleentapaaminen aiempien käyttäjien kanssa",
+      "unlimitedRequestsDesc": "Lähetä rajoittamattomasti kaveripyyntöjä päivittäin. Ilmaiskäyttäjät rajoitettu 20/päivä.",
+      "advancedFiltersDesc": "Suodata kiinnostusten, persoonallisuuden ja vahvistetun tilan mukaan aitoja yhteyksiä varten.",
+      "meetingPlacesDesc": "Saa henkilökohtaisia sijaintiehdotuksia tarkan alueesi perusteella.",
+      "rematchDesc": "Tapaa uudelleen aiempia käyttäjiä kun kohtaatte jälleen.",
+      "unlimitedConnections": "Rajattomat yhteydet",
+      "unlimitedAreaAccess": "Rajoittamaton pääsy alueelle",
+      "unlimitedUndo": "Rajoittamaton kumoaminen",
+      "profilePriority": "Profiilin prioriteetti",
+      "premiumAvatars": "Premium avatarit",
+      "customAvatar": "Mukautettu avatar",
+      "unlimitedConnectionsDesc": "Lisää ystäviä ja hyväksy kutsuja ilman päivittäisiä rajoituksia.",
+      "unlimitedAreaAccessDesc": "Liity niin moneen tapahtumapaikkaan kuin haluat ilman rajoituksia.",
+      "unlimitedUndoDesc": "Voit peruuttaa minkä tahansa kaveripyynnön milloin tahansa.",
+      "profilePriorityDesc": "Profiilisi näkyy aina muille käyttäjille tarjottavan listan yläosassa.",
+      "premiumAvatarsDesc": "Käytä ainutlaatuista kokoelmaa premium-avatar-designeja.",
+      "customAvatarDesc": "Luo henkilökohtainen avatar omien valokuviesi perusteella."
+    },
+    "faqTitle": "Usein kysytyt kysymykset",
+    "faqDescription": "Onko sinulla kysyttävää Ringdy Premium ? Meillä on vastaukset.",
+    "faq": {
+      "cancelTitle": "Voinko peruuttaa tilaukseni milloin tahansa?",
+      "cancelAnswer": "Kyllä, voit peruuttaa tilauksesi milloin tahansa tilisi asetuksista tai laitteesi sovelluskaupasta. Premium-ominaisuutesi pysyvät aktiivisina nykyisen laskutusjaksosi loppuun asti.",
+      "unlimitedTitle": "Mitä tarkoittaa \"Rajaton määrä yhteyksiä\"?",
+      "unlimitedAnswer": "Premium jäsenyydellä voit lisätä ystäviä ja hyväksyä kutsuja ilman ilmaistileihin liittyviä päivittäisiä rajoituksia.",
+      "filtersTitle": "Mitä edistyneet suodattimet tarkalleen ovat?",
+      "filtersAnswer": "Edistyneet suodattimet antavat sinun hakea kiinnostusten, ikäryhmän, ammatin, etäisyyssäteen ja toimintatilan mukaan. Voit myös suodattaa käyttäjiä, jotka ovat tällä hetkellä verkossa tai ovat olleet äskettäin aktiivisia parempien yhteyksien mahdollisuuksien saamiseksi.",
+      "meetingTitle": "Miten tapaamispaikka ehdotus toimii?",
+      "meetingAnswer": "Tekoälymme ehdottaa turvallisia, julkisia tapaamispaikoja kuten kahviloita, kirjastoja tai yhteistyötiloja kävelymatkan päässä molemmista käyttäjistä. Se ottaa huomioon mieltymyksesi, nykyisen sijaintisi ja vuorokauden ajan ehdottaakseen parhaat tapaamispaikkoja.",
+      "rematchTitle": "Mitä \"uudelleentapaaminen aiempien käyttäjien kanssa\" tarkoittaa?",
+      "rematchAnswer": "Jos sinulla oli keskustelu, joka vanheni (30 minuuttia) paljastamatta henkilöllisyyksiä, premium-käyttäjät voivat yhdistää uudelleen kyseisen henkilön kanssa, jos törmäätte lähellä. Tämä antaa sinulle toisen mahdollisuuden luoda yhteys.",
+      "trialTitle": "Onko ilmaista kokeilujaksoa saatavilla?",
+      "trialAnswer": "Kyllä! Uudet käyttäjät saavat 7 päivän ilmaisen kokeilujakson kaikista premium-ominaisuuksista. Voit tutkia rajoittamattomia kaveripyyntöjä, edistyneitä suodattimia ja tapaamispaikka ehdotuksia ennen kuin päätät, mikä suunnitelma sopii sinulle parhaiten.",
+      "offlineTitle": "Toimivatko premium-ominaisuudet ilman internetiä?",
+      "offlineAnswer": "BLE läheisyystunnistus toimii offline-tilassa, mutta premium-ominaisuudet kuten paikka ehdotukset, rajoittamattomat pyynnöt ja edistyneet suodattimet vaativat internetyhteyden täyteen toiminnallisuuteen.",
+      "paymentTitle": "Mitä maksutapoja hyväksytte?",
+      "paymentAnswer": "Hyväksymme maksut laitteesi sovelluskaupan (Google Play tai App Store) kautta, mukaan lukien kaikki siellä tuetut maksutavat.",
+      "areaTitle": "Mitä tarkoittaa \"rajaton aluekäyttö\"?",
+      "areaAnswer": "Premium jäsenet voivat liittyä niin moneen lähellä olevaan tapahtumapaikkaan kuin haluavat, ilman rajoituksia sille, kuinka monta aluetta he voivat löytää päivässä.",
+      "ticketsTitle": "Mitä ovat Discovery Passit?",
+      "ticketsAnswer": "Discovery Pass -liput ovat maksuperusteisia vaihtoehtoja tilaukselle – jokainen lippu antaa sinulle mahdollisuuden liittyä ja tutustua yhteen lähellä olevaan tapahtumapaikkaan sitoutumatta toistuvaan tilaukseen.",
+      "nightPassTitle": "Mikä on Night Pass ?",
+      "nightPassAnswer": "Night Pass on 24 tunnin passi, joka avaa paikan löytämiseen koko päivän tai yön käyttämättä Discovery Passia."
+    },
+    "priceDisclaimer": "Hinnat ovat likimääräisiä muunnoksia Yhdysvaltain dollareista selainalueesi perusteella. Jos hintoja ei ole saatavilla, hinnat näkyvät Yhdysvaltain dollareina. Lopulliset sovelluksen sisäiset hinnat määrittää sovelluskauppasi, ja ne voivat poiketa aiemmista.",
+    "yearlyTitle": "Vuosittain",
+    "yearlyPrice": "Katso hinnoittelu",
+    "yearlyPeriod": "vuodessa",
+    "yearlyDescription": "Paras hinta-laatusuhde säännöllisille käyttäjille",
+    "bestValue": "Paras hinta-laatusuhde",
+    "chooseYearly": "Valitse vuosittain",
+    "tickets": {
+      "title": "Discovery Pass -passit",
+      "subtitle": "Käytä löytöjä tutkiaksesi ihmisiä lähellä olevissa paikoissa ilman täyttä tilausta.",
+      "single": "Yksittäinen löytö",
+      "singleDesc": "Käytä yhtä passia liittyäksesi yhteen tapahtumapaikkaan ja nähdäksesi, keitä siellä on.",
+      "venueAccessFeature": "Jokainen pääsylippu avaa pääsyn yhteen tapahtumapaikkaan.",
+      "pack3": "3 löytöä",
+      "pack3Desc": "Kolme Discovery Passia. Jokainen passi avaa yhden paikan.",
+      "pack5": "5 löytöä",
+      "pack5Desc": "Viisi Discovery Passia. Jokainen passi avaa yhden paikan.",
+      "bestValue": "Paras hinta-laatusuhde",
+      "specialTicket": "Night Pass",
+      "specialTicketDesc": "Rajoittamaton määrä paikkoja voi liittyä 24 tunniksi ilman Discovery Passeja."
+    }
+  },
+  "footer": {
+    "keepInTouch": "Pidetään yhteyttä!",
+    "findUsOn": "Löydät meidät miltä tahansa näistä alustoista, vastaamme 1–2 arkipäivässä.",
+    "usefulLinks": "Hyödyllisiä linkkejä",
+    "aboutUs": "Tietoa meistä",
+    "blog": "Blogi",
+    "github": "Github",
+    "freeProducts": "Ilmaisia tuotteita",
+    "otherResources": "Muut resurssit",
+    "mitLicense": "MIT-lisenssi",
+    "termsConditions": "Käyttöehdot",
+    "privacyPolicy": "Tietosuojakäytäntö",
+    "contactUs": "Ota yhteyttä",
+    "copyright": "Tekijänoikeus © {{year}} Ringdy . Kaikki oikeudet pidätetään."
+  },
+  "legal": {
+    "privacyPolicy": {
+      "title": "Tietosuojakäytäntö",
+      "subtitle": "Tietosuojasi on meille etusijalla. Lue, miten suojaamme tietojasi ja annamme sinulle täyden hallinnan jakamistasi tiedoista.",
+      "lastUpdated": "Viimeksi päivitetty: tammikuu 2025",
+      "introduction": "Tämä tietosuojakäytäntö kuvaa käytäntöjämme ja menettelytapojamme tietojesi keräämisessä, käytössä ja luovuttamisessa, kun käytät Palvelua, ja kertoo sinulle yksityisyyteen liittyvistä oikeuksistasi ja siitä, miten laki suojaa sinua.",
+      "agreement": "Käytämme henkilötietojasi Palvelun tarjoamiseen ja parantamiseen. Käyttämällä Palvelua hyväksyt tietojen keräämisen ja käytön tämän Tietosuojakäytännön mukaisesti.",
+      "sections": {
+        "interpretationTitle": "Tulkinta ja määritelmät",
+        "interpretationSubtitle": "Tulkinta",
+        "definitionsSubtitle": "Määritelmät",
+        "interpretationText": "Sanoilla, joiden alkukirjain on iso, on seuraavien ehtojen mukaisesti määriteltyjä merkityksiä. Seuraavilla määritelmillä on sama merkitys riippumatta siitä, esiintyvätkö ne yksikössä vai monikossa.",
+        "definitionsText": "Tässä tietosuojakäytännössä:",
+        "definitionLabels": {
+          "account": "Tili:",
+          "affiliate": "Kumppani:",
+          "application": "Sovellus:",
+          "business": "Liiketoiminta:",
+          "ccpaCpra": "CCPA ja/tai CPRA:",
+          "company": "Yritys:",
+          "consumer": "Kuluttaja:",
+          "country": "Maa:",
+          "dataController": "Rekisterinpitäjä:",
+          "device": "Laite:",
+          "doNotTrack": "Älä seuraa (DNT):",
+          "gdpr": "GDPR:n säännöt:",
+          "personalData": "Henkilötiedot:",
+          "service": "Palvelu:",
+          "serviceProvider": "Palveluntarjoaja:",
+          "thirdPartySocialMedia": "Kolmannen osapuolen sosiaalisen median palvelu:",
+          "usageData": "Käyttötiedot:",
+          "you": "Sinä:"
+        },
+        "definitions": {
+          "account": "Sinulle luotu yksilöllinen tili, jolla voit käyttää Palveluamme tai sen osia.",
+          "affiliate": "Yhteisö, joka hallitsee osapuolta, on osapuolen hallitsema tai on osapuolen kanssa yhteisessä hallinnassa, jossa \"hallinta\" tarkoittaa 50 prosentin tai suuremman osuuden omistusta osakkeista, pääomaosuuksista tai muista arvopapereista, jotka oikeuttavat äänioikeuteen johtajien tai muun hallintoelimen valinnassa.",
+          "application": "Viittaa Ringdy , yhtiön tarjoamaan ohjelmistoon.",
+          "business": "CCPA/CPRA-lakien tarkoituksia varten viittaa Yhtiöön oikeushenkilönä, joka kerää kuluttajien henkilötietoja ja määrittää kuluttajien henkilötietojen käsittelyn tarkoitukset ja keinot.",
+          "ccpaCpra": "Viittaa Kalifornian kuluttajien yksityisyyden suojaa koskevaan lakiin (\"CCPA\") sellaisena kuin se on muutettuna Kalifornian vuoden 2020 yksityisyyden suojaa koskevalla lailla (\"CPRA\").",
+          "company": "Tässä sopimuksessa \"Yhtiö\", \"Me\", \"Meidän\" tai \"Meidän\" viittaavat Ringdy . GDPR:n tarkoituksia varten Yhtiö on rekisterinpitäjä.",
+          "consumer": "CCPA/CPRA-laissa tarkoitetaan luonnollista henkilöä, joka on Kalifornian asukas.",
+          "country": "Viittaa: Yhdysvaltoihin",
+          "dataController": "GDPR:n (yleisen tietosuoja-asetuksen) tarkoituksiin Yhtiöllä tarkoitetaan oikeushenkilöä, joka yksin tai yhdessä toisten kanssa määrittelee henkilötietojen käsittelyn tarkoitukset ja keinot.",
+          "device": "Mikä tahansa laite, jolla voi käyttää Palvelua, kuten älypuhelin, tabletti tai tietokone.",
+          "doNotTrack": "Yhdysvaltain sääntelyviranomaisten internet-alalle edistämä konsepti, jonka tarkoituksena on kehittää ja ottaa käyttöön mekanismi, jonka avulla internetin käyttäjät voivat hallita verkkotoimintansa seurantaa eri verkkosivustoilla.",
+          "gdpr": "Viittaa EU:n yleiseen tietosuoja-asetukseen.",
+          "personalData": "Kaikki tiedot, jotka liittyvät tunnistettuun tai tunnistettavissa olevaan henkilöön. GDPR:n tarkoituksia varten henkilötiedoilla tarkoitetaan kaikkia sinuun liittyviä tietoja, kuten nimi, henkilötunnus, sijaintitiedot, verkkotunniste tai yksi tai useampi fyysiseen, fysiologiseen, geneettiseen, henkiseen, taloudelliseen, kulttuuriseen tai sosiaaliseen identiteettiin liittyvä tekijä.",
+          "service": "Viittaa hakemukseen.",
+          "serviceProvider": "Kuka tahansa luonnollinen henkilö tai oikeushenkilö, joka käsittelee tietoja Yhtiön puolesta. Viittaa Yhtiön palkkaamiin kolmannen osapuolen yrityksiin tai yksityishenkilöihin, jotka mahdollistavat Palvelun, tarjoavat Palvelun Yhtiön puolesta, suorittavat Palveluun liittyviä palveluita tai avustavat Yhtiötä Palvelun käytön analysoinnissa.",
+          "thirdPartySocialMedia": "Mikä tahansa verkkosivusto tai sosiaalisen verkoston verkkosivusto, jonka kautta Käyttäjä voi kirjautua sisään tai luoda tilin Palvelun käyttämiseksi.",
+          "usageData": "Automaattisesti kerätyt tiedot, jotka syntyvät joko Palvelun käytöstä tai itse Palvelun infrastruktuurista (esimerkiksi sivulla vierailun kesto).",
+          "you": "Palvelua käyttävä henkilö tai yritys tai muu oikeushenkilö, jonka puolesta kyseinen henkilö Palvelua käyttää, soveltuvin osin."
+        },
+        "dataCollectionTitle": "Henkilötietojesi kerääminen ja käyttö",
+        "dataTypesTitle": "Kerättyjen tietojen tyypit",
+        "personalDataTitle": "Henkilötiedot",
+        "personalDataDescription": "Käyttäessäsi Palveluamme saatamme pyytää sinua antamaan meille tiettyjä henkilökohtaisesti tunnistettavia tietoja, joita voidaan käyttää sinuun yhteyden ottamiseen tai sinuun tunnistamiseen. Henkilökohtaisesti tunnistettavia tietoja voivat olla muun muassa:",
+        "usageDataTitle": "Käyttötiedot",
+        "usageDataDescription1": "Käyttötiedot kerätään automaattisesti Palvelua käytettäessä.",
+        "usageDataDescription2": "Käyttötiedot voivat sisältää tietoja, kuten laitteesi internetprotokollaosoitteen (esim. IP-osoitteen), selaintyypin, selainversion, vierailemasi palvelumme sivut, vierailusi kellonajan ja päivämäärän, näillä sivuilla vietetyn ajan, yksilölliset laitetunnisteet ja muita diagnostisia tietoja.",
+        "usageDataDescription3": "Kun käytät Palvelua mobiililaitteella tai sen kautta, voimme kerätä tiettyjä tietoja automaattisesti, mukaan lukien, mutta ei rajoittuen, käyttämäsi mobiililaitteen tyyppi, mobiililaitteesi yksilöllinen tunniste, mobiililaitteesi IP-osoite, mobiilikäyttöjärjestelmäsi, käyttämäsi mobiiliselaimen tyyppi, yksilölliset laitetunnisteet ja muut diagnostiikkatiedot.",
+        "thirdPartyTitle": "Tiedot kolmansien osapuolten sosiaalisen median palveluista",
+        "thirdPartyDescription1": "Yhtiö antaa sinun luoda tilin ja kirjautua sisään käyttääksesi Palvelua seuraavien Kolmannen osapuolen sosiaalisen median palveluiden kautta:",
+        "thirdPartyDescription2": "Jos päätät rekisteröityä kolmannen osapuolen sosiaalisen median palvelun kautta tai muuten annat meille pääsyn siihen, voimme kerätä henkilötietoja, jotka on jo liitetty kolmannen osapuolen sosiaalisen median palvelusi tiliin, kuten nimesi, sähköpostiosoitteesi, toimintasi tai kyseiseen tiliin liittyvä yhteystietoluettelosi.",
+        "appDataTitle": "Sovellusta käytettäessä kerätyt tiedot",
+        "appDataDescription1": "Sovelluksemme ominaisuuksien tarjoamiseksi voimme kerätä Sovelluksemme käytön aikana etukäteen antamallasi luvalla:",
+        "appDataDescription2": "Käytämme näitä tietoja tarjotaksemme Palvelumme ominaisuuksia, parantaaksemme ja mukauttaaksemme Palveluamme. Tiedot voidaan tallentaa paikallisesti laitteellesi tai ladata salatuille palvelimille. Voit ottaa käyttöön tai poistaa käytöstä näiden tietojen käytön milloin tahansa Laitteesi asetuksista.",
+        "dataUseTitle": "Henkilötietojesi käyttö",
+        "dataUseDescription": "Yhtiö voi käyttää henkilötietoja seuraaviin tarkoituksiin:",
+        "sharingTitle": "Henkilötietojen jakaminen",
+        "sharingDescription": "Voimme jakaa henkilötietojasi seuraavissa tilanteissa:",
+        "retentionTitle": "Henkilötietojesi säilyttäminen"
+      },
+      "dataUses": {
+        "provide": "Palvelumme tarjoaminen ja ylläpito: Mukaan lukien Palvelumme käytön seuranta ja lähellä olevien ihmisten Bluetooth -pohjaisen ja tapahtumapaikkaan perustuvan löytämisen mahdollistaminen.",
+        "account": "Tilisi hallinnointi: Palvelun käyttäjänä rekisteröitymisesi hallinnointi. Antamasi henkilötiedot voivat antaa sinulle pääsyn Palvelun eri toimintoihin, jotka ovat käytettävissäsi rekisteröityneenä käyttäjänä.",
+        "contract": "Sopimuksen täytäntöön panemiseksi: Pyytämiesi palveluiden tai minkä tahansa muun kanssamme Palvelun kautta tehdyn sopimuksen kehittäminen, noudattaminen ja suorittaminen.",
+        "contact": "Yhteydenpito sinuun: Ottaaksemme sinuun yhteyttä sähköpostitse, push-ilmoituksilla tai muilla vastaavilla sähköisillä viestintämuodoilla koskien päivityksiä, tietoturvailmoituksia tai toimintoihin liittyviä tiedotteita.",
+        "offers": "Tarjotaksemme sinulle uutisia ja erikoistarjouksia: Tietoa muista tarjoamistamme tuotteista, palveluista ja tapahtumista, jotka ovat samankaltaisia kuin ne, joita olet jo käyttänyt tai joista olet tiedustellut, ellet ole kieltänyt tällaisten tietojen vastaanottamista.",
+        "requests": "Pyyntöjesi hallinnointi: Vastatakseen meille tekemiisi pyyntöihin ja hallitakseen niitä.",
+        "content": "Kohdennetun sisällön toimittamiseksi: Voimme käyttää tietojasi kehittääksemme ja näyttääksemme kiinnostuksen kohteidesi ja sijaintisi mukaan räätälöityä sisältöä (lähellä olevien käyttäjien löytämiseksi) ja mitataksemme sen tehokkuutta.",
+        "business": "Liiketoiminnan siirtoja varten: Voimme käyttää tietojasi arvioidaksemme tai toteuttaaksemme fuusion, divestoinnin, uudelleenjärjestelyn, uudelleenjärjestelyn, purkamisen tai muun osan tai kaikkien omaisuuksiemme myynnin tai siirron.",
+        "other": "Muihin tarkoituksiin: Voimme käyttää tietojasi muihin tarkoituksiin, kuten data-analyysiin, käyttötrendien tunnistamiseen, mainoskampanjoidemme tehokkuuden määrittämiseen sekä Palvelumme, tuotteidemme, palvelujemme, markkinointimme ja käyttökokemuksesi arviointiin ja parantamiseen."
+      },
+      "sharingTypes": {
+        "providers": "Palveluntarjoajien kanssa: Voimme jakaa henkilötietojasi palveluntarjoajien kanssa Palvelumme käytön seuraamiseksi ja analysoimiseksi, maksujen käsittelemiseksi ja yhteyden ottamiseksi sinuun.",
+        "transfers": "Liiketoiminnan siirtoja varten: Voimme jakaa tai siirtää henkilötietojasi fuusion, yrityksen omaisuuden myynnin, rahoituksen tai koko liiketoimintamme tai sen osan hankinnan yhteydessä tai neuvottelujen aikana toiselle yritykselle.",
+        "affiliates": "Tytäryhtiöiden kanssa: Saatamme jakaa tietojasi tytäryhtiöidemme kanssa, jolloin edellytämme kyseisten tytäryhtiöiden noudattavan tätä tietosuojakäytäntöä.",
+        "partners": "Liikekumppaneiden kanssa: Saatamme jakaa tietojasi liikekumppaneidemme kanssa tarjotaksemme sinulle tiettyjä tuotteita, palveluita tai kampanjoita.",
+        "users": "Muiden käyttäjien kanssa: Kun löydät ja olet yhteydessä muihin käyttäjiin lähelläsi, profiilitietosi (mukaan lukien nimesi ja valokuvasi tai avatarisi, jos olet valinnut sellaisen) jaetaan osana löytämis-, kaveripyyntö- ja yhteensovitusprosessia. Voit milloin tahansa päättää, näytetäänkö avatar vai oikeat valokuvasi.",
+        "consent": "Suostumuksellasi: Voimme luovuttaa henkilötietojasi mihin tahansa muuhun tarkoitukseen suostumuksellasi."
+      },
+      "security": {
+        "title": "Henkilötietojesi turvallisuus",
+        "description": "Henkilötietojesi turvallisuus on meille tärkeää, mutta muista, ettei mikään internetin kautta tapahtuva tiedonsiirtomenetelmä tai sähköinen tallennusmenetelmä ole 100 % turvallinen. Vaikka pyrimme käyttämään kaupallisesti hyväksyttäviä keinoja henkilötietojesi suojaamiseen, mukaan lukien keskusteluviestien päästä päähän -salaus ja suojatut Bluetooth protokollat, emme voi taata niiden absoluuttista turvallisuutta."
+      },
+      "contact": {
+        "title": "Ota yhteyttä",
+        "description": "Jos sinulla on kysyttävää tästä tietosuojakäytännöstä, voit ottaa meihin yhteyttä:",
+        "email": "Sähköpostitse: privacy@ringdy.com",
+        "website": "Tällä sivulla verkkosivuillamme: https://ringdy.com/contact",
+        "mail": "Postitse: Ringdy Privacy Team, 123 Tech Street, San Francisco, CA 94105, Yhdysvallat"
+      },
+      "shineTheLight": {
+        "title": "Kalifornian yksityisyyden suojaan liittyvät oikeutesi (Kalifornian Shine the Light -laki)",
+        "description1": "Kalifornian siviililain pykälän 1798 (Kalifornian Shine the Light -laki) nojalla Kalifornian asukkaat, joilla on vakiintunut liikesuhde kanssamme, voivat pyytää kerran vuodessa tietoja henkilötietojensa jakamisesta kolmansille osapuolille näiden suoramarkkinointitarkoituksiin.",
+        "description2": "Jos haluat pyytää lisätietoja Kalifornian Shine the Light -lain nojalla ja jos olet Kalifornian asukas, voit ottaa meihin yhteyttä alla olevien yhteystietojen avulla."
+      },
+      "minorUsers": {
+        "title": "Kalifornian alaikäisten käyttäjien yksityisyydensuoja (Kalifornian yritys- ja ammattilaki, pykälä 22581)",
+        "description1": "Kalifornian yritys- ja ammattilain pykälä 22581 sallii alle 18-vuotiaiden Kalifornian asukkaiden, jotka ovat verkkosivustojen, -palveluiden tai -sovellusten rekisteröityneitä käyttäjiä, pyytää ja saada poistetuksi julkisesti julkaisemaansa sisältöä tai tietoja.",
+        "description2": "Jos haluat pyytää tällaisten tietojen poistamista, ja jos olet Kalifornian asukas, voit ottaa meihin yhteyttä alla olevien yhteystietojen avulla ja ilmoittaa tiliisi liittyvän sähköpostiosoitteen.",
+        "description3": "Huomaa, että pyyntösi ei takaa verkossa julkaistun sisällön tai tietojen täydellistä tai kattavaa poistamista, ja että laki ei välttämättä salli tai vaadi poistamista tietyissä olosuhteissa."
+      },
+      "childrenPrivacy": {
+        "title": "Lasten yksityisyys",
+        "description1": "Palvelumme ei ole suunnattu alle 13-vuotiaille. Emme tietoisesti kerää henkilötietoja alle 13-vuotiailta. Jos olet vanhempi tai huoltaja ja tiedät, että lapsesi on antanut meille henkilötietoja, ota meihin yhteyttä.",
+        "description2": "Jos saamme tietää, että olemme keränneet alle 13-vuotiaan henkilötietoja ilman vanhempien suostumuksen vahvistamista, ryhdymme toimiin poistaaksemme kyseiset tiedot palvelimiltamme.",
+        "description3": "Jos meidän on käytettävä suostumusta oikeusperusteena tietojesi käsittelylle ja asuinmaasi vaatii vanhemman suostumuksen, saatamme vaatia vanhempasi suostumuksen ennen kuin keräämme ja käytämme kyseisiä tietoja."
+      },
+      "linksToOtherWebsites": {
+        "title": "Linkit muille verkkosivustoille",
+        "description": "Palvelumme saattaa sisältää linkkejä muille verkkosivustoille, joita emme ylläpidä. Jos napsautat kolmannen osapuolen linkkiä, sinut ohjataan kyseisen kolmannen osapuolen sivustolle. Suosittelemme vahvasti, että tarkistat jokaisen vierailemasi sivuston tietosuojakäytännön. Meillä ei ole määräysvaltaa emmekä ota vastuuta minkään kolmannen osapuolen sivuston tai palvelun sisällöstä, tietosuojakäytännöistä tai -käytännöistä."
+      },
+      "changes": {
+        "title": "Muutokset tähän tietosuojakäytäntöön",
+        "description1": "Saatamme päivittää tietosuojakäytäntöämme aika ajoin. Ilmoitamme sinulle kaikista muutoksista julkaisemalla uuden tietosuojakäytännön tällä sivulla.",
+        "description2": "Ilmoitamme sinulle sähköpostitse ja/tai näkyvällä ilmoituksella Palvelussamme ennen muutoksen voimaantuloa ja päivitämme \"Viimeksi päivitetty\" -päivämäärän tämän tietosuojakäytännön yläosassa.",
+        "description3": "Sinua kehotetaan tarkistamaan tämä tietosuojakäytäntö säännöllisesti mahdollisten muutosten varalta. Tietosuojakäytännön muutokset tulevat voimaan, kun ne julkaistaan tällä sivulla."
+      },
+      "backToHome": "Takaisin kotisivulle",
+      "retention": {
+        "description1": "Yhtiö säilyttää henkilötietojasi vain niin kauan kuin on tarpeen tässä tietosuojakäytännössä määriteltyjen tarkoitusten toteuttamiseksi. Säilytämme ja käytämme henkilötietojasi siinä määrin kuin on tarpeen lakisääteisten velvoitteidemme noudattamiseksi, riitojen ratkaisemiseksi ja lakisääteisten sopimustemme ja käytäntöjemme täytäntöönpanemiseksi.",
+        "description2": "Yhtiö säilyttää käyttötietoja myös sisäisiä analyysitarkoituksia varten. Käyttötietoja säilytetään yleensä lyhyemmän ajan, paitsi silloin, kun näitä tietoja käytetään turvallisuuden vahvistamiseen tai palvelumme toiminnallisuuden parantamiseen tai kun meillä on lakisääteinen velvollisuus säilyttää näitä tietoja pidempiä aikoja."
+      },
+      "transfer": {
+        "title": "Henkilötietojesi siirto",
+        "description1": "Tietojasi, mukaan lukien henkilötietoja, käsitellään yhtiön toimipisteissä ja muissa paikoissa, joissa käsittelyyn osallistuvat osapuolet sijaitsevat. Tämä tarkoittaa, että näitä tietoja voidaan siirtää – ja säilyttää – tietokoneilla, jotka sijaitsevat osavaltiosi, provinssisi, maasi tai muun hallinnollisen lainkäyttöalueen ulkopuolella, jos tietosuojalait voivat poiketa lainkäyttöalueesi laeista.",
+        "description2": "Suostumuksesi tähän tietosuojakäytäntöön ja sen jälkeen kyseisten tietojen lähettäminen merkitsevät suostumustasi kyseiseen siirtoon. Yhtiö ryhtyy kaikkiin kohtuullisesti tarvittaviin toimiin varmistaakseen, että tietojasi käsitellään turvallisesti ja tämän tietosuojakäytännön mukaisesti, eikä henkilötietojasi siirretä organisaatiolle tai maahan, ellei ole käytössä riittäviä suojatoimia, mukaan lukien tietojesi ja muiden henkilötietojesi turvallisuus."
+      },
+      "deletion": {
+        "title": "Poista henkilötietosi",
+        "description1": "Sinulla on oikeus poistaa tai pyytää meitä auttamaan sinua koskevien henkilötietojen poistamisessa.",
+        "description2": "Palvelumme voi antaa sinulle mahdollisuuden poistaa tiettyjä sinua koskevia tietoja Palvelusta.",
+        "description3": "Voit päivittää, muuttaa tai poistaa tietojasi milloin tahansa kirjautumalla tilillesi, jos sinulla on sellainen, ja siirtymällä tilin asetuksiin, joiden avulla voit hallita henkilötietojasi. Voit myös ottaa meihin yhteyttä pyytääksesi pääsyä meille antamiisi henkilötietoihin, korjataksesi tai poistaaksesi ne."
+      },
+      "disclosure": {
+        "title": "Henkilötietojesi luovuttaminen",
+        "businessTitle": "Liiketapahtumat",
+        "businessDescription": "Jos Yhtiö on osallisena fuusiossa, yrityskaupassa tai omaisuuden myynnissä, Henkilötietojasi voidaan siirtää. Ilmoitamme sinulle ennen kuin Henkilötietosi siirretään ja niihin sovelletaan eri tietosuojakäytäntöä.",
+        "lawTitle": "Lainvalvonta",
+        "lawDescription": "Tietyissä olosuhteissa Yhtiö voi olla velvollinen luovuttamaan Henkilötietojasi, jos laki sitä edellyttää tai vastauksena viranomaisten (esim. tuomioistuimen tai valtion viraston) päteviin pyyntöihin.",
+        "legalTitle": "Muut lakisääteiset vaatimukset",
+        "legalDescription": "Yhtiö voi luovuttaa henkilötietojasi vilpittömässä mielessä, että tällainen toiminta on tarpeen:",
+        "legalReasons": {
+          "comply": "Noudata lakisääteistä velvoitetta",
+          "protect": "Suojella ja puolustaa Yhtiön oikeuksia tai omaisuutta",
+          "prevent": "Estää tai tutkia Palveluun liittyviä mahdollisia väärinkäytöksiä",
+          "safety": "Palvelun käyttäjien tai yleisön henkilökohtaisen turvallisuuden suojaaminen",
+          "liability": "Suojaudu oikeudelliselta vastuulta"
+        },
+        "detailedInfo": {
+          "title": "Yksityiskohtaiset tiedot henkilötietojesi käsittelystä",
+          "description": "Käyttämillämme palveluntarjoajilla voi olla pääsy henkilötietoihisi. Nämä kolmannen osapuolen toimittajat keräävät, tallentavat, käyttävät, käsittelevät ja siirtävät tietoja toiminnastasi Palvelussamme tietosuojakäytäntöjensä mukaisesti.",
+          "analyticsTitle": "Analytiikka",
+          "analyticsDescription": "Saatamme käyttää kolmannen osapuolen palveluntarjoajia Palvelumme käytön seurantaan ja analysointiin."
+        },
+        "analytics": {
+          "title": "Käyttäytymiseen perustuva uudelleenmarkkinointi",
+          "description": "Yhtiö käyttää uudelleenmarkkinointipalveluita mainostaakseen sinulle kolmansien osapuolten verkkosivustoilla sen jälkeen, kun olet käynyt Palvelussamme. Me ja kolmannen osapuolen toimittajamme käytämme evästeitä tiedottaaksemme, optimoidaksemme ja näyttääksemme mainoksia aiempien Palvelussamme käyntiesi perusteella.",
+          "googleAnalytics": {
+            "title": "Google Analytics",
+            "description1": "Google Analytics on Googlen tarjoama verkkoanalytiikkapalvelu, joka seuraa ja raportoi verkkosivuston liikennettä. Google käyttää kerättyjä tietoja palvelumme käytön seuraamiseen ja valvontaan. Näitä tietoja jaetaan muiden Googlen palveluiden kanssa. Google voi käyttää kerättyjä tietoja oman mainosverkostonsa mainosten kontekstualisointiin ja personointiin.",
+            "description2": "Voit kieltäytyä tietyistä Google Analyticsin ominaisuuksista mobiililaitteesi asetuksista, kuten laitteesi mainosasetuksista, tai noudattamalla Googlen tietosuojakäytännössä antamia ohjeita:",
+            "description3": "Lisätietoja Googlen tietosuojakäytännöistä on Googlen tietosuoja- ja käyttöehdot -verkkosivulla:"
+          },
+          "firebase": {
+            "title": "Firebase",
+            "description1": "Firebase on Google Inc:n tarjoama analytiikkapalvelu.",
+            "description2": "Voit kieltäytyä tietyistä Firebasen ominaisuuksista mobiililaitteesi asetuksista, kuten laitteesi mainosasetuksista, tai noudattamalla Googlen tietosuojakäytännössä antamia ohjeita:",
+            "description3": "Suosittelemme myös tutustumaan Googlen tietosuojakäytäntöön:",
+            "description4": "Lisätietoja Firebasen keräämistä tiedoista on osoitteessa Miten Google käyttää tietoja, kun käytät kumppaniemme sivustoja tai sovelluksia:"
+          }
+        },
+        "advertising": {
+          "title": "Mainonta",
+          "description": "Saatamme käyttää Palveluntarjoajia näyttääksemme sinulle mainoksia Palvelumme tukemiseksi ja ylläpitämiseksi.",
+          "googleAdSense": {
+            "title": "Google AdSense ja DoubleClick-eväste",
+            "description1": "Google käyttää kolmannen osapuolen toimittajana evästeitä mainosten näyttämiseen Palvelussamme. Googlen DoubleClick-evästeen käyttö mahdollistaa sen ja sen kumppanien näyttää mainoksia käyttäjillemme heidän käyntiensä perusteella Palvelussamme tai muilla internet-verkkosivustoilla.",
+            "description2": "Voit kieltää DoubleClick-evästeen käytön kiinnostuksen kohteisiin perustuvassa mainonnassa käymällä Googlen mainosasetusten verkkosivulla:"
+          },
+          "adMob": {
+            "title": "Googlen AdMob",
+            "description1": "AdMob by Googlen tarjoaa Google Inc.",
+            "description2": "Voit kieltäytyä AdMob by Google -palvelusta noudattamalla Googlen antamia ohjeita:",
+            "description3": "Lisätietoja siitä, miten Google käyttää kerättyjä tietoja, on sivulla ”Miten Google käyttää tietoja, kun käytät kumppaniemme sivustoja tai sovelluksia” tai Googlen tietosuojakäytännössä:"
+          }
+        },
+        "payments": {
+          "title": "Maksut",
+          "description1": "Saatamme tarjota maksullisia tuotteita ja/tai palveluita Palvelun sisällä. Tässä tapauksessa voimme käyttää kolmannen osapuolen palveluita maksujen käsittelyyn (esim. maksupalveluntarjoajia).",
+          "description2": "Emme tallenna tai kerää maksukorttitietojasi. Nämä tiedot toimitetaan suoraan kolmannen osapuolen maksunkäsittelijöillemme, joiden henkilötietojesi käyttöä säätelee heidän tietosuojakäytäntönsä. Nämä maksunkäsittelijät noudattavat PCI-DSS:n asettamia standardeja, joita hallinnoi PCI Security Standards Council, joka on Visan, Mastercardin, American Expressin ja Discoverin kaltaisten tuotemerkkien yhteinen hanke. PCI-DSS-vaatimukset auttavat varmistamaan maksutietojen turvallisen käsittelyn.",
+          "appleStore": {
+            "title": "Apple Storen sovelluksen sisäiset maksut",
+            "description": "Heidän tietosuojakäytäntönsä on luettavissa osoitteessa"
+          },
+          "googlePlay": {
+            "title": "Google Playn sovelluksen sisäiset maksut",
+            "description": "Heidän tietosuojakäytäntönsä on luettavissa osoitteessa"
+          },
+          "stripe": {
+            "title": "Raita",
+            "description": "Heidän tietosuojakäytäntönsä on luettavissa osoitteessa"
+          },
+          "payPal": {
+            "title": "PayPal tai Braintree",
+            "description": "Heidän tietosuojakäytäntönsä on luettavissa osoitteessa"
+          }
+        }
+      },
+      "behavioralRemarketing": {
+        "title": "Käyttäytymiseen perustuva uudelleenmarkkinointi",
+        "description": "Yhtiö käyttää uudelleenmarkkinointipalveluita mainostaakseen sinulle kolmansien osapuolten verkkosivustoilla sen jälkeen, kun olet käynyt Palvelussamme. Me ja kolmannen osapuolen toimittajamme käytämme evästeitä tiedottaaksemme, optimoidaksemme ja näyttääksemme mainoksia aiempien Palvelussamme käyntiesi perusteella.",
+        "vendorsDescription1": "Nämä kolmannen osapuolen toimittajat keräävät, tallentavat, käyttävät, käsittelevät ja siirtävät tietoja toiminnastasi Palvelussamme tietosuojakäytäntöjensä mukaisesti ja jotta voimme:",
+        "purposes": {
+          "measure": "Mittaa ja analysoi liikennettä ja selaustoimintaa palvelussamme",
+          "show": "Näytä sinulle tuotteidemme ja/tai palveluidemme mainoksia kolmansien osapuolten verkkosivustoilla tai sovelluksissa",
+          "analyze": "Mainoskampanjoidemme tehokkuuden mittaaminen ja analysointi"
+        },
+        "vendorsDescription2": "Jotkin näistä kolmannen osapuolen toimittajista saattavat käyttää evästeiden ulkopuolisia tekniikoita, joihin evästeitä estävät selaimen asetukset eivät välttämättä vaikuta. Selaimesi ei välttämättä salli tällaisten tekniikoiden estämistä. Voit käyttää seuraavia kolmannen osapuolen työkaluja estääksesi tietojen keräämisen ja käytön kiinnostuksen kohteisiin perustuvan mainonnan näyttämistä varten:",
+        "optOutTools": {
+          "nai": "NAI:n kieltäytymisalusta:",
+          "edaa": "EDAA:n kieltäytymisalusta:",
+          "daa": "DAA:n kieltäytymisalusta:"
+        },
+        "mobileOptOut": "Voit kieltäytyä kaikesta personoidusta mainonnasta ottamalla käyttöön mobiililaitteesi tietosuojaominaisuuksia, kuten mainosten seurannan rajoittamisen (iOS) ja mainosten personoinnin kieltämisen (Android). Lisätietoja on mobiililaitteesi ohjejärjestelmässä.",
+        "dataSharing": "Saatamme jakaa tietoja, kuten tiivistettyjä sähköpostiosoitteita (jos saatavilla) tai muita Palvelussamme kerättyjä verkkotunnisteita, näiden kolmannen osapuolen toimittajien kanssa. Tämä mahdollistaa kolmannen osapuolen toimittajiemme tunnistaa ja näyttää sinulle mainoksia eri laitteissa ja selaimissa. Lisätietoja näiden kolmannen osapuolen toimittajien käyttämistä teknologioista ja niiden laitekohtaisista ominaisuuksista on kunkin alla luetellun toimittajan tietosuojakäytännössä.",
+        "vendorsIntro": "Käyttämämme kolmannen osapuolen toimittajat ovat:",
+        "googleAds": {
+          "title": "Google-mainokset (AdWords)",
+          "description1": "Google Ads (AdWords) -uudelleenmarkkinointipalvelun tarjoaa Google Inc.",
+          "description2": "Voit kieltäytyä Google Analyticsin näyttömainoksista ja mukauttaa Google Display -verkoston mainoksia käymällä Google-mainosten asetussivulla:",
+          "description3": "Google suosittelee myös Google Analyticsin käytön estävän selaimen lisäosan asentamista verkkoselaimeesi. Google Analyticsin käytön estävä selaimen lisäosa antaa kävijöille mahdollisuuden estää Google Analyticsia keräämästä ja käyttämästä tietojaan.",
+          "description4": "Lisätietoja Googlen tietosuojakäytännöistä on Googlen tietosuoja- ja käyttöehdot -verkkosivulla:"
+        },
+        "facebook": {
+          "title": "Facebook",
+          "description1": "Facebookin uudelleenmarkkinointipalvelun tarjoaa Facebook Inc.",
+          "description2": "Voit lukea lisää Facebookin kiinnostuksen kohteisiin perustuvasta mainonnasta tältä sivulta:",
+          "description3": "Voit kieltäytyä Facebookin kiinnostuksen kohteisiin perustuvista mainoksista noudattamalla näitä Facebookin ohjeita:",
+          "description4": "Facebook noudattaa Digital Advertising Alliancen laatimia itsesääntelyperiaatteita verkkokäyttäytymiseen perustuvalle mainonnalle. Voit myös kieltäytyä Facebookin ja muiden osallistuvien yritysten mainonnasta Digital Advertising Alliancen kautta Yhdysvalloissa, Digital Advertising Alliance of Canadan kautta Kanadassa tai European Interactive Digital Advertising Alliancen kautta Euroopassa tai mobiililaitteesi asetuksista.",
+          "description5": "Lisätietoja Facebookin tietosuojakäytännöistä on Facebookin tietosuojakäytännössä:"
+        }
+      },
+      "detailedInfo": {
+        "title": "Yksityiskohtaiset tiedot henkilötietojesi käsittelystä",
+        "description": "Käyttämillämme palveluntarjoajilla voi olla pääsy henkilötietoihisi. Nämä kolmannen osapuolen toimittajat keräävät, tallentavat, käyttävät, käsittelevät ja siirtävät tietoja toiminnastasi Palvelussamme tietosuojakäytäntöjensä mukaisesti.",
+        "analyticsTitle": "Analytiikka",
+        "analyticsDescription": "Saatamme käyttää kolmannen osapuolen palveluntarjoajia Palvelumme käytön seurantaan ja analysointiin."
+      },
+      "analytics": {
+        "firebase": {
+          "title": "Firebase",
+          "description1": "Firebase on Google Inc:n tarjoama analytiikkapalvelu.",
+          "description2": "Voit kieltäytyä tietyistä Firebasen ominaisuuksista mobiililaitteesi asetuksista, kuten laitteesi mainosasetuksista, tai noudattamalla Googlen tietosuojakäytännössä antamia ohjeita:",
+          "description3": "Suosittelemme myös tutustumaan Googlen tietosuojakäytäntöön:",
+          "description4": "Lisätietoja Firebasen keräämistä tiedoista on osoitteessa Miten Google käyttää tietoja, kun käytät kumppaniemme sivustoja tai sovelluksia:"
+        },
+        "googleAnalytics": {
+          "title": "Google Analytics",
+          "description1": "Google Analytics on Googlen tarjoama verkkoanalytiikkapalvelu, joka seuraa ja raportoi verkkosivuston liikennettä. Google käyttää kerättyjä tietoja palvelumme käytön seuraamiseen ja valvontaan. Näitä tietoja jaetaan muiden Googlen palveluiden kanssa. Google voi käyttää kerättyjä tietoja oman mainosverkostonsa mainosten kontekstualisointiin ja personointiin.",
+          "description2": "Voit estää Google Analyticsin näkemästä Palvelussa käyttämiäsi tietoja asentamalla Google Analyticsin käytön estävän selainlaajennuksen. Lisäosa estää Google Analyticsin JavaScriptiä (ga.js, analytics.js ja gtag.js) jakamasta tietoja vierailutoiminnasta Google Analyticsin kanssa. Lisätietoja Googlen tietosuojakäytännöistä on Googlen tietosuoja- ja käyttöehdot -verkkosivulla:",
+          "description3": "Google suosittelee myös Google Analyticsin käytön estävän selaimen lisäosan asentamista verkkoselaimeesi. Google Analyticsin käytön estävän selaimen lisäosa antaa kävijöille mahdollisuuden estää Google Analyticsia keräämästä ja käyttämästä tietojaan. Lisätietoja Google Analyticsin käytön estävän selaimen lisäosan asentamisesta ja käytöstä on seuraavalla Google Analyticsin käytön estävään sivulla:"
+        }
+      },
+      "advertising": {
+        "title": "Mainonta",
+        "description": "Saatamme käyttää Palveluntarjoajia näyttääksemme sinulle mainoksia Palvelumme tukemiseksi ja ylläpitämiseksi.",
+        "googleAdSense": {
+          "title": "Google AdSense ja DoubleClick-eväste",
+          "description1": "Google, kolmannen osapuolen toimittajana, käyttää evästeitä mainosten näyttämiseen Palvelussamme. Googlen DoubleClick-evästeen käyttö mahdollistaa sen ja sen kumppanien näyttää mainoksia käyttäjillemme heidän käyntiensä perusteella Palvelussamme tai muilla internet-verkkosivustoilla.",
+          "description2": "Voit kieltää DoubleClick-evästeen käytön kiinnostuksen kohteisiin perustuvassa mainonnassa käymällä Googlen mainosasetusten verkkosivulla:"
+        },
+        "adMob": {
+          "title": "Googlen AdMob",
+          "description1": "AdMob by Googlen tarjoaa Google Inc.",
+          "description2": "Voit kieltäytyä AdMob by Google -palvelusta noudattamalla Googlen antamia ohjeita:",
+          "description3": "Lisätietoja siitä, miten Google käyttää kerättyjä tietoja, on sivulla ”Miten Google käyttää tietoja, kun käytät kumppaniemme sivustoja tai sovelluksia” tai Googlen tietosuojakäytännössä:"
+        }
+      },
+      "payments": {
+        "title": "Maksut",
+        "description1": "Saatamme tarjota maksullisia tuotteita ja/tai palveluita Palvelun sisällä. Tässä tapauksessa voimme käyttää kolmannen osapuolen palveluita maksujen käsittelyyn (esim. maksupalveluntarjoajia).",
+        "description2": "Emme tallenna tai kerää maksukorttitietojasi. Nämä tiedot toimitetaan suoraan kolmannen osapuolen maksunkäsittelijöillemme, joiden henkilötietojesi käyttöä säätelee heidän tietosuojakäytäntönsä. Nämä maksunkäsittelijät noudattavat PCI-DSS:n asettamia standardeja, joita hallinnoi PCI Security Standards Council, joka on Visan, Mastercardin, American Expressin ja Discoverin kaltaisten tuotemerkkien yhteinen hanke. PCI-DSS-vaatimukset auttavat varmistamaan maksutietojen turvallisen käsittelyn.",
+        "appleStore": {
+          "title": "Apple Storen sovelluksen sisäiset maksut",
+          "description": "Heidän tietosuojakäytäntönsä on luettavissa osoitteessa"
+        },
+        "googlePlay": {
+          "title": "Google Playn sovelluksen sisäiset maksut",
+          "description": "Heidän tietosuojakäytäntönsä on luettavissa osoitteessa"
+        },
+        "stripe": {
+          "title": "Raita",
+          "description": "Heidän tietosuojakäytäntönsä on luettavissa osoitteessa"
+        },
+        "payPal": {
+          "title": "PayPal tai Braintree",
+          "description": "Heidän tietosuojakäytäntönsä on luettavissa osoitteessa"
+        }
+      },
+      "gdpr": {
+        "title": "GDPR-tietosuoja",
+        "legalBasis": {
+          "title": "Henkilötietojen käsittelyn oikeusperusta GDPR:n mukaisesti",
+          "description": "Voimme käsitellä henkilötietoja seuraavin ehdoin:",
+          "consent": "Suostumus: Olet antanut suostumuksesi henkilötietojesi käsittelyyn yhteen tai useampaan tiettyyn tarkoitukseen.",
+          "contract": "Sopimuksen täytäntöönpano: Henkilötietojen antaminen on välttämätöntä kanssasi tehdyn sopimuksen ja/tai siihen liittyvien sopimusta edeltävien velvoitteiden täytäntöönpanemiseksi.",
+          "legal": "Lakisääteiset velvoitteet: Henkilötietojen käsittely on tarpeen Yhtiön lakisääteisen velvoitteen noudattamiseksi.",
+          "vital": "Elintärkeät edut: Henkilötietojen käsittely on tarpeen sinun tai toisen luonnollisen henkilön elintärkeiden etujen suojaamiseksi.",
+          "public": "Yleinen etu: Henkilötietojen käsittely liittyy yleisen edun mukaisen tehtävän suorittamiseen tai yritykselle kuuluvan julkisen vallan käyttämiseen.",
+          "legitimate": "Oikeutetut edut: Henkilötietojen käsittely on tarpeen Yhtiön oikeutettujen etujen toteuttamiseksi."
+        },
+        "rights": {
+          "title": "Oikeutesi GDPR:n nojalla",
+          "description": "Yhtiö sitoutuu kunnioittamaan henkilötietojesi luottamuksellisuutta ja takaamaan, että voit käyttää oikeuksiasi. Sinulla on tämän tietosuojakäytännön mukainen ja lain mukainen oikeus, jos olet EU:n alueella, seuraavaan:",
+          "access": "Pyytää pääsyä henkilötietoihisi: Oikeus päästä käsiksi sinusta tallennettuihin tietoihin, päivittää niitä tai poistaa niitä.",
+          "correction": "Pyytää henkilötietojen korjaamista: Sinulla on oikeus saada kaikki hallussamme olevat puutteelliset tai virheelliset tiedot sinusta korjattua.",
+          "object": "Vastustaa käsittelyä: Tämä oikeus on olemassa, kun käsittelymme oikeusperusteena on oikeutettu etu.",
+          "erasure": "Pyytää poistamista: Sinulla on oikeus pyytää meitä poistamaan henkilötietosi, kun meillä ei ole enää perusteltua syytä jatkaa niiden käsittelyä.",
+          "transfer": "Pyydä siirtoa: Toimitamme sinulle tai valitsemallesi kolmannelle osapuolelle henkilötietosi jäsennellyssä, yleisesti käytetyssä ja koneellisesti luettavassa muodossa.",
+          "withdraw": "Suostumuksen peruuttaminen: Sinulla on oikeus peruuttaa suostumuksesi henkilötietojesi käyttöön."
+        },
+        "exercising": {
+          "title": "GDPR-tietosuojaoikeuksiesi käyttäminen",
+          "description1": "Voit käyttää oikeuksiasi tiedonsaantiin, oikaisuun, peruutukseen ja vastustamiseen ottamalla meihin yhteyttä. Huomaa, että saatamme pyytää sinua vahvistamaan henkilöllisyytesi ennen tällaisiin pyyntöihin vastaamista. Jos teet pyynnön, pyrimme parhaamme mukaan vastaamaan sinulle mahdollisimman pian.",
+          "description2": "Sinulla on oikeus tehdä valitus tietosuojaviranomaiselle henkilötietojesi keräämisestä ja käytöstä. Jos olet Euroopan talousalueella (ETA), saat lisätietoja ottamalla yhteyttä paikalliseen tietosuojaviranomaiseen ETA-alueella."
+        }
+      },
+      "ccpa": {
+        "title": "CCPA/CPRA-tietosuojailmoitus",
+        "introduction": "Tämä Kalifornian asukkaille tarkoitettu tietosuojailmoitusosio täydentää tietosuojakäytäntömme tietoja ja koskee ainoastaan kaikkia Kalifornian osavaltiossa asuvia vierailijoita, käyttäjiä ja muita henkilöitä.",
+        "categoriesTitle": "Kerättyjen henkilötietojen luokat",
+        "categoriesDescription1": "Keräämme tietoja, jotka tunnistavat, liittyvät, kuvaavat, viittaavat tai jotka voidaan yhdistää tai jotka voidaan kohtuudella yhdistää suoraan tai epäsuorasti tiettyyn kuluttajaan tai laitteeseen. Seuraavassa on luettelo henkilötietojen luokista, joita voimme kerätä tai jotka on saatettu kerätä Kalifornian asukkailta viimeisten kahdentoista (12) kuukauden aikana.",
+        "categoriesDescription2": "Huomaa, että alla olevassa luettelossa annetut luokat ja esimerkit ovat CCPA:ssa/CPRA:ssa määriteltyjä. Tämä ei tarkoita, että olisimme itse asiassa keränneet kaikki kyseisen henkilötietoluokan esimerkit, mutta se heijastaa vilpitöntä uskomustamme parhaan tietomme mukaan, että joitakin kyseisen luokan tietoja voidaan ja on saatettu kerätä. Esimerkiksi tiettyjä henkilötietoluokkia kerättäisiin vain, jos olisit antanut kyseiset henkilötiedot suoraan meille.",
+        "categoryLabels": {
+          "examples": "Esimerkkejä:",
+          "collected": "Kerätty:"
+        },
+        "categories": {
+          "identifiers": {
+            "title": "Luokka A: Tunnisteet",
+            "examples": "Oikea nimi, alias, postiosoite, yksilöllinen henkilökohtainen tunniste, verkkotunniste, internetprotokollaosoite, sähköpostiosoite, tilin nimi, ajokortin numero, passin numero tai muut vastaavat tunnisteet.",
+            "collected": "Kyllä"
+          },
+          "personalInfo": {
+            "title": "Luokka B: Kalifornian asiakasrekisterilaissa luetellut henkilötietoluokat",
+            "examples": "Nimi, allekirjoitus, sosiaaliturvatunnus, fyysiset ominaisuudet tai kuvaus, osoite, puhelinnumero, passin numero, ajokortin tai henkilökortin numero, vakuutuksen numero, koulutus, työsuhde, työhistoria, pankkitilin numero, luottokortin numero, pankkikortin numero tai muut taloudelliset tiedot, lääketieteelliset tiedot tai sairausvakuutustiedot. Jotkin tähän luokkaan sisältyvät henkilötiedot voivat olla päällekkäisiä muiden luokkien kanssa.",
+            "collected": "Kyllä"
+          },
+          "protected": {
+            "title": "Luokka C: Kalifornian tai liittovaltion lain suojaamat luokitteluominaisuudet",
+            "examples": "Ikä (40 vuotta tai vanhempi), rotu, ihonväri, syntyperä, kansallinen alkuperä, kansalaisuus, uskonto tai uskontunnustus, siviilisääty, sairaus, fyysinen tai henkinen vamma, sukupuoli (mukaan lukien sukupuoli, sukupuoli-identiteetti, sukupuolen ilmaisu, raskaus tai synnytys ja niihin liittyvät sairaudet), seksuaalinen suuntautuminen, veteraani- tai sotilasasema, geneettiset tiedot (mukaan lukien perinnölliset geneettiset tiedot).",
+            "collected": "Ei"
+          },
+          "commercial": {
+            "title": "Luokka D: Kaupalliset tiedot",
+            "examples": "Ostettujen tai harkittujen tuotteiden tai palveluiden tiedot ja historia.",
+            "collected": "Kyllä"
+          },
+          "biometric": {
+            "title": "Luokka E: Biometriset tiedot",
+            "examples": "Geneettiset, fysiologiset, käyttäytymiseen liittyvät ja biologiset ominaisuudet tai aktiivisuusmallit, joita käytetään mallin tai muun tunnisteen tai tunnistavien tietojen, kuten sormenjälkien, kasvonjälkien ja äänijälkien, iiriksen tai verkkokalvon skannausten, näppäinpainallusten, kävelyn tai muiden fyysisten mallien sekä uni-, terveys- tai liikuntatietojen, poimimiseen.",
+            "collected": "Ei"
+          },
+          "internet": {
+            "title": "Luokka F: Internet- tai muu vastaava verkkotoiminta",
+            "examples": "Vuorovaikutus palvelumme tai mainoksemme kanssa.",
+            "collected": "Kyllä"
+          },
+          "geolocation": {
+            "title": "Luokka G: Paikannustiedot",
+            "examples": "Arvioitu fyysinen sijainti.",
+            "collected": "Kyllä"
+          },
+          "sensory": {
+            "title": "Luokka H: Aistitiedot",
+            "examples": "Ääni-, elektroninen, visuaalinen, lämpö-, haju- tai vastaava tieto.",
+            "collected": "Ei"
+          },
+          "professional": {
+            "title": "Luokka I: Ammatilliset tai työsuhteeseen liittyvät tiedot",
+            "examples": "Nykyinen tai aiempi työhistoria tai suoritusarvioinnit.",
+            "collected": "Ei"
+          },
+          "education": {
+            "title": "Luokka J: Ei-julkinen koulutustieto",
+            "examples": "Oppilaitoksen tai sen puolesta toimivan tahon ylläpitämät opiskelijaan suoraan liittyvät koulutustiedot, kuten arvosanat, opintosuoritusotteet, luokkaluettelot, opiskelijoiden lukujärjestykset, opiskelijoiden tunnistekoodit, opiskelijoiden taloustiedot tai opiskelijoiden kurinpitotiedot.",
+            "collected": "Ei"
+          },
+          "inferences": {
+            "title": "K-luokka: Muista henkilötiedoista tehdyt päätelmät",
+            "examples": "Profiili, joka heijastaa henkilön mieltymyksiä, ominaisuuksia, psykologisia trendejä, taipumuksia, käyttäytymistä, asenteita, älykkyyttä, kykyjä ja taipumuksia.",
+            "collected": "Ei"
+          },
+          "sensitive": {
+            "title": "Luokka L: Arkaluonteiset henkilötiedot",
+            "examples": "Tilin kirjautumis- ja salasanatiedot, maantieteellinen sijainti.",
+            "collected": "Kyllä"
+          }
+        },
+        "exclusions": {
+          "description": "CCPA/CPRA-lain nojalla henkilötietoihin eivät sisälly:",
+          "publicRecords": "Julkisesti saatavilla olevat tiedot valtion rekistereistä",
+          "deidentified": "Anonymisoidut tai kootut kuluttajatiedot",
+          "excludedScope": "CCPA/CPRA:n soveltamisalan ulkopuolelle jäävät tiedot, kuten:",
+          "hipaa": "Terveys- tai lääketieteelliset tiedot, jotka kuuluvat vuoden 1996 sairausvakuutuksen siirrettävyyttä ja vastuuvelvollisuutta koskevan lain (HIPAA) ja Kalifornian lääketieteellisten tietojen luottamuksellisuutta koskevan lain (CMIA) piiriin, tai kliinisten tutkimusten tiedot",
+          "sectorSpecific": "Henkilötiedot, jotka kuuluvat tiettyjen toimialakohtaisten tietosuojalakien piiriin, mukaan lukien Fair Credit Reporting Act (FRCA), Gramm-Leach-Bliley Act (GLBA) tai California Financial Information Privacy Act (FIPA) ja vuoden 1994 kuljettajien yksityisyyden suojaa koskeva laki"
+        },
+        "sources": {
+          "title": "Henkilötietojen lähteet",
+          "description": "Saamme yllä luetellut henkilötietoluokat seuraavista lähteistä:",
+          "directlyFromYou": "Suoraan Sinulta.",
+          "directlyDescription": "Esimerkiksi Palvelussamme täyttämistäsi lomakkeista, Palvelumme kautta ilmaisemistasi tai antamistasi mieltymyksistä tai Palvelussamme tekemistäsi ostoksista.",
+          "indirectlyFromYou": "Epäsuorasti Sinulta.",
+          "indirectlyDescription": "Esimerkiksi tarkkailemalla toimintaasi Palvelussamme.",
+          "automaticallyFromYou": "Automaattisesti sinulta.",
+          "automaticallyDescription": "Esimerkiksi evästeiden kautta, joita me tai palveluntarjoajamme asetamme laitteellesi, kun navigoit Palvelussamme.",
+          "fromServiceProviders": "Palveluntarjoajilta.",
+          "serviceProvidersDescription": "Esimerkiksi kolmannen osapuolen toimittajat Palvelumme käytön seuraamiseksi ja analysoimiseksi, kolmannen osapuolen toimittajat Palvelussamme mainosten tarjoamiseksi, kolmannen osapuolen toimittajat kohdennetun mainonnan toimittamiseksi Sinulle, kolmannen osapuolen toimittajat maksujen käsittelyä varten tai muut kolmannen osapuolen toimittajat, joita käytämme Palvelun tarjoamiseen Sinulle."
+        },
+        "usage": {
+          "title": "Henkilötietojen käyttö",
+          "description": "Voimme käyttää tai luovuttaa keräämiämme henkilötietoja \"liiketoimintatarkoituksiin\" tai \"kaupallisiin tarkoituksiin\" (kuten CCPA/CPRA-laissa on määritelty), joihin voi sisältyä seuraavia esimerkkejä:",
+          "operateService": "Palvelumme ylläpitämiseksi ja Palvelumme tarjoamiseksi sinulle.",
+          "provideSupport": "Tarjotaksemme sinulle tukea ja vastataksemme tiedusteluihisi, mukaan lukien tutkiaksemme ja ratkaistaksemme huolenaiheitasi sekä seurataksemme ja parantaaksemme Palveluamme.",
+          "fulfillReason": "Täyttääksemme syyn, jonka vuoksi annoit tiedot. Jos esimerkiksi jaat yhteystietosi kysyäksesi palvelustamme, käytämme näitä henkilötietoja vastataksemme tiedusteluusi. Jos annat henkilötietojasi ostaaksesi tuotteen tai palvelun, käytämme näitä tietoja maksusi käsittelyyn ja toimituksen mahdollistamiseen.",
+          "lawEnforcement": "Vastatakseen lainvalvontaviranomaisten pyyntöihin ja sovellettavan lain, tuomioistuimen määräyksen tai viranomaismääräysten edellyttämällä tavalla.",
+          "asDescribed": "Kuten sinulle on kuvattu henkilötietojasi kerättäessä tai kuten muutoin CCPA/CPRA-laissa on esitetty.",
+          "administrative": "Sisäisiin hallinto- ja tarkastustarkoituksiin.",
+          "securityIncidents": "Turvallisuuspoikkeamien havaitsemiseksi ja suojautumiseksi haitalliselta, harhaanjohtavalta, petolliselta tai laittomalta toiminnalta, mukaan lukien tarvittaessa tällaisesta toiminnasta vastuussa olevien syytteeseenpano.",
+          "otherUses": "Muut kertaluonteiset käyttötarkoitukset.",
+          "noteExamples": "Huomaa, että yllä olevat esimerkit ovat havainnollistavia eivätkä ole tarkoitettu kattaviksi. Lisätietoja siitä, miten käytämme näitä tietoja, on osiossa \"Henkilötietojesi käyttö\".",
+          "additionalCategories": "Jos päätämme kerätä lisäluokkia henkilötiedoista tai käyttää keräämiämme henkilötietoja olennaisesti erilaisiin, toisiinsa liittymättömiin tai yhteensopimattomiin tarkoituksiin, päivitämme tätä tietosuojakäytäntöä."
+        },
+        "ccpaDisclosure": {
+          "title": "Henkilötietojen luovuttaminen",
+          "description": "Saatamme käyttää tai luovuttaa ja olemme saattaneet käyttää tai luovuttaa viimeisen kahdentoista (12) kuukauden aikana seuraavia henkilötietojen luokkia liiketoiminnallisiin tai kaupallisiin tarkoituksiin:",
+          "categoryA": "Luokka A: Tunnisteet",
+          "categoryB": "Luokka B: Kalifornian asiakasrekisterilaissa luetellut henkilötietoluokat",
+          "categoryD": "Luokka D: Kaupalliset tiedot",
+          "categoryF": "Luokka F: Internet- tai muu vastaava verkkotoiminta",
+          "categoryG": "Luokka G: Paikannustiedot",
+          "categoryL": "Luokka L: Arkaluonteiset henkilötiedot",
+          "noteCategories": "Huomaa, että yllä luetellut luokat ovat CCPA:ssa/CPRA:ssa määriteltyjä. Tämä ei tarkoita, että kaikkia kyseisen henkilötietoluokan esimerkkejä olisi tosiasiallisesti luovutettu, mutta se heijastaa vilpitöntä uskomustamme parhaan tietomme mukaan, että osa sovellettavan luokan tiedoista voidaan ja on saattanut luovuttaa.",
+          "contractRequirement": "Kun luovutamme henkilötietoja liiketoiminta- tai kaupallisiin tarkoituksiin, solmimme sopimuksen, jossa kuvataan tarkoitus ja vaaditaan vastaanottajaa sekä pitämään henkilötiedot luottamuksellisina että olemaan käyttämättä niitä mihinkään muuhun tarkoitukseen kuin sopimuksen täytäntöönpanoon."
+        },
+        "sharing": {
+          "title": "Henkilötietojen jakaminen",
+          "description": "Saatamme jakaa ja olemme jakaneet viimeisten kahdentoista (12) kuukauden aikana yllä olevissa luokissa tunnistettuja henkilötietojasi seuraavien kolmansien osapuolten luokkien kanssa:",
+          "recipients": {
+            "serviceProviders": "Palveluntarjoajat",
+            "paymentProcessors": "Maksujen käsittelijät",
+            "affiliates": "Tytäryhtiömme",
+            "businessPartners": "Liikekumppanimme",
+            "authorizedVendors": "Kolmannen osapuolen toimittajat, joille sinä tai edustajasi valtuutat meidät luovuttamaan henkilötietojasi sinulle tarjoamiemme tuotteiden tai palveluiden yhteydessä"
+          }
+        },
+        "sale": {
+          "title": "Henkilötietojen myynti",
+          "definition": "Kuten CCPA/CPRA-laissa on määritelty, \"myydä\" ja \"myynti\" tarkoittaa Yrityksen toimesta kuluttajan henkilötietojen myymistä, vuokraamista, luovuttamista, paljastamista, levittämistä, saataville asettamista, siirtämistä tai muuta suullista, kirjallista, sähköistä tai muilla keinoin tapahtuvaa välittämistä kolmannelle osapuolelle arvokasta vastiketta vastaan. Tämä tarkoittaa, että olemme saattaneet saada jonkinlaista etua vastineeksi henkilötietojen jakamisesta, mutta ei välttämättä rahallista hyötyä.",
+          "doNotSell": "Emme myy henkilötietoja siinä merkityksessä kuin termi \"myydä\" yleisesti ymmärretään. Sallimme palveluntarjoajien käyttää henkilötietojasi tietosuojakäytännössämme kuvattuihin liiketoimintatarkoituksiin, kuten mainontaan, markkinointiin ja analytiikkaan, ja näitä voidaan pitää myyntinä CCPA/CPRA-lain nojalla.",
+          "description": "Saatamme myydä ja olemme saattaneet myydä viimeisen kahdentoista (12) kuukauden aikana seuraavia henkilötietoluokkia:",
+          "sharedCategories": {
+            "categoryA": "Luokka A: Tunnisteet",
+            "categoryB": "Luokka B: Kalifornian asiakasrekisterilaissa luetellut henkilötietoluokat",
+            "categoryD": "Luokka D: Kaupalliset tiedot",
+            "categoryF": "Luokka F: Internet- tai muu vastaava verkkotoiminta",
+            "categoryG": "Luokka G: Paikannustiedot",
+            "categoryL": "Luokka L: Arkaluonteiset henkilötiedot"
+          }
+        },
+        "userRights": {
+          "title": "CCPA/CPRA-lain mukaiset oikeutesi",
+          "description": "CCPA/CPRA tarjoaa Kalifornian asukkaille erityisiä oikeuksia heidän henkilötietoihinsa liittyen. Jos olet Kalifornian asukas, sinulla on seuraavat oikeudet:",
+          "rightToNotice": "Oikeus huomauttaa.",
+          "rightToNoticeDescription": "Sinulla on oikeus saada tieto siitä, mitä henkilötietoluokkia kerätään ja mihin tarkoituksiin henkilötietoja käytetään.",
+          "disclosureItems": {
+            "categoriesCollected": "Keräämiemme henkilötietojen luokat",
+            "sources": "Keräämiemme henkilötietojen lähteiden luokat",
+            "purposes": "Liiketoiminta- tai kaupalliset tarkoituksemme kyseisten henkilötietojen keräämiseen tai myymiseen",
+            "thirdParties": "Kolmansien osapuolten luokat, joiden kanssa jaamme kyseisiä henkilötietoja",
+            "specificPieces": "Keräämämme henkilötiedot sinusta",
+            "soldDisclosed": "Jos myimme henkilötietojasi tai luovutimme niitä liiketoimintatarkoituksessa, paljastamme sinulle myytyjen ja luovutettujen henkilötietojen luokat"
+          },
+          "rightToOptOut": "Oikeus kieltäytyä henkilötietojen myynnistä tai jakamisesta (kieltäytyminen).",
+          "rightToOptOutDescription": "Sinulla on oikeus kieltää meitä myymästä henkilötietojasi. Jos haluat lähettää kieltäytymispyynnön, katso \"Älä myy henkilötietojani\" -osio tai ota meihin yhteyttä.",
+          "doNotSellSection": "Älä myy henkilötietojani",
+          "rightToCorrect": "Oikeus henkilötietojen oikaisemiseen.",
+          "rightToCorrectDescription": "Sinulla on oikeus korjata tai oikaista keräämiämme virheellisiä henkilötietojasi. Kun olemme vastaanottaneet ja vahvistaneet pyyntösi, pyrimme kaupallisesti kohtuullisin keinoin korjaamaan (ja ohjeistamaan palveluntarjoajiamme korjaamaan) henkilötietosi, ellei poikkeusta sovelleta.",
+          "rightToLimit": "Oikeus rajoittaa arkaluonteisten henkilötietojen käyttöä ja luovuttamista.",
+          "rightToLimitDescription": "Sinulla on oikeus pyytää tiettyjen sinusta keräämiemme arkaluonteisten henkilötietojen käytön tai luovuttamisen rajoittamista, ellei poikkeusta sovelleta. Lähetä pyyntö katsomalla \"Arkaluonteisten henkilötietojeni käytön tai luovuttamisen rajoittaminen\" -osio tai ottamalla meihin yhteyttä.",
+          "limitSensitiveSection": "Rajoita arkaluonteisten henkilötietojeni käyttöä tai luovuttamista",
+          "rightToDelete": "Oikeus poistaa henkilötiedot.",
+          "rightToDeleteDescription": "Sinulla on oikeus pyytää henkilötietojesi poistamista tietyissä olosuhteissa, tiettyjä poikkeuksia lukuun ottamatta. Kun olemme vastaanottaneet ja vahvistaneet pyyntösi, poistamme (ja ohjeistamme palveluntarjoajiamme poistamaan) henkilötietosi rekistereistämme, ellei poikkeusta sovelleta.",
+          "rightNonDiscrimination": "Oikeus olla joutumatta syrjityksi.",
+          "rightNonDiscriminationDescription": "Sinulla on oikeus olla joutumatta syrjityksi kuluttajan oikeuksien käyttämisen vuoksi, mukaan lukien tavaroiden tai palveluiden epääminen, eri hintojen veloittaminen, eri palvelutasojen tarjoaminen tai eri hintojen tai palvelutasojen ehdottaminen."
+        },
+        "exercisingRights": {
+          "title": "CCPA/CPRA-tietosuojaoikeuksiesi käyttäminen",
+          "intro": "Jos haluat käyttää CCPA/CPRA-lain mukaisia oikeuksiasi ja olet Kalifornian asukas, voit ottaa meihin yhteyttä alla olevien tietojen avulla.",
+          "authorization": "Vain sinä tai Kalifornian osavaltion sihteeristöön rekisteröitynyt henkilö, jonka valtuutat toimimaan puolestasi, voi tehdä henkilötietojasi koskevan todennettavissa olevan pyynnön.",
+          "requestRequirements": "Pyyntösi meille on:",
+          "requirements": {
+            "verify": "Anna riittävästi tietoja, joiden avulla voimme kohtuudella varmistaa, että olet henkilö, jolta olemme keränneet henkilötietoja, tai valtuutettu edustaja",
+            "describe": "Kuvaile pyyntösi riittävän yksityiskohtaisesti, jotta voimme ymmärtää, arvioida ja vastata siihen asianmukaisesti."
+          },
+          "verification": "Emme voi vastata pyyntöösi tai antaa sinulle tarvittavia tietoja, jos emme voi varmistaa henkilöllisyyttäsi tai valtuuttasi esittää pyyntöä ja vahvistaa, että henkilötiedot liittyvät sinuun.",
+          "response": "Luovutamme ja toimitamme vaaditut tiedot maksutta 45 päivän kuluessa todennettavissa olevan pyyntösi vastaanottamisesta. Vaadittujen tietojen toimittamisen määräaikaa voidaan pidentää kerran 45 päivällä, jos se on kohtuudella tarpeen ja siitä ilmoitetaan etukäteen.",
+          "dataPortability": "Tietojen siirrettävyyspyyntöjä varten valitsemme henkilötietojesi toimittamiseksi muodon, joka on helposti käytettävissä ja jonka avulla voit siirtää tiedot esteettä yhdeltä taholta toiselle."
+        },
+        "doNotSell": {
+          "title": "Älä myy henkilötietojani",
+          "definition": "Kuten CCPA/CPRA-laissa on määritelty, \"myydä\" ja \"myynti\" tarkoittaa yrityksen toimesta kuluttajan henkilötietojen myymistä, vuokraamista, luovuttamista, paljastamista, levittämistä, saataville asettamista, siirtämistä tai muuta suullista, kirjallista, sähköistä tai muuta keinoa käyttäen tapahtuvaa tiedottamista kolmannelle osapuolelle vastiketta vastaan. Tämä tarkoittaa, että olemme saattaneet saada jonkinlaista hyötyä vastineeksi henkilötietojen jakamisesta, mutta ei välttämättä rahallista hyötyä.",
+          "policy": "Emme myy henkilötietoja siinä merkityksessä kuin termi \"myydä\" yleisesti ymmärretään. Sallimme palveluntarjoajien käyttää henkilötietojasi tietosuojakäytännössämme kuvattuihin liiketoimintatarkoituksiin, kuten mainontaan, markkinointiin ja analytiikkaan, ja näitä voidaan pitää myyntinä CCPA/CPRA-lain nojalla.",
+          "optOutRight": "Sinulla on oikeus kieltää henkilötietojesi myynti. Kun olemme vastaanottaneet ja vahvistaneet sinulta todennettavissa olevan kuluttajapyynnön, lopetamme henkilötietojesi myynnin. Jos haluat käyttää oikeuttasi kieltää myynti, ota meihin yhteyttä.",
+          "serviceProviders": "Palveluntarjoajat, joiden kanssa teemme yhteistyötä (esimerkiksi analytiikka- tai mainoskumppanimme), saattavat käyttää Palvelussa teknologiaa, joka myy henkilötietoja CCPA/CPRA-lain määritelmän mukaisesti. Jos haluat kieltää henkilötietojesi käytön kiinnostuksen kohteisiin perustuvaan mainontaan ja näihin mahdollisiin myynteihin CCPA/CPRA-lain määritelmän mukaisesti, voit tehdä sen noudattamalla alla olevia ohjeita.",
+          "browserNote": "Huomaa, että kieltäytyminen on selainkohtaista. Sinun on ehkä kiellettävä se jokaisessa käyttämässäsi selaimessa.",
+          "websiteTitle": "Verkkosivusto",
+          "websiteInstructions": "Napsauta tarvittaessa Palvelussa lueteltuja \"Tietosuoja-asetukset\", \"Päivitä tietosuoja-asetukset\" tai \"Älä myy henkilötietojani\" -painikkeita tarkistaaksesi tietosuoja-asetuksesi ja kieltäytyäksesi evästeistä ja muista käyttämistämme tekniikoista. Huomaa, että sinun on kieltäydyttävä evästeistä ja muista tekniikoista jokaisessa selaimessa, jota käytät Palvelun käyttämiseen."
+        },
+        "mobileOptOut": {
+          "title": "Mobiililaitteet",
+          "description": "Mobiililaitteesi voi antaa sinulle mahdollisuuden kieltäytyä käyttämiesi sovellusten tietojen käytöstä, jotta sinulle voidaan näyttää kiinnostuksen kohteisiisi kohdistettuja mainoksia:",
+          "androidAds": "\"Poista kiinnostuksen kohteisiin perustuvat mainokset\" tai \"Poista mainosten personointi\" Android-laitteilla",
+          "iosTracking": "\"Rajoita mainosten seurantaa\" iOS-laitteilla",
+          "locationNote": "Voit myös estää sijaintitietojen keräämisen mobiililaitteestasi muuttamalla mobiililaitteesi asetuksia."
+        },
+        "sensitiveInfo": {
+          "title": "Rajoita arkaluonteisten henkilötietojeni käyttöä tai luovuttamista",
+          "description": "Jos olet Kalifornian asukas, sinulla on oikeus rajoittaa arkaluonteisten henkilötietojesi käyttöä ja luovuttamista siihen käyttöön, joka on tarpeen palveluiden suorittamiseksi tai sellaisten tavaroiden toimittamiseksi, joita keskivertokuluttaja kohtuudella odottaa kyseisiä palveluita tai tavaroita pyytäessään. Keräämme, käytämme ja luovutamme arkaluonteisia henkilötietoja tavoilla, jotka ovat tarpeen palvelun tarjoamiseksi. Lisätietoja siitä, miten käytämme henkilötietojasi, saat osiosta \"Henkilötietojesi käyttö\" tai ottamalla meihin yhteyttä."
+        },
+        "caloppaPolicy": {
+          "doNotTrackResponse": "Palvelumme ei reagoi Do Not Track -signaaleihin.",
+          "thirdPartyTracking": "Jotkin kolmannen osapuolen verkkosivustot kuitenkin seuraavat selaustoimintaasi. Jos vierailet tällaisilla verkkosivustoilla, voit määrittää verkkoselaimesi asetukset niin, ettet halua verkkosivustoja seurattavan. Voit ottaa DNT:n käyttöön tai poistaa sen käytöstä verkkoselaimesi asetuksista."
+        },
+        "caloppa": {
+          "title": "Kalifornian verkkotietosuojalain (CalOPPA) edellyttämä \"Älä seuraa\" -käytäntö"
+        },
+        "saleNote": {
+          "categoriesListed": "Huomaa, että yllä luetellut luokat ovat CCPA:ssa/CPRA:ssa määriteltyjä. Tämä ei tarkoita, että kaikkia kyseisen luokan henkilötietoja olisi tosiasiallisesti myyty, mutta se heijastaa vilpitöntä uskomustamme parhaan tietämyksemme mukaan, että osa sovellettavan luokan tiedoista voidaan ja on saattanut jakaa vastineeksi vastineeksi."
+        },
+        "minorsUnder16": {
+          "title": "Alle 16-vuotiaiden alaikäisten henkilötietojen myynti",
+          "description1": "Emme tietoisesti kerää alle 16-vuotiaiden alaikäisten henkilötietoja palvelumme kautta, vaikka tietyt linkittämällämme kolmannen osapuolen verkkosivustot saattavat tehdä niin. Näillä kolmannen osapuolen verkkosivustoilla on omat käyttöehtonsa ja tietosuojakäytäntönsä, ja kehotamme vanhempia ja laillisia huoltajia valvomaan lastensa internetin käyttöä ja neuvomaan lapsiaan olemaan koskaan antamatta tietoja muilla verkkosivustoilla ilman heidän lupaansa.",
+          "description2": "Emme myy sellaisten kuluttajien henkilötietoja, joiden tiedämme olevan alle 16-vuotiaita, ellemme saa myöntävää valtuutusta (\"oikeus suostua\") joko 13–16-vuotiaalta kuluttajalta tai alle 13-vuotiaan kuluttajan vanhemmalta tai huoltajalta. Kuluttajat, jotka suostuvat henkilötietojen myyntiin, voivat kieltäytyä tulevista myynneistä milloin tahansa. Käyttääksesi oikeuttasi kieltäytyä, sinä (tai valtuutettu edustajasi) voit lähettää meille pyynnön ottamalla meihin yhteyttä.",
+          "description3": "Jos sinulla on syytä uskoa, että alle 13-vuotias (tai 16-vuotias) lapsi on antanut meille henkilötietoja, ota meihin yhteyttä ja anna meille riittävät tiedot, jotta voimme poistaa kyseiset tiedot."
+        },
+        "optOutPlatforms": {
+          "description": "Lisäksi voit kieltäytyä vastaanottamasta palveluntarjoajiemme näyttämiä personoituja mainoksia noudattamalla palvelussa annettuja ohjeitamme:",
+          "nai": "NAI:n kieltäytymisalusta:",
+          "edaa": "EDAA:n kieltäytymisalusta:",
+          "daa": "DAA:n kieltäytymisalusta:",
+          "cookieNote": "Kieltäytyminen asettaa tietokoneellesi evästeen, joka on yksilöllinen käyttämällesi selaimelle. Jos vaihdat selainta tai poistat selaimesi tallentamat evästeet, sinun on kieltäydyttävä uudelleen."
+        },
+        "rights": {
+          "rightToKnowAccess": "Oikeus tietää/päästä käsiksi.",
+          "rightToKnowAccessDescription": "CCPA/CPRA-lain nojalla sinulla on oikeus pyytää meitä luovuttamaan sinulle tietoja henkilötietojesi keräämisestä, käytöstä, myynnistä, luovuttamisesta liiketoimintatarkoituksiin ja jakamisesta. Kun olemme vastaanottaneet ja vahvistaneet pyyntösi, luovutamme sinulle seuraavat tiedot:"
+        }
+      },
+      "optOut": {
+        "androidAds": "\"Poista kiinnostuksen kohteisiin perustuvat mainokset\" tai \"Poista mainosten personointi\" Android-laitteilla",
+        "androidInterestBased": "Kiinnostuksen kohteisiin perustuvien mainosten kieltäminen",
+        "androidPersonalization": "Mainosten personoinnin poistaminen käytöstä",
+        "iosTracking": "\"Rajoita mainosten seurantaa\" iOS-laitteilla",
+        "iosLimit": "Rajoita mainosten seurantaa"
+      },
+      "dataTypes": {
+        "email": "Sähköpostiosoite",
+        "name": "Etunimi ja sukunimi",
+        "phone": "Puhelinnumero",
+        "address": "Osoite, osavaltio, maakunta, postinumero, kaupunki",
+        "usageData": "Käyttötiedot"
+      },
+      "socialMedia": {
+        "google": "Google",
+        "facebook": "Facebook",
+        "apple": "Omena"
+      },
+      "appPermissions": {
+        "location": "Sijaintiasi koskevat tiedot ( Bluetooth läheisyystunnistusta varten)",
+        "bluetooth": "Bluetooth laitteen tiedot ja lähellä olevien laitteiden skannaus",
+        "camera": "Laitteesi kameran tiedot avatarin luomista varten",
+        "contacts": "Laitteen yhteystiedot (valinnainen, ystävien löytämiseen)"
+      }
+    },
+    "termsOfUse": {
+      "title": "Käyttöehdot",
+      "subtitle": "Oikeuksiesi ja velvollisuuksiesi ymmärtäminen Ringdy palveluita käyttäessäsi.",
+      "lastUpdated": "Viimeksi päivitetty: tammikuu 2025",
+      "introduction": "Luethan nämä käyttöehdot huolellisesti ennen Palvelumme käyttöä.",
+      "sections": {
+        "interpretationTitle": "Tulkinta ja määritelmät",
+        "interpretationSubtitle": "Tulkinta",
+        "interpretationText": "Sanoilla, joiden alkukirjain on iso, on seuraavien ehtojen mukaisesti määriteltyjä merkityksiä. Seuraavilla määritelmillä on sama merkitys riippumatta siitä, esiintyvätkö ne yksikössä vai monikossa.",
+        "definitionsSubtitle": "Määritelmät",
+        "definitionsText": "Näissä käyttöehdoissa:",
+        "definitions": {
+          "application": "Tarkoittaa Yhtiön toimittamaa ohjelmistoa, jonka olet ladannut mihin tahansa Ringdy -nimiseen elektroniseen laitteeseen.",
+          "applicationStore": "Tarkoittaa Apple Inc:n (Apple App Store) tai Google Inc:n (Google Play Store) ylläpitämää ja kehittämää digitaalista jakelupalvelua, johon Sovellus on ladattu.",
+          "affiliate": "Tarkoittaa yhteisöä, joka hallitsee osapuolta, on osapuolen hallitsema tai on osapuolen kanssa yhteisessä hallinnassa, jossa \"hallinta\" tarkoittaa 50 prosentin tai suuremman osuuden omistusta osakkeista, pääomaosuuksista tai muista arvopapereista, jotka oikeuttavat äänioikeuteen johtajien tai muun hallintoelimen valinnassa.",
+          "account": "Tarkoittaa sinulle luotua yksilöllistä tiliä, jolla voit käyttää Palveluamme tai sen osia.",
+          "country": "Viittaa: Vietnamiin",
+          "company": "(tässä sopimuksessa jäljempänä \"Yhtiö\", \"Me\", \"Meidän\" tai \"Meidän\") viittaa Ringdy .",
+          "content": "Viittaa sisältöön, kuten tekstiin, kuviin tai muuhun tietoon, jonka voit julkaista, ladata, linkittää tai muuten asettaa saataville sinun toimestasi, riippumatta sisällön muodosta.",
+          "device": "Tarkoittaa mitä tahansa laitetta, jolla voi käyttää Palvelua, kuten tietokonetta, älypuhelinta tai digitaalista tablettia.",
+          "feedback": "Tarkoittaa palautetta, innovaatioita tai ehdotuksia, jotka olet lähettänyt Palvelumme ominaisuuksiin, suorituskykyyn tai toimintoihin liittyen.",
+          "freeTrial": "Viittaa rajoitettuun ajanjaksoon, joka voi olla ilmainen tilauksen ostamisen yhteydessä.",
+          "goods": "Katso Palvelussa myytävänä olevat tuotteet.",
+          "inAppPurchase": "Viittaa tuotteen, nimikkeen, palvelun tai tilauksen ostamiseen Sovelluksen kautta, johon sovelletaan näitä Ehtoja ja/tai Sovelluskaupan omia ehtoja.",
+          "orders": "Tarkoittaa pyyntöäsi ostaa meiltä Tavaroita.",
+          "promotions": "Viittaa Palvelun kautta tarjottaviin kilpailuihin, arvontoihin tai muihin kampanjoihin.",
+          "service": "Viittaa hakemukseen.",
+          "subscriptions": "Viittaa Yhtiön sinulle tilauspohjaisesti tarjoamiin palveluihin tai Palvelun käyttöoikeuteen.",
+          "termsAndConditions": "(jotka tunnetaan myös nimellä \"Ehdot\") tarkoittavat näitä ehtoja, jotka muodostavat koko sopimuksen sinun ja Yhtiön välillä Palvelun käytöstä.",
+          "thirdPartySocialMedia": "Tarkoittaa mitä tahansa kolmannen osapuolen tarjoamia palveluita tai sisältöä (mukaan lukien dataa, tietoa, tuotteita tai palveluita), jotka Palvelu voi näyttää, sisällyttää tai asettaa saataville.",
+          "you": "Tarkoittaa Palvelua käyttävää henkilöä tai yritystä tai muuta oikeushenkilöä, jonka puolesta kyseinen henkilö Palvelua käyttää."
+        },
+        "definitionLabels": {
+          "application": "Sovellus:",
+          "applicationStore": "Sovelluskauppa:",
+          "affiliate": "Kumppani:",
+          "account": "Tili:",
+          "country": "Maa:",
+          "company": "Yritys:",
+          "content": "Sisältö:",
+          "device": "Laite:",
+          "feedback": "Palaute:",
+          "freeTrial": "Ilmainen kokeilu:",
+          "goods": "Tavarat:",
+          "inAppPurchase": "Sovelluksen sisäinen ostos:",
+          "orders": "Tilaukset:",
+          "promotions": "Kampanjat:",
+          "service": "Palvelu:",
+          "subscriptions": "Tilaukset:",
+          "termsAndConditions": "Käyttöehdot:",
+          "thirdPartySocialMedia": "Kolmannen osapuolen sosiaalisen median palvelu:",
+          "you": "Sinä:"
+        }
+      },
+      "acknowledgment": {
+        "title": "Kiitokset",
+        "description1": "Nämä ovat tämän Palvelun käyttöä koskevat ehdot ja sinun ja Yhtiön välinen sopimus. Nämä ehdot määrittelevät kaikkien käyttäjien oikeudet ja velvollisuudet Palvelun käyttöön liittyen.",
+        "description2": "Palvelun käyttö edellyttää näiden käyttöehtojen hyväksymistä ja noudattamista. Näitä käyttöehtoja sovelletaan kaikkiin Palvelua käyttäviin vierailijoihin, käyttäjiin ja muihin henkilöihin.",
+        "description3": "Käyttämällä Palvelua sitoudut noudattamaan näitä Käyttöehtoja. Jos et hyväksy jotakin näiden Käyttöehtojen osaa, et voi käyttää Palvelua.",
+        "description4": "Vakuutat olevasi yli 18-vuotias. Yhtiö ei salli alle 18-vuotiaiden käyttää Palvelua.",
+        "description5": "Palvelun käyttö edellyttää myös Yhtiön tietosuojakäytännön hyväksymistä ja noudattamista. Tietosuojakäytäntömme kuvaa käytäntöjämme ja menettelytapojamme henkilötietojesi keräämisessä, käytössä ja luovuttamisessa, kun käytät Sovellusta, ja kertoo sinulle yksityisyyteen liittyvistä oikeuksistasi ja siitä, miten laki suojaa sinua. Lue Tietosuojakäytäntömme huolellisesti ennen Palvelumme käyttöä.",
+        "bluetoothNotice": "Käyttämällä Palveluamme hyväksyt, että Sovellus käyttää Bluetooth ja paikannuspalveluita lähellä olevien käyttäjien löytämiseen ja heihin yhteyden muodostamiseen. Hyväksyt, että käytämme näitä tekniikoita läheisyyteen perustuvien ominaisuuksien tarjoamiseen.",
+        "bluetoothTitle": "Bluetooth ja paikannuspalvelut"
+      },
+      "orders": {
+        "title": "Digitaalisten tuotteiden ostaminen",
+        "introduction": "Ostamalla Discovery Passin, Night Pass tai Tilauksen Palvelun kautta vakuutat olevasi laillisesti kykenevä tekemään sitovia sopimuksia.",
+        "yourInformation": {
+          "title": "Tietosi",
+          "description1": "Discovery Pass -lippujen, Night Pass -lippujen ja tilausten maksut käsitellään kokonaan laitteesi sovelluskaupan (Google Play tai App Store) kautta. Emme kerää tai tallenna maksukorttitietojasi.",
+          "description2": "Vakuutat ja takaat, että: (i) Sinulla on laillinen oikeus käyttää mitä tahansa sovelluskauppatilillesi rekisteröityä maksutapaa; ja (ii) sovelluskauppaan antamasi tiedot ovat totuudenmukaisia, oikeita ja täydellisiä.",
+          "description3": "Kaikki maksutiedot lähetetään suoraan Google Playhin tai App Storeen, ei yritykselle."
+        },
+        "cancellation": {
+          "title": "Oston peruutus",
+          "description1": "Pidätämme oikeuden kieltäytyä ostostasi tai peruuttaa sen milloin tahansa tietyistä syistä, mukaan lukien, mutta ei rajoittuen:",
+          "reasons": {
+            "availability": "Tuotteen saatavuus",
+            "errors": "Virheet tuotteen kuvauksessa tai hinnassa",
+            "orderErrors": "Ostoksesi virheet"
+          },
+          "description2": "Pidätämme oikeuden kieltäytyä ostostasi tai peruuttaa sen, jos epäilemme petosta tai luvatonta tai laitonta tapahtumaa.",
+          "yourRights": {
+            "title": "Peruutusoikeutesi",
+            "description1": "Discovery Passit, Night Pass Passit ja muut digitaaliset kulutustavarat kulutetaan lunastuksen jälkeen, eikä niitä yleensä voi palauttaa.",
+            "description2": "Digitaalisten ostosten hyvityskäytäntömme on kuvattu alla olevissa Sovelluksen sisäiset ostot ja hyvitykset -osioissa.",
+            "description3": "Kun Discovery Pass tai Night Pass on lunastettu tapahtumapaikan avaamiseksi, sitä ei voi peruuttaa eikä hyvittää.",
+            "description4": "Tukikelpoiset hyvityspyynnöt käsitellään sovelluskaupan hyvityskäytännön mukaisesti, kuten alla olevassa Hyvitykset-osiossa on kuvattu.",
+            "description5": "Sinulla ei ole oikeutta peruuttaa seuraavien tuotteiden ostoa:",
+            "exceptions": {
+              "personalized": "Tilillesi jo lisätyt tai kulutetut tuotteet, kuten tapahtumapaikan avaamiseen käytetty Discovery Pass.",
+              "perishable": "Määräaikaiset passit, kuten Night Pass , niiden aktiivisen jakson alettua.",
+              "hygiene": "Tilausjaksot, joiden aikana Palvelu on jo toimitettu sinulle.",
+              "mixed": "Digitaaliset tuotteet yhdistettynä muihin ostettuihin tuotteisiin osana pakettia.",
+              "digital": "Digitaalisen sisällön toimittaminen, jota ei toimiteta aineellisella välineellä, jos suoritus on alkanut etukäteen antamallasi nimenomaisella suostumuksella ja olet tunnustanut menettäväsi peruuttamisoikeutesi."
+            }
+          }
+        },
+        "availability": {
+          "title": "Saatavuus, virheet ja epätarkkuudet",
+          "description1": "Päivitämme jatkuvasti Discovery Pass -, Night Pass - ja tilauspaketteja Palvelussa. Nämä voivat olla hinnoiteltuja väärin, kuvattu epätarkasti tai eivät ole saatavilla, ja näiden tietojen päivittämisessä voi olla viiveitä.",
+          "description2": "Emme voi taata emmekä takaa minkään tiedon, mukaan lukien hintojen ja saatavuuden, tarkkuutta tai täydellisyyttä. Pidätämme oikeuden muuttaa tai päivittää tietoja sekä korjata virheitä, epätarkkuuksia tai puutteita milloin tahansa ilman ennakkoilmoitusta."
+        },
+        "pricing": {
+          "title": "Hintapolitiikka",
+          "description1": "Yhtiö pidättää oikeuden tarkistaa Discovery Pass -lippujen, Night Pass -lippujen ja tilausten hintoja milloin tahansa ennen oston hyväksymistä.",
+          "description2": "Hinnat asetetaan ja näytetään laitteesi sovelluskaupan (Google Play tai App Store) kautta, ja ne voivat vaihdella alueen ja valuutan mukaan."
+        },
+        "payments": {
+          "title": "Maksut",
+          "description1": "Kaikki ostokset käsitellään laitteesi sovelluskaupan (Google Play tai App Store) kautta käyttäen sen tukemia maksutapoja.",
+          "description2": "Maksutavat edellyttävät sovelluskaupan ja korttisi myöntäjän suorittamia vahvistustarkistuksia ja valtuutusta. Jos valtuutusta ei saada, Yhtiö ei ole vastuussa ostoksesi toimituksen viivästymisestä tai epäonnistumisesta."
+        }
+      },
+      "subscriptions": {
+        "title": "Tilaukset",
+        "period": {
+          "title": "Tilausjakso",
+          "description1": "Palvelu tai jotkin sen osat ovat käytettävissä vain maksullisella tilauksella. Sinulta laskutetaan etukäteen toistuvasti ja säännöllisesti (kuten päivittäin, viikoittain, kuukausittain tai vuosittain) riippuen siitä, minkä tyyppisen tilauksen valitset tilauksen ostamisen yhteydessä.",
+          "description2": "Kunkin tilausjakson lopussa Tilauksesi uusiutuu automaattisesti täsmälleen samoilla ehdoilla, ellet peruuta sitä itse tai Yhtiö peruuta sitä."
+        },
+        "cancellations": {
+          "title": "Tilausten peruutukset",
+          "description1": "Voit peruuttaa tilauksesi uusimisen joko tilisi asetuksissa tai ottamalla yhteyttä yritykseen. Et saa hyvitystä jo maksamistasi maksuista nykyisestä tilausjaksosta, ja voit käyttää palvelua nykyisen tilausjaksosi loppuun asti.",
+          "description2": "Jos tilaus on tehty sovelluksen sisäisen oston kautta, voit peruuttaa tilauksesi uusimisen sovelluskaupassa."
+        },
+        "billing": {
+          "title": "Laskutus",
+          "description1": "Sinun on annettava Yhtiölle tarkat ja täydelliset laskutustiedot, mukaan lukien koko nimi, osoite, osavaltio, postinumero, puhelinnumero ja voimassa olevan maksutavan tiedot.",
+          "description2": "Jos automaattinen laskutus ei jostain syystä tapahdu, Yhtiö lähettää sähköisen laskun, jossa ilmoitetaan, että sinun on suoritettava laskussa ilmoitettua laskutuskautta vastaava koko maksu manuaalisesti tietyn määräajan kuluessa.",
+          "description3": "Jos tilaus on tehty sovelluksen sisäisen oston kautta, kaiken laskutuksen hoitaa sovelluskauppa, ja siihen sovelletaan sovelluskaupan omia ehtoja."
+        },
+        "feeChanges": {
+          "title": "Maksumuutokset",
+          "description1": "Yhtiö voi oman harkintansa mukaan ja milloin tahansa muuttaa Tilausmaksuja. Tilausmaksun muutokset tulevat voimaan kulloinkin kuluvan Tilausjakson lopussa.",
+          "description2": "Yhtiö ilmoittaa sinulle kohtuullisessa ajassa etukäteen kaikista Tilausmaksujen muutoksista, jotta sinulla on mahdollisuus irtisanoa Tilauksesi ennen muutoksen voimaantuloa.",
+          "description3": "Jatkamalla Palvelun käyttöä Tilausmaksun muutoksen voimaantulon jälkeen hyväksyt muutetun Tilausmaksun määrän."
+        },
+        "refunds": {
+          "title": "Hyvitykset",
+          "description1": "Maksettuja tilausmaksuja ei palauteta, ellei laki sitä vaadi.",
+          "description2": "Yhtiö voi harkita tiettyjä Tilausten hyvityspyyntöjä tapauskohtaisesti ja myöntää ne oman harkintansa mukaan.",
+          "description3": "Jos tilaus on tehty sovelluksen sisäisen ostoksen kautta, sovelletaan sovelluskaupan hyvityskäytäntöä. Jos haluat pyytää hyvitystä, voit tehdä sen ottamalla yhteyttä suoraan sovelluskauppaan."
+        },
+        "freeTrial": {
+          "title": "Ilmainen kokeilu",
+          "description1": "Yhtiö voi oman harkintansa mukaan tarjota Tilauksen, johon sisältyy ilmainen kokeilujakso rajoitetuksi ajaksi.",
+          "description2": "Sinun on ehkä annettava laskutustietosi voidaksesi rekisteröityä ilmaiseen kokeilujaksoon.",
+          "description3": "Jos annat laskutustietosi rekisteröityessäsi ilmaiseen kokeilujaksoon, yritys ei veloita sinulta maksua ennen kuin ilmainen kokeilujakso on päättynyt. Ilmaisen kokeilujakson viimeisenä päivänä sinulta veloitetaan automaattisesti valitsemasi tilaustyypin mukaiset sovellettavat tilausmaksut, ellet peruuta tilaustasi.",
+          "description4": "Yhtiö pidättää oikeuden milloin tahansa ja ilman erillistä ilmoitusta (i) muuttaa Ilmaisen kokeilujakson ehtoja tai (ii) peruuttaa kyseisen Ilmaisen kokeilujakson tarjouksen."
+        }
+      },
+      "inAppPurchases": {
+        "title": "Sovelluksen sisäiset ostot",
+        "description1": "Sovellus voi sisältää sovelluksen sisäisiä ostoja, joiden avulla voit ostaa tuotteita, palveluita tai tilauksia.",
+        "description2": "Lisätietoja siitä, miten voit hallita sovelluksen sisäisiä ostoksia laitteellasi, voi olla sovelluskaupan omissa käyttöehdoissa tai laitteesi ohjeasetuksissa.",
+        "description3": "Sovelluksen sisäisiä ostoksia voi käyttää vain sovelluksen sisällä. Jos teet sovelluksen sisäisen ostoksen, sitä ei voi peruuttaa latauksen aloittamisen jälkeen. Sovelluksen sisäisiä ostoksia ei voi lunastaa rahana tai muuna vastikkeena eikä niitä voi muutoin siirtää.",
+        "description4": "Hyväksyt ja hyväksyt, että kaikki laskutus- ja tapahtumaprosessit käsittelee sovelluskauppa, josta latasit sovelluksen, ja niihin sovelletaan kyseisen sovelluskaupan omia ehtoja."
+      },
+      "promotions": {
+        "title": "Kampanjat",
+        "description1": "Palvelun kautta saatavilla oleviin tarjouksiin voidaan soveltaa näistä Ehdoista erillisiä sääntöjä.",
+        "description2": "Jos osallistut mihin tahansa kampanjaan, tutustu sovellettavaan sääntöön sekä tietosuojakäytäntöömme. Jos kampanjan säännöt ovat ristiriidassa näiden ehtojen kanssa, sovelletaan kampanjan sääntöjä."
+      },
+      "userAccounts": {
+        "title": "Käyttäjätilit",
+        "description1": "Kun luot tilin meille, sinun on annettava meille tietoja, jotka ovat aina tarkkoja, täydellisiä ja ajantasaisia. Tämän laiminlyönti katsotaan Ehtojen rikkomiseksi, mikä voi johtaa tilisi välittömään lopettamiseen Palvelussamme.",
+        "description2": "Olet vastuussa Palveluun kirjautumiseen käyttämäsi salasanan suojaamisesta ja kaikista salasanaasi käyttävistä toimista tai toimista riippumatta siitä, onko salasanasi Palvelussamme vai Kolmannen Osapuolen Sosiaalisen Median Palvelussa.",
+        "description3": "Sitoudut olemaan paljastamatta salasanaasi kolmansille osapuolille. Sinun on ilmoitettava meille välittömästi, jos havaitset tietoturvaloukkauksen tai tilisi luvattoman käytön.",
+        "description4": "Et saa käyttää käyttäjätunnuksena toisen henkilön tai yhteisön nimeä tai nimeä, joka ei ole laillisesti käytettävissä, nimeä tai tavaramerkkiä, johon sovelletaan muun henkilön tai yhteisön kuin sinun oikeuksiasi ilman asianmukaista lupaa, tai nimeä, joka on muuten loukkaava, mauton tai säädytön."
+      },
+      "userConduct": {
+        "title": "Käyttäjien toiminta ja turvallisuus",
+        "zeroTolerance": {
+          "title": "Nollatoleranssipolitiikka",
+          "description": "Sitoudut olemaan käyttämättä Palvelua muiden häirintään, uhkailuun, vainoamiseen tai pelottelemiseen. Yhtiö noudattaa nollatoleranssipolitiikkaa loukkaavaan käytökseen, häirintään tai muiden oikeuksien tai turvallisuuden loukkaamiseen. Rikkomukset voivat johtaa tilisi välittömään jäädyttämiseen tai lopettamiseen."
+        },
+        "safetyDisclaimer": {
+          "title": "Turvallisuusvastuuvapauslauseke",
+          "description": "Palvelu helpottaa yhteyksien ja viestinnän luomista käyttäjien välillä, jotka saattavat haluta tavata toisensa henkilökohtaisesti. Emme suorita taustatarkastuksia tai varmista käyttäjien henkilöllisyyttä. Olet yksin vastuussa vuorovaikutuksestasi muiden kanssa. Ole varovainen, käytä maalaisjärkeä ja ryhdy asianmukaisiin turvatoimiin kommunikoidessasi tai tavatessasi muita käyttäjiä offline-tilassa."
+        }
+      },
+      "content": {
+        "title": "Sisältö",
+        "yourRight": {
+          "title": "Oikeutesi julkaista sisältöä",
+          "description1": "Palvelumme sallii sinun julkaista sisältöä. Olet vastuussa palveluun julkaisemastasi sisällöstä, mukaan lukien sen laillisuus, luotettavuus ja asianmukaisuus.",
+          "description2": "Lähettämällä Sisältöä Palveluun annat meille oikeuden ja lisenssin käyttää, muokata, esittää julkisesti, näyttää julkisesti, kopioida ja jakaa tällaista Sisältöä Palvelussa ja sen kautta. Säilytät kaikki oikeutesi kaikkeen Palvelussa tai sen kautta lähettämääsi, julkaisemaasi tai näyttämääsi Sisältöön, ja olet vastuussa näiden oikeuksien suojaamisesta.",
+          "description3": "Vakuutat ja takaat, että: (i) Sisältö on Sinun (omistat sen) tai Sinulla on oikeus käyttää sitä ja myöntää Meille näissä Ehdoissa määrätyt oikeudet ja lisenssit, ja (ii) Sisältösi julkaiseminen Palvelussa tai sen kautta ei loukkaa kenenkään henkilön yksityisyyden suojaa, julkisuusoikeuksia, tekijänoikeuksia, sopimusoikeuksia tai muita oikeuksia."
+        },
+        "restrictions": {
+          "title": "Sisältörajoitukset",
+          "description1": "Yhtiö ei ole vastuussa Palvelun käyttäjien sisällöstä. Ymmärrät ja hyväksyt nimenomaisesti, että olet yksin vastuussa Sisällöstä ja kaikesta tililläsi tapahtuvasta toiminnasta, riippumatta siitä, oletko tehnyt sen sinä vai joku kolmas henkilö tiliäsi käyttäen.",
+          "description2": "Et saa lähettää mitään Sisältöä, joka on laitonta, loukkaavaa, järkyttävää, tarkoitettu iljettämään, uhkaavaa, herjaavaa, halventavaa, säädytöntä tai muuten vastenmielistä. Esimerkkejä tällaisesta vastenmielisestä Sisällöstä ovat muun muassa seuraavat:",
+          "prohibitedContent": {
+            "unlawful": "Laiton tai laitonta toimintaa edistävä.",
+            "discriminatory": "Kunniaa loukkaava, syrjivä tai ilkeämielinen sisältö, mukaan lukien viittaukset tai kommentit uskonnosta, rodusta, seksuaalisesta suuntautumisesta, sukupuolesta, kansallisesta/etnisestä alkuperästä tai muista kohderyhmistä.",
+            "spam": "Roskapostia, koneellisesti tai satunnaisesti luotua sähköpostia, joka on luvatonta tai pyytämätöntä mainontaa, ketjukirjeitä, muuta luvatonta myyntiä tai minkäänlaista arpajaisia tai uhkapelejä.",
+            "malware": "Virusten, matojen, haittaohjelmien, troijalaisten tai muun sellaisen sisällön sisältäminen tai asentaminen, joka on suunniteltu tai tarkoitettu häiritsemään, vahingoittamaan tai rajoittamaan minkä tahansa ohjelmiston, laitteiston tai televiestintälaitteen toimintaa.",
+            "infringing": "Minkä tahansa osapuolen omistusoikeuksien loukkaaminen, mukaan lukien patentti, tavaramerkki, liikesalaisuus, tekijänoikeus, julkisuusoikeus tai muut oikeudet.",
+            "impersonating": "Minkä tahansa henkilön tai yhteisön, mukaan lukien Yhtiön ja sen työntekijöiden tai edustajien, esiintyminen.",
+            "privacy": "Kolmannen henkilön yksityisyyden loukkaaminen.",
+            "false": "Vääriä tietoja ja ominaisuuksia."
+          },
+          "description3": "Yhtiö pidättää oikeuden, mutta ei velvollisuutta, oman harkintansa mukaan päättää, onko jokin Sisältö asianmukaista ja näiden Ehtojen mukaista. Voimme kieltäytyä näyttämästä Sisältöä tai poistaa sitä, ja pidätämme oikeuden jäädyttää tai lopettaa tilit, jotka rikkovat näitä Ehtoja tai yhteisönormejamme."
+        },
+        "backups": {
+          "title": "Sisällön varmuuskopiot",
+          "description1": "Vaikka Sisältö varmuuskopioidaan säännöllisesti, Yhtiö ei takaa, ettei tietoja menetetä tai vioittu.",
+          "description2": "Vioittuneet tai virheelliset varmuuskopiointipisteet voivat johtua rajoituksetta sisällöstä, joka on vioittunut ennen varmuuskopiointia tai joka muuttuu varmuuskopioinnin aikana.",
+          "description3": "Yhtiö tarjoaa tukea ja pyrkii vianmäärittämään kaikki tunnetut tai havaitut ongelmat, jotka saattavat vaikuttaa Sisällön varmuuskopioihin. Mutta hyväksyt, että Yhtiöllä ei ole vastuuta Sisällön eheydestä tai Sisällön käyttökelpoiseen tilaan palauttamatta jättämisestä.",
+          "description4": "Sitoudut säilyttämään täydellisen ja oikean kopion kaikesta Sisällöstä Palvelusta riippumattomassa paikassa."
+        }
+      },
+      "copyright": {
+        "title": "Tekijänoikeuskäytäntö",
+        "intellectualProperty": {
+          "title": "Immateriaalioikeuksien loukkaus",
+          "description1": "Kunnioitamme muiden immateriaalioikeuksia. Käytäntönämme on vastata kaikkiin väitteisiin, joiden mukaan Palveluun lähetetty sisältö loukkaa jonkun henkilön tekijänoikeuksia tai muita immateriaalioikeuksia.",
+          "description2": "Jos olet tekijänoikeuden haltija tai valtuutettu edustaja tällaisen haltijan puolesta ja uskot, että tekijänoikeudella suojattua teosta on kopioitu tavalla, joka loukkaa Palvelun kautta tapahtuvaa tekijänoikeusrikkomusta, sinun on lähetettävä kirjallinen ilmoituksesi tekijänoikeusasiamiehellemme sähköpostitse osoitteeseen support@ringdy.com ja sisällytettävä ilmoitukseesi yksityiskohtainen kuvaus väitetystä rikkomuksesta.",
+          "description3": "Sinut voidaan pitää vastuussa vahingoista (mukaan lukien kulut ja asianajokulut), jos annat väärää tietoa siitä, että jokin Sisältö loukkaa tekijänoikeuksiasi."
+        },
+        "dmca": {
+          "title": "DMCA-ilmoitus ja DMCA-menettely tekijänoikeusrikkomusvaatimuksia varten",
+          "description": "Voit tehdä ilmoituksen Digital Millennium Copyright Act (DMCA) -lain nojalla toimittamalla tekijänoikeusasiamiehellemme seuraavat tiedot kirjallisesti:",
+          "requirements": {
+            "signature": "Tekijänoikeuden omistajan puolesta toimimaan valtuutetun henkilön sähköinen tai fyysinen allekirjoitus.",
+            "description": "Kuvaus tekijänoikeudella suojatusta teoksesta, jonka väität loukatun, mukaan lukien URL-osoite (eli verkkosivun osoite) sijainnista, jossa tekijänoikeudella suojattu teos sijaitsee, tai kopio tekijänoikeudella suojatusta teoksesta.",
+            "identification": "Sen URL-osoitteen tai muun Palvelussa olevan sijainnin tunnistaminen, jossa väitetysti tekijänoikeuksia loukkaava materiaali sijaitsee.",
+            "contact": "Osoitteesi, puhelinnumerosi ja sähköpostiosoitteesi.",
+            "goodFaith": "Lausuntosi, jossa uskot vilpittömästi, että kiistanalainen käyttö ei ole tekijänoikeuden haltijan, sen edustajan tai lain valtuuttama.",
+            "accuracy": "Vakuutus, jonka annat väärien tietojen antamisen rangaistuksen uhalla, että yllä olevat tiedot ilmoituksessasi ovat oikein ja että olet tekijänoikeuden haltija tai sinulla on valtuudet toimia tekijänoikeuden haltijan puolesta."
+          },
+          "contact": "Voit ottaa yhteyttä tekijänoikeusasiamieheemme sähköpostitse osoitteeseen support@ringdy.com. Saatuaan ilmoituksen Yhtiö ryhtyy oman harkintansa mukaan kaikkiin toimenpiteisiin, jotka se katsoo aiheelliseksi, mukaan lukien kiistanalaisen sisällön poistamisen Palvelusta."
+        }
+      },
+      "intellectualProperty": {
+        "title": "Immateriaalioikeudet",
+        "description1": "Palvelu ja sen alkuperäinen sisältö (lukuun ottamatta sinun tai muiden käyttäjien toimittamaa sisältöä), ominaisuudet ja toiminnallisuudet ovat ja pysyvät Yhtiön ja sen lisenssinantajien yksinomaisena omaisuutena.",
+        "description2": "Palvelu on suojattu tekijänoikeus-, tavaramerkki- ja muilla sekä kotimaisilla että ulkomaisilla laeilla.",
+        "description3": "Tavaramerkkejämme ja tuoteulkoasuamme ei saa käyttää minkään tuotteen tai palvelun yhteydessä ilman Yhtiön etukäteen antamaa kirjallista suostumusta."
+      },
+      "feedback": {
+        "title": "Palautteesi meille",
+        "description": "Annat kaikki oikeudet, omistusoikeudet ja edut kaikkeen Yhtiölle antamaasi Palautteeseen. Jos tällainen siirto on jostain syystä pätemätön, sitoudut myöntämään Yhtiölle ei-yksinomaisen, pysyvän, peruuttamattoman, rojaltivapaan ja maailmanlaajuisen oikeuden ja lisenssin käyttää, kopioida, paljastaa, alilisensoida, levittää, muokata ja hyödyntää tällaista Palautetta ilman rajoituksia."
+      },
+      "links": {
+        "title": "Linkit muille verkkosivustoille",
+        "description1": "Palvelumme saattaa sisältää linkkejä kolmansien osapuolten verkkosivustoille tai palveluihin, jotka eivät ole Yhtiön omistuksessa tai hallinnassa.",
+        "description2": "Yhtiöllä ei ole määräysvaltaa eikä se ota vastuuta minkään kolmannen osapuolen verkkosivustojen tai palveluiden sisällöstä, tietosuojakäytännöistä tai käytännöistä. Lisäksi hyväksyt ja hyväksyt, että Yhtiö ei ole suoraan tai epäsuorasti vastuussa mistään vahingoista tai menetyksistä, jotka aiheutuvat tai joiden väitetään aiheutuvan tällaisten verkkosivustojen tai palveluiden kautta saatavilla olevan sisällön, tavaroiden tai palveluiden käytöstä tai niihin luottamisesta.",
+        "description3": "Suosittelemme vahvasti, että luet kaikkien vierailemiesi kolmansien osapuolten verkkosivustojen tai palveluiden käyttöehdot ja tietosuojakäytännöt."
+      },
+      "termination": {
+        "title": "Irtisanominen",
+        "description1": "Voimme irtisanoa tai keskeyttää tilisi välittömästi, ilman ennakkoilmoitusta tai vastuuta, mistä tahansa syystä, mukaan lukien rajoituksetta, jos rikot näitä käyttöehtoja.",
+        "description2": "Irtisanomisen yhteydessä oikeutesi käyttää Palvelua lakkaa välittömästi. Jos haluat irtisanoa Tilisi, voit yksinkertaisesti lopettaa Palvelun käytön.",
+        "dataDeletion": {
+          "title": "Tietojen poistaminen ja tilin sulkeminen",
+          "description": "Voit pyytää tilisi ja henkilötietojesi poistamista milloin tahansa ottamalla meihin yhteyttä osoitteessa support@ringdy.com tai käyttämällä mitä tahansa sovelluksen sisäistä tilin poistotoimintoa. Tilin päättämisen tai poistamisen jälkeen poistamme tai anonymisoimme henkilötietosi sovellettavan lain mukaisesti, paitsi siltä osin kuin meidän on säilytettävä tiettyjä tietoja oikeudellisista, turvallisuus- tai operatiivisista syistä."
+        }
+      },
+      "liability": {
+        "title": "Vastuunrajoitus",
+        "importantNotice": "Tärkeä oikeudellinen huomautus",
+        "notice": "Kaikista sinulle mahdollisesti aiheutuneista vahingoista huolimatta Yhtiön ja sen toimittajien koko vastuu näiden Ehtojen minkä tahansa määräyksen nojalla ja ainoa oikeussuojakeinosi kaikkien edellä mainittujen osalta rajoittuu Palvelun kautta tosiasiallisesti maksamaasi summaan tai 100 Yhdysvaltain dollariin, jos et ole ostanut mitään Palvelun kautta.",
+        "description1": "Sovellettavan lain sallimissa rajoissa Yhtiö tai sen toimittajat eivät missään tapauksessa ole vastuussa mistään erityisistä, satunnaisista, epäsuorista tai välillisistä vahingoista (mukaan lukien, mutta ei rajoittuen, vahingot voitonmenetyksestä, tietojen tai muiden tietojen menetyksestä, liiketoiminnan keskeytymisestä, henkilövahingoista, yksityisyyden menetyksestä, jotka johtuvat tai liittyvät millään tavalla Palvelun, Palvelun kanssa käytettävän kolmannen osapuolen ohjelmiston ja/tai kolmannen osapuolen laitteiston käyttöön tai käyttökyvyttömyyteen tai muuten näiden Ehtojen mihin tahansa määräykseen liittyen), vaikka Yhtiölle tai mille tahansa toimittajalle olisi ilmoitettu tällaisten vahinkojen mahdollisuudesta ja vaikka oikeussuojakeino ei täyttäisi olennaista tarkoitustaan.",
+        "description2": "Joissakin osavaltioissa ei sallita oletettujen takuiden poissulkemista tai satunnaisten tai välillisten vahinkojen vastuun rajoittamista, mikä tarkoittaa, että jotkin yllä mainituista rajoituksista eivät välttämättä sovellu. Näissä osavaltioissa kummankin osapuolen vastuu rajoittuu lain sallimaan enimmäismäärään."
+      },
+      "disclaimer": {
+        "title": "Vastuuvapauslauseke \"SELLAISENAAN\" ja \"SAATAVUUDEN BLE \"",
+        "description1": "Palvelu tarjotaan sinulle \"SELLAISENAAN\" ja \"SAATAVUUDEN BLE \" ja kaikkine vikoineen ja puutteineen ilman minkäänlaista takuuta. Sovellettavan lain sallimissa rajoissa Yhtiö omasta puolestaan ja tytäryhtiöidensä sekä niiden lisenssinantajien ja palveluntarjoajien puolesta sanoutuu nimenomaisesti irti kaikista Palvelua koskevista takuista, olivatpa ne nimenomaisia, oletettuja, lakisääteisiä tai muita, mukaan lukien kaikki oletetut takuut myyntikelpoisuudesta, soveltuvuudesta tiettyyn tarkoitukseen, omistusoikeudesta ja loukkaamattomuudesta sekä takuut, jotka voivat syntyä kaupankäynnistä, suorituskyvystä, käytöstä tai kauppatavoista.",
+        "description2": "Rajoittamatta edellä mainittua Yhtiö ei anna mitään takuuta tai sitoumusta eikä anna minkäänlaisia vakuutuksia siitä, että Palvelu täyttää vaatimuksesi, saavuttaa halutut tulokset, on yhteensopiva tai toimii minkään muun ohjelmiston, sovelluksen, järjestelmän tai palvelun kanssa, toimii keskeytyksettä, täyttää suorituskyky- tai luotettavuusstandardit tai on virheetön tai että mahdolliset virheet tai viat voidaan tai tullaan korjaamaan.",
+        "description3": "Rajoittamatta edellä mainittua, Yhtiö tai mikään Yhtiön palveluntarjoajista ei anna minkäänlaisia nimenomaisia tai epäsuoria takuita tai vakuutuksia: (i) Palvelun tai siihen sisältyvien tietojen, sisällön ja materiaalien tai tuotteiden toiminnasta tai saatavuudesta; (ii) siitä, että Palvelu on keskeytyksetön tai virheetön; (iii) Palvelun kautta tarjottujen tietojen tai sisällön tarkkuudesta, luotettavuudesta tai ajantasaisuudesta; tai (iv) siitä, että Palvelu, sen palvelimet, sisältö tai Yhtiön puolesta lähetetyt sähköpostit ovat vapaita viruksista, skripteistä, troijalaisista, matoista, haittaohjelmista, aikapommeista tai muista haitallisista komponenteista.",
+        "description4": "Joissakin lainkäyttöalueissa ei sallita tietyntyyppisten takuiden poissulkemista tai kuluttajan sovellettavien lakisääteisten oikeuksien rajoituksia, joten jotkin tai kaikki edellä mainitut poissulkemiset ja rajoitukset eivät välttämättä koske sinua. Tällaisessa tapauksessa tässä osiossa esitettyjä poissulkemisia ja rajoituksia sovelletaan siinä määrin kuin sovellettavan lain mukaan on täytäntöönpanokelpoista."
+      },
+      "governingLaw": {
+        "title": "Sovellettava laki",
+        "description": "Näihin ehtoihin ja Palvelun käyttöön sovelletaan kunkin maan lakeja, lukuun ottamatta sen lainvalintasääntöjä. Sovelluksen käyttöön voi soveltua myös muita paikallisia, osavaltion, kansallisia tai kansainvälisiä lakeja."
+      },
+      "disputes": {
+        "title": "Riitojenratkaisu",
+        "description": "Jos sinulla on huolenaiheita tai erimielisyyksiä Palvelusta, sitoudut ensin yrittämään ratkaista erimielisyyden epävirallisesti ottamalla yhteyttä Yhtiöön."
+      },
+      "euUsers": {
+        "title": "Euroopan unionin (EU) käyttäjille",
+        "description": "Jos olet Euroopan unionin kuluttaja, hyödyt kaikista asuinmaasi lain pakollisista säännöksistä."
+      },
+      "usLegal": {
+        "title": "Yhdysvaltojen lakien noudattaminen",
+        "description": "Vakuutat ja takaat, että (i) et ole maassa, joka on Yhdysvaltain hallituksen asettaman kauppasaarron alainen tai jonka Yhdysvaltain hallitus on nimennyt \"terrorismia tukevaksi\" maaksi, ja (ii) et ole listattu millään Yhdysvaltain hallituksen kiellettyjen tai rajoitettujen osapuolten luettelolla."
+      },
+      "severability": {
+        "title": "Irrallisuus ja vastuuvapaus",
+        "severabilityTitle": "Erotettavuus",
+        "severabilityDescription": "Jos jokin näiden Ehtojen määräys katsotaan täytäntöönpanokelvottomaksi tai pätemättömäksi, kyseistä määräystä muutetaan ja tulkitaan siten, että sen tavoitteet saavutetaan mahdollisimman hyvin sovellettavan lain mukaisesti, ja jäljellä olevat määräykset pysyvät täysin voimassa.",
+        "waiverTitle": "Luopuminen",
+        "waiverDescription": "Ellei tässä toisin määrätä, oikeuden käyttämättä jättäminen tai velvoitteen suorittamisen vaatimatta jättäminen näiden Ehtojen mukaisesti ei vaikuta osapuolen kykyyn käyttää kyseistä oikeutta tai vaatia tällaista suorittamista milloinkaan sen jälkeen, eikä rikkomuksesta luopuminen tarkoita luopumista mistään myöhemmästä rikkomuksesta."
+      },
+      "translation": {
+        "title": "Käännöstulkkaus",
+        "description": "Nämä ehdot on saatettu kääntää, jos olemme asettaneet ne saatavillesi Palvelussamme. Hyväksyt, että alkuperäinen englanninkielinen teksti on ratkaiseva riitatilanteessa."
+      },
+      "changes": {
+        "title": "Näiden ehtojen muutokset",
+        "description1": "Pidätämme oikeuden oman harkintamme mukaan muuttaa tai korvata näitä ehtoja milloin tahansa. Jos muutos on olennainen, pyrimme kohtuullisin keinoin ilmoittamaan uusista ehdoista vähintään 30 päivää etukäteen ennen niiden voimaantuloa. Määritämme oman harkintamme mukaan, mikä katsotaan olennaiseksi muutokseksi.",
+        "description2": "Jatkamalla Palvelumme käyttöä näiden muutosten voimaantulon jälkeen sitoudut noudattamaan tarkistettuja ehtoja. Jos et hyväksy uusia ehtoja kokonaan tai osittain, lopeta verkkosivuston ja Palvelun käyttö."
+      },
+      "contact": {
+        "title": "Ota yhteyttä",
+        "description": "Jos sinulla on kysyttävää näistä käyttöehdoista, voit ottaa meihin yhteyttä:",
+        "email": "Sähköpostitse: support@ringdy.com",
+        "support": "Sovelluksen sisäisen tukijärjestelmämme kautta",
+        "website": "Käymällä verkkosivustollamme: www.ringdy.com"
+      },
+      "backToHome": "Takaisin kotisivulle",
+      "privacyPolicy": "Tietosuojakäytäntö"
+    }
+  },
+  "safety": {
+    "title": "Turvallisuusvinkkejä ja -niksejä",
+    "subtitle": "Turvallisuutesi on meille tärkeää. Opi tärkeät vinkit turvalliseen verkkoon ja turvallisiin yhteyksiin.",
+    "lastUpdated": "Viimeksi päivitetty: tammikuu 2025",
+    "commitment": {
+      "title": "Sitoutumisemme turvallisuuteesi",
+      "items": {
+        "privacy": "Sinä päätät, kuinka paljon jaat – vaihda avatariin milloin tahansa, emmekä koskaan jaa puhelinnumeroasi tai tarkkaa osoitettasi muiden käyttäjien kanssa.",
+        "noStorage": "Emme paljasta yksityisiä yhteystietojasi muille käyttäjille, ellet itse päätä jakaa niitä.",
+        "tools": "Tarjoamme työkaluja, kuten eston ja raportoinnin, varmistaaksemme, että hallitset jokaista vuorovaikutusta.",
+        "ageLimit": "Ringdy on tarkoitettu vain 18-vuotiaille ja sitä vanhemmille käyttäjille."
+      }
+    },
+    "respectfulBehavior": {
+      "title": "Kunnioittava käytös on välttämätöntä",
+      "expectation": "Odotamme sinulta:",
+      "items": {
+        "kind": "Ole ystävällinen, kunnioittava ja rehellinen",
+        "language": "Käytä puhdasta ja asianmukaista kieltä",
+        "laws": "Noudata paikallisia lakeja ja yhteisön normeja",
+        "genuine": "Käytä sovellusta vain aitoon ja kunnioittavaan vuorovaikutukseen"
+      }
+    },
+    "prohibitedConduct": {
+      "title": "Kielletty käytös",
+      "warning": "Kaikkien turvallisuuden varmistamiseksi et saa:",
+      "items": {
+        "harassment": "Häiritse, vainoa tai kiusaa ketään",
+        "hateful": "Jaa vihamielistä, väkivaltaista tai syrjivää sisältöä",
+        "impersonation": "Esiinny toisena henkilönä tai luo tekaistuja istuntoja",
+        "personalData": "Pyydä henkilötietoja, kuten osoitetta, puhelinnumeroa tai sosiaalisen median tunnuksia",
+        "explicit": "Lähetä avoimesti esiintyviä, pornografisia tai loukkaavia viestejä",
+        "scamming": "Osallistu huijaukseen, tietojenkalasteluun tai rahanpyyntöihin",
+        "offPlatform": "Yritä siirtää keskusteluja ulkopuolisiin viestisovelluksiin harhaanjohtavissa tarkoituksissa",
+        "tracking": "Yritä seurata tai paikantaa käyttäjiä Bluetooth tarjoamien mahdollisuuksien ulkopuolella"
+      },
+      "consequence": "Mikä tahansa näistä toimista voi johtaa pelikieltoon tai pysyvään pelikieltoon."
+    },
+    "commonSense": {
+      "title": "Käytä maalaisjärkeä ja varovaisuutta",
+      "intro": "Sinä tiedät turvallisuutesi parhaiten. Nämä vinkit auttavat sinua:",
+      "chatting": {
+        "title": "🗣 Keskustelun aikana:",
+        "items": {
+          "noPersonalInfo": "Älä jaa koko nimeäsi, osoitettasi, puhelinnumeroasi tai taloustietojasi",
+          "cautious": "Ole varovainen niiden ihmisten suhteen, jotka pyytävät nopeasti siirtämään keskustelun muualle.",
+          "noPressure": "Älä tunne painetta vastata tai jatkaa keskustelua"
+        }
+      },
+      "redFlags": {
+        "title": "🛑 Varo varoitusmerkkejä:",
+        "items": {
+          "quickLove": "Joku väittää olevansa rakastunut vain muutaman viestin jälkeen",
+          "moneyRequests": "Pyynnöt lähettää rahaa tai henkilötietoja",
+          "strangeLinks": "Oudot linkit tai pyynnöt alustan ulkopuolisiin keskusteluihin",
+          "emergencyStories": "Tarinoita, jotka koskevat hätämatkoja, sairaalalaskuja tai viisumiongelmia"
+        },
+        "advice": "Jos jokin tuntuu oudolta, estä ja ilmoita."
+      }
+    },
+    "reportBlock": {
+      "title": "Raportti- ja estotyökalut",
+      "intro": "Jos joku:",
+      "reasons": {
+        "uncomfortable": "Tekee olosi epämukavaksi",
+        "violates": "Rikkoo ohjeitamme",
+        "suspicious": "Lähettää epäilyttäviä tai haitallisia viestejä"
+      },
+      "instruction": "Käytä esto- ja ilmoitustoimintoja välittömästi. Tarkistamme kaikki ilmoitukset vakavasti, ja toistuvat rikkomukset voivat johtaa pysyvään pelikieltoon.",
+      "anonymity": "Pysyt nimettömänä ilmoittaessasi muista. Ilmoittajan ei tule tietää, kuka hänestä on tehnyt ilmoituksen."
+    },
+    "meetingInPerson": {
+      "title": "Kokous tosielämässä (jos sovellettavissa)",
+      "disclaimer": "Ringdy on suunniteltu auttamaan sinua löytämään ja olemaan yhteydessä lähellä oleviin ihmisiin Bluetooth skannauksen tai paikallisten tapahtumapaikkojen avulla, ja monet käyttäjät tapaavat mieluummin henkilökohtaisesti löydettyään heidät. Noudata näitä varotoimia:",
+      "safetyTips": {
+        "publicPlaces": "Tapaaminen vain julkisilla paikoilla",
+        "tellFriend": "Kerro ystävällesi suunnitelmistasi",
+        "shareLocation": "Jaa sijaintisi luotettavan henkilön kanssa",
+        "noRides": "Älä ota kyytiä juuri tapaamiltasi ihmisiltä",
+        "staySober": "Pysy raittiina ja valppaana",
+        "chargePhone": "Lataa puhelimesi ja pidä se lähellä",
+        "ownTransport": "Järjestä omat kuljetuksesi molempiin suuntiin"
+      },
+      "reminder": "Jos tunnet olosi epämukavaksi, voit poistua milloin tahansa. Estä käyttäjä ja ilmoita hänestä meille jälkikäteen."
+    },
+    "enforcement": {
+      "title": "Valvonta- ja turvallisuustoimenpiteet",
+      "intro": "Ringdy voi ryhtyä seuraaviin toimiin rikkomusten ilmetessä:",
+      "actions": {
+        "suspend": "Tilin väliaikainen jäädyttäminen",
+        "ban": "Estä pysyvästi häiritseviä käyttäjiä",
+        "lawEnforcement": "Ilmoita vakavista uhkista lainvalvontaviranomaisille",
+        "verification": "Vaadi vahvistus epäillyn henkilöllisyyden anastamisen varalta"
+      }
+    },
+    "appeals": {
+      "title": "Valitukset ja tuki",
+      "intro": "Jos sinusta tuntuu, että sinut on kielletty epäoikeudenmukaisesti tai haluat ilmoittaa vakavasta huolenaiheesta:",
+      "contact": {
+        "email": "📧 Sähköposti: support@ringdy.com",
+        "website": "🌐 Käy osoitteessa: Ringdy turvallisuuskeskus (Tulossa pian)"
+      }
+    },
+    "finalThoughts": {
+      "title": "Loppuajatukset",
+      "message": "Ringdy auttaa ihmisiä olemaan yhteydessä toisiinsa turvallisesti ja merkityksellisesti paljastamatta henkilöllisyyttään. Sinä päätät aina, kenen kanssa keskustelet, ja me olemme täällä tukenasi."
+    },
+    "navigation": {
+      "backToHome": "Takaisin kotisivulle",
+      "downloadApp": "Lataa sovellus"
+    }
+  },
+  "profile": {
+    "connectViaBLE": "Yhdistä BLE kautta",
+    "stats": {
+      "connections": "Yhteydet",
+      "messages": "Viestit",
+      "filesShared": "Jaetut tiedostot"
+    },
+    "location": "San Francisco, Kalifornia",
+    "onlineViaBLE": "Verkossa BLE n kautta",
+    "occupation": "Ohjelmistokehittäjä - teknologiayritys",
+    "education": "Stanfordin yliopisto - tietojenkäsittelytiede",
+    "interests": "Kiinnostuksen kohteet: IoT, Bluetooth tekniikka, mobiilikehitys",
+    "bio": "Olen intohimoinen saumattomien yhteyksien luomisesta teknologian avulla. Rakastan tutkia Bluetooth Low Energyn mahdollisuuksia ja rakentaa sovelluksia, jotka tuovat ihmisiä yhteen. Olen aina innoissani voidessani olla yhteydessä alueeni kehittäjiin ja teknologia-alan harrastajiin. Ota rohkeasti yhteyttä yhteistyöhön tai vain hyvään keskusteluun teknologiasta!",
+    "showMore": "Näytä lisää"
+  },
+  "auth": {
+    "agreeWith": "Olen samaa mieltä"
+  }
+}

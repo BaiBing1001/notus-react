@@ -1,0 +1,1434 @@
+{
+  "navbar": {
+    "features": "Functies",
+    "subscription": "Abonnement",
+    "download": "Download",
+    "legal": "Juridisch",
+    "privacyPolicy": "Privacybeleid",
+    "termsOfUse": "Gebruiksvoorwaarden",
+    "safetyTips": "Veiligheidstips en -trucs"
+  },
+  "hero": {
+    "title": "Vind mensen in de buurt.\n Maak in het echte leven contact.",
+    "subtitle": "Schud je telefoon om via Bluetooth mensen in je omgeving te ontdekken, of word lid van een nabijgelegen locatie om te zien wie er is. Stuur een vriendschapsverzoek, vind een match en begin te chatten - met de optie om je avatar privé te houden totdat je klaar bent om meer te delen.",
+    "discoverFeatures": "Ontdek functies",
+    "downloadApp": "Download app",
+    "anonymousAvatars": "Optionele avatars",
+    "autoExpiry": "Bluetooth + Locaties",
+    "privacyFirst": "Privacy staat voorop"
+  },
+  "features": {
+    "proximityTitle": "Ontdekking op basis van nabijheid",
+    "proximityDescription": "Vind mensen in de buurt door te scannen via Bluetooth of door je aan te melden bij een locatie op de kaart. Stuur een vriendschapsverzoek en begin te chatten zodra jullie een match hebben.",
+    "avatarsTitle": "Optionele privacy-instellingen voor avatars",
+    "avatarsDescription": "Laat je avatar aanstaan terwijl je iemand leert kennen, en schakel over naar je echte foto's wanneer je er klaar voor bent.",
+    "expiringTitle": "Ontdekking op locatie",
+    "expiringDescription": "Blader door suggesties voor nabijgelegen locaties en zie wie er binnen een bepaalde straal heeft ingecheckt - u hoeft niet constant te scannen.",
+    "revealTitle": "Binding",
+    "revealDescription": "Geef een exclusieve relatie de status 'verbonden' zodra je iemand hebt gevonden met wie je wilt blijven.",
+    "bluetoothTitle": "Bluetooth LE-technologie",
+    "bluetoothDescription": "Maak verbinding zonder internet dankzij geavanceerde Bluetooth Low Energy-technologie voor efficiënte, lokale netwerken.",
+    "keyFeaturesTitle": "Belangrijkste kenmerken",
+    "keyFeaturesDescription": "Ringdy zit boordevol krachtige functies die zijn ontworpen om uw lokale connectiviteit te verbeteren, waar u ook bent.",
+    "downloadNow": "Download nu",
+    "tags": {
+      "autoDiscovery": "Automatische detectie",
+      "chatMessaging": "Chatberichten",
+      "fileSharing": "Bestanden delen",
+      "profiles": "Profielen",
+      "privacyControls": "Privacyinstellingen",
+      "offlineMode": "Offline modus",
+      "crossPlatform": "Platformoverschrijdend",
+      "lowPower": "Laag vermogen"
+    }
+  },
+  "useCases": {
+    "actionTitle": "Ringdy in actie",
+    "actionDescription": "Automatische detectie, chatberichten en het delen van profielen in echte sociale omgevingen. Ervaar naadloze connectiviteit met geavanceerde Bluetooth Low Energy-technologie, waar u ook bent.",
+    "campusTitle": "Campus Connect",
+    "campusDescription": "Vind direct studiegenoten.",
+    "eventTitle": "Netwerken tijdens evenementen",
+    "eventDescription": "Leg contacten tijdens conferenties",
+    "businessTitle": "Zakelijke bijeenkomst",
+    "businessDescription": "Professionele connecties",
+    "cafeTitle": "Caféverbindingen",
+    "cafeDescription": "Ontmoet koffieliefhebbers in de buurt",
+    "localTitle": "Lokale ontdekking",
+    "localDescription": "Verken je buurt.",
+    "gamingTitle": "Gaminggroepen",
+    "gamingDescription": "Vind gamingpartners",
+    "perfectTitle": "Perfecte gebruiksscenario's",
+    "perfectDescription": "Ringdy transformeert elke locatie in een netwerkmogelijkheid. Of je nu op de universiteit bent, op een conferentie of in je plaatselijke café, ",
+    "perfectDescriptionContinued": "Ontdek direct betekenisvolle connecties.",
+    "approachDescription": "Van studiegroepen tot professioneel netwerken: onze op nabijheid gebaseerde aanpak maakt contact leggen natuurlijk en moeiteloos.",
+    "tryItNow": "Probeer het nu",
+    "tags": {
+      "studyGroups": "Studiegroepen",
+      "events": "Evenementen",
+      "coworking": "Co-working",
+      "gaming": "Gaming",
+      "travel": "Reis",
+      "shopping": "Winkelen",
+      "fitness": "Fitness",
+      "social": "Sociaal"
+    }
+  },
+  "community": {
+    "whyLoveTitle": "Waarom mensen Ringdy zo leuk vinden",
+    "whyLoveDescription": "Onze gebruikers vertellen ons keer op keer hoe Ringdy hun netwerkervaring heeft veranderd. Van het ontmoeten van mensen in cafés tot het leggen van contacten op evenementen, de app creëert authentieke connecties in de buurt.",
+    "privacyProtection": "Privacyvriendelijk ontwerp",
+    "instantConnection": "Directe verbinding zonder internet",
+    "lowPowerConsumption": "Ultralaag energieverbruik",
+    "experienceTitle": "Ervaar Ringdy",
+    "experienceDescription": "Ontdek onze app via verschillende gebruikersinterfaces. Van gebruikersprofielen tot meer informatie. ",
+    "experienceDescriptionContinued": "Ontdek hoe Ringdy netwerkfunctionaliteit op basis van nabijheid intuïtief en aantrekkelijk maakt voor verbindingsprocessen.",
+    "anonymousProfiles": "Avatarprofielen",
+    "chatInterface": "Chatinterface",
+    "nearbyDiscovery": "Ontdekkingslocaties in de buurt",
+    "joinTitle": "Sluit je aan bij onze community",
+    "joinDescription1": "Ringdy is meer dan alleen een app - het is een manier om echte mensen in de buurt te ontmoeten, bijvoorbeeld via Bluetooth scanning of je favoriete lokale plekken.",
+    "joinDescription2": "Volg ons om op de hoogte te blijven van nieuwe functies, gebruikersverhalen en community-evenementen in jouw regio!",
+    "downloadNow": "Download nu"
+  },
+  "download": {
+    "title": "Download Ringdy",
+    "subtitle": "Download Ringdy op je mobiele apparaat en begin met het leggen van contact met mensen in de buurt. Nu beschikbaar voor zowel Android als iOS.",
+    "googlePlay": "Google Play",
+    "appStore": "App Store",
+    "getItOn": "Ga ervoor!",
+    "downloadOn": "Downloaden via de",
+    "comingSoon": "Binnenkort beschikbaar",
+    "whatYouGet": "Wat je krijgt",
+    "instantConnections": "Directe verbindingen",
+    "instantConnectionsDesc": "Maak direct contact met mensen in de buurt via Bluetooth Low Energy-technologie of door lid te worden van een lokale locatie.",
+    "anonymousProfiles": "Avatar-privacy",
+    "anonymousProfilesDesc": "Gebruik een avatarprofiel voor je privacy en deel je echte foto's wanneer je daar klaar voor bent.",
+    "privacyFirst": "Privacy staat voorop",
+    "privacyFirstDesc": "Jij bepaalt wat je deelt en wanneer. Blokkeer- en rapporteerfuncties zorgen voor een veilige community.",
+    "crossPlatform": "Platformoverschrijdend",
+    "crossPlatformDesc": "Werkt probleemloos op zowel iOS- als Android-apparaten.",
+    "requirements": "Systeemvereisten",
+    "androidReq": "Android 6.0 of later",
+    "iosReq": "iOS 12.0 of later",
+    "bluetoothReq": "Ondersteuning voor Bluetooth 4.0 ( BLE ).",
+    "storageReq": "50 MB vrije opslagruimte",
+    "systemDescription": "Ringdy vereist apparaten met Bluetooth Low Energy ( BLE )-ondersteuning. De meeste moderne smartphones en tablets ondersteunen BLE technologie.",
+    "androidRequirements": "Android-vereisten:",
+    "androidReq1": "Android 5.0 (API-niveau 21) of hoger",
+    "androidReq2": "Ondersteuning Bluetooth 4.0 LE",
+    "androidReq3": "Locatietoestemmingen (voor BLE -scannen)",
+    "androidReq4": "Minimaal 2 GB RAM aanbevolen",
+    "iosRequirements": "iOS-vereisten:",
+    "iosReq1": "iOS 12.0 of later",
+    "iosReq2": "iPhone 5s of nieuwer, iPad Air of nieuwer",
+    "iosReq3": "Apparaat dat geschikt is Bluetooth 4.0 LE.",
+    "iosReq4": "Achtergrondappvernieuwing ingeschakeld",
+    "learnMoreFeatures": "Ontdek meer over de functies Ringdy !",
+    "crossPlatformTitle": "Platformonafhankelijke compatibiliteit",
+    "crossPlatformCompatibilityDesc": "Kom in contact met gebruikers op verschillende platforms. Android- en iOS-gebruikers kunnen elkaar moeiteloos vinden en met elkaar chatten.",
+    "android": {
+      "title": "Android",
+      "description": "De volledige Ringdy ervaring is beschikbaar op Android-apparaten met Android 5.0 (API-niveau 21) en hoger.",
+      "featuresTitle": "Functies:",
+      "features": {
+        "bluetooth": "Bluetooth LE-scannen en -adverteren",
+        "background": "Achtergrondbewerking",
+        "notifications": "Pushmeldingen",
+        "offline": "Ondersteuning voor offline modus"
+      },
+      "downloadButton": "Downloaden via Google Play"
+    },
+    "ios": {
+      "title": "iOS",
+      "description": "Native iOS-app geoptimaliseerd voor iPhone en iPad, compatibel met iOS 12.0 en latere versies.",
+      "featuresTitle": "Functies:",
+      "features": {
+        "bluetooth": "Kern Bluetooth -integratie",
+        "background": "Achtergrondapp vernieuwen",
+        "privacy": "Ontwerp gericht op privacy",
+        "universal": "Universele app-ondersteuning"
+      },
+      "downloadButton": "Downloaden via de App Store"
+    },
+    "qrCode": {
+      "title": "Snel downloaden",
+      "description": "Scan de QR-code met de camera van je telefoon om Ringdy te downloaden.",
+      "placeholder": "QR-code",
+      "instruction": "Richt je camera op de QR-code om te downloaden."
+    },
+    "installation": {
+      "title": "Eenvoudige installatie",
+      "description": "Aan de slag gaan met Ringdy is eenvoudig. Download de app, geef de benodigde machtigingen en begin met het ontdekken van mensen in de buurt.",
+      "step1": "Download de app via de app store van je platform.",
+      "step2": "Geef Bluetooth en locatietoegang.",
+      "step3": "Maak je profiel aan en begin met netwerken!"
+    },
+    "callToAction": {
+      "title": "Word lid van de Ringdy community",
+      "description": "Begin op een veilige en privé manier contact te leggen met mensen in de buurt. Download Ringdy vandaag nog en ontdek de toekomst van netwerken op afstand.",
+      "googlePlay": "Google Play",
+      "appStore": "App Store"
+    }
+  },
+  "featurePage": {
+    "title": "Ontdek plaatsen in de buurt.\n Kom in contact met echte mensen.",
+    "subtitle": "Blader door suggesties voor locaties in de buurt, ontdek mensen in je omgeving via Bluetooth en verstuur vriendschapsverzoeken die leiden tot echte gesprekken.",
+    "exploreFeatures": "Ontdek functies",
+    "downloadApp": "Download app",
+    "heroTitle": "Ontdek echte connecties in de buurt",
+    "heroSubtitle": "Sluit je aan bij een voorgestelde locatie of scan je omgeving om te zien wie er in de buurt is en kom in contact met interessante mensen via Bluetooth Low Energy-technologie.",
+    "discoverCrowdedPlaces": "Ontdek locaties in de buurt",
+    "discoverCrowdedPlacesDesc": "Ontvang suggesties voor populaire locaties in de buurt waar je gelijkgestemde mensen kunt ontmoeten en waardevolle contacten kunt leggen.",
+    "scanThroughAvatars": "Bekijk wie er in de buurt is",
+    "scanThroughAvatarsDesc": "Bekijk profielkaarten van mensen in de buurt en kies ervoor om je avatar aan te laten staan totdat je klaar bent om meer te delen.",
+    "revealAndMeet": "Match & Chat",
+    "revealAndMeetDesc": "Stuur een vriendschapsverzoek en zodra het is geaccepteerd, is er een match en kun je beginnen met chatten in de app.",
+    "proximityBasedConnections": "Op nabijheid gebaseerde reële verbindingen",
+    "proximityBasedConnectionsDesc": "Onze app suggereert locaties in de buurt waar je mensen met vergelijkbare interesses kunt ontmoeten. Zodra jullie allebei binnen bereik zijn, kun je profielen in de buurt bekijken om potentiële connecties te vinden.",
+    "bleProximityTech": "Bluetooth Low Energy-technologie zorgt ervoor dat u alleen verbinding kunt maken met mensen die zich daadwerkelijk in de buurt bevinden, waardoor elke verbinding authentiek en echt is.",
+    "downloadNow": "Download Ringdy nu!",
+    "realTimeProximity": "Realtime nabijheidsdetectie",
+    "realTimeProximityDesc": "Leg alleen contact met mensen die zich daadwerkelijk in de buurt bevinden of op dezelfde locatie zijn als jij, om zo authentieke connecties te garanderen.",
+    "howItWorks": "Hoe het werkt",
+    "howItWorksDesc": "Drie simpele stappen om locaties in de buurt te ontdekken, in contact te komen met echte mensen en een gesprek te beginnen.",
+    "step1Title": "Scan of word lid van een locatie",
+    "step1Desc": "Schud de telefoon om via Bluetooth te scannen, of blader door onze voorgestelde locaties in de buurt en sluit je aan bij een locatie die je interesseert.",
+    "step2Title": "Bekijk profielen in de buurt",
+    "step2Desc": "Bekijk profielkaarten van mensen in de buurt, met de optie om je avatar privé te houden totdat je klaar bent om meer te delen.",
+    "step3Title": "Verzoek indienen & chatten",
+    "step3Desc": "Stuur een vriendschapsverzoek en zodra het is geaccepteerd, is er een match en kun je direct in de app beginnen met chatten.",
+    "coreFeatures": "Kernkenmerken",
+    "proximityNetworking": "Nabijheidsnetwerken",
+    "proximityDesc": "Maak contact met mensen in je directe omgeving met behulp van geavanceerde Bluetooth Low Energy-technologie.",
+    "anonymousChat": "Vriendschapsverzoek matchen",
+    "anonymousChatDesc": "Stuur een vriendschapsverzoek en begin te chatten zodra het is geaccepteerd — geen druk, geen spam.",
+    "autoExpiry": "Locatie ontdekken",
+    "autoExpiryDesc": "Word lid van de lijst met voorgestelde locaties in de buurt om te zien wie er binnen een bepaalde straal heeft ingecheckt.",
+    "gradualReveal": "Geleidelijke onthulling van de identiteit",
+    "gradualRevealDesc": "Kies zelf wanneer je van je avatar naar je echte foto's overschakelt, naarmate er op natuurlijke wijze connecties ontstaan.",
+    "keyPrivacyFeatures": "Belangrijkste privacyfuncties",
+    "keyPrivacyFeaturesDesc": "Elke functie is ontworpen voor veilig netwerken - van optionele avatars tot vriendschapsverzoeken die je privacy beschermen.",
+    "avatarBasedProfiles": "Optionele avatar-gebaseerde profielen",
+    "autoExpiringChats": "Locatie zoeken binnen een bepaalde straal",
+    "progressiveIdentity": "Progressieve identiteitsonthulling",
+    "ourTeam": "Ons team",
+    "ourTeamDesc": "Gedreven experts die zich inzetten om mensen met elkaar te verbinden door middel van innovatieve, privacyvriendelijke technologie.",
+    "team": {
+      "alex": {
+        "name": "Alex Chen",
+        "role": "BLE protocolingenieur"
+      },
+      "sarah": {
+        "name": "Sarah Johnson",
+        "role": "Ontwikkelaar van mobiele apps"
+      },
+      "maria": {
+        "name": "Maria Rodriguez",
+        "role": "Leidinggevende op het gebied van privacy en beveiliging"
+      },
+      "david": {
+        "name": "David Kim",
+        "role": "Oprichter en CEO"
+      },
+      "title": "Ons team",
+      "description": "Gedreven mensen die zich inzetten om mensen met elkaar te verbinden door middel van innovatieve, privacyvriendelijke technologie.",
+      "roles": {
+        "engineer": "BLE protocolingenieur",
+        "developer": "Ontwikkelaar van mobiele apps",
+        "security": "Leidinggevende op het gebied van privacy en beveiliging",
+        "ceo": "Oprichter en CEO"
+      }
+    },
+    "readyToConnect": "Klaar om contact te leggen?",
+    "readyToConnectDesc": "Maak veilig deel uit van een netwerk via Bluetooth en vind locaties. Vind matches, chat en onthul je identiteit pas als je een echte connectie hebt gevonden.",
+    "finalFeatures": {
+      "anonymousAvatars": "Optionele avatars",
+      "anonymousAvatarsDesc": "Laat je avatar aan staan terwijl je iemand leert kennen; je hoeft je identiteit niet meteen te onthullen.",
+      "autoExpire": "Locatie & Bluetooth -ontdekking",
+      "autoExpireDesc": "Vind mensen in de buurt door via Bluetooth te scannen of door je aan te sluiten bij een voorgestelde lokale locatie.",
+      "friendRequests": "Vriendschapsverzoeken",
+      "friendRequestsDesc": "Stuur verzoeken naar interessante mensen en begin alleen gesprekken als er wederzijdse interesse is."
+    },
+    "eventNetworking": "Netwerken tijdens evenementen",
+    "eventNetworkingDesc": "Ontdek mensen in je omgeving op conferenties, bijeenkomsten en evenementen met behulp van Bluetooth nabijheid.",
+    "studyGroups": "Studiegroepen",
+    "studyGroupsDesc": "Vind studiegenoten in de buurt op de campus, ook al hoef je ze niet al te kennen.",
+    "workplace": "Werkplek & Cafés",
+    "workplaceDesc": "Ontmoet collega's en andere professionals in coworkingruimtes en cafés in de buurt.",
+    "anonymousNetworking": "Privacy op basis van avatars",
+    "anonymousNetworkingDesc": "Laat je avatar aanstaan totdat je je op je gemak voelt, en deel je echte foto's wanneer je maar wilt.",
+    "privacyProtection": "Je hebt altijd de controle over wat je deelt en met wie.",
+    "privacyFeatures": {
+      "title": "Privacy die u zelf in de hand hebt",
+      "description": "Ringdy is zo ontworpen dat jij bepaalt wat je deelt en wanneer - van hoe je mensen ontdekt tot hoeveel van jezelf je prijsgeeft.",
+      "avatarProfiles": "Optionele avatar-gebaseerde profielen",
+      "autoExpiring": "Locatie zoeken binnen een bepaalde straal",
+      "progressiveReveal": "Onthul je echte foto's in je eigen tempo."
+    },
+    "cta": {
+      "title": "Klaar om contact te leggen?",
+      "description": "Ontdek samen met anderen echte contacten in de buurt - via Bluetooth of door in te checken bij een lokale locatie.",
+      "features": {
+        "anonymousAvatars": "Optionele avatars",
+        "anonymousAvatarsDesc": "Laat je avatar aan staan terwijl je iemand leert kennen; je hoeft je identiteit niet meteen te onthullen.",
+        "autoExpire": "Locatie & Bluetooth -ontdekking",
+        "autoExpireDesc": "Vind mensen door in de buurt te scannen of door je aan te melden bij een voorgestelde lokale locatie.",
+        "friendRequests": "Vriendschapsverzoeken",
+        "friendRequestsDesc": "Stuur verzoeken naar interessante mensen en begin alleen gesprekken als er wederzijdse interesse is."
+      }
+    }
+  },
+  "subscription": {
+    "title": "Ringdy Premium",
+    "subtitle": "Ontgrendel geavanceerde functies voor betere verbindingen. Kies het abonnement dat aansluit bij uw netwerkbehoeften.",
+    "weeklyTitle": "Wekelijks Premium",
+    "weeklyPrice": "$1.99",
+    "weeklyPeriod": "/week",
+    "weeklyDescription": "Perfect voor het uitproberen van premium functies",
+    "chooseWeekly": "Kies Wekelijks",
+    "monthlyTitle": "Maandelijks",
+    "monthlyPrice": "Bekijk de prijzen",
+    "monthlyPeriod": "per maand",
+    "monthlyDescription": "Flexibel, op elk moment annuleren mogelijk",
+    "mostPopular": "Meest populair",
+    "chooseMonthly": "Kies Maandelijks",
+    "sixMonthTitle": "Zes maanden",
+    "sixMonthPrice": "Bekijk de prijzen",
+    "sixMonthPeriod": "per 6 maanden",
+    "sixMonthDescription": "Bespaar meer in zes maanden.",
+    "chooseSixMonth": "Kies zes maanden",
+    "featuresTitle": "Premium uitgelegd",
+    "featuresDescription": "Ringdy Premium ontsluit krachtige functies die zijn ontworpen om uw netwerkervaring te verbeteren en u te helpen waardevollere contacten te leggen.",
+    "enhancedNetworking": "Verbeterde netwerkfunctionaliteit",
+    "enhancedNetworkingDesc": "Premium kunt u efficiënter verbinding maken zonder dagelijkse limieten.",
+    "features": {
+      "unlimitedRequests": "Onbeperkte vriendschapsverzoeken",
+      "advancedFilters": "Geavanceerde filters",
+      "meetingPlaces": "Slimme ontmoetingsplaats suggesties",
+      "rematch": "Opnieuw matchen met vorige gebruikers",
+      "unlimitedRequestsDesc": "Verstuur onbeperkte vriendschapsverzoeken dagelijks. Gratis gebruikers beperkt tot 20/dag.",
+      "advancedFiltersDesc": "Filter op interesses, persoonlijkheid en geverifieerde status voor authentieke verbindingen.",
+      "meetingPlacesDesc": "Ontvang gepersonaliseerde locatie suggesties gebaseerd op je exacte gebied.",
+      "rematchDesc": "Verbind opnieuw met vorige gebruikers wanneer jullie elkaar weer kruisen.",
+      "unlimitedConnections": "Onbeperkte verbindingen",
+      "unlimitedAreaAccess": "Onbeperkte toegang tot het gebied",
+      "unlimitedUndo": "Onbeperkt ongedaan maken",
+      "profilePriority": "Profielprioriteit",
+      "premiumAvatars": "Premium Avatars",
+      "customAvatar": "Aangepaste avatar",
+      "unlimitedConnectionsDesc": "Voeg vrienden toe en accepteer uitnodigingen zonder dagelijkse limieten.",
+      "unlimitedAreaAccessDesc": "Je kunt onbeperkt deelnemen aan zoveel locaties als je wilt.",
+      "unlimitedUndoDesc": "Je kunt een vriendschapsverzoek op elk moment ongedaan maken.",
+      "profilePriorityDesc": "Je profiel wordt altijd bovenaan de lijst weergegeven die aan andere gebruikers wordt getoond.",
+      "premiumAvatarsDesc": "Krijg toegang tot een exclusieve collectie hoogwaardige avatarontwerpen.",
+      "customAvatarDesc": "Maak een gepersonaliseerde avatar op basis van je eigen foto's."
+    },
+    "faqTitle": "Veelgestelde vragen",
+    "faqDescription": "Heb je vragen over Ringdy Premium ? Wij hebben de antwoorden.",
+    "faq": {
+      "cancelTitle": "Kan ik mijn abonnement op elk moment opzeggen?",
+      "cancelAnswer": "Ja, u kunt uw abonnement op elk moment annuleren via uw accountinstellingen of de app store van uw apparaat. Uw premiumfuncties blijven actief tot het einde van uw huidige factureringsperiode.",
+      "unlimitedTitle": "Wat betekent \"Onbeperkte verbindingen\"?",
+      "unlimitedAnswer": "Met Premium kun je vrienden toevoegen en uitnodigingen accepteren zonder de dagelijkse limieten die gelden voor gratis accounts.",
+      "filtersTitle": "Wat zijn geavanceerde filters precies?",
+      "filtersAnswer": "Geavanceerde filters laten je zoeken op interesses, leeftijdsgroep, beroep, afstandsradius en activiteitsstatus. Je kunt ook filteren op gebruikers die momenteel online zijn of recent actief zijn geweest voor betere verbindingskansen.",
+      "meetingTitle": "Hoe werkt ontmoetingsplaats suggestie?",
+      "meetingAnswer": "Onze AI suggereert veilige, openbare ontmoetingsplekken zoals cafés, bibliotheken of co-working ruimtes op loopafstand van beide gebruikers. Het houdt rekening met je voorkeuren, huidige locatie en tijdstip van de dag om de beste plekken aan te bevelen.",
+      "rematchTitle": "Wat betekent \"opnieuw matchen met vorige gebruikers\"?",
+      "rematchAnswer": "Als je een gesprek had dat verliep (30 minuten) zonder identiteiten te onthullen, kunnen premium gebruikers opnieuw verbinden met die persoon als jullie elkaar weer tegenkomen in de buurt. Dit geeft je een tweede kans om een verbinding te maken.",
+      "trialTitle": "Is er een gratis proefperiode beschikbaar?",
+      "trialAnswer": "Ja! Nieuwe gebruikers krijgen een 7-daagse gratis proefperiode van alle premium functies. Je kunt onbeperkte vriendschapsverzoeken, geavanceerde filters en ontmoetingssuggesties verkennen voordat je besluit welk plan het beste voor je werkt.",
+      "offlineTitle": "Werken premium functies zonder internet?",
+      "offlineAnswer": "BLE nabijheidsdetectie werkt offline, maar premium functies zoals locatiesuggesties, onbeperkte verzoeken en geavanceerde filters hebben een internetverbinding nodig voor volledige functionaliteit.",
+      "paymentTitle": "Welke betaalmethoden accepteert u?",
+      "paymentAnswer": "Wij accepteren betalingen via de app store van uw apparaat (Google Play of de App Store), inclusief alle daar ondersteunde betaalmethoden.",
+      "areaTitle": "Wat is \"Onbeperkte toegang tot het gebied\"?",
+      "areaAnswer": "Premium leden kunnen zich aanmelden bij zoveel locaties in de buurt als ze willen, zonder beperkingen op het aantal gebieden dat ze per dag kunnen ontdekken.",
+      "ticketsTitle": "Wat zijn Discovery Passes?",
+      "ticketsAnswer": "Discovery Passes zijn een betaal-per-gebruik alternatief voor een abonnement - met elke pas kun je één locatie in de buurt bezoeken en verkennen zonder vast te zitten aan een doorlopend abonnement.",
+      "nightPassTitle": "Wat is een Night Pass ?",
+      "nightPassAnswer": "De Night Pass is een 24-uurspas waarmee je een hele dag of nacht toegang krijgt tot verschillende locaties zonder dat je daarvoor een Discovery Pass hoeft te gebruiken."
+    },
+    "priceDisclaimer": "De prijzen zijn bij benadering omgerekend van USD naar USD, afhankelijk van de regio van uw browser. Indien er geen wisselkoersen beschikbaar zijn, worden de prijzen in USD weergegeven. De uiteindelijke prijzen in de app worden bepaald door uw app store en kunnen afwijken.",
+    "yearlyTitle": "Jaarlijks",
+    "yearlyPrice": "Bekijk de prijzen",
+    "yearlyPeriod": "per jaar",
+    "yearlyDescription": "De beste prijs-kwaliteitverhouding voor regelmatige gebruikers.",
+    "bestValue": "Beste prijs-kwaliteitverhouding",
+    "chooseYearly": "Kies jaarlijks",
+    "tickets": {
+      "title": "Ontdekkingspassen",
+      "subtitle": "Gebruik de ontdekkingsfunctie om mensen in de buurt te vinden zonder een volledig abonnement.",
+      "single": "Enkele ontdekking",
+      "singleDesc": "Met één toegangsbewijs krijg je toegang tot één locatie en kun je zien wie er allemaal is.",
+      "venueAccessFeature": "Elke pas geeft toegang tot één locatie.",
+      "pack3": "3 ontdekkingen",
+      "pack3Desc": "Drie Discovery Passes. Elke pas geeft toegang tot één locatie.",
+      "pack5": "5 ontdekkingen",
+      "pack5Desc": "Vijf Discovery Passes. Elke pas geeft toegang tot één locatie.",
+      "bestValue": "Beste prijs-kwaliteitverhouding",
+      "specialTicket": "Night Pass",
+      "specialTicketDesc": "Onbeperkt toegang tot locaties gedurende 24 uur zonder Discovery Passes te gebruiken."
+    }
+  },
+  "footer": {
+    "keepInTouch": "Laten we contact houden!",
+    "findUsOn": "U kunt ons vinden op een van deze platforms; we reageren binnen 1-2 werkdagen.",
+    "usefulLinks": "Nuttige links",
+    "aboutUs": "Over ons",
+    "blog": "Blog",
+    "github": "Github",
+    "freeProducts": "Gratis producten",
+    "otherResources": "Overige bronnen",
+    "mitLicense": "MIT-licentie",
+    "termsConditions": "Algemene voorwaarden",
+    "privacyPolicy": "Privacybeleid",
+    "contactUs": "Neem contact met ons op",
+    "copyright": "Copyright © {{year}} Ringdy . Alle rechten voorbehouden."
+  },
+  "legal": {
+    "privacyPolicy": {
+      "title": "Privacybeleid",
+      "subtitle": "Uw privacy is onze prioriteit. Lees hoe wij uw gegevens beschermen en hoe u volledige controle hebt over wat u deelt.",
+      "lastUpdated": "Laatst bijgewerkt: januari 2025",
+      "introduction": "Dit privacybeleid beschrijft ons beleid en onze procedures met betrekking tot het verzamelen, gebruiken en openbaar maken van uw gegevens wanneer u de dienst gebruikt, en informeert u over uw privacyrechten en hoe de wet u beschermt.",
+      "agreement": "Wij gebruiken uw persoonsgegevens om de dienst te leveren en te verbeteren. Door gebruik te maken van de dienst gaat u akkoord met het verzamelen en gebruiken van informatie in overeenstemming met dit privacybeleid.",
+      "sections": {
+        "interpretationTitle": "Interpretatie en definities",
+        "interpretationSubtitle": "Interpretatie",
+        "definitionsSubtitle": "Definities",
+        "interpretationText": "De woorden waarvan de eerste letter met een hoofdletter is geschreven, hebben betekenissen die onder de volgende voorwaarden zijn gedefinieerd. De volgende definities hebben dezelfde betekenis, ongeacht of ze in het enkelvoud of in het meervoud voorkomen.",
+        "definitionsText": "Voor de doeleinden van dit privacybeleid:",
+        "definitionLabels": {
+          "account": "Rekening:",
+          "affiliate": "Affiliate:",
+          "application": "Sollicitatie:",
+          "business": "Bedrijf:",
+          "ccpaCpra": "CCPA en/of CPRA:",
+          "company": "Bedrijf:",
+          "consumer": "Consument:",
+          "country": "Land:",
+          "dataController": "Gegevensbeheerder:",
+          "device": "Apparaat:",
+          "doNotTrack": "Niet volgen (DNT):",
+          "gdpr": "AVG:",
+          "personalData": "Persoonsgegevens:",
+          "service": "Dienst:",
+          "serviceProvider": "Dienstverlener:",
+          "thirdPartySocialMedia": "Externe socialemediadienst:",
+          "usageData": "Gebruiksgegevens:",
+          "you": "Jij:"
+        },
+        "definitions": {
+          "account": "Een uniek account dat speciaal voor u is aangemaakt om toegang te krijgen tot onze dienst of delen daarvan.",
+          "affiliate": "Een entiteit die een partij controleert, door een partij wordt gecontroleerd of onder gemeenschappelijke controle staat met een partij, waarbij \"controle\" betekent het bezit van 50% of meer van de aandelen, participaties of andere effecten die stemrecht geven bij de verkiezing van bestuurders of andere leidinggevenden.",
+          "application": "Verwijst naar Ringdy , het softwareprogramma dat door het bedrijf wordt geleverd.",
+          "business": "In het kader van de CCPA/CPRA wordt met 'het bedrijf' de juridische entiteit bedoeld die de persoonsgegevens van consumenten verzamelt en de doeleinden en middelen van de verwerking van die persoonsgegevens bepaalt.",
+          "ccpaCpra": "Verwijst naar de California Consumer Privacy Act (de \"CCPA\") zoals gewijzigd door de California Privacy Rights Act van 2020 (de \"CPRA\").",
+          "company": "In deze overeenkomst wordt Ringdy aangeduid als \"het Bedrijf\", \"Wij\", \"Ons\" of \"Onze\". In het kader van de AVG is het Bedrijf de verwerkingsverantwoordelijke.",
+          "consumer": "In het kader van de CCPA/CPRA wordt onder een natuurlijke persoon verstaan die in Californië woonachtig is.",
+          "country": "Verwijst naar: Verenigde Staten",
+          "dataController": "In het kader van de AVG (Algemene Verordening Gegevensbescherming) wordt met 'het bedrijf' de rechtspersoon bedoeld die, alleen of samen met anderen, de doeleinden en middelen van de verwerking van persoonsgegevens bepaalt.",
+          "device": "Elk apparaat dat toegang heeft tot de dienst, zoals een smartphone, tablet of computer.",
+          "doNotTrack": "Een concept dat door Amerikaanse regelgevende instanties voor de internetindustrie is gepromoot, namelijk het ontwikkelen en implementeren van een mechanisme waarmee internetgebruikers controle kunnen uitoefenen over het volgen van hun online activiteiten op verschillende websites.",
+          "gdpr": "Verwijst naar de Algemene Verordening Gegevensbescherming van de EU.",
+          "personalData": "Persoonsgegevens zijn alle informatie die betrekking heeft op een geïdentificeerde of identificeerbare persoon. In het kader van de AVG wordt onder persoonsgegevens verstaan alle informatie die op u betrekking heeft, zoals een naam, een identificatienummer, locatiegegevens, online identificatiegegevens of een of meer factoren die specifiek zijn voor uw fysieke, fysiologische, genetische, mentale, economische, culturele of sociale identiteit.",
+          "service": "Verwijst naar de aanvraag.",
+          "serviceProvider": "Iedere natuurlijke of rechtspersoon die de gegevens namens het bedrijf verwerkt. Dit verwijst naar externe bedrijven of personen die door het bedrijf worden ingeschakeld om de dienst te faciliteren, de dienst namens het bedrijf te leveren, diensten met betrekking tot de dienst uit te voeren of het bedrijf te helpen bij het analyseren van het gebruik van de dienst.",
+          "thirdPartySocialMedia": "Elke website of elk sociaal netwerk waarop een gebruiker kan inloggen of een account kan aanmaken om de dienst te gebruiken.",
+          "usageData": "Automatisch verzamelde gegevens, gegenereerd door het gebruik van de dienst of door de infrastructuur van de dienst zelf (bijvoorbeeld de duur van een paginabezoek).",
+          "you": "De persoon die de dienst benadert of gebruikt, of het bedrijf of andere rechtspersoon namens wie die persoon de dienst benadert of gebruikt, al naar gelang het geval."
+        },
+        "dataCollectionTitle": "Het verzamelen en gebruiken van uw persoonsgegevens",
+        "dataTypesTitle": "Soorten verzamelde gegevens",
+        "personalDataTitle": "Persoonsgegevens",
+        "personalDataDescription": "Tijdens het gebruik van onze dienst kunnen wij u vragen bepaalde persoonsgegevens te verstrekken die kunnen worden gebruikt om contact met u op te nemen of u te identificeren. Persoonsgegevens kunnen onder meer het volgende omvatten:",
+        "usageDataTitle": "Gebruiksgegevens",
+        "usageDataDescription1": "Gebruiksgegevens worden automatisch verzameld tijdens het gebruik van de service.",
+        "usageDataDescription2": "Gebruiksgegevens kunnen informatie bevatten zoals het internetprotocoladres van uw apparaat (bijv. IP-adres), browsertype, browserversie, de pagina's van onze service die u bezoekt, de tijd en datum van uw bezoek, de tijd die u op die pagina's doorbrengt, unieke apparaatidentificaties en andere diagnostische gegevens.",
+        "usageDataDescription3": "Wanneer u de dienst via een mobiel apparaat gebruikt, kunnen wij automatisch bepaalde informatie verzamelen, waaronder, maar niet beperkt tot, het type mobiel apparaat dat u gebruikt, de unieke ID van uw mobiele apparaat, het IP-adres van uw mobiele apparaat, uw mobiele besturingssysteem, het type mobiele internetbrowser dat u gebruikt, unieke apparaatidentificaties en andere diagnostische gegevens.",
+        "thirdPartyTitle": "Informatie afkomstig van externe socialemediadiensten",
+        "thirdPartyDescription1": "Het bedrijf biedt u de mogelijkheid om een account aan te maken en in te loggen om de dienst te gebruiken via de volgende sociale mediadiensten van derden:",
+        "thirdPartyDescription2": "Als u ervoor kiest om u te registreren via een socialemediadienst van derden of ons op een andere manier toegang te verlenen tot een dergelijke dienst, kunnen wij persoonsgegevens verzamelen die al aan uw account op die socialemediadienst zijn gekoppeld, zoals uw naam, uw e-mailadres, uw activiteiten of uw contactenlijst die aan dat account is gekoppeld.",
+        "appDataTitle": "Informatie verzameld tijdens het gebruik van de applicatie",
+        "appDataDescription1": "Om de functionaliteiten van onze applicatie te kunnen bieden, kunnen wij, met uw voorafgaande toestemming, de volgende gegevens verzamelen:",
+        "appDataDescription2": "We gebruiken deze informatie om functies van onze service te bieden, te verbeteren en aan te passen. De informatie kan lokaal op uw apparaat worden opgeslagen of naar versleutelde servers worden geüpload. U kunt de toegang tot deze informatie op elk gewenst moment in- of uitschakelen via de instellingen van uw apparaat.",
+        "dataUseTitle": "Gebruik van uw persoonsgegevens",
+        "dataUseDescription": "Het bedrijf kan persoonsgegevens gebruiken voor de volgende doeleinden:",
+        "sharingTitle": "Delen van persoonlijke informatie",
+        "sharingDescription": "Wij kunnen uw persoonlijke gegevens in de volgende situaties delen:",
+        "retentionTitle": "Bewaring van uw persoonsgegevens"
+      },
+      "dataUses": {
+        "provide": "Om onze dienst te leveren en te onderhouden: inclusief het monitoren van het gebruik van onze dienst en het mogelijk maken van Bluetooth en locatiegebaseerde detectie van personen in de buurt.",
+        "account": "Uw account beheren: Om uw registratie als gebruiker van de dienst te beheren. De persoonsgegevens die u verstrekt, geven u toegang tot verschillende functionaliteiten van de dienst die voor u beschikbaar zijn als geregistreerde gebruiker.",
+        "contract": "Voor de uitvoering van een contract: De ontwikkeling, naleving en uitvoering van de diensten die u hebt aangevraagd of van elk ander contract met ons via de Dienst.",
+        "contact": "Om contact met u op te nemen: We kunnen u per e-mail, pushmeldingen of andere gelijkwaardige vormen van elektronische communicatie benaderen met betrekking tot updates, beveiligingsmeldingen of informatieve berichten over de functionaliteiten.",
+        "offers": "Om u op de hoogte te houden van nieuws en speciale aanbiedingen: over andere producten, diensten en evenementen die wij aanbieden en die vergelijkbaar zijn met die waar u al gebruik van heeft gemaakt of waarover u informatie heeft opgevraagd, tenzij u heeft aangegeven dergelijke informatie niet te willen ontvangen.",
+        "requests": "Uw verzoeken afhandelen: Uw verzoeken aan ons behandelen en afhandelen.",
+        "content": "Om gerichte content te leveren: We kunnen uw gegevens gebruiken om content te ontwikkelen en weer te geven die is afgestemd op uw interesses en locatie (voor het vinden van gebruikers in de buurt) en om de effectiviteit ervan te meten.",
+        "business": "Bij bedrijfsovernames: We kunnen uw gegevens gebruiken om een fusie, afsplitsing, herstructurering, reorganisatie, ontbinding of andere verkoop of overdracht van een deel of al onze activa te beoordelen of uit te voeren.",
+        "other": "Voor andere doeleinden: We kunnen uw gegevens ook voor andere doeleinden gebruiken, zoals data-analyse, het identificeren van gebruikstrends, het bepalen van de effectiviteit van onze promotiecampagnes en het evalueren en verbeteren van onze service, producten, diensten, marketing en uw ervaring."
+      },
+      "sharingTypes": {
+        "providers": "Met dienstverleners: We kunnen uw persoonlijke gegevens delen met dienstverleners om het gebruik van onze dienst te monitoren en analyseren, voor de verwerking van betalingen en om contact met u op te nemen.",
+        "transfers": "Bij bedrijfsovernames: We kunnen uw persoonlijke gegevens delen of overdragen in verband met, of tijdens onderhandelingen over, een fusie, verkoop van bedrijfsactiva, financiering of overname van ons bedrijf of een deel daarvan door een ander bedrijf.",
+        "affiliates": "Met gelieerde ondernemingen: We kunnen uw gegevens delen met onze gelieerde ondernemingen. In dat geval zullen we van die gelieerde ondernemingen eisen dat zij dit privacybeleid naleven.",
+        "partners": "Met zakelijke partners: We kunnen uw gegevens delen met onze zakelijke partners om u bepaalde producten, diensten of promoties aan te bieden.",
+        "users": "Met andere gebruikers: Wanneer je andere gebruikers in de buurt ontdekt en contact met ze legt, wordt je profielinformatie (inclusief je naam en foto's, of je avatar als je ervoor hebt gekozen om er een te gebruiken) gedeeld als onderdeel van het ontdekkings-, vriendschapsverzoek- en matchingsproces. Je kunt te allen tijde zelf bepalen of je een avatar of je echte foto's wilt weergeven.",
+        "consent": "Met uw toestemming: Wij kunnen uw persoonlijke gegevens met uw toestemming voor andere doeleinden openbaar maken."
+      },
+      "security": {
+        "title": "Beveiliging van uw persoonlijke gegevens",
+        "description": "De beveiliging van uw persoonsgegevens is belangrijk voor ons, maar houd er rekening mee dat geen enkele methode voor gegevensoverdracht via internet of elektronische opslag 100% veilig is. Hoewel we ernaar streven commercieel aanvaardbare middelen te gebruiken om uw persoonsgegevens te beschermen, waaronder end-to-end-versleuteling voor chatberichten en beveiligde Bluetooth protocollen, kunnen we de absolute veiligheid ervan niet garanderen."
+      },
+      "contact": {
+        "title": "Neem contact met ons op",
+        "description": "Heeft u vragen over dit privacybeleid? Neem dan contact met ons op:",
+        "email": "Via e-mail: privacy@ringdy.com",
+        "website": "Op deze pagina van onze website: https://ringdy.com/contact",
+        "mail": "Per post: Ringdy Privacy Team, 123 Tech Street, San Francisco, CA 94105, Verenigde Staten"
+      },
+      "shineTheLight": {
+        "title": "Uw privacyrechten in Californië (de Californische wet 'Shine the Light')",
+        "description1": "Op grond van artikel 1798 van het Californische Burgerlijk Wetboek (de Californische 'Shine the Light'-wet) kunnen inwoners van Californië met een zakelijke relatie met ons eenmaal per jaar informatie opvragen over het delen van hun persoonsgegevens met derden voor direct marketingdoeleinden van die derden.",
+        "description2": "Als u meer informatie wilt aanvragen in het kader van de Californische 'Shine the Light'-wet en u woonachtig bent in Californië, kunt u contact met ons opnemen via de onderstaande contactgegevens."
+      },
+      "minorUsers": {
+        "title": "Privacyrechten van minderjarige gebruikers in Californië (California Business and Professions Code, artikel 22581)",
+        "description1": "Artikel 22581 van de California Business and Professions Code geeft inwoners van Californië jonger dan 18 jaar die geregistreerde gebruikers zijn van online sites, diensten of applicaties het recht om te verzoeken om verwijdering van inhoud of informatie die zij openbaar hebben geplaatst.",
+        "description2": "Om verwijdering van dergelijke gegevens aan te vragen, en als u inwoner van Californië bent, kunt u contact met ons opnemen via de onderstaande contactgegevens. Vermeld daarbij het e-mailadres dat aan uw account is gekoppeld.",
+        "description3": "Houd er rekening mee dat uw verzoek geen volledige of alomvattende verwijdering van online geplaatste inhoud of informatie garandeert en dat de wet in bepaalde omstandigheden verwijdering mogelijk niet toestaat of vereist."
+      },
+      "childrenPrivacy": {
+        "title": "Privacy van kinderen",
+        "description1": "Onze dienst is niet bedoeld voor personen jonger dan 13 jaar. We verzamelen niet bewust persoonsgegevens van personen jonger dan 13 jaar. Als u een ouder of voogd bent en u weet dat uw kind ons persoonsgegevens heeft verstrekt, neem dan contact met ons op.",
+        "description2": "Als we erachter komen dat we persoonsgegevens hebben verzameld van iemand jonger dan 13 jaar zonder toestemming van de ouders, zullen we stappen ondernemen om die informatie van onze servers te verwijderen.",
+        "description3": "Als we toestemming nodig hebben als wettelijke basis voor de verwerking van uw gegevens en uw land vereist toestemming van een ouder, kunnen we de toestemming van uw ouder vragen voordat we die gegevens verzamelen en gebruiken."
+      },
+      "linksToOtherWebsites": {
+        "title": "Links naar andere websites",
+        "description": "Onze dienst kan links bevatten naar andere websites die niet door ons worden beheerd. Als u op een link van een derde partij klikt, wordt u doorverwezen naar de website van die derde partij. Wij raden u ten zeerste aan om het privacybeleid van elke website die u bezoekt te bekijken. Wij hebben geen controle over en aanvaarden geen verantwoordelijkheid voor de inhoud, het privacybeleid of de praktijken van websites of diensten van derden."
+      },
+      "changes": {
+        "title": "Wijzigingen in dit privacybeleid",
+        "description1": "We kunnen ons privacybeleid van tijd tot tijd bijwerken. We zullen u op de hoogte stellen van eventuele wijzigingen door het nieuwe privacybeleid op deze pagina te publiceren.",
+        "description2": "We zullen u via e-mail en/of een opvallende melding op onze service op de hoogte stellen voordat de wijziging van kracht wordt en de datum \"Laatst bijgewerkt\" bovenaan dit privacybeleid bijwerken.",
+        "description3": "U wordt geadviseerd dit privacybeleid regelmatig te raadplegen voor eventuele wijzigingen. Wijzigingen in dit privacybeleid worden van kracht zodra ze op deze pagina worden gepubliceerd."
+      },
+      "backToHome": "Terug naar de homepage",
+      "retention": {
+        "description1": "Het bedrijf bewaart uw persoonsgegevens alleen zo lang als nodig is voor de doeleinden die in dit privacybeleid worden beschreven. We bewaren en gebruiken uw persoonsgegevens voor zover nodig om te voldoen aan onze wettelijke verplichtingen, geschillen op te lossen en onze juridische overeenkomsten en beleidsregels af te dwingen.",
+        "description2": "Het bedrijf bewaart ook gebruiksgegevens voor interne analysedoeleinden. Gebruiksgegevens worden over het algemeen gedurende een kortere periode bewaard, behalve wanneer deze gegevens worden gebruikt om de beveiliging te versterken of de functionaliteit van onze dienst te verbeteren, of wanneer we wettelijk verplicht zijn deze gegevens langer te bewaren."
+      },
+      "transfer": {
+        "title": "Overdracht van uw persoonsgegevens",
+        "description1": "Uw gegevens, inclusief persoonsgegevens, worden verwerkt op de operationele kantoren van het bedrijf en op alle andere locaties waar de bij de verwerking betrokken partijen gevestigd zijn. Dit betekent dat deze gegevens kunnen worden overgedragen naar – en bewaard op – computers buiten uw staat, provincie, land of ander rechtsgebied waar de wetgeving inzake gegevensbescherming kan afwijken van die in uw eigen rechtsgebied.",
+        "description2": "Uw instemming met dit privacybeleid, gevolgd door het verstrekken van dergelijke informatie, houdt in dat u akkoord gaat met deze overdracht. Het bedrijf zal alle redelijkerwijs noodzakelijke stappen ondernemen om ervoor te zorgen dat uw gegevens veilig en in overeenstemming met dit privacybeleid worden behandeld. Er zal geen overdracht van uw persoonsgegevens plaatsvinden naar een organisatie of een land, tenzij er adequate waarborgen zijn getroffen, waaronder de beveiliging van uw gegevens en andere persoonlijke informatie."
+      },
+      "deletion": {
+        "title": "Verwijder uw persoonlijke gegevens",
+        "description1": "U hebt het recht om de persoonsgegevens die wij over u hebben verzameld te verwijderen, of ons te verzoeken u daarbij te helpen.",
+        "description2": "Via onze dienst kunt u bepaalde informatie over uzelf verwijderen binnen de dienst.",
+        "description3": "U kunt uw gegevens op elk gewenst moment bijwerken, wijzigen of verwijderen door in te loggen op uw account (indien u er een heeft) en naar de accountinstellingen te gaan waar u uw persoonlijke gegevens kunt beheren. U kunt ook contact met ons opnemen om toegang te vragen tot, correcties aan te brengen in of persoonlijke gegevens te verwijderen die u aan ons heeft verstrekt."
+      },
+      "disclosure": {
+        "title": "Openbaarmaking van uw persoonsgegevens",
+        "businessTitle": "Zakelijke transacties",
+        "businessDescription": "Indien het bedrijf betrokken is bij een fusie, overname of verkoop van activa, kunnen uw persoonsgegevens worden overgedragen. Wij zullen u hiervan op de hoogte stellen voordat uw persoonsgegevens worden overgedragen en onderworpen worden aan een ander privacybeleid.",
+        "lawTitle": "Rechtshandhaving",
+        "lawDescription": "Onder bepaalde omstandigheden kan het bedrijf verplicht zijn uw persoonsgegevens openbaar te maken indien dit wettelijk vereist is of naar aanleiding van een geldig verzoek van overheidsinstanties (bijvoorbeeld een rechtbank of een overheidsorgaan).",
+        "legalTitle": "Overige wettelijke vereisten",
+        "legalDescription": "Het bedrijf kan uw persoonsgegevens openbaar maken indien het te goeder trouw van mening is dat dit noodzakelijk is om:",
+        "legalReasons": {
+          "comply": "Voldoen aan een wettelijke verplichting",
+          "protect": "De rechten of eigendommen van het bedrijf beschermen en verdedigen.",
+          "prevent": "Mogelijke misstanden in verband met de dienst voorkomen of onderzoeken.",
+          "safety": "De persoonlijke veiligheid van gebruikers van de dienst of het publiek beschermen.",
+          "liability": "Bescherming tegen juridische aansprakelijkheid"
+        },
+        "detailedInfo": {
+          "title": "Gedetailleerde informatie over de verwerking van uw persoonsgegevens",
+          "description": "De dienstverleners waarmee wij samenwerken, hebben mogelijk toegang tot uw persoonsgegevens. Deze externe leveranciers verzamelen, bewaren, gebruiken, verwerken en delen informatie over uw activiteiten op onze dienst in overeenstemming met hun privacybeleid.",
+          "analyticsTitle": "Analyses",
+          "analyticsDescription": "We kunnen gebruikmaken van externe dienstverleners om het gebruik van onze dienst te monitoren en te analyseren."
+        },
+        "analytics": {
+          "title": "Gedragsgerichte remarketing",
+          "description": "Het bedrijf maakt gebruik van remarketingdiensten om advertenties op websites van derden aan u te tonen nadat u onze dienst hebt bezocht. Wij en onze externe leveranciers gebruiken cookies om advertenties te tonen, te optimaliseren en te personaliseren op basis van uw eerdere bezoeken aan onze dienst.",
+          "googleAnalytics": {
+            "title": "Google Analytics",
+            "description1": "Google Analytics is een webanalysedienst van Google die websiteverkeer bijhoudt en rapporteert. Google gebruikt de verzamelde gegevens om het gebruik van onze dienst te volgen en te monitoren. Deze gegevens worden gedeeld met andere Google-diensten. Google kan de verzamelde gegevens gebruiken om de advertenties van zijn eigen advertentienetwerk te contextualiseren en te personaliseren.",
+            "description2": "U kunt bepaalde functies van Google Analytics uitschakelen via de instellingen van uw mobiele apparaat, zoals de advertentie-instellingen van uw apparaat, of door de instructies van Google in hun privacybeleid te volgen.",
+            "description3": "Voor meer informatie over het privacybeleid van Google kunt u terecht op de webpagina 'Privacy en voorwaarden' van Google."
+          },
+          "firebase": {
+            "title": "Firebase",
+            "description1": "Firebase is een analyseservice van Google Inc.",
+            "description2": "U kunt bepaalde Firebase-functies uitschakelen via de instellingen van uw mobiele apparaat, zoals de advertentie-instellingen van uw apparaat, of door de instructies van Google in hun privacybeleid te volgen.",
+            "description3": "We raden u ook aan het beleid van Google inzake de bescherming van uw gegevens te raadplegen:",
+            "description4": "Voor meer informatie over het type gegevens dat Firebase verzamelt, kunt u de webpagina 'Hoe Google gegevens gebruikt wanneer u de sites of apps van onze partners gebruikt' raadplegen."
+          }
+        },
+        "advertising": {
+          "title": "Reclame",
+          "description": "We kunnen gebruikmaken van serviceproviders om advertenties aan u te tonen ter ondersteuning en instandhouding van onze service.",
+          "googleAdSense": {
+            "title": "Google AdSense & DoubleClick-cookie",
+            "description1": "Google gebruikt als externe leverancier cookies om advertenties op onze service weer te geven. Het gebruik van de DoubleClick-cookie stelt Google en zijn partners in staat om advertenties aan onze gebruikers te tonen op basis van hun bezoek aan onze service of andere websites op internet.",
+            "description2": "U kunt het gebruik van de DoubleClick-cookie voor op interesses gebaseerde advertenties uitschakelen door naar de pagina met Google Advertentie-instellingen te gaan:"
+          },
+          "adMob": {
+            "title": "AdMob van Google",
+            "description1": "AdMob van Google wordt aangeboden door Google Inc.",
+            "description2": "Je kunt je afmelden voor de AdMob by Google-service door de instructies van Google te volgen:",
+            "description3": "Voor meer informatie over hoe Google de verzamelde gegevens gebruikt, kunt u de pagina 'Hoe Google gegevens gebruikt wanneer u de sites of apps van onze partners gebruikt' bezoeken of het privacybeleid van Google raadplegen."
+          }
+        },
+        "payments": {
+          "title": "Betalingen",
+          "description1": "Binnen de Service kunnen we betaalde producten en/of diensten aanbieden. In dat geval kunnen we gebruikmaken van diensten van derden voor de betalingsverwerking (bijvoorbeeld betalingsverwerkers).",
+          "description2": "Wij bewaren of verzamelen uw betaalkaartgegevens niet. Deze informatie wordt rechtstreeks verstrekt aan onze externe betalingsverwerkers, waarvan het gebruik van uw persoonsgegevens wordt geregeld door hun privacybeleid. Deze betalingsverwerkers voldoen aan de normen van PCI-DSS, zoals beheerd door de PCI Security Standards Council, een gezamenlijk initiatief van merken als Visa, Mastercard, American Express en Discover. De PCI-DSS-vereisten dragen bij aan de veilige verwerking van betaalgegevens.",
+          "appleStore": {
+            "title": "In-app betalingen in de Apple Store",
+            "description": "Hun privacybeleid kunt u bekijken op"
+          },
+          "googlePlay": {
+            "title": "In-app betalingen via Google Play",
+            "description": "Hun privacybeleid kunt u bekijken op"
+          },
+          "stripe": {
+            "title": "Streep",
+            "description": "Hun privacybeleid kunt u bekijken op"
+          },
+          "payPal": {
+            "title": "PayPal of Braintree",
+            "description": "Hun privacybeleid kunt u bekijken op"
+          }
+        }
+      },
+      "behavioralRemarketing": {
+        "title": "Gedragsgerichte remarketing",
+        "description": "Het bedrijf maakt gebruik van remarketingdiensten om advertenties op websites van derden aan u te tonen nadat u onze dienst hebt bezocht. Wij en onze externe leveranciers gebruiken cookies om advertenties te tonen, te optimaliseren en te personaliseren op basis van uw eerdere bezoeken aan onze dienst.",
+        "vendorsDescription1": "Deze externe leveranciers verzamelen, bewaren, gebruiken, verwerken en delen informatie over uw activiteiten op onze dienst in overeenstemming met hun privacybeleid en om ons in staat te stellen:",
+        "purposes": {
+          "measure": "Het verkeer en de browse-activiteit op onze service meten en analyseren.",
+          "show": "We kunnen advertenties voor onze producten en/of diensten aan u tonen op websites of apps van derden.",
+          "analyze": "De prestaties van onze reclamecampagnes meten en analyseren."
+        },
+        "vendorsDescription2": "Sommige van deze externe leveranciers gebruiken mogelijk technologieën die geen cookies gebruiken en die mogelijk niet worden beïnvloed door browserinstellingen die cookies blokkeren. Uw browser staat u mogelijk niet toe dergelijke technologieën te blokkeren. U kunt de volgende tools van derden gebruiken om het verzamelen en gebruiken van informatie voor het tonen van op interesses gebaseerde advertenties te weigeren:",
+        "optOutTools": {
+          "nai": "Het afmeldingsplatform van de NAI:",
+          "edaa": "Het opt-outplatform van de EDAA:",
+          "daa": "Het afmeldingsplatform van de DAA:"
+        },
+        "mobileOptOut": "U kunt zich afmelden voor alle gepersonaliseerde advertenties door privacyfuncties op uw mobiele apparaat in te schakelen, zoals 'Advertentietracking beperken' (iOS) en 'Personalisatie van advertenties uitschakelen' (Android). Raadpleeg het Help-systeem van uw mobiele apparaat voor meer informatie.",
+        "dataSharing": "We kunnen informatie, zoals gehashte e-mailadressen (indien beschikbaar) of andere online identificatoren die via onze service zijn verzameld, delen met deze externe leveranciers. Hierdoor kunnen onze externe leveranciers u herkennen en advertenties aan u tonen op verschillende apparaten en browsers. Lees meer over de technologieën die deze externe leveranciers gebruiken en hun mogelijkheden voor weergave op verschillende apparaten in het privacybeleid van elke leverancier die hieronder wordt vermeld.",
+        "vendorsIntro": "De externe leveranciers waarmee we samenwerken zijn:",
+        "googleAds": {
+          "title": "Google Ads (AdWords)",
+          "description1": "De remarketingdienst van Google Ads (AdWords) wordt geleverd door Google Inc.",
+          "description2": "Je kunt je afmelden voor Google Analytics voor displayadvertenties en de advertenties van het Google Display Netwerk aanpassen via de pagina met Google Advertentie-instellingen.",
+          "description3": "Google raadt ook aan om de Google Analytics Opt-out Browser Add-on voor uw webbrowser te installeren. Met de Google Analytics Opt-out Browser Add-on kunnen bezoekers voorkomen dat hun gegevens worden verzameld en gebruikt door Google Analytics.",
+          "description4": "Voor meer informatie over het privacybeleid van Google kunt u terecht op de webpagina 'Privacy en voorwaarden' van Google."
+        },
+        "facebook": {
+          "title": "Facebook",
+          "description1": "De remarketingdienst van Facebook wordt geleverd door Facebook Inc.",
+          "description2": "Meer informatie over op interesses gebaseerde advertenties van Facebook vind je op deze pagina:",
+          "description3": "Om je af te melden voor op interesses gebaseerde advertenties van Facebook, volg je deze instructies van Facebook:",
+          "description4": "Facebook houdt zich aan de zelfregulerende principes voor online gedragsgerichte reclame, opgesteld door de Digital Advertising Alliance. U kunt zich ook afmelden voor Facebook en andere deelnemende bedrijven via de Digital Advertising Alliance in de VS, de Digital Advertising Alliance of Canada in Canada of de European Interactive Digital Advertising Alliance in Europa, of via de instellingen van uw mobiele apparaat.",
+          "description5": "Voor meer informatie over het privacybeleid van Facebook kunt u terecht op de pagina Gegevensbeleid van Facebook:"
+        }
+      },
+      "detailedInfo": {
+        "title": "Gedetailleerde informatie over de verwerking van uw persoonsgegevens",
+        "description": "De dienstverleners waarmee wij samenwerken, hebben mogelijk toegang tot uw persoonsgegevens. Deze externe leveranciers verzamelen, bewaren, gebruiken, verwerken en delen informatie over uw activiteiten op onze dienst in overeenstemming met hun privacybeleid.",
+        "analyticsTitle": "Analyses",
+        "analyticsDescription": "We kunnen gebruikmaken van externe dienstverleners om het gebruik van onze dienst te monitoren en te analyseren."
+      },
+      "analytics": {
+        "firebase": {
+          "title": "Firebase",
+          "description1": "Firebase is een analyseservice van Google Inc.",
+          "description2": "U kunt bepaalde Firebase-functies uitschakelen via de instellingen van uw mobiele apparaat, zoals de advertentie-instellingen van uw apparaat, of door de instructies van Google in hun privacybeleid te volgen.",
+          "description3": "We raden u ook aan het beleid van Google inzake de bescherming van uw gegevens te raadplegen:",
+          "description4": "Voor meer informatie over het type gegevens dat Firebase verzamelt, kunt u de webpagina 'Hoe Google gegevens gebruikt wanneer u de sites of apps van onze partners gebruikt' raadplegen."
+        },
+        "googleAnalytics": {
+          "title": "Google Analytics",
+          "description1": "Google Analytics is een webanalysedienst van Google die websiteverkeer bijhoudt en rapporteert. Google gebruikt de verzamelde gegevens om het gebruik van onze dienst te volgen en te monitoren. Deze gegevens worden gedeeld met andere Google-diensten. Google kan de verzamelde gegevens gebruiken om de advertenties van zijn eigen advertentienetwerk te contextualiseren en te personaliseren.",
+          "description2": "U kunt ervoor kiezen om uw activiteiten op de Service niet beschikbaar te stellen aan Google Analytics door de Google Analytics opt-out browserextensie te installeren. Deze extensie voorkomt dat de Google Analytics JavaScript-code (ga.js, analytics.js en gtag.js) informatie over uw bezoekactiviteit met Google Analytics deelt. Ga voor meer informatie over het privacybeleid van Google naar de webpagina 'Privacy & Voorwaarden' van Google.",
+          "description3": "Google raadt ook aan om de Google Analytics Opt-out Browser Add-on voor uw webbrowser te installeren. Met de Google Analytics Opt-out Browser Add-on kunnen bezoekers voorkomen dat hun gegevens worden verzameld en gebruikt door Google Analytics. Ga voor meer informatie over de installatie en het gebruik van de Google Analytics Opt-out Browser Add-on naar de volgende Google Analytics opt-outpagina:"
+        }
+      },
+      "advertising": {
+        "title": "Reclame",
+        "description": "We kunnen gebruikmaken van serviceproviders om advertenties aan u te tonen ter ondersteuning en instandhouding van onze service.",
+        "googleAdSense": {
+          "title": "Google AdSense & DoubleClick-cookie",
+          "description1": "Google gebruikt als externe leverancier cookies om advertenties op onze service weer te geven. Het gebruik van de DoubleClick-cookie stelt Google en zijn partners in staat om advertenties aan onze gebruikers te tonen op basis van hun bezoek aan onze service of andere websites op internet.",
+          "description2": "U kunt het gebruik van de DoubleClick-cookie voor op interesses gebaseerde advertenties uitschakelen door naar de pagina met Google Advertentie-instellingen te gaan:"
+        },
+        "adMob": {
+          "title": "AdMob van Google",
+          "description1": "AdMob van Google wordt aangeboden door Google Inc.",
+          "description2": "Je kunt je afmelden voor de AdMob by Google-service door de instructies van Google te volgen:",
+          "description3": "Voor meer informatie over hoe Google de verzamelde gegevens gebruikt, kunt u de pagina 'Hoe Google gegevens gebruikt wanneer u de sites of apps van onze partners gebruikt' bezoeken of het privacybeleid van Google raadplegen."
+        }
+      },
+      "payments": {
+        "title": "Betalingen",
+        "description1": "Binnen de Service kunnen we betaalde producten en/of diensten aanbieden. In dat geval kunnen we gebruikmaken van diensten van derden voor de betalingsverwerking (bijvoorbeeld betalingsverwerkers).",
+        "description2": "Wij slaan uw betaalkaartgegevens niet op en verzamelen deze ook niet. Deze informatie wordt rechtstreeks verstrekt aan onze externe betalingsverwerkers, waarvan het gebruik van uw persoonsgegevens wordt geregeld door hun privacybeleid. Deze betalingsverwerkers voldoen aan de normen van PCI-DSS, zoals beheerd door de PCI Security Standards Council, een gezamenlijk initiatief van merken als Visa, Mastercard, American Express en Discover. De PCI-DSS-vereisten dragen bij aan de veilige verwerking van betaalgegevens.",
+        "appleStore": {
+          "title": "In-app betalingen in de Apple Store",
+          "description": "Hun privacybeleid kunt u bekijken op"
+        },
+        "googlePlay": {
+          "title": "In-app betalingen via Google Play",
+          "description": "Hun privacybeleid kunt u bekijken op"
+        },
+        "stripe": {
+          "title": "Streep",
+          "description": "Hun privacybeleid kunt u bekijken op"
+        },
+        "payPal": {
+          "title": "PayPal of Braintree",
+          "description": "Hun privacybeleid kunt u bekijken op"
+        }
+      },
+      "gdpr": {
+        "title": "AVG-privacy",
+        "legalBasis": {
+          "title": "Juridische basis voor de verwerking van persoonsgegevens onder de AVG",
+          "description": "Wij kunnen persoonsgegevens verwerken onder de volgende voorwaarden:",
+          "consent": "Toestemming: U heeft toestemming gegeven voor de verwerking van persoonsgegevens voor een of meer specifieke doeleinden.",
+          "contract": "Uitvoering van een overeenkomst: Het verstrekken van persoonsgegevens is noodzakelijk voor de uitvoering van een overeenkomst met u en/of voor de nakoming van eventuele precontractuele verplichtingen daaruit.",
+          "legal": "Wettelijke verplichtingen: De verwerking van persoonsgegevens is noodzakelijk om te voldoen aan een wettelijke verplichting waaraan het bedrijf is onderworpen.",
+          "vital": "Vitale belangen: De verwerking van persoonsgegevens is noodzakelijk ter bescherming van uw vitale belangen of die van een andere natuurlijke persoon.",
+          "public": "Publiek belang: De verwerking van persoonsgegevens is gerelateerd aan een taak die wordt uitgevoerd in het publiek belang of in de uitoefening van officiële bevoegdheden die aan het bedrijf zijn toegekend.",
+          "legitimate": "Legitieme belangen: De verwerking van persoonsgegevens is noodzakelijk voor de behartiging van de legitieme belangen van het bedrijf."
+        },
+        "rights": {
+          "title": "Uw rechten onder de AVG",
+          "description": "Het bedrijf verbindt zich ertoe de vertrouwelijkheid van uw persoonsgegevens te respecteren en te garanderen dat u uw rechten kunt uitoefenen. U hebt op grond van dit privacybeleid, en op grond van de wet indien u zich binnen de EU bevindt, het recht om:",
+          "access": "Verzoek om inzage in uw persoonsgegevens: het recht om de informatie die wij over u hebben in te zien, te actualiseren of te verwijderen.",
+          "correction": "Verzoek om correctie van uw persoonsgegevens: U heeft het recht om onvolledige of onjuiste informatie die wij over u bewaren te laten corrigeren.",
+          "object": "Bezwaar maken tegen verwerking: Dit recht bestaat wanneer wij ons beroepen op een gerechtvaardigd belang als wettelijke grondslag voor onze verwerking.",
+          "erasure": "Verzoek om verwijdering: U hebt het recht om ons te vragen uw persoonsgegevens te verwijderen wanneer er geen goede reden meer is om deze te verwerken.",
+          "transfer": "Verzoek om overdracht: Wij zullen uw persoonsgegevens aan u, of aan een door u gekozen derde, verstrekken in een gestructureerd, algemeen gebruikt en machineleesbaar formaat.",
+          "withdraw": "Uw toestemming intrekken: U hebt het recht om uw toestemming voor het gebruik van uw persoonsgegevens in te trekken."
+        },
+        "exercising": {
+          "title": "Uitoefening van uw rechten inzake gegevensbescherming onder de AVG",
+          "description1": "U kunt uw rechten op inzage, correctie, verwijdering en bezwaar uitoefenen door contact met ons op te nemen. Houd er rekening mee dat we u mogelijk vragen uw identiteit te verifiëren voordat we op dergelijke verzoeken reageren. Als u een verzoek indient, zullen we ons best doen om u zo snel mogelijk te antwoorden.",
+          "description2": "U hebt het recht om een klacht in te dienen bij een gegevensbeschermingsautoriteit over onze verzameling en het gebruik van uw persoonsgegevens. Als u zich in de Europese Economische Ruimte (EER) bevindt, kunt u voor meer informatie contact opnemen met uw lokale gegevensbeschermingsautoriteit in de EER."
+        }
+      },
+      "ccpa": {
+        "title": "CCPA/CPRA-privacyverklaring",
+        "introduction": "Dit gedeelte van de privacyverklaring voor inwoners van Californië vormt een aanvulling op de informatie in ons privacybeleid en is uitsluitend van toepassing op alle bezoekers, gebruikers en anderen die in de staat Californië woonachtig zijn.",
+        "categoriesTitle": "Categorieën van verzamelde persoonsgegevens",
+        "categoriesDescription1": "We verzamelen informatie die een specifieke Consument of Apparaat identificeert, erop betrekking heeft, beschrijft, ernaar verwijst, ermee in verband kan worden gebracht of er redelijkerwijs direct of indirect aan kan worden gekoppeld. Hieronder vindt u een lijst met categorieën persoonsgegevens die we mogelijk verzamelen of die we de afgelopen twaalf (12) maanden van inwoners van Californië hebben verzameld.",
+        "categoriesDescription2": "Houd er rekening mee dat de categorieën en voorbeelden in de onderstaande lijst zijn gedefinieerd in de CCPA/CPRA. Dit betekent niet dat alle voorbeelden van die categorie persoonsgegevens daadwerkelijk door ons zijn verzameld, maar het weerspiegelt onze oprechte overtuiging, naar ons beste weten, dat sommige van die gegevens uit de betreffende categorie mogelijk wel of niet zijn verzameld. Bepaalde categorieën persoonsgegevens worden bijvoorbeeld alleen verzameld als u deze rechtstreeks aan ons verstrekt.",
+        "categoryLabels": {
+          "examples": "Voorbeelden:",
+          "collected": "Verzameld:"
+        },
+        "categories": {
+          "identifiers": {
+            "title": "Categorie A: Identificaties",
+            "examples": "Een echte naam, pseudoniem, postadres, unieke persoonlijke identificatiecode, online identificatiecode, IP-adres, e-mailadres, accountnaam, rijbewijsnummer, paspoortnummer of andere vergelijkbare identificatiegegevens.",
+            "collected": "Ja"
+          },
+          "personalInfo": {
+            "title": "Categorie B: Categorieën persoonsgegevens zoals vermeld in de Californische wetgeving inzake klantgegevens.",
+            "examples": "Een naam, handtekening, burgerservicenummer, fysieke kenmerken of beschrijving, adres, telefoonnummer, paspoortnummer, rijbewijs- of identiteitskaartnummer, verzekeringspolisnummer, opleiding, werk, arbeidsverleden, bankrekeningnummer, creditcardnummer, betaalpasnummer of andere financiële informatie, medische informatie of informatie over de zorgverzekering. Sommige persoonsgegevens in deze categorie kunnen overlappen met andere categorieën.",
+            "collected": "Ja"
+          },
+          "protected": {
+            "title": "Categorie C: Beschermde classificatiekenmerken volgens de Californische of federale wetgeving.",
+            "examples": "Leeftijd (40 jaar of ouder), ras, huidskleur, afkomst, nationaliteit, burgerschap, religie of geloofsovertuiging, burgerlijke staat, medische aandoening, fysieke of mentale handicap, geslacht (inclusief gender, genderidentiteit, genderexpressie, zwangerschap of bevalling en aanverwante medische aandoeningen), seksuele geaardheid, veteranen- of militaire status, genetische informatie (inclusief familiale genetische informatie).",
+            "collected": "Nee"
+          },
+          "commercial": {
+            "title": "Categorie D: Commerciële informatie",
+            "examples": "Gegevens en geschiedenis van gekochte of overwogen producten of diensten.",
+            "collected": "Ja"
+          },
+          "biometric": {
+            "title": "Categorie E: Biometrische informatie",
+            "examples": "Genetische, fysiologische, gedragsmatige en biologische kenmerken, of activiteitspatronen die worden gebruikt om een sjabloon of andere identificator of identificerende informatie te extraheren, zoals vingerafdrukken, gezichtsafdrukken en stemafdrukken, iris- of retinascan, toetsaanslagen, loop- of andere fysieke patronen, en slaap-, gezondheids- of trainingsgegevens.",
+            "collected": "Nee"
+          },
+          "internet": {
+            "title": "Categorie F: Internet- of andere soortgelijke netwerkactiviteit",
+            "examples": "Interactie met onze dienst of advertentie.",
+            "collected": "Ja"
+          },
+          "geolocation": {
+            "title": "Categorie G: Geolocationgegevens",
+            "examples": "Geschatte fysieke locatie.",
+            "collected": "Ja"
+          },
+          "sensory": {
+            "title": "Categorie H: Sensorische gegevens",
+            "examples": "Audio-, elektronische, visuele, thermische, olfactorische of soortgelijke informatie.",
+            "collected": "Nee"
+          },
+          "professional": {
+            "title": "Categorie I: Professionele of werkgerelateerde informatie",
+            "examples": "Huidige of vroegere werkgeschiedenis of functioneringsbeoordelingen.",
+            "collected": "Nee"
+          },
+          "education": {
+            "title": "Categorie J: Informatie over niet-openbaar onderwijs",
+            "examples": "Onderwijsgegevens die rechtstreeks betrekking hebben op een leerling en die worden bijgehouden door een onderwijsinstelling of een partij die namens deze instelling optreedt, zoals cijfers, transcripten, klassenlijsten, lesroosters, leerlingidentificatiecodes, financiële gegevens van leerlingen of disciplinaire dossiers.",
+            "collected": "Nee"
+          },
+          "inferences": {
+            "title": "Categorie K: Afleidingen gebaseerd op andere persoonlijke informatie",
+            "examples": "Een profiel dat iemands voorkeuren, kenmerken, psychologische trends, aanleg, gedrag, houding, intelligentie, vaardigheden en talenten weerspiegelt.",
+            "collected": "Nee"
+          },
+          "sensitive": {
+            "title": "Categorie L: Gevoelige persoonlijke informatie",
+            "examples": "Accountgegevens (inloggegevens en wachtwoord), geolocatiegegevens.",
+            "collected": "Ja"
+          }
+        },
+        "exclusions": {
+          "description": "Volgens de CCPA/CPRA omvat persoonlijke informatie niet het volgende:",
+          "publicRecords": "Openbaar beschikbare informatie uit overheidsarchieven.",
+          "deidentified": "Geanonimiseerde of geaggregeerde consumenteninformatie",
+          "excludedScope": "Informatie die buiten het toepassingsgebied van de CCPA/CPRA valt, zoals:",
+          "hipaa": "Gezondheids- of medische informatie die valt onder de Health Insurance Portability and Accountability Act van 1996 (HIPAA) en de California Confidentiality of Medical Information Act (CMIA), of gegevens uit klinische onderzoeken.",
+          "sectorSpecific": "Persoonsgegevens die vallen onder bepaalde sectorspecifieke privacywetten, waaronder de Fair Credit Reporting Act (FRCA), de Gramm-Leach-Bliley Act (GLBA) of de California Financial Information Privacy Act (FIPA), en de Driver's Privacy Protection Act van 1994."
+        },
+        "sources": {
+          "title": "Bronnen van persoonlijke informatie",
+          "description": "De hierboven genoemde categorieën persoonsgegevens verkrijgen wij uit de volgende bronnen:",
+          "directlyFromYou": "Rechtstreeks van jou.",
+          "directlyDescription": "Bijvoorbeeld aan de hand van de formulieren die u invult op onze dienst, de voorkeuren die u via onze dienst aangeeft of verstrekt, of uw aankopen via onze dienst.",
+          "indirectlyFromYou": "Indirect van jou.",
+          "indirectlyDescription": "Bijvoorbeeld door uw activiteit op onze dienst te observeren.",
+          "automaticallyFromYou": "Automatisch van u.",
+          "automaticallyDescription": "Bijvoorbeeld via cookies die wij of onze serviceproviders op uw apparaat plaatsen wanneer u door onze service navigeert.",
+          "fromServiceProviders": "Van dienstverleners.",
+          "serviceProvidersDescription": "Denk bijvoorbeeld aan externe leveranciers die het gebruik van onze dienst monitoren en analyseren, externe leveranciers die advertenties op onze dienst aanbieden, externe leveranciers die gerichte advertenties aan u tonen, externe leveranciers voor de verwerking van betalingen, of andere externe leveranciers die wij gebruiken om de dienst aan u te leveren."
+        },
+        "usage": {
+          "title": "Gebruik van persoonlijke informatie",
+          "description": "We kunnen de persoonsgegevens die we verzamelen gebruiken of openbaar maken voor \"zakelijke doeleinden\" of \"commerciële doeleinden\" (zoals gedefinieerd in de CCPA/CPRA), waaronder de volgende voorbeelden:",
+          "operateService": "Om onze dienst te exploiteren en u onze dienst te kunnen leveren.",
+          "provideSupport": "Om u te ondersteunen en uw vragen te beantwoorden, waaronder het onderzoeken en aanpakken van uw zorgen en het monitoren en verbeteren van onze dienstverlening.",
+          "fulfillReason": "Om te voldoen aan de reden waarom u de informatie hebt verstrekt. Als u bijvoorbeeld uw contactgegevens deelt om een vraag over onze service te stellen, gebruiken we die persoonlijke informatie om uw vraag te beantwoorden. Als u uw persoonlijke gegevens verstrekt om een product of dienst te kopen, gebruiken we die informatie om uw betaling te verwerken en de levering te faciliteren.",
+          "lawEnforcement": "Om te voldoen aan verzoeken van wetshandhavingsinstanties en zoals vereist door toepasselijke wetgeving, gerechtelijke bevelen of overheidsvoorschriften.",
+          "asDescribed": "Zoals aan u is uitgelegd bij het verzamelen van uw persoonsgegevens of zoals anderszins is bepaald in de CCPA/CPRA.",
+          "administrative": "Voor interne administratieve en controledoeleinden.",
+          "securityIncidents": "Het opsporen van beveiligingsincidenten en het beschermen tegen kwaadwillige, misleidende, frauduleuze of illegale activiteiten, inclusief, indien nodig, het vervolgen van degenen die verantwoordelijk zijn voor dergelijke activiteiten.",
+          "otherUses": "Andere eenmalige toepassingen.",
+          "noteExamples": "Houd er rekening mee dat de bovenstaande voorbeelden slechts ter illustratie dienen en niet volledig zijn. Voor meer informatie over hoe wij deze gegevens gebruiken, verwijzen wij u naar het gedeelte 'Gebruik van uw persoonsgegevens'.",
+          "additionalCategories": "Indien wij besluiten om aanvullende categorieën persoonsgegevens te verzamelen of de verzamelde persoonsgegevens te gebruiken voor wezenlijk andere, ongerelateerde of onverenigbare doeleinden, zullen wij dit privacybeleid bijwerken."
+        },
+        "ccpaDisclosure": {
+          "title": "Openbaarmaking van persoonlijke informatie",
+          "description": "Wij kunnen de volgende categorieën persoonsgegevens gebruiken of openbaar maken, en hebben deze mogelijk in de afgelopen twaalf (12) maanden gebruikt of openbaar gemaakt, voor zakelijke of commerciële doeleinden:",
+          "categoryA": "Categorie A: Identificaties",
+          "categoryB": "Categorie B: Categorieën persoonsgegevens zoals vermeld in de Californische wetgeving inzake klantgegevens.",
+          "categoryD": "Categorie D: Commerciële informatie",
+          "categoryF": "Categorie F: Internet- of andere soortgelijke netwerkactiviteit",
+          "categoryG": "Categorie G: Geolocationgegevens",
+          "categoryL": "Categorie L: Gevoelige persoonlijke informatie",
+          "noteCategories": "Houd er rekening mee dat de hierboven genoemde categorieën zijn gedefinieerd in de CCPA/CPRA. Dit betekent niet dat alle voorbeelden van persoonsgegevens in die categorie daadwerkelijk zijn openbaar gemaakt, maar het weerspiegelt onze oprechte overtuiging, naar ons beste weten, dat sommige gegevens uit de betreffende categorie mogelijk wel of niet zijn openbaar gemaakt.",
+          "contractRequirement": "Wanneer we persoonsgegevens openbaar maken voor zakelijke of commerciële doeleinden, sluiten we een contract af waarin het doel wordt beschreven en waarin de ontvanger verplicht wordt om die persoonsgegevens vertrouwelijk te behandelen en ze niet voor andere doeleinden te gebruiken dan de uitvoering van het contract."
+        },
+        "sharing": {
+          "title": "Delen van persoonlijke informatie",
+          "description": "Wij kunnen uw persoonlijke gegevens, zoals vermeld in de bovenstaande categorieën, delen met de volgende categorieën derden, en hebben dit in de afgelopen twaalf (12) maanden ook gedaan:",
+          "recipients": {
+            "serviceProviders": "Dienstverleners",
+            "paymentProcessors": "Betaalverwerkers",
+            "affiliates": "Onze partners",
+            "businessPartners": "Onze zakelijke partners",
+            "authorizedVendors": "Derde partijen aan wie u of uw vertegenwoordigers ons toestemming geven uw persoonlijke gegevens te verstrekken in verband met producten of diensten die wij aan u leveren."
+          }
+        },
+        "sale": {
+          "title": "Verkoop van persoonlijke informatie",
+          "definition": "Zoals gedefinieerd in de CCPA/CPRA, betekenen \"verkopen\" en \"verkoop\" het verkopen, verhuren, vrijgeven, openbaar maken, verspreiden, beschikbaar stellen, overdragen of anderszins mondeling, schriftelijk of via elektronische of andere middelen communiceren van de persoonlijke informatie van een consument door het bedrijf aan een derde partij in ruil voor een financiële tegenprestatie. Dit betekent dat wij mogelijk een of ander voordeel hebben ontvangen in ruil voor het delen van persoonlijke informatie, maar niet noodzakelijkerwijs een financieel voordeel.",
+          "doNotSell": "Wij verkopen geen persoonsgegevens in de gebruikelijke zin van het woord. We staan dienstverleners wel toe uw persoonsgegevens te gebruiken voor de zakelijke doeleinden zoals beschreven in ons privacybeleid, voor activiteiten zoals reclame, marketing en analyses. Deze activiteiten kunnen worden beschouwd als een verkoop in de zin van de CCPA/CPRA.",
+          "description": "Wij verkopen mogelijk de volgende categorieën persoonsgegevens, en hebben deze mogelijk in de afgelopen twaalf (12) maanden verkocht:",
+          "sharedCategories": {
+            "categoryA": "Categorie A: Identificaties",
+            "categoryB": "Categorie B: Categorieën persoonsgegevens zoals vermeld in de Californische wetgeving inzake klantgegevens.",
+            "categoryD": "Categorie D: Commerciële informatie",
+            "categoryF": "Categorie F: Internet- of andere soortgelijke netwerkactiviteit",
+            "categoryG": "Categorie G: Geolocationgegevens",
+            "categoryL": "Categorie L: Gevoelige persoonlijke informatie"
+          }
+        },
+        "userRights": {
+          "title": "Uw rechten onder de CCPA/CPRA",
+          "description": "De CCPA/CPRA geeft inwoners van Californië specifieke rechten met betrekking tot hun persoonlijke gegevens. Als u inwoner van Californië bent, heeft u de volgende rechten:",
+          "rightToNotice": "Het recht op kennisgeving.",
+          "rightToNoticeDescription": "U hebt het recht om te worden geïnformeerd over welke categorieën persoonsgegevens worden verzameld en voor welke doeleinden deze persoonsgegevens worden gebruikt.",
+          "disclosureItems": {
+            "categoriesCollected": "De categorieën persoonsgegevens die we over u hebben verzameld",
+            "sources": "De categorieën bronnen voor de persoonsgegevens die we over u hebben verzameld",
+            "purposes": "Onze zakelijke of commerciële doeleinden voor het verzamelen of verkopen van die persoonsgegevens.",
+            "thirdParties": "De categorieën van derden met wie wij die persoonsgegevens delen.",
+            "specificPieces": "De specifieke persoonsgegevens die we over u hebben verzameld.",
+            "soldDisclosed": "Als we uw persoonlijke gegevens verkopen of openbaar maken voor zakelijke doeleinden, zullen we u de categorieën van verkochte en openbaar gemaakte persoonsgegevens meedelen."
+          },
+          "rightToOptOut": "Het recht om nee te zeggen tegen de verkoop of het delen van persoonsgegevens (opt-out).",
+          "rightToOptOutDescription": "U hebt het recht om ons te verzoeken uw persoonlijke gegevens niet te verkopen. Om een verzoek tot uitschrijving in te dienen, raadpleegt u het gedeelte 'Verkoop mijn persoonlijke gegevens niet' of neemt u contact met ons op.",
+          "doNotSellSection": "Verkoop mijn persoonlijke gegevens niet.",
+          "rightToCorrect": "Het recht om persoonsgegevens te corrigeren.",
+          "rightToCorrectDescription": "U hebt het recht om onjuiste persoonlijke gegevens die wij over u hebben verzameld te corrigeren of recht te zetten. Zodra wij uw verzoek hebben ontvangen en bevestigd, zullen wij ons commercieel redelijke best doen om uw persoonlijke gegevens te corrigeren (en onze dienstverleners opdracht geven dit ook te doen), tenzij er een uitzondering van toepassing is.",
+          "rightToLimit": "Het recht om het gebruik en de openbaarmaking van gevoelige persoonsgegevens te beperken.",
+          "rightToLimitDescription": "U hebt het recht om te verzoeken het gebruik of de openbaarmaking van bepaalde gevoelige persoonsgegevens die wij over u hebben verzameld, te beperken, tenzij er een uitzondering van toepassing is. Raadpleeg hiervoor het gedeelte 'Beperk het gebruik of de openbaarmaking van mijn gevoelige persoonsgegevens' of neem contact met ons op.",
+          "limitSensitiveSection": "Beperk het gebruik of de openbaarmaking van mijn gevoelige persoonlijke gegevens.",
+          "rightToDelete": "Het recht om persoonsgegevens te verwijderen.",
+          "rightToDeleteDescription": "U hebt onder bepaalde omstandigheden het recht om de verwijdering van uw persoonsgegevens aan te vragen, met inachtneming van enkele uitzonderingen. Zodra wij uw verzoek hebben ontvangen en bevestigd, zullen wij uw persoonsgegevens uit onze systemen verwijderen (en onze dienstverleners opdracht geven dit ook te doen), tenzij een uitzondering van toepassing is.",
+          "rightNonDiscrimination": "Het recht om niet gediscrimineerd te worden.",
+          "rightNonDiscriminationDescription": "U hebt het recht om niet gediscrimineerd te worden vanwege de uitoefening van uw consumentenrechten, bijvoorbeeld door het weigeren van goederen of diensten, het hanteren van verschillende prijzen, het bieden van verschillende serviceniveaus of het voorstellen van andere prijzen of serviceniveaus."
+        },
+        "exercisingRights": {
+          "title": "Uw rechten inzake gegevensbescherming onder de CCPA/CPRA uitoefenen",
+          "intro": "Om uw rechten onder de CCPA/CPRA uit te oefenen, en als u in Californië woont, kunt u contact met ons opnemen via onderstaande gegevens.",
+          "authorization": "Alleen u, of een persoon die bij de Californische staatssecretaris is geregistreerd en die u gemachtigd heeft om namens u op te treden, mag een verifieerbaar verzoek indienen met betrekking tot uw persoonlijke gegevens.",
+          "requestRequirements": "Uw verzoek aan ons moet aan de volgende eisen voldoen:",
+          "requirements": {
+            "verify": "Verstrek voldoende informatie waarmee wij redelijkerwijs kunnen controleren of u de persoon bent over wie wij persoonsgegevens hebben verzameld, of een geautoriseerde vertegenwoordiger.",
+            "describe": "Beschrijf uw verzoek zo gedetailleerd mogelijk, zodat wij het goed kunnen begrijpen, beoordelen en beantwoorden."
+          },
+          "verification": "Wij kunnen niet op uw verzoek reageren of u de gevraagde informatie verstrekken als wij uw identiteit of bevoegdheid om het verzoek in te dienen niet kunnen verifiëren en niet kunnen bevestigen dat de persoonsgegevens op u betrekking hebben.",
+          "response": "Wij zullen de gevraagde informatie kosteloos verstrekken binnen 45 dagen na ontvangst van uw verifieerbare verzoek. Deze termijn kan, indien redelijkerwijs noodzakelijk en na voorafgaande kennisgeving, eenmaal met nog eens 45 dagen worden verlengd.",
+          "dataPortability": "Voor verzoeken om gegevensoverdracht selecteren we een formaat voor uw persoonsgegevens dat gemakkelijk bruikbaar is en waarmee u de informatie zonder problemen van de ene entiteit naar de andere kunt overdragen."
+        },
+        "doNotSell": {
+          "title": "Verkoop mijn persoonlijke gegevens niet.",
+          "definition": "Zoals gedefinieerd in de CCPA/CPRA, betekenen \"verkopen\" en \"verkoop\" het verkopen, verhuren, vrijgeven, openbaar maken, verspreiden, beschikbaar stellen, overdragen of anderszins mondeling, schriftelijk of via elektronische of andere middelen communiceren van de persoonlijke informatie van een consument door het bedrijf aan een derde partij in ruil voor een financiële tegenprestatie. Dit betekent dat wij mogelijk een of ander voordeel hebben ontvangen in ruil voor het delen van persoonlijke informatie, maar niet noodzakelijkerwijs een financieel voordeel.",
+          "policy": "Wij verkopen geen persoonsgegevens in de gebruikelijke zin van het woord. We staan dienstverleners wel toe uw persoonsgegevens te gebruiken voor de zakelijke doeleinden zoals beschreven in ons privacybeleid, voor activiteiten zoals reclame, marketing en analyses. Deze activiteiten kunnen worden beschouwd als een verkoop in de zin van de CCPA/CPRA.",
+          "optOutRight": "U hebt het recht om af te zien van de verkoop van uw persoonsgegevens. Zodra wij een verifieerbaar verzoek van u hebben ontvangen en bevestigd, stoppen wij met de verkoop van uw persoonsgegevens. Om gebruik te maken van uw recht om af te zien van de verkoop van uw persoonsgegevens, kunt u contact met ons opnemen.",
+          "serviceProviders": "De serviceproviders waarmee we samenwerken (bijvoorbeeld onze analyse- of advertentiepartners) kunnen technologie op de Service gebruiken die persoonlijke informatie verkoopt zoals gedefinieerd in de CCPA/CPRA-wetgeving. Als u wilt voorkomen dat uw persoonlijke informatie wordt gebruikt voor op interesses gebaseerde advertenties en deze potentiële verkopen zoals gedefinieerd in de CCPA/CPRA-wetgeving, kunt u dit doen door de onderstaande instructies te volgen.",
+          "browserNote": "Houd er rekening mee dat elke opt-out specifiek is voor de browser die u gebruikt. Mogelijk moet u zich voor elke browser die u gebruikt afmelden.",
+          "websiteTitle": "Website",
+          "websiteInstructions": "Klik indien van toepassing op de knoppen 'Privacyvoorkeuren', 'Privacyvoorkeuren bijwerken' of 'Verkoop mijn persoonlijke gegevens niet' op de Service om uw privacyvoorkeuren te bekijken en u af te melden voor cookies en andere technologieën die wij mogelijk gebruiken. Houd er rekening mee dat u zich in elke browser die u gebruikt om toegang te krijgen tot de Service, moet afmelden."
+        },
+        "mobileOptOut": {
+          "title": "Mobiele apparaten",
+          "description": "Uw mobiele apparaat biedt u mogelijk de optie om het gebruik van informatie over de apps die u gebruikt voor het tonen van advertenties die zijn afgestemd op uw interesses, uit te schakelen.",
+          "androidAds": "Schakel 'Advertenties op basis van interesses uitschakelen' of 'Personalisatie van advertenties uitschakelen' op Android-apparaten.",
+          "iosTracking": "\"Beperk advertentietracking\" op iOS-apparaten",
+          "locationNote": "Je kunt het verzamelen van locatiegegevens door je mobiele apparaat ook stoppen door de voorkeuren op je mobiele apparaat aan te passen."
+        },
+        "sensitiveInfo": {
+          "title": "Beperk het gebruik of de openbaarmaking van mijn gevoelige persoonlijke gegevens.",
+          "description": "Als u inwoner bent van Californië, heeft u het recht om het gebruik en de openbaarmaking van uw gevoelige persoonsgegevens te beperken tot dat gebruik dat noodzakelijk is voor het uitvoeren van de diensten of het leveren van de goederen die redelijkerwijs verwacht worden door een gemiddelde consument die dergelijke diensten of goederen aanvraagt. Wij verzamelen, gebruiken en openbaren gevoelige persoonsgegevens op manieren die noodzakelijk zijn voor het leveren van de dienst. Voor meer informatie over hoe wij uw persoonsgegevens gebruiken, kunt u het gedeelte 'Gebruik van uw persoonsgegevens' raadplegen of contact met ons opnemen."
+        },
+        "caloppaPolicy": {
+          "doNotTrackResponse": "Onze dienst reageert niet op 'Do Not Track'-signalen.",
+          "thirdPartyTracking": "Sommige websites van derden houden echter wel uw browsegedrag bij. Als u dergelijke websites bezoekt, kunt u in uw webbrowser de instellingen aanpassen om websites te laten weten dat u niet wilt worden gevolgd. U kunt DNT (Do Not Track) in- of uitschakelen via de voorkeuren- of instellingenpagina van uw webbrowser."
+        },
+        "caloppa": {
+          "title": "\"Niet volgen\"-beleid zoals vereist door de California Online Privacy Protection Act (CalOPPA)"
+        },
+        "saleNote": {
+          "categoriesListed": "Houd er rekening mee dat de hierboven genoemde categorieën zijn gedefinieerd in de CCPA/CPRA. Dit betekent niet dat alle voorbeelden van persoonsgegevens in die categorie daadwerkelijk zijn verkocht, maar het weerspiegelt onze oprechte overtuiging, naar ons beste weten, dat sommige gegevens uit de betreffende categorie mogelijk zijn gedeeld in ruil voor een tegenprestatie."
+        },
+        "minorsUnder16": {
+          "title": "Verkoop van persoonlijke gegevens van minderjarigen jonger dan 16 jaar",
+          "description1": "Wij verzamelen via onze dienst niet bewust persoonlijke gegevens van minderjarigen onder de 16 jaar, hoewel bepaalde websites van derden waarnaar wij linken dit wel kunnen doen. Deze websites van derden hebben hun eigen gebruiksvoorwaarden en privacybeleid. Wij raden ouders en wettelijke voogden aan het internetgebruik van hun kinderen in de gaten te houden en hen te instrueren nooit zonder hun toestemming informatie op andere websites te verstrekken.",
+          "description2": "Wij verkopen de persoonsgegevens van consumenten waarvan wij weten dat zij jonger zijn dan 16 jaar niet, tenzij wij uitdrukkelijke toestemming (het 'recht op toestemming') ontvangen van de consument zelf (indien deze tussen de 13 en 16 jaar oud is) of van de ouder of voogd van een consument jonger dan 13 jaar. Consumenten die toestemming geven voor de verkoop van hun persoonsgegevens kunnen zich op elk moment afmelden voor toekomstige verkopen. Om gebruik te maken van het recht op toestemming, kunt u (of uw gemachtigde) een verzoek bij ons indienen door contact met ons op te nemen.",
+          "description3": "Als u reden hebt om aan te nemen dat een kind jonger dan 13 (of 16) jaar ons persoonlijke gegevens heeft verstrekt, neem dan contact met ons op en geef ons voldoende details zodat we die gegevens kunnen verwijderen."
+        },
+        "optOutPlatforms": {
+          "description": "Daarnaast kunt u zich afmelden voor gepersonaliseerde advertenties die door onze serviceproviders worden weergegeven door de instructies op onze website te volgen:",
+          "nai": "Het afmeldingsplatform van de NAI:",
+          "edaa": "Het opt-outplatform van de EDAA:",
+          "daa": "Het afmeldingsplatform van de DAA:",
+          "cookieNote": "Door je af te melden, wordt er een cookie op je computer geplaatst die uniek is voor de browser die je gebruikt om je af te melden. Als je van browser wisselt of de cookies verwijdert die door je browser zijn opgeslagen, moet je je opnieuw afmelden."
+        },
+        "rights": {
+          "rightToKnowAccess": "Het recht op informatie/toegang.",
+          "rightToKnowAccessDescription": "Volgens de CCPA/CPRA heeft u het recht om ons te vragen informatie aan u te verstrekken over hoe wij uw persoonsgegevens verzamelen, gebruiken, verkopen, openbaar maken voor zakelijke doeleinden en delen. Zodra wij uw verzoek hebben ontvangen en bevestigd, zullen wij u het volgende verstrekken:"
+        }
+      },
+      "optOut": {
+        "androidAds": "Schakel 'Advertenties op basis van interesses uitschakelen' of 'Personalisatie van advertenties uitschakelen' op Android-apparaten.",
+        "androidInterestBased": "Schakel op interesses gebaseerde advertenties uit.",
+        "androidPersonalization": "Advertentiepersonalisatie uitschakelen",
+        "iosTracking": "\"Beperk advertentietracking\" op iOS-apparaten",
+        "iosLimit": "Beperk advertentietracking"
+      },
+      "dataTypes": {
+        "email": "E-mailadres",
+        "name": "Voornaam en achternaam",
+        "phone": "Telefoonnummer",
+        "address": "Adres, staat, provincie, postcode, plaats",
+        "usageData": "Gebruiksgegevens"
+      },
+      "socialMedia": {
+        "google": "Google",
+        "facebook": "Facebook",
+        "apple": "Appel"
+      },
+      "appPermissions": {
+        "location": "Informatie over uw locatie (voor Bluetooth nabijheidsdetectie)",
+        "bluetooth": "Informatie over Bluetooth apparaten en scannen naar apparaten in de buurt",
+        "camera": "Informatie van de camera van uw apparaat voor het maken van een avatar.",
+        "contacts": "Apparaatcontacten (optioneel, om vrienden te vinden)"
+      }
+    },
+    "termsOfUse": {
+      "title": "Gebruiksvoorwaarden",
+      "subtitle": "Inzicht in uw rechten en plichten bij het gebruik van Ringdy -diensten.",
+      "lastUpdated": "Laatst bijgewerkt: januari 2025",
+      "introduction": "Lees deze algemene voorwaarden aandachtig door voordat u onze dienst gebruikt.",
+      "sections": {
+        "interpretationTitle": "Interpretatie en definities",
+        "interpretationSubtitle": "Interpretatie",
+        "interpretationText": "De woorden waarvan de eerste letter met een hoofdletter is geschreven, hebben betekenissen die onder de volgende voorwaarden zijn gedefinieerd. De volgende definities hebben dezelfde betekenis, ongeacht of ze in het enkelvoud of in het meervoud voorkomen.",
+        "definitionsSubtitle": "Definities",
+        "definitionsText": "Voor de toepassing van deze Algemene Voorwaarden:",
+        "definitions": {
+          "application": "Dit verwijst naar het softwareprogramma Ringdy , dat door het bedrijf wordt geleverd en dat u op een elektronisch apparaat hebt gedownload.",
+          "applicationStore": "Hiermee wordt de digitale distributiedienst bedoeld die wordt beheerd en ontwikkeld door Apple Inc. (Apple App Store) of Google Inc. (Google Play Store) en waar de applicatie is gedownload.",
+          "affiliate": "Dit betekent een entiteit die een partij controleert, door een partij wordt gecontroleerd of onder gemeenschappelijke controle staat met een partij, waarbij \"controle\" eigendom betekent van 50% of meer van de aandelen, participaties of andere effecten die stemrecht geven bij de verkiezing van bestuurders of andere leidinggevenden.",
+          "account": "Dit betekent een uniek account dat voor u is aangemaakt om toegang te krijgen tot onze dienst of delen van onze dienst.",
+          "country": "Verwijst naar: Vietnam",
+          "company": "(in deze overeenkomst aangeduid als \"het Bedrijf\", \"Wij\", \"Ons\" of \"Onze\") verwijst naar Ringdy .",
+          "content": "Verwijst naar inhoud zoals tekst, afbeeldingen of andere informatie die door u kan worden geplaatst, geüpload, gelinkt of anderszins beschikbaar gesteld, ongeacht de vorm van die inhoud.",
+          "device": "Dit betekent elk apparaat dat toegang heeft tot de dienst, zoals een computer, een smartphone of een tablet.",
+          "feedback": "Dit betreft feedback, innovaties of suggesties die u ons stuurt met betrekking tot de eigenschappen, prestaties of kenmerken van onze dienst.",
+          "freeTrial": "Verwijst naar een beperkte periode die gratis kan zijn bij aankoop van een abonnement.",
+          "goods": "Raadpleeg de artikelen die via de dienst te koop worden aangeboden.",
+          "inAppPurchase": "Verwijst naar de aankoop van een product, artikel, dienst of abonnement via de applicatie, onderworpen aan deze algemene voorwaarden en/of de eigen algemene voorwaarden van de appwinkel.",
+          "orders": "Dit betekent een verzoek van u om goederen bij ons te kopen.",
+          "promotions": "Raadpleeg wedstrijden, loterijen of andere promoties die via de Dienst worden aangeboden.",
+          "service": "Verwijst naar de aanvraag.",
+          "subscriptions": "Verwijs naar de diensten of toegang tot de Dienst die het Bedrijf u op abonnementsbasis aanbiedt.",
+          "termsAndConditions": "(ook wel \"Voorwaarden\" genoemd) verwijzen naar deze Algemene Voorwaarden die de volledige overeenkomst vormen tussen u en het Bedrijf met betrekking tot het gebruik van de Dienst.",
+          "thirdPartySocialMedia": "Dit betekent alle diensten of inhoud (inclusief gegevens, informatie, producten of diensten) die door een derde partij worden geleverd en die door de Dienst kunnen worden weergegeven, opgenomen of beschikbaar gesteld.",
+          "you": "Hiermee wordt bedoeld de persoon die de dienst benadert of gebruikt, of het bedrijf of andere rechtspersoon namens wie die persoon de dienst benadert of gebruikt, al naar gelang het geval."
+        },
+        "definitionLabels": {
+          "application": "Sollicitatie:",
+          "applicationStore": "App Store:",
+          "affiliate": "Affiliate:",
+          "account": "Rekening:",
+          "country": "Land:",
+          "company": "Bedrijf:",
+          "content": "Inhoud:",
+          "device": "Apparaat:",
+          "feedback": "Feedback:",
+          "freeTrial": "Gratis proefperiode:",
+          "goods": "Goederen:",
+          "inAppPurchase": "In-app aankoop:",
+          "orders": "Bestellingen:",
+          "promotions": "Aanbiedingen:",
+          "service": "Dienst:",
+          "subscriptions": "Abonnementen:",
+          "termsAndConditions": "Algemene voorwaarden:",
+          "thirdPartySocialMedia": "Externe socialemediadienst:",
+          "you": "Jij:"
+        }
+      },
+      "acknowledgment": {
+        "title": "Erkenning",
+        "description1": "Dit zijn de algemene voorwaarden die van toepassing zijn op het gebruik van deze dienst en de overeenkomst die tussen u en het bedrijf geldt. Deze algemene voorwaarden beschrijven de rechten en plichten van alle gebruikers met betrekking tot het gebruik van de dienst.",
+        "description2": "Uw toegang tot en gebruik van de Dienst is afhankelijk van uw acceptatie van en naleving van deze Algemene Voorwaarden. Deze Algemene Voorwaarden zijn van toepassing op alle bezoekers, gebruikers en anderen die de Dienst bezoeken of gebruiken.",
+        "description3": "Door de Service te openen of te gebruiken, gaat u akkoord met deze Algemene Voorwaarden. Indien u het niet eens bent met enig onderdeel van deze Algemene Voorwaarden, mag u de Service niet gebruiken.",
+        "description4": "U verklaart dat u ouder bent dan 18 jaar. Het bedrijf staat het gebruik van de dienst door personen jonger dan 18 jaar niet toe.",
+        "description5": "Uw toegang tot en gebruik van de Service is tevens afhankelijk van uw acceptatie van en naleving van het Privacybeleid van het Bedrijf. Ons Privacybeleid beschrijft ons beleid en onze procedures met betrekking tot het verzamelen, gebruiken en openbaar maken van uw persoonlijke gegevens wanneer u de Applicatie gebruikt, en informeert u over uw privacyrechten en hoe de wet u beschermt. Lees ons Privacybeleid zorgvuldig door voordat u onze Service gebruikt.",
+        "bluetoothNotice": "Door gebruik te maken van onze service, erkent u dat de applicatie Bluetooth en locatiediensten gebruikt om gebruikers in de buurt te vinden en verbinding met hen te maken. U stemt in met ons gebruik van deze technologieën om op nabijheid gebaseerde functies te bieden.",
+        "bluetoothTitle": "Bluetooth en locatiediensten"
+      },
+      "orders": {
+        "title": "Digitale artikelen aanschaffen",
+        "introduction": "Door een Discovery Pass, Night Pass of abonnement via de Service aan te schaffen, garandeert u dat u wettelijk bevoegd bent om bindende overeenkomsten aan te gaan.",
+        "yourInformation": {
+          "title": "Uw gegevens",
+          "description1": "Betalingen voor Discovery Passes, Night Pass en abonnementen worden volledig verwerkt via de app store van uw apparaat (Google Play of de App Store). Wij verzamelen of bewaren uw betaalkaartgegevens niet.",
+          "description2": "U verklaart en garandeert dat: (i) u het wettelijke recht hebt om elke betaalmethode te gebruiken die is geregistreerd bij uw app store-account; en (ii) de informatie die u aan de app store verstrekt, waar, correct en volledig is.",
+          "description3": "Alle betalingsgegevens worden rechtstreeks naar Google Play of de App Store verzonden, niet naar het bedrijf."
+        },
+        "cancellation": {
+          "title": "Aankoop annuleren",
+          "description1": "Wij behouden ons het recht voor uw aankoop te allen tijde te weigeren of te annuleren om bepaalde redenen, waaronder maar niet beperkt tot:",
+          "reasons": {
+            "availability": "Beschikbaarheid van het artikel",
+            "errors": "Fouten in de beschrijving of prijs van een artikel.",
+            "orderErrors": "Fouten in uw aankoop"
+          },
+          "description2": "Wij behouden ons het recht voor uw aankoop te weigeren of te annuleren indien er sprake is van vermoedelijke fraude of een ongeautoriseerde of illegale transactie.",
+          "yourRights": {
+            "title": "Uw annuleringsrechten",
+            "description1": "Discovery Passes, Night Pass en andere digitale verbruiksartikelen worden na inwisseling verbruikt en kunnen over het algemeen niet worden geretourneerd.",
+            "description2": "Ons terugbetalingsbeleid voor digitale aankopen wordt beschreven in de onderstaande secties 'In-app aankopen' en 'Terugbetalingen'.",
+            "description3": "Zodra een Discovery Pass of Night Pass is gebruikt om toegang te krijgen tot een locatie, kan deze niet meer worden geannuleerd of terugbetaald.",
+            "description4": "Verzoeken om terugbetaling die hiervoor in aanmerking komen, worden afgehandeld volgens het terugbetalingsbeleid van de App Store, zoals beschreven in het gedeelte 'Terugbetalingen' hieronder.",
+            "description5": "U heeft geen recht om een aankoop van de volgende artikelen te annuleren:",
+            "exceptions": {
+              "personalized": "Items die al aan je account zijn toegevoegd of zijn verbruikt, zoals een Discovery Pass waarmee je toegang hebt gekregen tot een locatie.",
+              "perishable": "Tijdsgebonden passen, zoals de Night Pass , zijn niet meer geldig zodra de geldigheidsperiode is begonnen.",
+              "hygiene": "Abonnementsperioden waarvoor de dienst reeds aan u is geleverd.",
+              "mixed": "Digitale items gecombineerd met andere gekochte items als onderdeel van een bundel.",
+              "digital": "De levering van digitale inhoud die niet op een tastbaar medium wordt geleverd, indien de uitvoering is begonnen met uw voorafgaande uitdrukkelijke toestemming en u hebt erkend dat u uw recht op annulering verliest."
+            }
+          }
+        },
+        "availability": {
+          "title": "Beschikbaarheid, fouten en onnauwkeurigheden",
+          "description1": "We werken voortdurend aan het bijwerken van ons aanbod aan Discovery Passes, Night Pass en abonnementen op de Service. Het kan voorkomen dat de prijzen, beschrijvingen of beschikbaarheid hiervan onjuist zijn, en dat er vertragingen optreden bij het bijwerken van deze informatie.",
+          "description2": "Wij kunnen de juistheid of volledigheid van de verstrekte informatie, inclusief prijzen en beschikbaarheid, niet garanderen. Wij behouden ons het recht voor om informatie te allen tijde zonder voorafgaande kennisgeving te wijzigen of bij te werken en om fouten, onnauwkeurigheden of omissies te corrigeren."
+        },
+        "pricing": {
+          "title": "Prijsbeleid",
+          "description1": "Het bedrijf behoudt zich het recht voor om de prijzen voor Discovery Passes, Night Pass en abonnementen op elk moment vóór acceptatie van een aankoop te herzien.",
+          "description2": "De prijzen worden vastgesteld en weergegeven via de app store van uw apparaat (Google Play of de App Store) en kunnen variëren per regio en valuta."
+        },
+        "payments": {
+          "title": "Betalingen",
+          "description1": "Alle aankopen worden verwerkt via de appwinkel van uw apparaat (Google Play of de App Store) met behulp van de betaalmethoden die deze ondersteunt.",
+          "description2": "Betaalmethoden worden onderworpen aan validatiecontroles en autorisatie door de app store en uw kaartuitgever. Indien de autorisatie niet wordt ontvangen, is het bedrijf niet aansprakelijk voor eventuele vertraging of het niet leveren van uw aankoop."
+        }
+      },
+      "subscriptions": {
+        "title": "Abonnementen",
+        "period": {
+          "title": "Abonnementsperiode",
+          "description1": "De dienst of bepaalde onderdelen daarvan zijn alleen beschikbaar met een betaald abonnement. U wordt vooraf gefactureerd op terugkerende en periodieke basis (zoals dagelijks, wekelijks, maandelijks of jaarlijks), afhankelijk van het type abonnement dat u kiest bij de aanschaf ervan.",
+          "description2": "Aan het einde van elke periode wordt uw abonnement automatisch verlengd onder exact dezelfde voorwaarden, tenzij u het annuleert of het bedrijf het annuleert."
+        },
+        "cancellations": {
+          "title": "Abonnement opzeggen",
+          "description1": "U kunt de verlenging van uw abonnement annuleren via uw accountinstellingen of door contact op te nemen met het bedrijf. U ontvangt geen terugbetaling van de reeds betaalde kosten voor uw huidige abonnementsperiode en u kunt de service blijven gebruiken tot het einde van uw huidige abonnementsperiode.",
+          "description2": "Als het abonnement via een in-app-aankoop is afgesloten, kunt u de verlenging van uw abonnement annuleren via de App Store."
+        },
+        "billing": {
+          "title": "Facturering",
+          "description1": "U dient het bedrijf te voorzien van accurate en volledige factuurgegevens, waaronder uw volledige naam, adres, provincie/staat, postcode, telefoonnummer en gegevens van een geldige betaalmethode.",
+          "description2": "Mocht de automatische facturering om welke reden dan ook mislukken, dan stuurt het bedrijf u een elektronische factuur met de mededeling dat u de volledige betaling voor de betreffende factuurperiode handmatig moet voldoen vóór een bepaalde deadline, zoals vermeld op de factuur.",
+          "description3": "Als het abonnement via een in-app-aankoop is afgesloten, wordt de facturering volledig afgehandeld door de App Store en zijn de algemene voorwaarden van de App Store van toepassing."
+        },
+        "feeChanges": {
+          "title": "Tariefwijzigingen",
+          "description1": "Het bedrijf kan, naar eigen goeddunken en op elk moment, de abonnementskosten wijzigen. Elke wijziging van de abonnementskosten wordt van kracht aan het einde van de lopende abonnementsperiode.",
+          "description2": "Het bedrijf zal u tijdig op de hoogte stellen van eventuele wijzigingen in de abonnementskosten, zodat u de mogelijkheid heeft uw abonnement op te zeggen voordat deze wijzigingen van kracht worden.",
+          "description3": "Als u na de ingang van de wijziging van de abonnementskosten gebruik blijft maken van de dienst, stemt u ermee in het gewijzigde abonnementsbedrag te betalen."
+        },
+        "refunds": {
+          "title": "Terugbetalingen",
+          "description1": "Betaalde abonnementskosten worden, behalve in wettelijk verplichte gevallen, niet terugbetaald.",
+          "description2": "Bepaalde verzoeken om terugbetaling van abonnementen kunnen door het bedrijf per geval worden beoordeeld en naar eigen goeddunken worden toegekend.",
+          "description3": "Als het abonnement via een in-app-aankoop is aangeschaft, is het restitutiebeleid van de App Store van toepassing. Als u een terugbetaling wilt aanvragen, kunt u rechtstreeks contact opnemen met de App Store."
+        },
+        "freeTrial": {
+          "title": "Gratis proefperiode",
+          "description1": "Het bedrijf kan, geheel naar eigen goeddunken, een abonnement met een gratis proefperiode voor een beperkte tijd aanbieden.",
+          "description2": "Mogelijk moet u uw factuurgegevens invoeren om u aan te melden voor de gratis proefperiode.",
+          "description3": "Als u uw factuurgegevens invult bij het aanmelden voor een gratis proefperiode, worden er pas kosten in rekening gebracht nadat de gratis proefperiode is afgelopen. Op de laatste dag van de gratis proefperiode worden, tenzij u uw abonnement hebt opgezegd, automatisch de abonnementskosten voor het door u gekozen abonnement in rekening gebracht.",
+          "description4": "Het bedrijf behoudt zich te allen tijde en zonder voorafgaande kennisgeving het recht voor om (i) de voorwaarden van de gratis proefaanbieding te wijzigen of (ii) de gratis proefaanbieding te annuleren."
+        }
+      },
+      "inAppPurchases": {
+        "title": "In-app aankopen",
+        "description1": "De applicatie kan in-app aankopen bevatten waarmee u producten, diensten of abonnementen kunt kopen.",
+        "description2": "Meer informatie over hoe u in-app aankopen kunt beheren via uw apparaat vindt u mogelijk in de algemene voorwaarden van de App Store of in de Help-instellingen van uw apparaat.",
+        "description3": "In-app aankopen kunnen alleen binnen de applicatie worden gebruikt. Als u een in-app aankoop doet, kan deze niet meer worden geannuleerd nadat u de download hebt gestart. In-app aankopen kunnen niet worden ingewisseld voor contant geld of andere tegenprestaties en kunnen niet worden overgedragen.",
+        "description4": "U erkent en stemt ermee in dat alle facturerings- en transactieprocessen worden afgehandeld door de appwinkel waar u de applicatie hebt gedownload en dat deze processen vallen onder de algemene voorwaarden van die appwinkel."
+      },
+      "promotions": {
+        "title": "Promoties",
+        "description1": "Promoties die via de Service beschikbaar worden gesteld, kunnen onderworpen zijn aan regels die afwijken van deze Voorwaarden.",
+        "description2": "Als u deelneemt aan een promotie, dient u de bijbehorende regels en ons privacybeleid te raadplegen. Indien de regels van een promotie in strijd zijn met deze voorwaarden, prevaleren de promotievoorwaarden."
+      },
+      "userAccounts": {
+        "title": "Gebruikersaccounts",
+        "description1": "Wanneer u een account bij ons aanmaakt, dient u ons te allen tijde accurate, volledige en actuele informatie te verstrekken. Het niet naleven hiervan vormt een schending van de voorwaarden, wat kan leiden tot onmiddellijke beëindiging van uw account op onze dienst.",
+        "description2": "U bent verantwoordelijk voor het beveiligen van het wachtwoord dat u gebruikt om toegang te krijgen tot de dienst en voor alle activiteiten of handelingen die onder uw wachtwoord worden uitgevoerd, ongeacht of uw wachtwoord betrekking heeft op onze dienst of een socialemediadienst van derden.",
+        "description3": "U stemt ermee in uw wachtwoord niet aan derden bekend te maken. U dient ons onmiddellijk op de hoogte te stellen zodra u zich bewust bent van een beveiligingslek of ongeoorloofd gebruik van uw account.",
+        "description4": "Je mag als gebruikersnaam niet de naam van een andere persoon of entiteit gebruiken, of een naam die niet wettelijk beschikbaar is voor gebruik, een naam of handelsmerk waarop rechten rusten van een andere persoon of entiteit dan jijzelf zonder de juiste toestemming, of een naam die anderszins aanstootgevend, vulgair of obsceen is."
+      },
+      "userConduct": {
+        "title": "Gebruikersgedrag en veiligheid",
+        "zeroTolerance": {
+          "title": "Nul-tolerantiebeleid",
+          "description": "U stemt ermee in de dienst niet te gebruiken om anderen lastig te vallen, te bedreigen, te stalken of te intimideren. Het bedrijf hanteert een nultolerantiebeleid ten aanzien van misbruik, intimidatie of schending van de rechten of veiligheid van anderen. Overtredingen kunnen leiden tot onmiddellijke schorsing of beëindiging van uw account."
+        },
+        "safetyDisclaimer": {
+          "title": "Veiligheidsverklaring",
+          "description": "De dienst faciliteert verbindingen en communicatie tussen gebruikers die ervoor kunnen kiezen elkaar persoonlijk te ontmoeten. We voeren geen achtergrondchecks uit en verifiëren de identiteit van gebruikers niet. U bent zelf volledig verantwoordelijk voor uw interacties met anderen. Wees voorzichtig, gebruik uw gezond verstand en neem de nodige veiligheidsmaatregelen wanneer u offline communiceert of afspreekt met andere gebruikers."
+        }
+      },
+      "content": {
+        "title": "Inhoud",
+        "yourRight": {
+          "title": "Jouw recht om content te plaatsen",
+          "description1": "Via onze dienst kunt u content plaatsen. U bent verantwoordelijk voor de content die u op de dienst plaatst, inclusief de wettigheid, betrouwbaarheid en geschiktheid ervan.",
+          "description2": "Door content op de Service te plaatsen, verleent u ons het recht en de licentie om die content te gebruiken, te wijzigen, openbaar uit te voeren, openbaar weer te geven, te reproduceren en te distribueren op en via de Service. U behoudt al uw rechten op alle content die u indient, plaatst of weergeeft op of via de Service en u bent verantwoordelijk voor de bescherming van die rechten.",
+          "description3": "U verklaart en garandeert dat: (i) de inhoud van u is (u bent de eigenaar) of dat u het recht hebt om deze te gebruiken en ons de rechten en licentie te verlenen zoals bepaald in deze voorwaarden, en (ii) het plaatsen van uw inhoud op of via de dienst geen inbreuk maakt op de privacyrechten, publiciteitsrechten, auteursrechten, contractuele rechten of andere rechten van welke persoon dan ook."
+        },
+        "restrictions": {
+          "title": "Inhoudsbeperkingen",
+          "description1": "Het bedrijf is niet verantwoordelijk voor de inhoud van de gebruikers van de dienst. U begrijpt en stemt er uitdrukkelijk mee in dat u als enige verantwoordelijk bent voor de inhoud en voor alle activiteiten die plaatsvinden onder uw account, ongeacht of deze door u of door een derde persoon die uw account gebruikt, worden uitgevoerd.",
+          "description2": "Het is u niet toegestaan om inhoud te verzenden die onwettig, aanstootgevend, kwetsend, walgelijk, bedreigend, lasterlijk, diffamerend, obsceen of anderszins bezwaarlijk is. Voorbeelden van dergelijke bezwaarlijke inhoud zijn onder andere, maar niet uitsluitend:",
+          "prohibitedContent": {
+            "unlawful": "Onwettig of het bevorderen van onwettige activiteiten.",
+            "discriminatory": "Lasterlijke, discriminerende of kwetsende inhoud, inclusief verwijzingen naar of commentaar over religie, ras, seksuele geaardheid, geslacht, nationale/etnische afkomst of andere doelgroepen.",
+            "spam": "Spam, machinaal of willekeurig gegenereerd, bestaande uit ongeoorloofde of ongevraagde reclame, kettingbrieven, elke andere vorm van ongeoorloofde werving, of elke vorm van loterij of kansspel.",
+            "malware": "Het bevatten of installeren van virussen, wormen, malware, trojaanse paarden of andere inhoud die is ontworpen of bedoeld om de werking van software, hardware of telecommunicatieapparatuur te verstoren, te beschadigen of te beperken.",
+            "infringing": "Inbreuk maken op de eigendomsrechten van een partij, waaronder patenten, handelsmerken, bedrijfsgeheimen, auteursrechten, portretrechten of andere rechten.",
+            "impersonating": "Het zich voordoen als een persoon of entiteit, inclusief het bedrijf en zijn werknemers of vertegenwoordigers.",
+            "privacy": "Het schenden van de privacy van derden.",
+            "false": "Onjuiste informatie en kenmerken."
+          },
+          "description3": "Het bedrijf behoudt zich het recht voor, maar is daartoe niet verplicht, om naar eigen inzicht te bepalen of bepaalde inhoud gepast is en voldoet aan deze voorwaarden. We kunnen weigeren inhoud weer te geven of deze verwijderen, en we behouden ons het recht voor om accounts die deze voorwaarden of onze communityrichtlijnen schenden, op te schorten of te beëindigen."
+        },
+        "backups": {
+          "title": "Inhoudsback-ups",
+          "description1": "Hoewel er regelmatig back-ups van de inhoud worden gemaakt, garandeert het bedrijf niet dat er geen gegevensverlies of -beschadiging zal optreden.",
+          "description2": "Beschadigde of ongeldige back-uppunten kunnen onder andere worden veroorzaakt door inhoud die beschadigd is voordat er een back-up van wordt gemaakt, of die tijdens het maken van een back-up verandert.",
+          "description3": "Het bedrijf zal ondersteuning bieden en proberen eventuele bekende of ontdekte problemen die de back-ups van de inhoud kunnen beïnvloeden, op te lossen. U erkent echter dat het bedrijf geen aansprakelijkheid heeft met betrekking tot de integriteit van de inhoud of het niet succesvol herstellen van de inhoud naar een bruikbare staat.",
+          "description4": "U stemt ermee in om een volledige en nauwkeurige kopie van alle inhoud te bewaren op een locatie die onafhankelijk is van de dienst."
+        }
+      },
+      "copyright": {
+        "title": "Auteursrechtbeleid",
+        "intellectualProperty": {
+          "title": "Inbreuk op intellectueel eigendom",
+          "description1": "Wij respecteren de intellectuele eigendomsrechten van anderen. Het is ons beleid om te reageren op elke bewering dat inhoud die op de dienst is geplaatst, inbreuk maakt op het auteursrecht of andere intellectuele eigendomsrechten van een persoon.",
+          "description2": "Als u de eigenaar bent van het auteursrecht, of namens een auteursrechthebbende gemachtigd bent, en u van mening bent dat het auteursrechtelijk beschermde werk is gekopieerd op een manier die auteursrechtinbreuk vormt en die plaatsvindt via de Service, dan dient u uw melding schriftelijk in te dienen bij onze auteursrechtagent via e-mail op support@ringdy.com en in uw melding een gedetailleerde beschrijving van de vermeende inbreuk op te nemen.",
+          "description3": "U kunt aansprakelijk worden gesteld voor schadevergoeding (inclusief kosten en advocaatkosten) voor het onjuist beweren dat bepaalde inhoud inbreuk maakt op uw auteursrecht."
+        },
+        "dmca": {
+          "title": "DMCA-melding en DMCA-procedure voor claims wegens inbreuk op het auteursrecht",
+          "description": "U kunt een melding indienen conform de Digital Millennium Copyright Act (DMCA) door onze auteursrechtagent schriftelijk de volgende informatie te verstrekken:",
+          "requirements": {
+            "signature": "Een elektronische of fysieke handtekening van de persoon die gemachtigd is om namens de eigenaar van het auteursrecht op te treden.",
+            "description": "Een beschrijving van het auteursrechtelijk beschermde werk waarvan u beweert dat er inbreuk op is gemaakt, inclusief de URL (d.w.z. het webadres) van de locatie waar het auteursrechtelijk beschermde werk zich bevindt of een kopie van het auteursrechtelijk beschermde werk.",
+            "identification": "Identificatie van de URL of andere specifieke locatie op de Service waar het materiaal dat volgens u inbreuk maakt, zich bevindt.",
+            "contact": "Uw adres, telefoonnummer en e-mailadres.",
+            "goodFaith": "Een verklaring van u waarin u aangeeft dat u te goeder trouw van mening bent dat het betwiste gebruik niet is toegestaan door de auteursrechthebbende, diens vertegenwoordiger of de wet.",
+            "accuracy": "Een verklaring van u, afgelegd onder ede, dat de bovenstaande informatie in uw melding juist is en dat u de auteursrechthebbende bent of gemachtigd bent om namens de auteursrechthebbende op te treden."
+          },
+          "contact": "U kunt contact opnemen met onze auteursrechtagent via e-mail op support@ringdy.com. Na ontvangst van een melding zal het bedrijf naar eigen inzicht de actie ondernemen die het passend acht, inclusief het verwijderen van de betwiste inhoud van de dienst."
+        }
+      },
+      "intellectualProperty": {
+        "title": "Intellectueel eigendom",
+        "description1": "De dienst en de oorspronkelijke inhoud ervan (met uitzondering van inhoud die door u of andere gebruikers is aangeleverd), functies en functionaliteit zijn en blijven het exclusieve eigendom van het bedrijf en zijn licentiegevers.",
+        "description2": "De dienst is beschermd door auteursrecht, handelsmerken en andere wetten van zowel het land als buitenlandse landen.",
+        "description3": "Onze handelsmerken en de vormgeving van onze producten mogen niet worden gebruikt in verband met enig product of dienst zonder de voorafgaande schriftelijke toestemming van het bedrijf."
+      },
+      "feedback": {
+        "title": "Uw feedback aan ons",
+        "description": "U draagt alle rechten, eigendomsrechten en belangen met betrekking tot de feedback die u aan het bedrijf verstrekt over. Indien een dergelijke overdracht om welke reden dan ook niet effectief is, stemt u ermee in het bedrijf een niet-exclusief, eeuwigdurend, onherroepelijk, royaltyvrij, wereldwijd recht en licentie te verlenen om dergelijke feedback onbeperkt te gebruiken, te reproduceren, openbaar te maken, in sublicentie te geven, te distribueren, te wijzigen en te exploiteren."
+      },
+      "links": {
+        "title": "Links naar andere websites",
+        "description1": "Onze dienst kan links bevatten naar websites of diensten van derden die geen eigendom zijn van en niet onder controle staan van het bedrijf.",
+        "description2": "Het bedrijf heeft geen controle over en aanvaardt geen verantwoordelijkheid voor de inhoud, het privacybeleid of de werkwijzen van websites of diensten van derden. U erkent en stemt er verder mee in dat het bedrijf niet verantwoordelijk of aansprakelijk is, direct of indirect, voor enige schade of verlies die is veroorzaakt of beweerdelijk is veroorzaakt door of in verband met het gebruik van of het vertrouwen op dergelijke inhoud, goederen of diensten die beschikbaar zijn op of via dergelijke websites of diensten.",
+        "description3": "Wij raden u ten zeerste aan de algemene voorwaarden en privacyverklaringen te lezen van websites of diensten van derden die u bezoekt."
+      },
+      "termination": {
+        "title": "Beëindiging",
+        "description1": "Wij kunnen uw account onmiddellijk beëindigen of opschorten, zonder voorafgaande kennisgeving of aansprakelijkheid, om welke reden dan ook, inclusief maar niet beperkt tot het geval u deze algemene voorwaarden schendt.",
+        "description2": "Bij beëindiging vervalt uw recht om de dienst te gebruiken onmiddellijk. Als u uw account wilt beëindigen, kunt u eenvoudigweg stoppen met het gebruik van de dienst.",
+        "dataDeletion": {
+          "title": "Gegevens verwijderen en account beëindigen",
+          "description": "U kunt op elk gewenst moment de verwijdering van uw account en persoonsgegevens aanvragen door contact met ons op te nemen via support@ringdy.com of door gebruik te maken van een van de verwijderingsopties in de app. Na beëindiging of verwijdering zullen wij uw persoonsgegevens verwijderen of anonimiseren in overeenstemming met de toepasselijke wetgeving, tenzij wij bepaalde gegevens wettelijk, om veiligheidsredenen of voor operationele doeleinden moeten bewaren."
+        }
+      },
+      "liability": {
+        "title": "Beperking van aansprakelijkheid",
+        "importantNotice": "Belangrijke juridische kennisgeving",
+        "notice": "Ongeacht eventuele schade die u lijdt, is de totale aansprakelijkheid van het bedrijf en al zijn leveranciers onder enige bepaling van deze voorwaarden en uw exclusieve rechtsmiddel voor al het voorgaande beperkt tot het bedrag dat u daadwerkelijk via de dienst hebt betaald, of 100 USD als u niets via de dienst hebt gekocht.",
+        "description1": "Voor zover maximaal toegestaan door de toepasselijke wetgeving, zijn het Bedrijf of zijn leveranciers in geen geval aansprakelijk voor enige bijzondere, incidentele, indirecte of gevolgschade van welke aard dan ook (inclusief, maar niet beperkt tot, schade door winstderving, verlies van gegevens of andere informatie, bedrijfsonderbreking, persoonlijk letsel, verlies van privacy voortvloeiend uit of op enigerlei wijze verband houdend met het gebruik van of de onmogelijkheid tot gebruik van de Dienst, software van derden en/of hardware van derden die met de Dienst worden gebruikt, of anderszins in verband met enige bepaling van deze Voorwaarden), zelfs indien het Bedrijf of een leverancier op de hoogte is gesteld van de mogelijkheid van dergelijke schade en zelfs indien de remedie haar essentiële doel niet bereikt.",
+        "description2": "In sommige staten is het niet toegestaan om impliciete garanties uit te sluiten of de aansprakelijkheid voor incidentele of gevolgschade te beperken. Dit betekent dat sommige van de bovenstaande beperkingen mogelijk niet van toepassing zijn. In deze staten is de aansprakelijkheid van elke partij beperkt tot de maximale mate die wettelijk is toegestaan."
+      },
+      "disclaimer": {
+        "title": "Disclaimer \"ZOALS HET IS\" en \"ZOALS BLE \"",
+        "description1": "De dienst wordt aan u geleverd \"zoals deze is\" en \"zoals BLE \" en met alle fouten en gebreken, zonder enige vorm van garantie. Voor zover maximaal toegestaan onder de toepasselijke wetgeving, wijst het bedrijf, namens zichzelf en namens zijn gelieerde ondernemingen en hun respectievelijke licentiegevers en dienstverleners, uitdrukkelijk alle garanties af, expliciet, impliciet, wettelijk of anderszins, met betrekking tot de dienst, inclusief alle impliciete garanties van verkoopbaarheid, geschiktheid voor een bepaald doel, eigendom en niet-inbreuk, en garanties die kunnen voortvloeien uit handelsgebruik, prestaties, gewoonte of handelspraktijk.",
+        "description2": "Zonder afbreuk te doen aan het voorgaande, geeft het Bedrijf geen enkele garantie of toezegging en verklaart het op geen enkele wijze dat de Dienst aan uw eisen zal voldoen, de beoogde resultaten zal behalen, compatibel zal zijn met of zal werken met andere software, applicaties, systemen of diensten, ononderbroken zal functioneren, aan prestatie- of betrouwbaarheidsnormen zal voldoen of foutloos zal zijn, of dat eventuele fouten of defecten kunnen of zullen worden gecorrigeerd.",
+        "description3": "Zonder afbreuk te doen aan het voorgaande, geven noch het Bedrijf noch enige van de leveranciers van het bedrijf enige verklaring of garantie van welke aard dan ook, expliciet of impliciet: (i) met betrekking tot de werking of beschikbaarheid van de Dienst, of de informatie, inhoud en materialen of producten die daarop zijn opgenomen; (ii) dat de Dienst ononderbroken of foutloos zal zijn; (iii) met betrekking tot de nauwkeurigheid, betrouwbaarheid of actualiteit van enige informatie of inhoud die via de Dienst wordt verstrekt; of (iv) dat de Dienst, de servers, de inhoud of e-mails die van of namens het Bedrijf worden verzonden, vrij zijn van virussen, scripts, trojaanse paarden, wormen, malware, tijdbommen of andere schadelijke componenten.",
+        "description4": "In sommige rechtsgebieden is het niet toegestaan bepaalde soorten garanties uit te sluiten of de wettelijke rechten van een consument te beperken. Daarom zijn sommige of alle bovenstaande uitsluitingen en beperkingen mogelijk niet op u van toepassing. In dat geval zullen de in dit gedeelte uiteengezette uitsluitingen en beperkingen echter worden toegepast voor zover dit onder de toepasselijke wetgeving mogelijk is."
+      },
+      "governingLaw": {
+        "title": "Toepasselijk recht",
+        "description": "De wetten van het betreffende land, met uitzondering van de regels inzake conflicten tussen wetten, zijn van toepassing op deze voorwaarden en uw gebruik van de dienst. Uw gebruik van de applicatie kan tevens onderworpen zijn aan andere lokale, regionale, nationale of internationale wetten."
+      },
+      "disputes": {
+        "title": "Geschillenbeslechting",
+        "description": "Als u zich zorgen maakt over de dienstverlening of een geschil hebt, stemt u ermee in om eerst te proberen het geschil informeel op te lossen door contact op te nemen met het bedrijf."
+      },
+      "euUsers": {
+        "title": "Voor gebruikers in de Europese Unie (EU)",
+        "description": "Als consument in de Europese Unie profiteert u van alle dwingende wettelijke bepalingen van het land waar u woonachtig bent."
+      },
+      "usLegal": {
+        "title": "Wettelijke naleving in de Verenigde Staten",
+        "description": "U verklaart en garandeert dat (i) u zich niet bevindt in een land dat onderworpen is aan een embargo van de Amerikaanse overheid, of dat door de Amerikaanse overheid is aangewezen als een land dat terrorisme steunt, en (ii) u niet voorkomt op een lijst van de Amerikaanse overheid met verboden of beperkte partijen."
+      },
+      "severability": {
+        "title": "Scheidbaarheid en afstand doen van rechten",
+        "severabilityTitle": "Scheidbaarheid",
+        "severabilityDescription": "Indien een bepaling van deze voorwaarden onafdwingbaar of ongeldig wordt geacht, zal die bepaling worden gewijzigd en geïnterpreteerd om de doelstellingen ervan zoveel mogelijk te verwezenlijken onder de toepasselijke wetgeving, en de overige bepalingen blijven volledig van kracht.",
+        "waiverTitle": "Vrijstelling",
+        "waiverDescription": "Behoudens hetgeen hierin is bepaald, heeft het niet uitoefenen van een recht of het niet eisen van de nakoming van een verplichting onder deze Voorwaarden geen invloed op het vermogen van een partij om dat recht op een later tijdstip alsnog uit te oefenen of die nakoming alsnog te eisen, noch vormt het afstand doen van een schending een afstand van enig later verzuim."
+      },
+      "translation": {
+        "title": "Vertaling Tolken",
+        "description": "Deze algemene voorwaarden kunnen vertaald zijn als wij ze via onze dienst aan u beschikbaar hebben gesteld. U stemt ermee in dat de oorspronkelijke Engelse tekst prevaleert in geval van een geschil."
+      },
+      "changes": {
+        "title": "Wijzigingen in deze algemene voorwaarden",
+        "description1": "Wij behouden ons het recht voor om, naar eigen goeddunken, deze voorwaarden op elk moment te wijzigen of te vervangen. Indien een wijziging van wezenlijke aard is, zullen wij redelijke inspanningen leveren om u ten minste 30 dagen van tevoren op de hoogte te stellen voordat de nieuwe voorwaarden van kracht worden. Wat een wezenlijke wijziging inhoudt, wordt naar ons eigen goeddunken bepaald.",
+        "description2": "Door na het van kracht worden van deze wijzigingen onze service te blijven gebruiken, gaat u akkoord met de herziene voorwaarden. Indien u niet akkoord gaat met de nieuwe voorwaarden, geheel of gedeeltelijk, dient u het gebruik van de website en de service te staken."
+      },
+      "contact": {
+        "title": "Neem contact met ons op",
+        "description": "Heeft u vragen over deze algemene voorwaarden? Neem dan contact met ons op:",
+        "email": "Via e-mail: support@ringdy.com",
+        "support": "Via ons in-app ondersteuningssysteem",
+        "website": "Bezoek onze website: www.ringdy.com"
+      },
+      "backToHome": "Terug naar de homepage",
+      "privacyPolicy": "Privacybeleid"
+    }
+  },
+  "safety": {
+    "title": "Veiligheidstips en -trucs",
+    "subtitle": "Uw veiligheid is onze prioriteit. Leer essentiële tips voor veilige netwerken en verbindingen.",
+    "lastUpdated": "Laatst bijgewerkt: januari 2025",
+    "commitment": {
+      "title": "Onze toewijding aan uw veiligheid",
+      "items": {
+        "privacy": "Jij bepaalt hoeveel je deelt — je kunt op elk moment overschakelen naar een avatar, en we delen je telefoonnummer of exacte adres nooit met andere gebruikers.",
+        "noStorage": "Wij delen uw persoonlijke contactgegevens niet met andere gebruikers, tenzij u ervoor kiest deze zelf te delen.",
+        "tools": "We bieden tools zoals blokkeren en rapporteren om ervoor te zorgen dat u controle heeft over elke interactie.",
+        "ageLimit": "Ringdy is alleen voor gebruikers van 18 jaar en ouder."
+      }
+    },
+    "respectfulBehavior": {
+      "title": "Respectvol gedrag is vereist.",
+      "expectation": "Wij verwachten van u het volgende:",
+      "items": {
+        "kind": "Wees vriendelijk, respectvol en eerlijk.",
+        "language": "Gebruik duidelijke en gepaste taal.",
+        "laws": "Houd u aan de lokale wetten en gemeenschapsnormen.",
+        "genuine": "Gebruik de app alleen voor oprechte en respectvolle interactie."
+      }
+    },
+    "prohibitedConduct": {
+      "title": "Verboden gedrag",
+      "warning": "Om ieders veiligheid te garanderen, mag u het volgende niet doen:",
+      "items": {
+        "harassment": "Iemand lastigvallen, stalken of pesten.",
+        "hateful": "Deel haatdragende, gewelddadige of discriminerende inhoud.",
+        "impersonation": "Imiteer je voor anderen of creëer nepsessies.",
+        "personalData": "Vraag om persoonlijke gegevens zoals adres, telefoonnummer of social media-accounts.",
+        "explicit": "Het versturen van expliciete, pornografische of aanstootgevende berichten is verboden.",
+        "scamming": "Neem deel aan oplichting, phishing of het afpersen van geld.",
+        "offPlatform": "Probeer chats naar externe berichtenapps te verplaatsen voor misleidende doeleinden.",
+        "tracking": "Pogingen om gebruikers te traceren of te lokaliseren buiten de mogelijkheden Bluetooth"
+      },
+      "consequence": "Elk van deze acties kan leiden tot schorsing of een permanente uitsluiting."
+    },
+    "commonSense": {
+      "title": "Gebruik je gezond verstand en wees voorzichtig.",
+      "intro": "U kent uw eigen veiligheid het beste. Deze tips zijn bedoeld om u te helpen:",
+      "chatting": {
+        "title": "🗣 Tijdens het chatten:",
+        "items": {
+          "noPersonalInfo": "Deel uw volledige naam, adres, telefoonnummer of financiële gegevens niet.",
+          "cautious": "Wees op je hoede voor mensen die snel vragen om het gesprek naar een andere plek te verplaatsen.",
+          "noPressure": "Voel je niet verplicht om te reageren of een gesprek voort te zetten."
+        }
+      },
+      "redFlags": {
+        "title": "🛑 Let op de waarschuwingssignalen:",
+        "items": {
+          "quickLove": "Iemand beweert verliefd te zijn na slechts een paar berichtjes.",
+          "moneyRequests": "Verzoeken om geld of persoonlijke gegevens over te maken",
+          "strangeLinks": "Vreemde links of verzoeken om chats buiten het platform.",
+          "emergencyStories": "Verhalen over noodreizen, ziekenhuisrekeningen of visumproblemen."
+        },
+        "advice": "Als er iets niet klopt, blokkeer het blok dan en meld het."
+      }
+    },
+    "reportBlock": {
+      "title": "Rapporteer- en blokkeertools",
+      "intro": "Als iemand:",
+      "reasons": {
+        "uncomfortable": "Het maakt je ongemakkelijk.",
+        "violates": "Schendt onze richtlijnen",
+        "suspicious": "Verstuurt verdachte of schadelijke berichten."
+      },
+      "instruction": "Gebruik de blokkeer- en rapporteerfunctie direct. We nemen alle meldingen serieus en herhaalde overtredingen kunnen leiden tot een permanente schorsing.",
+      "anonymity": "U blijft anoniem wanneer u anderen meldt. De persoon die de melding heeft gedaan, krijgt geen bericht van wie dat is."
+    },
+    "meetingInPerson": {
+      "title": "Een fysieke ontmoeting (indien van toepassing)",
+      "disclaimer": "Ringdy is ontworpen om je te helpen mensen in de buurt te vinden en contact met ze te leggen via Bluetooth scanning of lokale locaties. Veel gebruikers kiezen ervoor om elkaar na een match ook persoonlijk te ontmoeten. Houd rekening met de volgende voorzorgsmaatregelen:",
+      "safetyTips": {
+        "publicPlaces": "Ontmoet elkaar alleen op openbare plaatsen.",
+        "tellFriend": "Vertel een vriend(in) over je plannen.",
+        "shareLocation": "Deel je locatie met iemand die je vertrouwt.",
+        "noRides": "Neem geen lift aan van mensen die je net hebt ontmoet.",
+        "staySober": "Blijf nuchter en alert.",
+        "chargePhone": "Laad je telefoon op en houd hem bij de hand.",
+        "ownTransport": "Regel zelf uw vervoer in beide richtingen."
+      },
+      "reminder": "Als u zich ongemakkelijk voelt, kunt u op elk moment vertrekken. Blokkeer de gebruiker en meld het daarna aan ons."
+    },
+    "enforcement": {
+      "title": "Handhaving en veiligheidsmaatregelen",
+      "intro": "Ringdy kan de volgende maatregelen nemen wanneer er overtredingen plaatsvinden:",
+      "actions": {
+        "suspend": "Accounts tijdelijk opschorten",
+        "ban": "Misbruikende gebruikers permanent blokkeren",
+        "lawEnforcement": "Meld ernstige bedreigingen aan de politie.",
+        "verification": "Verificatie is vereist bij vermoedelijke identiteitsfraude."
+      }
+    },
+    "appeals": {
+      "title": "Beroepsprocedures en ondersteuning",
+      "intro": "Als je vindt dat je onterecht bent gebanned, of als je een ernstig probleem wilt melden:",
+      "contact": {
+        "email": "📧 E-mail: support@ringdy.com",
+        "website": "🌐 Bezoek: Ringdy Safety Center (Binnenkort beschikbaar)"
+      }
+    },
+    "finalThoughts": {
+      "title": "Slotgedachten",
+      "message": "Ringdy is er om mensen te helpen op een veilige en betekenisvolle manier met elkaar in contact te komen, zonder hun persoonlijke identiteit prijs te geven. Jij bepaalt altijd met wie je chat, en wij staan achter je."
+    },
+    "navigation": {
+      "backToHome": "Terug naar de homepage",
+      "downloadApp": "Download app"
+    }
+  },
+  "profile": {
+    "connectViaBLE": "Verbinden via BLE",
+    "stats": {
+      "connections": "Verbindingen",
+      "messages": "Berichten",
+      "filesShared": "Gedeelde bestanden"
+    },
+    "location": "San Francisco, Californië",
+    "onlineViaBLE": "Online via BLE",
+    "occupation": "Softwareontwikkelaar - Tech-startup",
+    "education": "Stanford Universiteit - Informatica",
+    "interests": "Interesses: IoT, Bluetooth technologie, mobiele ontwikkeling",
+    "bio": "Ik ben gepassioneerd over het creëren van naadloze verbindingen door middel van technologie. Ik vind het geweldig om de mogelijkheden van Bluetooth Low Energy te verkennen en apps te ontwikkelen die mensen met elkaar verbinden. Ik kijk er altijd naar uit om in contact te komen met andere ontwikkelaars en techliefhebbers in mijn omgeving. Neem gerust contact op voor samenwerking of gewoon een goed technisch gesprek!",
+    "showMore": "Meer weergeven"
+  },
+  "auth": {
+    "agreeWith": "Ik ben het eens met de"
+  }
+}

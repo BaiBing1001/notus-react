@@ -1,0 +1,1435 @@
+{
+  "navbar": {
+    "features": "Caractéristiques",
+    "subscription": "Abonnement",
+    "download": "Télécharger",
+    "legal": "Légal",
+    "privacyPolicy": "politique de confidentialité",
+    "termsOfUse": "Conditions d'utilisation",
+    "safetyTips": "Conseils et astuces de sécurité"
+  },
+  "hero": {
+    "title": "Trouver des personnes à proximité.\n Connectez-vous dans la vraie vie.",
+    "subtitle": "Secouez votre appareil pour découvrir les personnes à proximité via Bluetooth , ou rejoignez un lieu proche pour voir qui s'y trouve. Envoyez une demande d'ami, trouvez votre match et commencez à discuter ; vous pouvez masquer votre avatar jusqu'à ce que vous soyez prêt(e) à en dire plus.",
+    "discoverFeatures": "Découvrez les fonctionnalités",
+    "downloadApp": "Télécharger l'application",
+    "anonymousAvatars": "Avatars optionnels",
+    "autoExpiry": "Bluetooth + Lieux",
+    "privacyFirst": "La confidentialité d'abord"
+  },
+  "features": {
+    "proximityTitle": "Découverte basée sur la proximité",
+    "proximityDescription": "Trouvez des personnes à proximité en scannant un Bluetooth ou en rejoignant un lieu sur la carte. Envoyez une demande d'ami et commencez à discuter une fois que vous avez trouvé un correspondant.",
+    "avatarsTitle": "Confidentialité de l'avatar (optionnelle)",
+    "avatarsDescription": "Gardez votre avatar pendant que vous apprenez à connaître quelqu'un, et passez à vos vraies photos lorsque vous serez prêt(e).",
+    "expiringTitle": "Découverte basée sur le lieu",
+    "expiringDescription": "Explorez les lieux suggérés à proximité et voyez qui s'est enregistré dans un rayon donné ; inutile de scruter constamment.",
+    "revealTitle": "Lien",
+    "revealDescription": "Considérez une relation exclusive comme solide une fois que vous avez trouvé quelqu'un avec qui vous voulez rester.",
+    "bluetoothTitle": "Technologie Bluetooth LE",
+    "bluetoothDescription": "Connectez-vous sans Internet grâce à la technologie Bluetooth Low Energy avancée pour un réseau local efficace.",
+    "keyFeaturesTitle": "Caractéristiques principales",
+    "keyFeaturesDescription": "Ringdy regorge de fonctionnalités puissantes conçues pour améliorer votre expérience de connectivité locale où que vous soyez.",
+    "downloadNow": "Télécharger maintenant",
+    "tags": {
+      "autoDiscovery": "Découverte automatique",
+      "chatMessaging": "Messagerie instantanée",
+      "fileSharing": "Partage de fichiers",
+      "profiles": "Profils",
+      "privacyControls": "Contrôles de confidentialité",
+      "offlineMode": "Mode hors ligne",
+      "crossPlatform": "Multiplateforme",
+      "lowPower": "Faible puissance"
+    }
+  },
+  "useCases": {
+    "actionTitle": "Ringdy en action",
+    "actionDescription": "Découverte automatique, messagerie instantanée et partage de profil dans des environnements sociaux réels. Profitez d'une connectivité fluide où que vous soyez grâce à la technologie Bluetooth Low Energy avancée.",
+    "campusTitle": "Campus Connect",
+    "campusDescription": "Trouvez des partenaires d'étude instantanément",
+    "eventTitle": "Réseautage événementiel",
+    "eventDescription": "Échangez lors de conférences",
+    "businessTitle": "Réunion d'affaires",
+    "businessDescription": "Relations professionnelles",
+    "cafeTitle": "Café Connections",
+    "cafeDescription": "Rencontrez des amateurs de café à proximité",
+    "localTitle": "Découverte locale",
+    "localDescription": "Explorez votre quartier",
+    "gamingTitle": "Groupes de jeux",
+    "gamingDescription": "Trouver des partenaires de jeu",
+    "perfectTitle": "Cas d'utilisation parfaits",
+    "perfectDescription": "Ringdy transforme n'importe quel lieu en une opportunité de réseautage. Que vous soyez à l'université, à une conférence ou dans votre café habituel, ",
+    "perfectDescriptionContinued": "Découvrez instantanément des liens significatifs.",
+    "approachDescription": "Des groupes d'étude aux réseaux professionnels, notre approche basée sur la proximité rend les échanges naturels et faciles.",
+    "tryItNow": "Essayez-le maintenant",
+    "tags": {
+      "studyGroups": "Groupes d'étude",
+      "events": "Événements",
+      "coworking": "Espaces de coworking",
+      "gaming": "Jeux",
+      "travel": "Voyage",
+      "shopping": "Achats",
+      "fitness": "Aptitude",
+      "social": "Sociale"
+    }
+  },
+  "community": {
+    "whyLoveTitle": "Pourquoi les gens adorent Ringdy",
+    "whyLoveDescription": "Nos utilisateurs nous disent régulièrement à quel point Ringdy a transformé leur expérience de réseautage. Qu'il s'agisse de rencontrer des gens dans des cafés ou de se connecter lors d'événements, l'application crée de véritables liens à proximité.",
+    "privacyProtection": "Conception respectueuse de la vie privée",
+    "instantConnection": "Connexion instantanée sans internet",
+    "lowPowerConsumption": "Consommation d'énergie ultra-faible",
+    "experienceTitle": "Découvrez Ringdy",
+    "experienceDescription": "Explorez notre application à travers différentes interfaces utilisateur. À partir des profils utilisateurs ",
+    "experienceDescriptionContinued": "Pour en savoir plus sur les flux de connexion, découvrez comment Ringdy rend la mise en réseau basée sur la proximité intuitive et attrayante.",
+    "anonymousProfiles": "Profils d'avatar",
+    "chatInterface": "Interface de chat",
+    "nearbyDiscovery": "Découverte à proximité",
+    "joinTitle": "Rejoignez notre communauté",
+    "joinDescription1": "Ringdy est bien plus qu'une simple application : c'est un moyen de rencontrer des personnes authentiques à proximité, que ce soit par scan Bluetooth ou via vos lieux de prédilection.",
+    "joinDescription2": "Suivez-nous pour rester informé des nouvelles fonctionnalités, des témoignages d'utilisateurs et des événements communautaires dans votre région !",
+    "downloadNow": "Télécharger maintenant"
+  },
+  "download": {
+    "title": "Télécharger Ringdy",
+    "subtitle": "Téléchargez Ringdy sur votre appareil mobile et commencez à communiquer avec les personnes à proximité. Disponible dès maintenant sur Android et iOS.",
+    "googlePlay": "Google Play",
+    "appStore": "App Store",
+    "getItOn": "Obtenez-le sur",
+    "downloadOn": "Télécharger sur le",
+    "comingSoon": "À venir",
+    "whatYouGet": "Ce que vous obtenez",
+    "instantConnections": "Connexions instantanées",
+    "instantConnectionsDesc": "Connectez-vous instantanément avec les personnes à proximité grâce à la technologie Bluetooth Low Energy ou en rejoignant un lieu local.",
+    "anonymousProfiles": "Confidentialité de l'avatar",
+    "anonymousProfilesDesc": "Utilisez un avatar pour préserver votre confidentialité et partagez vos vraies photos lorsque vous serez prêt(e).",
+    "privacyFirst": "La confidentialité d'abord",
+    "privacyFirstDesc": "Vous contrôlez ce que vous partagez et quand. Les outils de blocage et de signalement garantissent la sécurité de la communauté.",
+    "crossPlatform": "Plateforme multiplateforme",
+    "crossPlatformDesc": "Fonctionne parfaitement sur les appareils iOS et Android.",
+    "requirements": "Configuration système requise",
+    "androidReq": "Android 6.0 ou version ultérieure",
+    "iosReq": "iOS 12.0 ou version ultérieure",
+    "bluetoothReq": "Prise Bluetooth 4.0 ( BLE )",
+    "storageReq": "50 Mo d'espace de stockage gratuit",
+    "systemDescription": "Ringdy nécessite des appareils compatibles avec la technologie Bluetooth Low Energy ( BLE ). La plupart des smartphones et tablettes modernes prennent en charge BLE technologie.",
+    "androidRequirements": "Configuration requise pour Android :",
+    "androidReq1": "Android 5.0 (niveau d'API 21) ou version ultérieure",
+    "androidReq2": "Prise en Bluetooth 4.0 LE",
+    "androidReq3": "Autorisations de localisation (pour la numérisation BLE )",
+    "androidReq4": "2 Go de RAM minimum recommandés",
+    "iosRequirements": "Configuration requise pour iOS :",
+    "iosReq1": "iOS 12.0 ou version ultérieure",
+    "iosReq2": "iPhone 5s ou plus récent, iPad Air ou plus récent",
+    "iosReq3": "appareil compatible Bluetooth 4.0 LE",
+    "iosReq4": "Actualisation en arrière-plan activée",
+    "learnMoreFeatures": "Découvrez les fonctionnalités Ringdy !",
+    "crossPlatformTitle": "Compatibilité multiplateforme",
+    "crossPlatformCompatibilityDesc": "Connectez-vous avec des utilisateurs sur différentes plateformes. Les utilisateurs Android et iOS peuvent se découvrir et discuter entre eux en toute simplicité.",
+    "android": {
+      "title": "Androïde",
+      "description": "L'expérience Ringdy complète est disponible sur les appareils Android fonctionnant sous Android 5.0 (niveau d'API 21) et versions ultérieures.",
+      "featuresTitle": "Caractéristiques:",
+      "features": {
+        "bluetooth": "Analyse et publicité Bluetooth LE",
+        "background": "Opération en arrière-plan",
+        "notifications": "Notifications push",
+        "offline": "Prise en charge du mode hors ligne"
+      },
+      "downloadButton": "Télécharger sur Google Play"
+    },
+    "ios": {
+      "title": "iOS",
+      "description": "Application native iOS optimisée pour iPhone et iPad, compatible avec iOS 12.0 et versions ultérieures.",
+      "featuresTitle": "Caractéristiques:",
+      "features": {
+        "bluetooth": "Intégration Bluetooth de base",
+        "background": "Actualisation de l'application en arrière-plan",
+        "privacy": "Conception axée sur la confidentialité",
+        "universal": "Prise en charge universelle des applications"
+      },
+      "downloadButton": "Télécharger sur l'App Store"
+    },
+    "qrCode": {
+      "title": "Téléchargement rapide",
+      "description": "Scannez le code QR avec l'appareil photo de votre téléphone pour télécharger Ringdy",
+      "placeholder": "Code QR",
+      "instruction": "Pointez votre appareil photo vers le code QR pour télécharger"
+    },
+    "installation": {
+      "title": "Installation facile",
+      "description": "Pour commencer avec Ringdy rien de plus simple. Téléchargez l'application, accordez les autorisations nécessaires et découvrez les personnes à proximité.",
+      "step1": "Téléchargez l'application depuis la boutique d'applications de votre plateforme.",
+      "step2": "Autoriser l'accès Bluetooth et à la localisation",
+      "step3": "Créez votre profil et commencez à communiquer !"
+    },
+    "callToAction": {
+      "title": "Rejoignez la communauté Ringdy",
+      "description": "Commencez à communiquer avec les personnes à proximité en toute sécurité et confidentialité. Téléchargez Ringdy dès aujourd'hui et découvrez l'avenir des réseaux de proximité.",
+      "googlePlay": "Google Play",
+      "appStore": "App Store"
+    }
+  },
+  "subscription": {
+    "title": "Ringdy Premium",
+    "subtitle": "Débloquez des fonctionnalités avancées pour une meilleure connexion. Choisissez le forfait qui correspond à vos besoins réseau.",
+    "weeklyTitle": "Premium Hebdomadaire",
+    "weeklyPrice": "1,99 $",
+    "weeklyPeriod": "/semaine",
+    "weeklyDescription": "Parfait pour essayer les fonctionnalités premium",
+    "chooseWeekly": "Choisir Hebdomadaire",
+    "monthlyTitle": "Mensuel",
+    "monthlyPrice": "Voir les tarifs",
+    "monthlyPeriod": "par mois",
+    "monthlyDescription": "Flexible, annulez à tout moment",
+    "mostPopular": "Les plus populaires",
+    "chooseMonthly": "Choisissez l'abonnement mensuel",
+    "sixMonthTitle": "Six mois",
+    "sixMonthPrice": "Voir les tarifs",
+    "sixMonthPeriod": "par semestre",
+    "sixMonthDescription": "Économisez davantage sur six mois",
+    "chooseSixMonth": "Choisissez Six Mois",
+    "featuresTitle": "Explication des fonctionnalités Premium",
+    "featuresDescription": "Ringdy Premium débloque des fonctionnalités puissantes conçues pour améliorer votre expérience de réseautage et vous aider à établir des relations plus significatives.",
+    "enhancedNetworking": "Réseautage amélioré",
+    "enhancedNetworkingDesc": "Les fonctionnalités Premium vous permettent de vous connecter plus efficacement sans limites quotidiennes.",
+    "features": {
+      "unlimitedRequests": "Demandes d'amis illimitées",
+      "advancedFilters": "Filtres avancés",
+      "meetingPlaces": "Suggestions intelligentes de lieux de rencontre",
+      "rematch": "Reconnexion avec des utilisateurs précédents",
+      "unlimitedRequestsDesc": "Envoyez des demandes d'amis illimitées quotidiennement. Utilisateurs gratuits limités à 20/jour.",
+      "advancedFiltersDesc": "Filtrez par intérêts, personnalité et statut vérifié pour des connexions authentiques.",
+      "meetingPlacesDesc": "Obtenez des suggestions d'emplacement personnalisées basées sur votre zone exacte.",
+      "rematchDesc": "Reconnectez-vous avec des utilisateurs précédents lorsque vous vous croisez à nouveau.",
+      "unlimitedConnections": "Connexions illimitées",
+      "unlimitedAreaAccess": "Accès illimité à la zone",
+      "unlimitedUndo": "Annulation illimitée",
+      "profilePriority": "Priorité du profil",
+      "premiumAvatars": "Avatars Premium",
+      "customAvatar": "Avatar personnalisé",
+      "unlimitedConnectionsDesc": "Ajoutez des amis et acceptez des invitations sans aucune limite quotidienne.",
+      "unlimitedAreaAccessDesc": "Participez à autant de lieux que vous le souhaitez, sans aucune restriction.",
+      "unlimitedUndoDesc": "Annuler toute demande d'ajout d'ami à tout moment.",
+      "profilePriorityDesc": "Votre profil apparaît toujours en haut de la liste affichée aux autres utilisateurs.",
+      "premiumAvatarsDesc": "Accédez à une collection exclusive de designs d'avatars premium.",
+      "customAvatarDesc": "Créez un avatar personnalisé à partir de vos propres photos."
+    },
+    "faqTitle": "Foire aux questions",
+    "faqDescription": "Vous avez des questions sur Ringdy Premium ? Nous avons les réponses.",
+    "faq": {
+      "cancelTitle": "Puis-je résilier mon abonnement à tout moment ?",
+      "cancelAnswer": "Oui, vous pouvez résilier votre abonnement à tout moment via les paramètres de votre compte ou la boutique d'applications de votre appareil. Vos fonctionnalités premium restent actives jusqu'à la fin de votre période de facturation en cours.",
+      "unlimitedTitle": "Que signifie « Connexions illimitées » ?",
+      "unlimitedAnswer": "Avec Premium , vous pouvez ajouter des amis et accepter des invitations sans les limites quotidiennes qui s'appliquent aux comptes gratuits.",
+      "filtersTitle": "Que sont exactement les filtres avancés ?",
+      "filtersAnswer": "Les filtres avancés vous permettent de rechercher par intérêts, tranche d'âge, profession, rayon de distance et statut d'activité. Vous pouvez également filtrer par utilisateurs actuellement en ligne ou qui ont été actifs récemment pour de meilleures chances de connexion.",
+      "meetingTitle": "Comment fonctionne la suggestion de lieux de rencontre ?",
+      "meetingAnswer": "Notre IA suggère des lieux de rencontre sûrs et publics comme des cafés, bibliothèques ou espaces de coworking à distance de marche des deux utilisateurs. Elle considère vos préférences, votre emplacement actuel et l'heure de la journée pour recommander les meilleurs endroits pour se rencontrer.",
+      "rematchTitle": "Que signifie \"reconnexion avec des utilisateurs précédents\" ?",
+      "rematchAnswer": "Si vous avez eu une conversation qui a expiré (30 minutes) sans révéler d'identités, les utilisateurs premium peuvent se reconnecter avec cette personne à nouveau si vous vous croisez à proximité. Cela vous donne une seconde chance de créer une connexion.",
+      "trialTitle": "Y a-t-il un essai gratuit disponible ?",
+      "trialAnswer": "Oui ! Les nouveaux utilisateurs obtiennent un essai gratuit de 7 jours de toutes les fonctionnalités premium. Vous pouvez explorer les demandes d'amis illimitées, les filtres avancés et les suggestions de rencontre avant de décider quel plan vous convient le mieux.",
+      "offlineTitle": "Les fonctionnalités premium fonctionnent-elles sans internet ?",
+      "offlineAnswer": "La détection de proximité BLE fonctionne hors ligne, mais les fonctionnalités premium comme les suggestions d'emplacement, les demandes illimitées et les filtres avancés nécessitent une connectivité internet pour une fonctionnalité complète.",
+      "paymentTitle": "Quels modes de paiement acceptez-vous ?",
+      "paymentAnswer": "Nous acceptons les paiements via la boutique d'applications de votre appareil (Google Play ou l'App Store), y compris tous les modes de paiement qui y sont pris en charge.",
+      "areaTitle": "Qu'est-ce que « l'accès illimité à une zone » ?",
+      "areaAnswer": "Les membres Premium peuvent rejoindre autant de lieux à proximité qu'ils le souhaitent, sans restriction quant au nombre de zones qu'ils peuvent découvrir par jour.",
+      "ticketsTitle": "Que sont les Pass Découverte ?",
+      "ticketsAnswer": "Les Pass Découverte sont une alternative à l'abonnement, sans engagement : chaque pass vous permet d'accéder à un site à proximité et de l'explorer sans souscrire à un forfait récurrent.",
+      "nightPassTitle": "Qu'est-ce que le Night Pass ?",
+      "nightPassAnswer": "Le Night Pass est un pass de 24 heures qui permet de découvrir les lieux pendant une journée ou une nuit complète sans utiliser de Discovery Pass."
+    },
+    "priceDisclaimer": "Les prix affichés sont des conversions approximatives en dollars américains, basées sur la région de votre navigateur. Si les taux de change ne sont pas disponibles, les prix s'affichent en dollars américains. Les prix définitifs dans l'application sont fixés par votre boutique d'applications et peuvent différer.",
+    "yearlyTitle": "Annuel",
+    "yearlyPrice": "Voir les tarifs",
+    "yearlyPeriod": "par année",
+    "yearlyDescription": "Meilleur rapport qualité-prix pour les utilisateurs réguliers",
+    "bestValue": "Meilleure valeur",
+    "chooseYearly": "Choisir l'abonnement annuel",
+    "tickets": {
+      "title": "Pass découverte",
+      "subtitle": "Utilisez les découvertes pour explorer les personnes se trouvant à proximité sans abonnement complet.",
+      "single": "Découverte unique",
+      "singleDesc": "Utilisez un seul pass pour accéder à un lieu et voir qui est présent.",
+      "venueAccessFeature": "Chaque laissez-passer donne accès à un seul site.",
+      "pack3": "3 découvertes",
+      "pack3Desc": "Trois Pass Découverte. Chaque pass donne accès à un lieu.",
+      "pack5": "5 découvertes",
+      "pack5Desc": "Cinq Pass Découverte. Chaque pass donne accès à un lieu.",
+      "bestValue": "Meilleure valeur",
+      "specialTicket": "Night Pass",
+      "specialTicketDesc": "Accès illimité aux différents lieux pendant 24 heures sans utiliser de Pass Découverte."
+    }
+  },
+  "footer": {
+    "keepInTouch": "Restons en contact !",
+    "findUsOn": "Retrouvez-nous sur l'une de ces plateformes, nous répondons sous 1 à 2 jours ouvrables.",
+    "usefulLinks": "Liens utiles",
+    "aboutUs": "À propos de nous",
+    "blog": "Blog",
+    "github": "Github",
+    "freeProducts": "Produits gratuits",
+    "otherResources": "Autres ressources",
+    "mitLicense": "Licence MIT",
+    "termsConditions": "Conditions générales",
+    "privacyPolicy": "politique de confidentialité",
+    "contactUs": "Contactez-nous",
+    "copyright": "Copyright © {{year}} Ringdy . Tous droits réservés."
+  },
+  "featurePage": {
+    "title": "Découvrez les lieux à proximité.\n Entrez en contact avec de vraies personnes.",
+    "subtitle": "Explorez les lieux suggérés à proximité, découvrez les personnes autour de vous via Bluetooth et envoyez des demandes d'amis qui débouchent sur de véritables conversations.",
+    "exploreFeatures": "Explorez les fonctionnalités",
+    "downloadApp": "Télécharger l'application",
+    "heroTitle": "Découvrez de vraies connexions à proximité",
+    "heroSubtitle": "Rejoignez un lieu suggéré ou explorez les environs pour voir qui est à proximité et connectez-vous avec des personnes intéressantes grâce à la technologie Bluetooth Low Energy.",
+    "discoverCrowdedPlaces": "Découvrez les lieux à proximité",
+    "discoverCrowdedPlacesDesc": "Recevez des suggestions de lieux populaires à proximité où vous pourrez rencontrer des personnes partageant les mêmes idées et nouer des relations significatives.",
+    "scanThroughAvatars": "Voir qui est à proximité",
+    "scanThroughAvatarsDesc": "Parcourez les profils des personnes à proximité, avec la possibilité de conserver votre avatar jusqu'à ce que vous soyez prêt à en partager davantage.",
+    "revealAndMeet": "Match & Chat",
+    "revealAndMeetDesc": "Envoyez une demande d'ami, et une fois qu'elle sera acceptée, vous serez mis en relation et pourrez commencer à discuter dans l'application.",
+    "proximityBasedConnections": "Connexions réelles basées sur la proximité",
+    "proximityBasedConnectionsDesc": "Notre application vous suggère des lieux à proximité où vous pouvez rencontrer des personnes partageant vos centres d'intérêt. Une fois à portée, parcourez les profils des personnes avoisinantes pour trouver des contacts potentiels.",
+    "bleProximityTech": "La technologie Bluetooth Low Energy garantit que vous ne pouvez vous connecter qu'avec des personnes réellement proches, rendant chaque connexion authentique et réelle.",
+    "downloadNow": "Téléchargez Ringdy maintenant !",
+    "realTimeProximity": "Détection de proximité en temps réel",
+    "realTimeProximityDesc": "N'entrez en contact qu'avec des personnes qui se trouvent réellement à proximité ou au même endroit que vous, afin de garantir des échanges authentiques.",
+    "howItWorks": "Comment ça marche",
+    "howItWorksDesc": "Trois étapes simples pour découvrir les lieux à proximité, entrer en contact avec de vraies personnes et commencer à discuter.",
+    "step1Title": "Scannez ou rejoignez un lieu",
+    "step1Desc": "Secouez le robot pour effectuer une recherche via Bluetooth , ou parcourez les lieux suggérés à proximité et rejoignez celui qui vous intéresse.",
+    "step2Title": "Parcourir les profils à proximité",
+    "step2Desc": "Consultez les profils des personnes à proximité, avec la possibilité de masquer leur avatar jusqu'à ce que vous soyez prêt à en partager davantage.",
+    "step3Title": "Envoyer une demande et discuter",
+    "step3Desc": "Envoyez une demande d'ami, et une fois acceptée, vous serez mis en relation et pourrez commencer à discuter directement dans l'application.",
+    "coreFeatures": "Fonctionnalités principales",
+    "proximityNetworking": "Réseautage de proximité",
+    "proximityDesc": "Communiquez avec les personnes à proximité immédiate grâce à la technologie Bluetooth Low Energy avancée.",
+    "anonymousChat": "Appariement des demandes d'amis",
+    "anonymousChatDesc": "Envoyez une demande d'ami et commencez à discuter une fois qu'elle sera acceptée — sans pression, sans spam.",
+    "autoExpiry": "Découverte des lieux",
+    "autoExpiryDesc": "Rejoignez les lieux suggérés à proximité pour voir qui s'est enregistré dans un rayon défini.",
+    "gradualReveal": "Révélation progressive de l'identité",
+    "gradualRevealDesc": "Choisissez le moment opportun pour passer de votre avatar à vos vraies photos, au fur et à mesure que les liens se développent naturellement.",
+    "keyPrivacyFeatures": "Principales fonctionnalités de confidentialité",
+    "keyPrivacyFeaturesDesc": "Chaque fonctionnalité est conçue pour un réseautage sécurisé, des avatars optionnels à la mise en relation des demandes d'amis qui protège votre vie privée.",
+    "avatarBasedProfiles": "Profils optionnels basés sur un avatar",
+    "autoExpiringChats": "Recherche de lieux dans un rayon défini",
+    "progressiveIdentity": "Révélation de l'identité progressiste",
+    "ourTeam": "Notre équipe",
+    "ourTeamDesc": "Des experts passionnés, déterminés à connecter les gens grâce à une technologie innovante axée sur la protection de la vie privée.",
+    "team": {
+      "alex": {
+        "name": "Alex Chen",
+        "role": "Ingénieur de protocole BLE"
+      },
+      "sarah": {
+        "name": "Sarah Johnson",
+        "role": "Développeur d'applications mobiles"
+      },
+      "maria": {
+        "name": "Maria Rodriguez",
+        "role": "Responsable de la confidentialité et de la sécurité"
+      },
+      "david": {
+        "name": "David Kim",
+        "role": "Fondateur et PDG"
+      },
+      "title": "Notre équipe",
+      "description": "Des personnes passionnées, déterminées à connecter les gens grâce à une technologie innovante axée sur la protection de la vie privée.",
+      "roles": {
+        "engineer": "Ingénieur de protocole BLE",
+        "developer": "Développeur d'applications mobiles",
+        "security": "Responsable de la confidentialité et de la sécurité",
+        "ceo": "Fondateur et PDG"
+      }
+    },
+    "readyToConnect": "Prêt à vous connecter ?",
+    "readyToConnectDesc": "Rejoignez des personnes qui échangent en toute sécurité via Bluetooth et la découverte de lieux. Trouvez un partenaire, discutez et ne révélez votre identité que lorsque vous avez trouvé une véritable connexion.",
+    "finalFeatures": {
+      "anonymousAvatars": "Avatars optionnels",
+      "anonymousAvatarsDesc": "Gardez votre avatar affiché pendant que vous apprenez à connaître quelqu'un, pas de pression pour le révéler tout de suite.",
+      "autoExpire": "Découverte du lieu et Bluetooth",
+      "autoExpireDesc": "Trouvez des personnes en scannant les environs via Bluetooth ou en rejoignant un lieu local suggéré.",
+      "friendRequests": "Demandes d'amis",
+      "friendRequestsDesc": "Envoyez des demandes aux personnes intéressantes et n'entamez des conversations qu'avec des intérêts mutuels."
+    },
+    "eventNetworking": "Réseautage événementiel",
+    "eventNetworkingDesc": "Découvrez les personnes qui vous entourent lors de conférences, de rencontres et d'événements grâce à la technologie de proximité Bluetooth .",
+    "studyGroups": "Groupes d'étude",
+    "studyGroupsDesc": "Trouvez des partenaires d'études à proximité sur le campus sans avoir besoin de les connaître déjà.",
+    "workplace": "Espaces de travail et cafés",
+    "workplaceDesc": "Rencontrez des collègues et d'autres professionnels dans les espaces de coworking et les cafés à proximité.",
+    "anonymousNetworking": "Confidentialité basée sur l'avatar",
+    "anonymousNetworkingDesc": "Gardez un avatar le temps de vous familiariser avec le poste, puis partagez vos vraies photos quand vous le souhaitez.",
+    "privacyProtection": "Vous gardez toujours le contrôle de ce que vous partagez et avec qui.",
+    "privacyFeatures": {
+      "title": "Vous contrôlez votre vie privée",
+      "description": "Ringdy est conçu pour que vous décidiez de ce que vous partagez et quand – de la façon dont vous découvrez les gens à la part de vous-même que vous révélez.",
+      "avatarProfiles": "Profils optionnels basés sur un avatar",
+      "autoExpiring": "Recherche de lieux dans un rayon défini",
+      "progressiveReveal": "Révélez vos vraies photos à votre rythme."
+    },
+    "cta": {
+      "title": "Prêt à vous connecter ?",
+      "description": "Rejoignez des personnes qui tissent des liens authentiques à proximité, via Bluetooth ou en vous enregistrant dans un lieu local.",
+      "features": {
+        "anonymousAvatars": "Avatars optionnels",
+        "anonymousAvatarsDesc": "Gardez votre avatar affiché pendant que vous apprenez à connaître quelqu'un, pas de pression pour le révéler tout de suite.",
+        "autoExpire": "Découverte du lieu et Bluetooth",
+        "autoExpireDesc": "Trouvez des personnes en scannant les environs ou en rejoignant un lieu local suggéré.",
+        "friendRequests": "Demandes d'amis",
+        "friendRequestsDesc": "Envoyez des demandes aux personnes intéressantes et n'entamez des conversations qu'avec des intérêts mutuels."
+      }
+    }
+  },
+  "legal": {
+    "privacyPolicy": {
+      "title": "politique de confidentialité",
+      "subtitle": "Le respect de votre vie privée est notre priorité. Découvrez comment nous protégeons vos données et comment nous vous donnons le contrôle total sur ce que vous partagez.",
+      "lastUpdated": "Dernière mise à jour : janvier 2025",
+      "introduction": "La présente politique de confidentialité décrit nos politiques et procédures relatives à la collecte, à l'utilisation et à la divulgation de vos informations lorsque vous utilisez le service, et vous informe de vos droits en matière de confidentialité et de la manière dont la loi vous protège.",
+      "agreement": "Nous utilisons vos données personnelles pour fournir et améliorer le Service. En utilisant le Service, vous acceptez la collecte et l'utilisation de vos informations conformément à la présente Politique de confidentialité.",
+      "sections": {
+        "interpretationTitle": "Interprétation et définitions",
+        "interpretationSubtitle": "Interprétation",
+        "definitionsSubtitle": "Définitions",
+        "interpretationText": "Les mots dont la première lettre est en majuscule ont la signification définie ci-après. Ces définitions conservent le même sens, qu'elles soient au singulier ou au pluriel.",
+        "definitionsText": "Aux fins de la présente politique de confidentialité :",
+        "definitions": {
+          "account": "Un compte unique créé pour vous permettre d'accéder à notre Service ou à certaines parties de celui-ci.",
+          "affiliate": "Une entité qui contrôle, est contrôlée par ou est sous contrôle commun avec une partie, où « contrôle » signifie la propriété de 50 % ou plus des actions, des parts sociales ou autres titres donnant droit de vote pour l'élection des administrateurs ou autres organes de direction.",
+          "application": "Fait référence à Ringdy , le logiciel fourni par la société.",
+          "business": "Aux fins de la CCPA/CPRA, le terme « Société » désigne l’entité juridique qui collecte les renseignements personnels des consommateurs et détermine les fins et les moyens du traitement de ces renseignements.",
+          "ccpaCpra": "Fait référence à la loi californienne sur la protection de la vie privée des consommateurs (la « CCPA ») telle que modifiée par la loi californienne sur les droits à la vie privée de 2020 (la « CPRA »).",
+          "company": "Dans le présent Contrat, les termes « la Société », « Nous », « Notre » ou « Nos » font référence à Ringdy . Aux fins du RGPD, la Société est le Responsable du traitement des données.",
+          "consumer": "Aux fins de la CCPA/CPRA, désigne une personne physique qui réside en Californie.",
+          "country": "Se réfère aux États-Unis",
+          "dataController": "Aux fins du RGPD (Règlement général sur la protection des données), le terme « Société » désigne la personne morale qui, seule ou conjointement avec d’autres, détermine les finalités et les moyens du traitement des données à caractère personnel.",
+          "device": "Tout appareil permettant d'accéder au Service, tel qu'un smartphone, une tablette ou un ordinateur.",
+          "doNotTrack": "Un concept promu par les autorités réglementaires américaines pour que l'industrie Internet développe et mette en œuvre un mécanisme permettant aux internautes de contrôler le suivi de leurs activités en ligne sur différents sites web.",
+          "gdpr": "Fait référence au Règlement général sur la protection des données (RGPD) de l'UE.",
+          "personalData": "Toute information se rapportant à une personne physique identifiée ou identifiable. Aux fins du RGPD, les données personnelles désignent toute information vous concernant, telle qu'un nom, un numéro d'identification, des données de localisation, un identifiant en ligne ou un ou plusieurs éléments spécifiques à votre identité physique, physiologique, génétique, psychique, économique, culturelle ou sociale.",
+          "service": "Se réfère à l'application.",
+          "serviceProvider": "Toute personne physique ou morale qui traite les données pour le compte de la Société. Cela inclut les sociétés tierces ou les personnes employées par la Société pour faciliter le Service, fournir le Service pour le compte de la Société, réaliser des prestations liées au Service ou aider la Société à analyser l'utilisation du Service.",
+          "thirdPartySocialMedia": "Tout site web ou réseau social permettant à un Utilisateur de se connecter ou de créer un compte pour utiliser le Service.",
+          "usageData": "Données collectées automatiquement, générées soit par l’utilisation du Service, soit par l’infrastructure du Service elle-même (par exemple, la durée d’une visite de page).",
+          "you": "La personne qui accède au Service ou l’utilise, ou la société ou autre entité juridique pour le compte de laquelle cette personne accède au Service ou l’utilise, selon le cas."
+        },
+        "definitionLabels": {
+          "account": "Compte:",
+          "affiliate": "Filiale:",
+          "application": "Application:",
+          "business": "Entreprise:",
+          "ccpaCpra": "CCPA et/ou CPRA :",
+          "company": "Entreprise:",
+          "consumer": "Consommateur:",
+          "country": "Pays:",
+          "dataController": "Responsable du traitement des données :",
+          "device": "Appareil:",
+          "doNotTrack": "Ne pas suivre (DNT) :",
+          "gdpr": "RGPD :",
+          "personalData": "Données personnelles :",
+          "service": "Service:",
+          "serviceProvider": "Prestataire de services :",
+          "thirdPartySocialMedia": "Service de médias sociaux tiers :",
+          "usageData": "Données d'utilisation :",
+          "you": "Toi:"
+        },
+        "dataCollectionTitle": "Collecte et utilisation de vos données personnelles",
+        "dataTypesTitle": "Types de données collectées",
+        "personalDataTitle": "Données personnelles",
+        "personalDataDescription": "Lors de votre utilisation de notre Service, nous pouvons vous demander de nous fournir certaines informations personnelles permettant de vous identifier ou de vous contacter. Ces informations peuvent inclure, sans s'y limiter :",
+        "usageDataTitle": "Données d'utilisation",
+        "usageDataDescription1": "Les données d'utilisation sont collectées automatiquement lors de l'utilisation du Service.",
+        "usageDataDescription2": "Les données d'utilisation peuvent inclure des informations telles que l'adresse de protocole Internet de votre appareil (par exemple, l'adresse IP), le type de navigateur, la version du navigateur, les pages de notre service que vous consultez, la date et l'heure de votre visite, le temps passé sur ces pages, les identifiants uniques de l'appareil et d'autres données de diagnostic.",
+        "usageDataDescription3": "Lorsque vous accédez au Service via un appareil mobile, nous pouvons collecter automatiquement certaines informations, notamment le type d'appareil mobile que vous utilisez, l'identifiant unique de votre appareil mobile, l'adresse IP de votre appareil mobile, votre système d'exploitation mobile, le type de navigateur Internet mobile que vous utilisez, les identifiants uniques de l'appareil et d'autres données de diagnostic.",
+        "thirdPartyTitle": "Informations provenant de services de médias sociaux tiers",
+        "thirdPartyDescription1": "La Société vous permet de créer un compte et de vous connecter pour utiliser le Service via les services de médias sociaux tiers suivants :",
+        "thirdPartyDescription2": "Si vous décidez de vous inscrire via un service de médias sociaux tiers ou de nous en donner l'accès, nous pouvons collecter des données personnelles déjà associées à votre compte sur ce service, telles que votre nom, votre adresse e-mail, vos activités ou votre liste de contacts.",
+        "appDataTitle": "Informations collectées lors de l'utilisation de l'application",
+        "appDataDescription1": "Lors de votre utilisation de notre application, afin de vous fournir ses fonctionnalités, nous pouvons collecter, avec votre autorisation préalable :",
+        "appDataDescription2": "Nous utilisons ces informations pour vous fournir les fonctionnalités de notre Service, l'améliorer et le personnaliser. Ces informations peuvent être stockées localement sur votre appareil ou téléchargées sur des serveurs chiffrés. Vous pouvez activer ou désactiver l'accès à ces informations à tout moment, via les paramètres de votre appareil.",
+        "dataUseTitle": "Utilisation de vos données personnelles",
+        "dataUseDescription": "La Société peut utiliser les Données Personnelles aux fins suivantes :",
+        "sharingTitle": "Partage d'informations personnelles",
+        "sharingDescription": "Nous pouvons partager vos informations personnelles dans les situations suivantes :",
+        "retentionTitle": "Conservation de vos données personnelles"
+      },
+      "dataUses": {
+        "provide": "Fournir et maintenir notre Service : notamment pour surveiller l’utilisation de notre Service et permettre la découverte, par Bluetooth et par lieu, des personnes à proximité.",
+        "account": "Pour gérer votre compte : Pour gérer votre inscription en tant qu’utilisateur du Service. Les données personnelles que vous fournissez vous donnent accès aux différentes fonctionnalités du Service qui vous sont offertes en tant qu’utilisateur inscrit.",
+        "contract": "Pour l'exécution d'un contrat : le développement, le respect et la réalisation des services que vous avez demandés ou de tout autre contrat conclu avec nous par le biais du Service.",
+        "contact": "Pour vous contacter : Pour vous contacter par courriel, notifications push ou autres formes équivalentes de communication électronique concernant les mises à jour, les notifications de sécurité ou les communications informatives relatives aux fonctionnalités.",
+        "offers": "Pour vous fournir des actualités et des offres spéciales : concernant d’autres biens, services et événements que nous proposons et qui sont similaires à ceux que vous avez déjà utilisés ou pour lesquels vous avez manifesté un intérêt, sauf si vous avez choisi de ne pas recevoir ces informations.",
+        "requests": "Pour gérer vos demandes : Pour traiter et gérer vos demandes qui nous sont adressées.",
+        "content": "Pour diffuser du contenu ciblé : nous pouvons utiliser vos informations pour développer et afficher du contenu adapté à vos intérêts et à votre localisation (pour la découverte d’utilisateurs à proximité) et pour en mesurer l’efficacité.",
+        "business": "Dans le cadre des transferts d'entreprise : nous pouvons utiliser vos informations pour évaluer ou réaliser une fusion, une cession, une restructuration, une réorganisation, une dissolution ou toute autre vente ou transfert de tout ou partie de nos actifs.",
+        "other": "Autres finalités : Nous pouvons utiliser vos informations à d’autres fins, telles que l’analyse des données, l’identification des tendances d’utilisation, la détermination de l’efficacité de nos campagnes promotionnelles et l’évaluation et l’amélioration de notre Service, de nos produits, de nos services, de notre marketing et de votre expérience."
+      },
+      "sharingTypes": {
+        "providers": "Avec les prestataires de services : Nous pouvons partager vos informations personnelles avec des prestataires de services afin de surveiller et d’analyser l’utilisation de notre service, pour le traitement des paiements et pour vous contacter.",
+        "transfers": "En cas de transfert d'entreprise : nous pouvons partager ou transférer vos informations personnelles dans le cadre de, ou lors de négociations concernant, toute fusion, vente d'actifs de la société, financement ou acquisition de la totalité ou d'une partie de notre entreprise par une autre société.",
+        "affiliates": "Avec nos sociétés affiliées : Nous pouvons partager vos informations avec nos sociétés affiliées, auquel cas nous exigerons de ces dernières qu’elles respectent la présente politique de confidentialité.",
+        "partners": "Avec nos partenaires commerciaux : Nous pouvons partager vos informations avec nos partenaires commerciaux afin de vous proposer certains produits, services ou promotions.",
+        "users": "Avec les autres utilisateurs : lorsque vous découvrez et entrez en contact avec d’autres utilisateurs à proximité, les informations de votre profil (y compris votre nom et vos photos, ou votre avatar si vous avez choisi d’en utiliser un) sont partagées dans le cadre du processus de découverte, de demande d’ami et de mise en relation. Vous pouvez à tout moment choisir d’afficher un avatar ou vos vraies photos.",
+        "consent": "Avec votre consentement : Nous pouvons divulguer vos renseignements personnels à toute autre fin avec votre consentement."
+      },
+      "security": {
+        "title": "Sécurité de vos données personnelles",
+        "description": "La sécurité de vos données personnelles est importante pour nous, mais n'oubliez pas qu'aucune méthode de transmission sur Internet ni aucun système de stockage électronique n'est sûr à 100 %. Bien que nous nous efforcions d'utiliser des moyens commercialement acceptables pour protéger vos données personnelles, notamment le chiffrement de bout en bout des messages instantanés et des protocoles Bluetooth sécurisés, nous ne pouvons garantir leur sécurité absolue."
+      },
+      "contact": {
+        "title": "Contactez-nous",
+        "description": "Si vous avez des questions concernant cette politique de confidentialité, vous pouvez nous contacter :",
+        "email": "Par courriel : privacy@ringdy.com",
+        "website": "Sur cette page de notre site web : https://ringdy.com/contact",
+        "mail": "Par courrier : Ringdy Privacy Team, 123 Tech Street, San Francisco, CA 94105, États-Unis"
+      },
+      "backToHome": "Retour à l'accueil",
+      "shineTheLight": {
+        "title": "Vos droits à la protection de la vie privée en Californie (loi californienne « Shine the Light »)",
+        "description1": "En vertu de l'article 1798 du Code civil de Californie (loi « Shine the Light » de Californie), les résidents californiens ayant une relation commerciale établie avec nous peuvent demander une fois par an des informations sur le partage de leurs données personnelles avec des tiers à des fins de marketing direct.",
+        "description2": "Si vous souhaitez obtenir plus d'informations en vertu de la loi californienne « Shine the Light » et si vous êtes un résident de Californie, vous pouvez nous contacter en utilisant les coordonnées fournies ci-dessous."
+      },
+      "minorUsers": {
+        "title": "Droits à la vie privée des utilisateurs mineurs en Californie (article 22581 du Code des affaires et des professions de Californie)",
+        "description1": "L'article 22581 du Code des affaires et des professions de Californie autorise les résidents californiens de moins de 18 ans qui sont des utilisateurs enregistrés de sites, services ou applications en ligne à demander et à obtenir la suppression du contenu ou des informations qu'ils ont publiés publiquement.",
+        "description2": "Pour demander la suppression de ces données, et si vous êtes un résident de Californie, vous pouvez nous contacter en utilisant les coordonnées fournies ci-dessous et inclure l'adresse électronique associée à votre compte.",
+        "description3": "Veuillez noter que votre demande ne garantit pas la suppression complète ou intégrale du contenu ou des informations publiés en ligne et que la loi peut ne pas autoriser ou exiger leur suppression dans certaines circonstances."
+      },
+      "childrenPrivacy": {
+        "title": "Protection de la vie privée des enfants",
+        "description1": "Notre service ne s'adresse pas aux personnes de moins de 13 ans. Nous ne recueillons pas sciemment d'informations personnelles identifiables auprès de personnes de moins de 13 ans. Si vous êtes un parent ou un tuteur et que vous constatez que votre enfant nous a fourni des données personnelles, veuillez nous contacter.",
+        "description2": "Si nous constatons que nous avons collecté des données personnelles auprès d'une personne de moins de 13 ans sans vérification du consentement parental, nous prenons des mesures pour supprimer ces informations de nos serveurs.",
+        "description3": "Si nous devons nous appuyer sur le consentement comme base légale pour le traitement de vos informations et que votre pays exige le consentement d'un parent, nous pourrions avoir besoin du consentement de votre parent avant de collecter et d'utiliser ces informations."
+      },
+      "linksToOtherWebsites": {
+        "title": "Liens vers d'autres sites Web",
+        "description": "Notre Service peut contenir des liens vers d'autres sites web qui ne sont pas exploités par nous. Si vous cliquez sur un lien tiers, vous serez redirigé vers le site de ce tiers. Nous vous recommandons vivement de consulter la politique de confidentialité de chaque site que vous visitez. Nous n'exerçons aucun contrôle sur le contenu, les politiques de confidentialité ou les pratiques des sites ou services tiers et déclinons toute responsabilité à cet égard."
+      },
+      "changes": {
+        "title": "Modifications apportées à la présente politique de confidentialité",
+        "description1": "Nous pouvons être amenés à modifier notre politique de confidentialité. Nous vous informerons de toute modification en publiant la nouvelle politique de confidentialité sur cette page.",
+        "description2": "Nous vous informerons par e-mail et/ou par un avis bien visible sur notre Service, avant l'entrée en vigueur de la modification, et nous mettrons à jour la date de « Dernière mise à jour » en haut de la présente Politique de confidentialité.",
+        "description3": "Nous vous recommandons de consulter régulièrement la présente Politique de confidentialité afin de prendre connaissance des éventuelles modifications. Les modifications apportées à cette Politique de confidentialité prennent effet dès leur publication sur cette page."
+      },
+      "retention": {
+        "description1": "La Société conservera vos Données Personnelles uniquement pendant la durée nécessaire aux fins énoncées dans la présente Politique de Confidentialité. Nous conserverons et utiliserons vos Données Personnelles dans la mesure nécessaire au respect de nos obligations légales, au règlement des litiges et à l'application de nos accords et politiques.",
+        "description2": "La Société conservera également les Données d'utilisation à des fins d'analyse interne. Ces données sont généralement conservées pendant une période plus courte, sauf lorsqu'elles sont utilisées pour renforcer la sécurité ou améliorer le fonctionnement de notre Service, ou lorsque nous sommes légalement tenus de les conserver plus longtemps."
+      },
+      "transfer": {
+        "title": "Transfert de vos données personnelles",
+        "description1": "Vos informations, y compris vos données personnelles, sont traitées dans les bureaux de la société et dans tout autre lieu où se trouvent les parties impliquées dans le traitement. Cela signifie que ces informations peuvent être transférées vers des ordinateurs situés en dehors de votre État, province, pays ou autre juridiction gouvernementale, et y être conservées. Les lois relatives à la protection des données peuvent y être différentes de celles de votre juridiction.",
+        "description2": "Votre consentement à la présente Politique de confidentialité, suivi de la transmission de ces informations, vaut acceptation de ce transfert. La Société prendra toutes les mesures raisonnables pour garantir la sécurité de vos données et leur traitement conformément à la présente Politique de confidentialité. Vos données personnelles ne seront transférées à aucune organisation ni à aucun pays sans garanties adéquates, notamment en matière de sécurité."
+      },
+      "deletion": {
+        "title": "Supprimez vos données personnelles",
+        "description1": "Vous avez le droit de supprimer ou de nous demander de vous aider à supprimer les données personnelles que nous avons collectées vous concernant.",
+        "description2": "Notre service peut vous permettre de supprimer certaines informations vous concernant directement depuis le service.",
+        "description3": "Vous pouvez à tout moment mettre à jour, modifier ou supprimer vos informations en vous connectant à votre compte, si vous en possédez un, et en accédant à la section des paramètres qui vous permet de gérer vos informations personnelles. Vous pouvez également nous contacter pour demander l'accès à vos informations personnelles, les corriger ou les supprimer."
+      },
+      "disclosure": {
+        "title": "Divulgation de vos données personnelles",
+        "businessTitle": "Transactions commerciales",
+        "businessDescription": "En cas de fusion, d'acquisition ou de cession d'actifs impliquant la Société, vos données personnelles pourront être transférées. Vous serez informé(e) avant tout transfert de vos données personnelles et avant que celles-ci ne soient soumises à une autre politique de confidentialité.",
+        "lawTitle": "Forces de l'ordre",
+        "lawDescription": "Dans certaines circonstances, la Société peut être tenue de divulguer vos données personnelles si la loi l'exige ou en réponse à des demandes valides émanant d'autorités publiques (par exemple, un tribunal ou un organisme gouvernemental).",
+        "legalTitle": "Autres exigences légales",
+        "legalDescription": "La Société peut divulguer vos données personnelles en croyant de bonne foi qu'une telle action est nécessaire pour :",
+        "legalReasons": {
+          "comply": "Respecter une obligation légale",
+          "protect": "Protéger et défendre les droits ou la propriété de la société",
+          "prevent": "Prévenir ou enquêter sur d'éventuels actes répréhensibles liés au Service",
+          "safety": "Protéger la sécurité personnelle des utilisateurs du service ou du public",
+          "liability": "Se protéger contre la responsabilité juridique"
+        },
+        "detailedInfo": {
+          "title": "Informations détaillées sur le traitement de vos données personnelles",
+          "description": "Les prestataires de services auxquels nous faisons appel peuvent avoir accès à vos données personnelles. Ces fournisseurs tiers collectent, stockent, utilisent, traitent et transfèrent des informations relatives à votre activité sur notre service conformément à leurs politiques de confidentialité.",
+          "analyticsTitle": "Analytique",
+          "analyticsDescription": "Nous pouvons faire appel à des prestataires de services tiers pour surveiller et analyser l'utilisation de notre Service."
+        },
+        "analytics": {
+          "title": "Remarketing comportemental",
+          "description": "La Société utilise des services de remarketing pour vous proposer des publicités sur des sites web tiers après votre visite sur notre Service. Nous et nos fournisseurs tiers utilisons des cookies pour personnaliser et optimiser les publicités en fonction de vos visites précédentes sur notre Service.",
+          "googleAnalytics": {
+            "title": "Google Analytics",
+            "description1": "Google Analytics est un service d'analyse web proposé par Google qui suit et analyse le trafic des sites web. Google utilise les données collectées pour suivre et analyser l'utilisation de notre Service. Ces données sont partagées avec d'autres services Google. Google peut utiliser les données collectées pour contextualiser et personnaliser les publicités de son propre réseau publicitaire.",
+            "description2": "Vous pouvez désactiver certaines fonctionnalités de Google Analytics via les paramètres de votre appareil mobile, tels que les paramètres publicitaires de votre appareil, ou en suivant les instructions fournies par Google dans sa politique de confidentialité :",
+            "description3": "Pour plus d'informations sur les pratiques de confidentialité de Google, veuillez consulter la page Web Confidentialité et conditions d'utilisation de Google :"
+          },
+          "firebase": {
+            "title": "Firebase",
+            "description1": "Firebase est un service d'analyse fourni par Google Inc.",
+            "description2": "Vous pouvez désactiver certaines fonctionnalités de Firebase via les paramètres de votre appareil mobile, tels que les paramètres publicitaires de votre appareil, ou en suivant les instructions fournies par Google dans sa politique de confidentialité :",
+            "description3": "Nous vous encourageons également à consulter la politique de Google en matière de protection des données :",
+            "description4": "Pour plus d'informations sur le type de données collectées par Firebase, veuillez consulter la page Web « Comment Google utilise les données lorsque vous utilisez les sites ou applications de nos partenaires » :"
+          }
+        },
+        "advertising": {
+          "title": "Publicité",
+          "description": "Nous pouvons faire appel à des prestataires de services pour vous présenter des publicités afin de soutenir et de maintenir notre service.",
+          "googleAdSense": {
+            "title": "Cookies Google AdSense et DoubleClick",
+            "description1": "Google, en tant que fournisseur tiers, utilise des cookies pour diffuser des annonces sur notre Service. L'utilisation par Google du cookie DoubleClick lui permet, ainsi qu'à ses partenaires, de diffuser des annonces à nos utilisateurs en fonction de leurs visites sur notre Service ou sur d'autres sites web.",
+            "description2": "Vous pouvez désactiver l'utilisation du cookie DoubleClick pour la publicité ciblée par centres d'intérêt en consultant la page Web Paramètres des annonces Google :"
+          },
+          "adMob": {
+            "title": "AdMob par Google",
+            "description1": "AdMob de Google est fourni par Google Inc.",
+            "description2": "Vous pouvez vous désinscrire du service AdMob by Google en suivant les instructions décrites par Google :",
+            "description3": "Pour plus d'informations sur la manière dont Google utilise les informations collectées, veuillez consulter la page « Comment Google utilise les données lorsque vous utilisez les sites ou applications de nos partenaires » ou consulter la politique de confidentialité de Google :"
+          }
+        },
+        "payments": {
+          "title": "Paiements",
+          "description1": "Nous pouvons proposer des produits et/ou services payants au sein du Service. Dans ce cas, nous pouvons faire appel à des services tiers pour le traitement des paiements (par exemple, des processeurs de paiement).",
+          "description2": "Nous ne conservons ni ne collectons les informations relatives à votre carte de paiement. Ces informations sont directement transmises à nos prestataires de paiement tiers, dont l'utilisation de vos données personnelles est régie par leur politique de confidentialité. Ces prestataires respectent les normes PCI-DSS, gérées par le Conseil des normes de sécurité PCI, une initiative conjointe de marques telles que Visa, Mastercard, American Express et Discover. Les exigences PCI-DSS contribuent à garantir la sécurité du traitement des informations de paiement.",
+          "stripe": {
+            "title": "Bande",
+            "description": "Leur politique de confidentialité est consultable à l'adresse suivante :"
+          },
+          "appleStore": {
+            "title": "Paiements intégrés à l'Apple Store",
+            "description": "Leur politique de confidentialité est consultable à l'adresse suivante :"
+          },
+          "googlePlay": {
+            "title": "Paiements intégrés à Google Play",
+            "description": "Leur politique de confidentialité est consultable à l'adresse suivante :"
+          },
+          "payPal": {
+            "title": "PayPal ou Braintree",
+            "description": "Leur politique de confidentialité est consultable à l'adresse suivante :"
+          }
+        }
+      },
+      "dataTypes": {
+        "email": "Adresse email",
+        "name": "Prénom et nom de famille",
+        "phone": "Numéro de téléphone",
+        "address": "Adresse, État/Province, Code postal, Ville",
+        "usageData": "Données d'utilisation"
+      },
+      "socialMedia": {
+        "google": "Google",
+        "facebook": "Facebook",
+        "apple": "Pomme"
+      },
+      "appPermissions": {
+        "location": "Informations concernant votre position (pour la détection de proximité Bluetooth )",
+        "bluetooth": "Informations sur les appareils Bluetooth et analyse des appareils à proximité",
+        "camera": "Informations provenant de la caméra de votre appareil pour la création d'avatar",
+        "contacts": "Contacts de l'appareil (facultatif, pour trouver des amis)"
+      },
+      "behavioralRemarketing": {
+        "title": "Remarketing comportemental",
+        "description": "La Société utilise des services de remarketing pour vous proposer des publicités sur des sites web tiers après votre visite sur notre Service. Nous et nos fournisseurs tiers utilisons des cookies pour personnaliser et optimiser les publicités en fonction de vos visites précédentes sur notre Service.",
+        "vendorsDescription1": "Ces fournisseurs tiers collectent, stockent, utilisent, traitent et transfèrent des informations relatives à votre activité sur notre Service conformément à leurs politiques de confidentialité et afin de nous permettre de :",
+        "purposes": {
+          "measure": "Mesurer et analyser le trafic et l'activité de navigation sur notre service",
+          "show": "Afficher des publicités pour nos produits et/ou services sur des sites web ou applications tiers",
+          "analyze": "Mesurer et analyser la performance de nos campagnes publicitaires"
+        },
+        "vendorsDescription2": "Certains de ces fournisseurs tiers peuvent utiliser des technologies autres que les cookies, qui ne sont pas affectées par les paramètres de votre navigateur bloquant les cookies. Votre navigateur ne vous permet peut-être pas de bloquer ces technologies. Vous pouvez utiliser les outils tiers suivants pour refuser la collecte et l'utilisation de vos informations à des fins de publicité ciblée :",
+        "optOutTools": {
+          "nai": "La plateforme de désinscription de la NAI :",
+          "edaa": "La plateforme de désinscription de l'EDAA :",
+          "daa": "La plateforme de désinscription de la DAA :"
+        },
+        "mobileOptOut": "Vous pouvez désactiver toute publicité personnalisée en activant les paramètres de confidentialité de votre appareil mobile, tels que « Limiter le suivi publicitaire » (iOS) et « Désactiver la personnalisation des annonces » (Android). Consultez l’aide de votre appareil mobile pour plus d’informations.",
+        "dataSharing": "Nous pouvons partager des informations, telles que les adresses e-mail hachées (le cas échéant) ou d'autres identifiants en ligne collectés sur notre Service, avec ces fournisseurs tiers. Cela leur permet de vous reconnaître et de vous proposer des publicités sur différents appareils et navigateurs. Pour en savoir plus sur les technologies utilisées par ces fournisseurs tiers et leurs fonctionnalités multi-appareils, veuillez consulter la politique de confidentialité de chaque fournisseur mentionné ci-dessous.",
+        "vendorsIntro": "Les fournisseurs tiers que nous utilisons sont :",
+        "googleAds": {
+          "title": "Annonces Google (AdWords)",
+          "description1": "Le service de remarketing Google Ads (AdWords) est fourni par Google Inc.",
+          "description2": "Vous pouvez désactiver Google Analytics pour la publicité display et personnaliser les annonces du Réseau Display de Google en consultant la page Paramètres des annonces Google :",
+          "description3": "Google recommande également d'installer le module complémentaire de navigateur pour la désactivation de Google Analytics. Ce module permet aux visiteurs d'empêcher la collecte et l'utilisation de leurs données par Google Analytics.",
+          "description4": "Pour plus d'informations sur les pratiques de confidentialité de Google, veuillez consulter la page Web Confidentialité et conditions d'utilisation de Google :"
+        },
+        "facebook": {
+          "title": "Facebook",
+          "description1": "Le service de remarketing Facebook est fourni par Facebook Inc.",
+          "description2": "Pour en savoir plus sur la publicité ciblée par centres d'intérêt sur Facebook, veuillez consulter cette page :",
+          "description3": "Pour désactiver les publicités ciblées de Facebook, suivez ces instructions de Facebook :",
+          "description4": "Facebook respecte les principes d'autorégulation en matière de publicité comportementale en ligne établis par la Digital Advertising Alliance. Vous pouvez également vous désinscrire de Facebook et d'autres entreprises participantes via la Digital Advertising Alliance aux États-Unis, la Digital Advertising Alliance of Canada au Canada ou l'European Interactive Digital Advertising Alliance en Europe, ou encore via les paramètres de votre appareil mobile.",
+          "description5": "Pour plus d'informations sur les pratiques de confidentialité de Facebook, veuillez consulter la politique de données de Facebook :"
+        }
+      },
+      "analytics": {
+        "firebase": {
+          "title": "Firebase",
+          "description1": "Firebase est un service d'analyse fourni par Google Inc.",
+          "description2": "Vous pouvez désactiver certaines fonctionnalités de Firebase via les paramètres de votre appareil mobile, tels que les paramètres publicitaires de votre appareil, ou en suivant les instructions fournies par Google dans sa politique de confidentialité :",
+          "description3": "Nous vous encourageons également à consulter la politique de Google en matière de protection des données :",
+          "description4": "Pour plus d'informations sur le type de données collectées par Firebase, veuillez consulter la page Web « Comment Google utilise les données lorsque vous utilisez les sites ou applications de nos partenaires » :",
+          "learnMore": "Pour plus d'informations sur le type d'informations que Firebase collecte, veuillez visiter les Conditions de Confidentialité Firebase de Google :"
+        },
+        "googleAnalytics": {
+          "title": "Google Analytics",
+          "description1": "Google Analytics est un service d'analyse web proposé par Google qui suit et analyse le trafic des sites web. Google utilise les données collectées pour suivre et analyser l'utilisation de notre Service. Ces données sont partagées avec d'autres services Google. Google peut utiliser les données collectées pour contextualiser et personnaliser les publicités de son propre réseau publicitaire.",
+          "description2": "Vous pouvez désactiver le partage de vos données d'activité sur le Service avec Google Analytics en installant l'extension de navigateur de désactivation de Google Analytics. Cette extension empêche le code JavaScript de Google Analytics (ga.js, analytics.js et gtag.js) de transmettre des informations à Google Analytics concernant votre activité de navigation. Pour plus d'informations sur les pratiques de confidentialité de Google, veuillez consulter la page Web « Confidentialité et conditions d'utilisation de Google ».",
+          "description3": "Google recommande également d'installer le module complémentaire de navigateur pour la désactivation de Google Analytics. Ce module permet aux visiteurs d'empêcher la collecte et l'utilisation de leurs données par Google Analytics. Pour plus d'informations sur l'installation et l'utilisation de ce module, veuillez consulter la page de désactivation de Google Analytics :"
+        }
+      },
+      "advertising": {
+        "title": "Publicité",
+        "description": "Nous pouvons faire appel à des prestataires de services pour vous présenter des publicités afin de soutenir et de maintenir notre service.",
+        "googleAdSense": {
+          "title": "Cookies Google AdSense et DoubleClick",
+          "description1": "Google, en tant que fournisseur tiers, utilise des cookies pour diffuser des annonces sur notre Service. L'utilisation par Google du cookie DoubleClick lui permet, ainsi qu'à ses partenaires, de diffuser des annonces à nos utilisateurs en fonction de leurs visites sur notre Service ou sur d'autres sites web.",
+          "description2": "Vous pouvez désactiver l'utilisation du cookie DoubleClick pour la publicité ciblée par centres d'intérêt en consultant la page Web Paramètres des annonces Google :"
+        },
+        "adMob": {
+          "title": "AdMob par Google",
+          "description1": "AdMob de Google est fourni par Google Inc.",
+          "description2": "Vous pouvez vous désinscrire du service AdMob by Google en suivant les instructions décrites par Google :",
+          "description3": "Pour plus d'informations sur la manière dont Google utilise les informations collectées, veuillez consulter la page « Comment Google utilise les données lorsque vous utilisez les sites ou applications de nos partenaires » ou consulter la politique de confidentialité de Google :"
+        }
+      },
+      "payments": {
+        "title": "Paiements",
+        "description1": "Nous pouvons proposer des produits et/ou services payants au sein du Service. Dans ce cas, nous pouvons faire appel à des services tiers pour le traitement des paiements (par exemple, des processeurs de paiement).",
+        "description2": "Nous ne conservons ni ne collectons les informations relatives à votre carte de paiement. Ces informations sont directement transmises à nos prestataires de paiement tiers, dont l'utilisation de vos données personnelles est régie par leur politique de confidentialité. Ces prestataires respectent les normes PCI-DSS, gérées par le Conseil des normes de sécurité PCI, une initiative conjointe de marques telles que Visa, Mastercard, American Express et Discover. Les exigences PCI-DSS contribuent à garantir la sécurité du traitement des informations de paiement.",
+        "appleStore": {
+          "title": "Paiements intégrés à l'Apple Store",
+          "description": "Leur politique de confidentialité est consultable à l'adresse suivante :"
+        },
+        "googlePlay": {
+          "title": "Paiements intégrés à Google Play",
+          "description": "Leur politique de confidentialité est consultable à l'adresse suivante :"
+        },
+        "stripe": {
+          "title": "Bande",
+          "description": "Leur politique de confidentialité est consultable à l'adresse suivante :"
+        },
+        "payPal": {
+          "title": "PayPal ou Braintree",
+          "description": "Leur politique de confidentialité est consultable à l'adresse suivante :"
+        }
+      },
+      "gdpr": {
+        "title": "RGPD Confidentialité",
+        "legalBasis": {
+          "title": "Base juridique du traitement des données personnelles en vertu du RGPD",
+          "description": "Nous pouvons traiter les données personnelles dans les conditions suivantes :",
+          "consent": "Consentement : Vous avez donné votre consentement au traitement de vos données personnelles pour une ou plusieurs finalités spécifiques.",
+          "contract": "Exécution d'un contrat : La fourniture de données personnelles est nécessaire à l'exécution d'un contrat conclu avec vous et/ou à l'exécution de toutes obligations précontractuelles y afférentes.",
+          "legal": "Obligations légales : Le traitement des données personnelles est nécessaire au respect d'une obligation légale à laquelle la société est soumise.",
+          "vital": "Intérêts vitaux : Le traitement des données personnelles est nécessaire pour protéger vos intérêts vitaux ou ceux d'une autre personne physique.",
+          "public": "Intérêts publics : Le traitement des données personnelles est lié à une mission d’intérêt public ou relevant de l’exercice de l’autorité publique dont est investie la société.",
+          "legitimate": "Intérêts légitimes : Le traitement des données personnelles est nécessaire aux fins des intérêts légitimes poursuivis par la société."
+        },
+        "rights": {
+          "title": "Vos droits en vertu du RGPD",
+          "description": "La Société s'engage à respecter la confidentialité de vos Données Personnelles et à vous garantir l'exercice de vos droits. Conformément à la présente Politique de confidentialité et à la loi si vous résidez dans l'UE, vous disposez des droits suivants :",
+          "access": "Demande d'accès à vos données personnelles : le droit d'accéder, de mettre à jour ou de supprimer les informations que nous détenons vous concernant.",
+          "correction": "Demande de rectification des données personnelles : Vous avez le droit de faire rectifier toute information incomplète ou inexacte que nous détenons à votre sujet.",
+          "erasure": "Demande d'effacement : Vous avez le droit de nous demander de supprimer vos données personnelles lorsqu'il n'existe aucune raison valable pour que nous continuions à les traiter.",
+          "object": "Droit d’opposition au traitement : Ce droit existe lorsque nous nous appuyons sur un intérêt légitime comme base juridique de notre traitement.",
+          "transfer": "Demande de transfert : Nous vous fournirons, ou à un tiers que vous aurez choisi, vos données personnelles dans un format structuré, couramment utilisé et lisible par machine.",
+          "withdraw": "Retrait de votre consentement : Vous avez le droit de retirer votre consentement à l’utilisation de vos données personnelles."
+        },
+        "exercising": {
+          "title": "Exercice de vos droits en matière de protection des données en vertu du RGPD",
+          "description1": "Vous pouvez exercer vos droits d'accès, de rectification, d'effacement et d'opposition en nous contactant. Veuillez noter que nous pourrions vous demander de vérifier votre identité avant de répondre à votre demande. Nous nous efforcerons de vous répondre dans les meilleurs délais.",
+          "description2": "Vous avez le droit de déposer une plainte auprès d'une autorité de protection des données concernant la collecte et l'utilisation de vos données personnelles. Pour plus d'informations, si vous résidez dans l'Espace économique européen (EEE), veuillez contacter votre autorité de protection des données locale."
+        }
+      },
+      "ccpa": {
+        "title": "Avis de confidentialité CCPA/CPRA",
+        "introduction": "Cette section relative à la protection des données personnelles des résidents de Californie complète les informations contenues dans notre politique de confidentialité et s'applique exclusivement à tous les visiteurs, utilisateurs et autres personnes résidant dans l'État de Californie.",
+        "categoriesTitle": "Catégories de renseignements personnels recueillis",
+        "categoriesDescription1": "Nous recueillons des informations qui identifient, concernent, décrivent, font référence à, peuvent être associées à, ou pourraient raisonnablement être liées, directement ou indirectement, à un consommateur ou un appareil en particulier. Voici une liste des catégories de renseignements personnels que nous pouvons recueillir ou qui ont pu être recueillis auprès de résidents de Californie au cours des douze (12) derniers mois.",
+        "categoriesDescription2": "Veuillez noter que les catégories et exemples fournis ci-dessous sont ceux définis dans le CCPA/CPRA. Cela ne signifie pas que nous avons effectivement collecté tous les exemples de cette catégorie d'informations personnelles, mais reflète notre conviction, en toute bonne foi et au mieux de notre connaissance, que certaines de ces informations peuvent avoir été collectées. Par exemple, certaines catégories d'informations personnelles ne seraient collectées que si vous nous les fournissiez directement.",
+        "categoryLabels": {
+          "examples": "Exemples :",
+          "collected": "Collecté :"
+        },
+        "categories": {
+          "identifiers": {
+            "title": "Catégorie A : Identifiants",
+            "examples": "Un nom réel, un pseudonyme, une adresse postale, un identifiant personnel unique, un identifiant en ligne, une adresse de protocole Internet, une adresse électronique, un nom de compte, un numéro de permis de conduire, un numéro de passeport ou tout autre identifiant similaire.",
+            "collected": "Oui"
+          },
+          "personalInfo": {
+            "title": "Catégorie B : Catégories de renseignements personnels énumérées dans la loi californienne sur les dossiers clients",
+            "examples": "Un nom, une signature, un numéro de sécurité sociale, des caractéristiques physiques ou une description, une adresse, un numéro de téléphone, un numéro de passeport, un numéro de permis de conduire ou de carte d'identité, un numéro de police d'assurance, des informations sur la formation, l'emploi, les antécédents professionnels, un numéro de compte bancaire, un numéro de carte de crédit, un numéro de carte de débit, ou toute autre information financière, médicale ou relative à l'assurance maladie. Certaines informations personnelles incluses dans cette catégorie peuvent recouper d'autres catégories.",
+            "collected": "Oui"
+          },
+          "protected": {
+            "title": "Catégorie C : Caractéristiques de classification protégées par la loi californienne ou fédérale",
+            "examples": "Âge (40 ans ou plus), race, couleur, ascendance, origine nationale, citoyenneté, religion ou croyance, état civil, état médical, handicap physique ou mental, sexe (y compris le genre, l'identité de genre, l'expression de genre, la grossesse ou l'accouchement et les affections médicales connexes), orientation sexuelle, statut d'ancien combattant ou militaire, informations génétiques (y compris les informations génétiques familiales).",
+            "collected": "Non"
+          },
+          "commercial": {
+            "title": "Catégorie D : Informations commerciales",
+            "examples": "Registres et historique des produits ou services achetés ou envisagés.",
+            "collected": "Oui"
+          },
+          "biometric": {
+            "title": "Catégorie E : Informations biométriques",
+            "examples": "Caractéristiques génétiques, physiologiques, comportementales et biologiques, ou schémas d'activité utilisés pour extraire un modèle ou un autre identifiant ou information d'identification, tels que les empreintes digitales, les empreintes faciales et vocales, les scans de l'iris ou de la rétine, la frappe au clavier, la démarche ou d'autres schémas physiques, et les données sur le sommeil, la santé ou l'exercice.",
+            "collected": "Non"
+          },
+          "internet": {
+            "title": "Catégorie F : Activité sur Internet ou autre réseau similaire",
+            "examples": "Interaction avec notre Service ou notre publicité.",
+            "collected": "Oui"
+          },
+          "geolocation": {
+            "title": "Catégorie G : Données de géolocalisation",
+            "examples": "Emplacement physique approximatif.",
+            "collected": "Oui"
+          },
+          "sensory": {
+            "title": "Catégorie H : Données sensorielles",
+            "examples": "Informations audio, électroniques, visuelles, thermiques, olfactives ou similaires.",
+            "collected": "Non"
+          },
+          "professional": {
+            "title": "Catégorie I : Informations professionnelles ou relatives à l'emploi",
+            "examples": "Antécédents professionnels ou évaluations de performance actuels ou passés.",
+            "collected": "Non"
+          },
+          "education": {
+            "title": "Catégorie J : Informations sur l'éducation non publique",
+            "examples": "Les dossiers scolaires directement liés à un étudiant et conservés par un établissement d'enseignement ou une partie agissant en son nom, tels que les notes, les relevés de notes, les listes de classes, les emplois du temps des étudiants, les codes d'identification des étudiants, les informations financières des étudiants ou les dossiers disciplinaires des étudiants.",
+            "collected": "Non"
+          },
+          "inferences": {
+            "title": "Catégorie K : Déductions tirées d'autres informations personnelles",
+            "examples": "Profil reflétant les préférences, les caractéristiques, les tendances psychologiques, les prédispositions, le comportement, les attitudes, l'intelligence, les capacités et les aptitudes d'une personne.",
+            "collected": "Non"
+          },
+          "sensitive": {
+            "title": "Catégorie L : Informations personnelles sensibles",
+            "examples": "Informations de connexion et mot de passe du compte, données de géolocalisation.",
+            "collected": "Oui"
+          }
+        },
+        "exclusions": {
+          "description": "En vertu de la loi CCPA/CPRA, les renseignements personnels n'incluent pas :",
+          "publicRecords": "Informations accessibles au public provenant des archives gouvernementales",
+          "deidentified": "Informations sur les consommateurs dépersonnalisées ou agrégées",
+          "excludedScope": "Informations exclues du champ d'application du CCPA/CPRA, telles que :",
+          "hipaa": "Informations de santé ou médicales couvertes par la loi HIPAA (Health Insurance Portability and Accountability Act) de 1996 et la loi CMIA (California Confidentiality of Medical Information Act) ou données d'essais cliniques",
+          "sectorSpecific": "Les informations personnelles couvertes par certaines lois sectorielles sur la protection de la vie privée, notamment la loi Fair Credit Reporting Act (FRCA), la loi Gramm-Leach-Bliley Act (GLBA) ou la loi California Financial Information Privacy Act (FIPA), et la loi Driver's Privacy Protection Act de 1994"
+        },
+        "sources": {
+          "title": "Sources d'informations personnelles",
+          "description": "Nous obtenons les catégories de renseignements personnels énumérées ci-dessus à partir des catégories de sources suivantes :",
+          "directlyFromYou": "Directement de votre part.",
+          "directlyDescription": "Par exemple, à partir des formulaires que vous remplissez sur notre Service, des préférences que vous exprimez ou fournissez par le biais de notre Service, ou de vos achats sur notre Service.",
+          "indirectlyFromYou": "Indirectement de votre part.",
+          "indirectlyDescription": "Par exemple, en observant votre activité sur notre Service.",
+          "automaticallyFromYou": "Automatiquement de votre part.",
+          "automaticallyDescription": "Par exemple, grâce aux cookies que nous ou nos prestataires de services déposons sur votre appareil lorsque vous naviguez sur notre service.",
+          "fromServiceProviders": "Des fournisseurs de services.",
+          "serviceProvidersDescription": "Par exemple, des fournisseurs tiers chargés de surveiller et d'analyser l'utilisation de notre Service, des fournisseurs tiers chargés de diffuser de la publicité sur notre Service, des fournisseurs tiers chargés de vous proposer des publicités ciblées, des fournisseurs tiers chargés du traitement des paiements, ou d'autres fournisseurs tiers que nous utilisons pour vous fournir le Service."
+        },
+        "usage": {
+          "title": "Utilisation des informations personnelles",
+          "description": "Nous pouvons utiliser ou divulguer les renseignements personnels que nous recueillons à des « fins commerciales » (telles que définies par la CCPA/CPRA), ce qui peut inclure les exemples suivants :",
+          "operateService": "Pour faire fonctionner notre Service et vous fournir notre Service.",
+          "provideSupport": "Pour vous apporter un soutien et répondre à vos demandes, notamment pour examiner et traiter vos préoccupations et pour surveiller et améliorer notre service.",
+          "fulfillReason": "Pour répondre à la raison pour laquelle vous nous avez communiqué vos informations. Par exemple, si vous nous communiquez vos coordonnées pour poser une question concernant notre service, nous utiliserons ces informations personnelles pour vous répondre. Si vous nous fournissez vos informations personnelles pour acheter un produit ou un service, nous les utiliserons pour traiter votre paiement et faciliter la livraison.",
+          "lawEnforcement": "Pour répondre aux demandes des forces de l'ordre et conformément aux lois applicables, aux ordonnances judiciaires ou aux réglementations gouvernementales.",
+          "asDescribed": "Comme décrit lors de la collecte de vos informations personnelles ou tel que stipulé dans la CCPA/CPRA.",
+          "administrative": "À des fins administratives et d'audit internes.",
+          "securityIncidents": "Détecter les incidents de sécurité et se protéger contre les activités malveillantes, trompeuses, frauduleuses ou illégales, y compris, le cas échéant, poursuivre en justice les responsables de ces activités.",
+          "otherUses": "Autres utilisations ponctuelles.",
+          "noteExamples": "Veuillez noter que les exemples ci-dessus sont donnés à titre indicatif et ne prétendent pas être exhaustifs. Pour plus de détails sur l'utilisation de ces informations, veuillez consulter la section « Utilisation de vos données personnelles ».",
+          "additionalCategories": "Si nous décidons de collecter des catégories supplémentaires de renseignements personnels ou d’utiliser les renseignements personnels que nous avons recueillis à des fins sensiblement différentes, sans rapport ou incompatibles, nous mettrons à jour la présente politique de confidentialité."
+        },
+        "ccpaDisclosure": {
+          "title": "Divulgation de renseignements personnels",
+          "description": "Nous pouvons utiliser ou divulguer, et avons pu utiliser ou divulguer au cours des douze (12) derniers mois, les catégories suivantes de renseignements personnels à des fins commerciales ou professionnelles :",
+          "categoryA": "Catégorie A : Identifiants",
+          "categoryB": "Catégorie B : Catégories de renseignements personnels énumérées dans la loi californienne sur les dossiers clients",
+          "categoryD": "Catégorie D : Informations commerciales",
+          "categoryF": "Catégorie F : Activité sur Internet ou autre réseau similaire",
+          "categoryG": "Catégorie G : Données de géolocalisation",
+          "categoryL": "Catégorie L : Informations personnelles sensibles",
+          "noteCategories": "Veuillez noter que les catégories mentionnées ci-dessus sont celles définies dans le CCPA/CPRA. Cela ne signifie pas que tous les exemples de cette catégorie de renseignements personnels ont effectivement été divulgués, mais reflète notre conviction, en toute bonne foi et au mieux de notre connaissance, que certains de ces renseignements relevant de la catégorie applicable peuvent avoir été divulgués.",
+          "contractRequirement": "Lorsque nous divulguons des renseignements personnels à des fins commerciales ou professionnelles, nous concluons un contrat qui décrit cet objectif et exige du destinataire qu'il garde ces renseignements personnels confidentiels et qu'il ne les utilise à aucune autre fin que l'exécution du contrat."
+        },
+        "sharing": {
+          "title": "Partage d'informations personnelles",
+          "description": "Nous pouvons partager, et avons partagé au cours des douze (12) derniers mois, vos renseignements personnels identifiés dans les catégories ci-dessus avec les catégories de tiers suivantes :",
+          "recipients": {
+            "serviceProviders": "Prestataires de services",
+            "paymentProcessors": "processeurs de paiement",
+            "affiliates": "Nos affiliés",
+            "businessPartners": "Nos partenaires commerciaux",
+            "authorizedVendors": "fournisseurs tiers auxquels vous ou vos représentants nous autorisez à divulguer vos renseignements personnels en lien avec les produits ou services que nous vous fournissons."
+          }
+        },
+        "sale": {
+          "title": "Vente d'informations personnelles",
+          "definition": "Conformément à la CCPA/CPRA, les termes « vendre » et « vente » désignent la vente, la location, la divulgation, la diffusion, la mise à disposition, le transfert ou toute autre communication, orale, écrite ou électronique, des informations personnelles d'un consommateur par l'entreprise à un tiers en échange d'une contrepartie. Cela signifie que nous pouvons avoir reçu un avantage quelconque en contrepartie du partage de ces informations personnelles, mais pas nécessairement un avantage financier.",
+          "doNotSell": "Nous ne vendons pas vos informations personnelles au sens courant du terme. Nous autorisons toutefois nos prestataires de services à utiliser vos informations personnelles aux fins commerciales décrites dans notre Politique de confidentialité, notamment pour des activités telles que la publicité, le marketing et l'analyse. Ces utilisations peuvent être considérées comme une vente au sens du CCPA/CPRA.",
+          "description": "Nous pouvons vendre et avons peut-être vendu au cours des douze (12) derniers mois les catégories suivantes de renseignements personnels :",
+          "sharedCategories": {
+            "categoryA": "Catégorie A : Identifiants",
+            "categoryB": "Catégorie B : Catégories de renseignements personnels énumérées dans la loi californienne sur les dossiers clients",
+            "categoryD": "Catégorie D : Informations commerciales",
+            "categoryF": "Catégorie F : Activité sur Internet ou autre réseau similaire",
+            "categoryG": "Catégorie G : Données de géolocalisation",
+            "categoryL": "Catégorie L : Informations personnelles sensibles"
+          }
+        },
+        "userRights": {
+          "title": "Vos droits en vertu de la CCPA/CPRA",
+          "description": "La loi CCPA/CPRA confère aux résidents californiens des droits spécifiques concernant leurs informations personnelles. Si vous résidez en Californie, vous disposez des droits suivants :",
+          "rightToNotice": "Le droit à notification.",
+          "rightToNoticeDescription": "Vous avez le droit d'être informé des catégories de données personnelles collectées et des finalités de leur utilisation.",
+          "disclosureItems": {
+            "categoriesCollected": "Les catégories de renseignements personnels que nous avons recueillis à votre sujet",
+            "sources": "Les catégories de sources des renseignements personnels que nous avons recueillis à votre sujet",
+            "purposes": "Nos objectifs commerciaux ou professionnels pour la collecte ou la vente de ces informations personnelles",
+            "thirdParties": "Les catégories de tiers avec lesquels nous partageons ces informations personnelles",
+            "specificPieces": "Les renseignements personnels précis que nous avons recueillis à votre sujet",
+            "soldDisclosed": "Si nous avons vendu ou divulgué vos renseignements personnels à des fins commerciales, nous vous indiquerons les catégories de renseignements personnels vendus ou divulgués."
+          },
+          "rightToOptOut": "Le droit de refuser la vente ou le partage de ses données personnelles (droit de retrait).",
+          "rightToOptOutDescription": "Vous avez le droit de nous demander de ne pas vendre vos renseignements personnels. Pour exercer ce droit, veuillez consulter la section « Ne pas vendre mes renseignements personnels » ou communiquer avec nous.",
+          "doNotSellSection": "Ne vendez pas mes informations personnelles",
+          "rightToCorrect": "Le droit de rectifier les données personnelles.",
+          "rightToCorrectDescription": "Vous avez le droit de corriger ou de rectifier toute information personnelle inexacte vous concernant que nous avons recueillie. Dès réception et confirmation de votre demande, nous mettrons en œuvre tous les moyens raisonnables pour corriger (et demanderons à nos prestataires de services de corriger) vos informations personnelles, sauf exception.",
+          "rightToLimit": "Le droit de limiter l'utilisation et la divulgation des données personnelles sensibles.",
+          "rightToLimitDescription": "Vous avez le droit de demander la limitation de l'utilisation ou de la divulgation de certaines informations personnelles sensibles que nous avons recueillies à votre sujet, sauf exception. Pour ce faire, veuillez consulter la section « Limiter l'utilisation ou la divulgation de mes informations personnelles sensibles » ou nous contacter.",
+          "limitSensitiveSection": "Limiter l'utilisation ou la divulgation de mes informations personnelles sensibles",
+          "rightToDelete": "Le droit à l'effacement des données personnelles.",
+          "rightToDeleteDescription": "Vous avez le droit de demander la suppression de vos données personnelles dans certaines circonstances, sous réserve de certaines exceptions. Dès réception et confirmation de votre demande, nous supprimerons (et demanderons à nos prestataires de services de supprimer) vos données personnelles de nos fichiers, sauf exception.",
+          "rightNonDiscrimination": "Le droit de ne pas être victime de discrimination.",
+          "rightNonDiscriminationDescription": "Vous avez le droit de ne pas faire l'objet de discrimination pour avoir exercé vos droits de consommateur, notamment en vous refusant des biens ou des services, en facturant des prix différents, en fournissant des niveaux de service différents ou en suggérant des prix ou des niveaux de service différents."
+        },
+        "exercisingRights": {
+          "title": "Exercer vos droits en matière de protection des données en vertu du CCPA/CPRA",
+          "intro": "Pour exercer vos droits en vertu de la loi CCPA/CPRA, et si vous êtes un résident de Californie, vous pouvez nous contacter en utilisant les informations fournies ci-dessous.",
+          "authorization": "Seul vous, ou une personne enregistrée auprès du secrétaire d'État de Californie que vous avez autorisée à agir en votre nom, pouvez faire une demande vérifiable concernant vos informations personnelles.",
+          "requestRequirements": "Votre demande à notre attention doit :",
+          "requirements": {
+            "verify": "Veuillez fournir des informations suffisantes nous permettant de vérifier raisonnablement que vous êtes la personne dont nous avons recueilli les renseignements personnels ou un représentant autorisé.",
+            "describe": "Décrivez votre demande avec suffisamment de détails pour nous permettre de la comprendre, de l'évaluer et d'y répondre correctement."
+          },
+          "verification": "Nous ne pouvons pas répondre à votre demande ni vous fournir les informations requises si nous ne pouvons pas vérifier votre identité ou votre autorisation à formuler cette demande et confirmer que les renseignements personnels vous concernent.",
+          "response": "Nous vous communiquerons gratuitement les informations requises dans un délai de 45 jours suivant la réception de votre demande vérifiable. Ce délai peut être prolongé une seule fois de 45 jours supplémentaires si cela s'avère raisonnablement nécessaire et après vous en avoir informé(e).",
+          "dataPortability": "Pour les demandes de portabilité des données, nous sélectionnerons un format permettant de fournir vos informations personnelles de manière facilement utilisable et qui vous permettra de transmettre ces informations d'une entité à une autre sans entrave."
+        },
+        "doNotSell": {
+          "title": "Ne vendez pas mes informations personnelles",
+          "definition": "Conformément à la CCPA/CPRA, les termes « vendre » et « vente » désignent la vente, la location, la divulgation, la diffusion, la mise à disposition, le transfert ou toute autre communication, orale, écrite ou électronique, des informations personnelles d'un consommateur par l'entreprise à un tiers en échange d'une contrepartie. Cela signifie que nous pouvons avoir reçu un avantage quelconque en contrepartie du partage de ces informations personnelles, sans que ce soit nécessairement un avantage financier.",
+          "policy": "Nous ne vendons pas vos informations personnelles au sens courant du terme. Nous autorisons toutefois nos prestataires de services à utiliser vos informations personnelles aux fins commerciales décrites dans notre Politique de confidentialité, notamment pour des activités telles que la publicité, le marketing et l'analyse. Ces utilisations peuvent être considérées comme une vente au sens du CCPA/CPRA.",
+          "optOutRight": "Vous avez le droit de vous opposer à la vente de vos données personnelles. Dès réception et confirmation de votre demande vérifiable, nous cesserons de vendre vos données. Pour exercer votre droit d'opposition, veuillez nous contacter.",
+          "serviceProviders": "Les prestataires de services avec lesquels nous collaborons (par exemple, nos partenaires d'analyse ou de publicité) peuvent utiliser des technologies sur le Service qui vendent des informations personnelles au sens de la loi CCPA/CPRA. Si vous souhaitez vous opposer à l'utilisation de vos informations personnelles à des fins de publicité ciblée et à ces ventes potentielles telles que définies par la loi CCPA/CPRA, vous pouvez le faire en suivant les instructions ci-dessous.",
+          "browserNote": "Veuillez noter que toute option de désactivation est spécifique au navigateur que vous utilisez. Vous devrez peut-être vous désinscrire sur chaque navigateur que vous utilisez.",
+          "websiteTitle": "Site web",
+          "websiteInstructions": "Le cas échéant, cliquez sur les boutons « Préférences de confidentialité », « Mettre à jour les préférences de confidentialité » ou « Ne pas vendre mes informations personnelles » figurant sur le Service pour consulter vos préférences de confidentialité et refuser les cookies et autres technologies que nous sommes susceptibles d'utiliser. Veuillez noter que vous devrez effectuer cette opération dans chaque navigateur que vous utilisez pour accéder au Service."
+        },
+        "mobileOptOut": {
+          "title": "Appareils mobiles",
+          "description": "Votre appareil mobile peut vous permettre de refuser l'utilisation des informations relatives aux applications que vous utilisez afin de vous proposer des publicités ciblées en fonction de vos centres d'intérêt :",
+          "androidAds": "Désactiver les annonces ciblées ou la personnalisation des annonces sur les appareils Android",
+          "iosTracking": "« Limiter le suivi publicitaire » sur les appareils iOS",
+          "locationNote": "Vous pouvez également désactiver la collecte des données de localisation de votre appareil mobile en modifiant les préférences de celui-ci."
+        },
+        "sensitiveInfo": {
+          "title": "Limiter l'utilisation ou la divulgation de mes informations personnelles sensibles",
+          "description": "Si vous résidez en Californie, vous avez le droit de limiter l'utilisation et la divulgation de vos données personnelles sensibles à ce qui est nécessaire pour fournir les services ou les biens auxquels un consommateur moyen pourrait raisonnablement s'attendre. Nous collectons, utilisons et divulguons vos données personnelles sensibles uniquement dans la mesure nécessaire à la fourniture du service. Pour plus d'informations sur la manière dont nous utilisons vos données personnelles, veuillez consulter la section « Utilisation de vos données personnelles » ou nous contacter."
+        },
+        "caloppaPolicy": {
+          "doNotTrackResponse": "Notre service ne répond pas aux signaux « Ne pas suivre ».",
+          "thirdPartyTracking": "Cependant, certains sites web tiers enregistrent votre activité de navigation. Si vous consultez de tels sites, vous pouvez configurer votre navigateur pour indiquer que vous ne souhaitez pas être suivi. Vous pouvez activer ou désactiver l'option « Ne pas me suivre » (DNT) dans les préférences ou les paramètres de votre navigateur."
+        },
+        "caloppa": {
+          "title": "Politique « Ne pas suivre » conformément à la loi californienne sur la protection de la vie privée en ligne (CalOPPA)"
+        },
+        "saleNote": {
+          "categoriesListed": "Veuillez noter que les catégories mentionnées ci-dessus sont celles définies dans le CCPA/CPRA. Cela ne signifie pas que tous les exemples de renseignements personnels de cette catégorie ont été vendus, mais reflète notre conviction, en toute bonne foi et au mieux de notre connaissance, que certains de ces renseignements peuvent avoir été partagés contre rémunération."
+        },
+        "minorsUnder16": {
+          "title": "Vente de renseignements personnels de mineurs de moins de 16 ans",
+          "description1": "Nous ne recueillons pas sciemment d'informations personnelles auprès de mineurs de moins de 16 ans par le biais de notre Service, même si certains sites web tiers vers lesquels nous proposons des liens peuvent le faire. Ces sites web tiers ont leurs propres conditions d'utilisation et politiques de confidentialité, et nous encourageons les parents et tuteurs légaux à surveiller l'utilisation d'Internet par leurs enfants et à leur interdire de divulguer des informations sur d'autres sites web sans leur autorisation.",
+          "description2": "Nous ne vendons pas les données personnelles des consommateurs dont nous savons qu'ils ont moins de 16 ans, sauf si nous recevons leur autorisation expresse (« droit d'adhésion ») s'ils sont âgés de 13 à 16 ans, ou si leur parent ou tuteur a moins de 13 ans. Les consommateurs qui consentent à la vente de leurs données personnelles peuvent s'y opposer à tout moment. Pour exercer ce droit, vous (ou votre représentant autorisé) pouvez nous adresser une demande en nous contactant.",
+          "description3": "Si vous avez des raisons de croire qu'un enfant de moins de 13 ans (ou 16 ans) nous a fourni des informations personnelles, veuillez nous contacter en nous fournissant suffisamment de détails pour nous permettre de supprimer ces informations."
+        },
+        "optOutPlatforms": {
+          "description": "De plus, vous pouvez refuser de recevoir des publicités personnalisées diffusées par nos prestataires de services en suivant les instructions présentées sur le Service :",
+          "nai": "La plateforme de désinscription de la NAI :",
+          "edaa": "La plateforme de désinscription de l'EDAA :",
+          "daa": "La plateforme de désinscription de la DAA :",
+          "cookieNote": "Le refus de votre navigateur entraînera le dépôt d'un cookie sur votre ordinateur. Ce cookie sera spécifique au navigateur utilisé pour ce refus. Si vous changez de navigateur ou supprimez les cookies enregistrés par votre navigateur, vous devrez renouveler votre refus."
+        },
+        "rights": {
+          "rightToKnowAccess": "Le droit de savoir/d'accéder.",
+          "rightToKnowAccessDescription": "En vertu de la loi CCPA/CPRA, vous avez le droit de demander que nous vous communiquions des informations concernant la collecte, l'utilisation, la vente, la divulgation à des fins commerciales et le partage de vos données personnelles. Dès réception et confirmation de votre demande, nous vous communiquerons les informations suivantes :"
+        }
+      },
+      "optOut": {
+        "androidAds": "Désactiver les annonces ciblées ou la personnalisation des annonces sur les appareils Android",
+        "androidInterestBased": "Désactiver les publicités ciblées par centres d'intérêt",
+        "androidPersonalization": "Désactiver la personnalisation des annonces",
+        "iosTracking": "« Limiter le suivi publicitaire » sur les appareils iOS",
+        "iosLimit": "Limiter le suivi publicitaire"
+      },
+      "detailedInfo": {
+        "title": "Informations détaillées sur le traitement de vos données personnelles",
+        "description": "Les prestataires de services auxquels nous faisons appel peuvent avoir accès à vos données personnelles. Ces fournisseurs tiers collectent, stockent, utilisent, traitent et transfèrent des informations relatives à votre activité sur notre service conformément à leurs politiques de confidentialité.",
+        "analyticsTitle": "Analytique",
+        "analyticsDescription": "Nous pouvons faire appel à des prestataires de services tiers pour surveiller et analyser l'utilisation de notre Service."
+      }
+    },
+    "termsOfUse": {
+      "title": "Conditions d'utilisation",
+      "subtitle": "Comprendre vos droits et vos responsabilités lors de l'utilisation des services Ringdy .",
+      "lastUpdated": "Dernière mise à jour : janvier 2025",
+      "introduction": "Veuillez lire attentivement les présentes conditions générales avant d'utiliser notre service.",
+      "sections": {
+        "interpretationTitle": "Interprétation et définitions",
+        "interpretationSubtitle": "Interprétation",
+        "interpretationText": "Les mots dont la première lettre est en majuscule ont la signification définie ci-après. Ces définitions conservent le même sens, qu'elles soient au singulier ou au pluriel.",
+        "definitionsSubtitle": "Définitions",
+        "definitionsText": "Aux fins des présentes conditions générales :",
+        "definitions": {
+          "application": "Désigne le logiciel fourni par la Société et téléchargé par Vous sur tout appareil électronique, nommé Ringdy .",
+          "applicationStore": "Désigne le service de distribution numérique exploité et développé par Apple Inc. (Apple App Store) ou Google Inc. (Google Play Store) dans lequel l'Application a été téléchargée.",
+          "affiliate": "Désigne une entité qui contrôle, est contrôlée par ou est sous contrôle commun avec une partie, où « contrôle » signifie la propriété de 50 % ou plus des actions, des parts sociales ou autres titres donnant droit de vote pour l'élection des administrateurs ou autres organes de direction.",
+          "account": "Désigne un compte unique créé pour vous permettre d'accéder à notre Service ou à certaines parties de celui-ci.",
+          "country": "Fait référence au Vietnam",
+          "company": "(désignée dans le présent Accord par « la Société », « Nous », « Notre » ou « Nos ») fait référence à Ringdy .",
+          "content": "Désigne tout contenu tel que du texte, des images ou d'autres informations que vous pouvez publier, télécharger, lier ou rendre disponible de toute autre manière, quelle que soit la forme de ce contenu.",
+          "device": "Désigne tout appareil pouvant accéder au Service, tel qu'un ordinateur, un smartphone ou une tablette numérique.",
+          "feedback": "Désigne les commentaires, innovations ou suggestions que vous nous envoyez concernant les attributs, les performances ou les fonctionnalités de notre Service.",
+          "freeTrial": "Désigne une période limitée durant laquelle l'accès peut être gratuit lors de l'achat d'un abonnement.",
+          "goods": "Consultez les articles proposés à la vente sur le Service.",
+          "inAppPurchase": "Désigne l'achat d'un produit, d'un article, d'un service ou d'un abonnement effectué via l'Application et soumis aux présentes Conditions générales et/ou aux conditions générales propres à la boutique d'applications.",
+          "orders": "Cela signifie une demande de votre part pour acheter des marchandises chez nous.",
+          "promotions": "Consultez les concours, tirages au sort ou autres promotions proposés par le biais du Service.",
+          "service": "Se réfère à l'application.",
+          "subscriptions": "Veuillez vous référer aux services ou à l'accès au Service proposés par la Société sur la base d'un abonnement.",
+          "termsAndConditions": "(également appelées « Conditions ») désignent les présentes Conditions générales qui constituent l’intégralité de l’accord entre vous et la Société concernant l’utilisation du Service.",
+          "thirdPartySocialMedia": "Désigne tous les services ou contenus (y compris les données, informations, produits ou services) fournis par un tiers et pouvant être affichés, inclus ou mis à disposition par le Service.",
+          "you": "Désigne la personne physique qui accède au Service ou l’utilise, ou la société ou autre entité juridique pour le compte de laquelle cette personne physique accède au Service ou l’utilise, selon le cas."
+        },
+        "definitionLabels": {
+          "application": "Application:",
+          "applicationStore": "Boutique d'applications :",
+          "affiliate": "Filiale:",
+          "account": "Compte:",
+          "country": "Pays:",
+          "company": "Entreprise:",
+          "content": "Contenu:",
+          "device": "Appareil:",
+          "feedback": "Retour:",
+          "freeTrial": "Essai gratuit :",
+          "goods": "Marchandises:",
+          "inAppPurchase": "Achat intégré :",
+          "orders": "Ordres:",
+          "promotions": "Promotions :",
+          "service": "Service:",
+          "subscriptions": "Abonnements :",
+          "termsAndConditions": "Termes et conditions:",
+          "thirdPartySocialMedia": "Service de médias sociaux tiers :",
+          "you": "Toi:"
+        }
+      },
+      "acknowledgment": {
+        "title": "Reconnaissance",
+        "description1": "Les présentes conditions générales régissent l'utilisation de ce service et constituent l'accord conclu entre vous et la société. Elles définissent les droits et obligations de tous les utilisateurs concernant l'utilisation du service.",
+        "description2": "Votre accès au Service et son utilisation sont subordonnés à votre acceptation et au respect des présentes Conditions générales. Ces Conditions générales s'appliquent à tous les visiteurs, utilisateurs et autres personnes qui accèdent au Service ou l'utilisent.",
+        "description3": "En accédant au Service ou en l'utilisant, vous acceptez d'être lié par les présentes Conditions générales. Si vous n'acceptez pas une partie quelconque de ces Conditions générales, vous ne pouvez pas accéder au Service.",
+        "description4": "Vous déclarez être âgé de plus de 18 ans. La Société n'autorise pas les personnes de moins de 18 ans à utiliser le Service.",
+        "description5": "Votre accès au Service et son utilisation sont également soumis à votre acceptation et au respect de la Politique de confidentialité de la Société. Notre Politique de confidentialité décrit nos politiques et procédures relatives à la collecte, à l'utilisation et à la divulgation de vos informations personnelles lorsque vous utilisez l'Application. Elle vous informe également de vos droits en matière de protection des données et de la manière dont la loi vous protège. Veuillez lire attentivement notre Politique de confidentialité avant d'utiliser notre Service.",
+        "bluetoothNotice": "En utilisant notre Service, vous reconnaissez que l'Application utilise Bluetooth et les services de géolocalisation pour détecter et entrer en contact avec les utilisateurs à proximité. Vous consentez à l'utilisation de ces technologies pour vous proposer des fonctionnalités basées sur la proximité.",
+        "bluetoothTitle": "Services Bluetooth et de localisation"
+      },
+      "orders": {
+        "title": "Achat d'articles numériques",
+        "introduction": "En achetant un Pass Découverte, Night Pass ou un Abonnement via le Service, vous garantissez avoir la capacité juridique de conclure des contrats contraignants.",
+        "yourInformation": {
+          "title": "Vos informations",
+          "description1": "Le paiement des Pass Découverte, Night Pass et des abonnements est entièrement géré par la boutique d'applications de votre appareil (Google Play ou l'App Store). Nous ne collectons ni ne conservons les informations relatives à votre carte bancaire.",
+          "description2": "Vous déclarez et garantissez que : (i) vous avez le droit légal d'utiliser tout mode de paiement enregistré auprès de votre compte de l'App Store ; et (ii) les informations que vous fournissez à l'App Store sont vraies, correctes et complètes.",
+          "description3": "Toutes les informations de paiement sont transmises directement à Google Play ou à l'App Store, et non à la société."
+        },
+        "cancellation": {
+          "title": "Annulation d'achat",
+          "description1": "Nous nous réservons le droit de refuser ou d'annuler votre achat à tout moment pour certaines raisons, y compris, mais sans s'y limiter :",
+          "reasons": {
+            "availability": "Disponibilité des articles",
+            "errors": "Erreurs dans la description ou le prix d'un article",
+            "orderErrors": "Erreurs dans votre achat"
+          },
+          "description2": "Nous nous réservons le droit de refuser ou d'annuler votre achat en cas de suspicion de fraude ou de transaction non autorisée ou illégale.",
+          "yourRights": {
+            "title": "Vos droits d'annulation",
+            "description1": "Les Pass Découverte, Night Pass et autres articles numériques consommables sont consommés une fois utilisés et ne peuvent généralement pas être retournés.",
+            "description2": "Nos pratiques de remboursement pour les achats numériques sont décrites dans les sections Achats intégrés et Remboursements ci-dessous.",
+            "description3": "Une fois qu'un Discovery Pass ou Night Pass a été utilisé pour accéder à un lieu, il ne peut être ni annulé ni remboursé.",
+            "description4": "Les demandes de remboursement admissibles sont traitées conformément à la politique de remboursement de l'App Store, telle que décrite dans la section Remboursements ci-dessous.",
+            "description5": "Vous ne disposerez d'aucun droit d'annulation pour les articles suivants :",
+            "exceptions": {
+              "personalized": "Les éléments qui ont déjà été appliqués à votre compte ou utilisés, comme un Pass Découverte utilisé pour débloquer un lieu.",
+              "perishable": "Les abonnements à durée limitée, comme le Night Pass , une fois leur période de validité commencée.",
+              "hygiene": "Périodes d'abonnement pour lesquelles le Service vous a déjà été fourni.",
+              "mixed": "Articles numériques combinés à d'autres articles achetés dans le cadre d'un lot.",
+              "digital": "La fourniture de contenu numérique qui n'est pas fourni sur un support matériel si la prestation a commencé avec votre consentement exprès préalable et que vous avez reconnu la perte de votre droit de rétractation."
+            }
+          }
+        },
+        "availability": {
+          "title": "Disponibilité, erreurs et inexactitudes",
+          "description1": "Nous mettons régulièrement à jour nos offres de Pass Découverte, Night Pass et d'abonnements sur le Service. Il se peut que ces offres comportent des erreurs de prix, des descriptions inexactes ou qu'elles soient indisponibles, et la mise à jour de ces informations peut prendre du temps.",
+          "description2": "Nous ne pouvons garantir l'exactitude ni l'exhaustivité des informations, notamment des prix et de la disponibilité. Nous nous réservons le droit de modifier ou de mettre à jour ces informations et de corriger les erreurs, inexactitudes ou omissions à tout moment et sans préavis."
+        },
+        "pricing": {
+          "title": "Politique tarifaire",
+          "description1": "La société se réserve le droit de modifier les prix des Pass Découverte, Night Pass et des abonnements à tout moment avant l'acceptation d'un achat.",
+          "description2": "Les prix sont fixés et affichés via la boutique d'applications de votre appareil (Google Play ou l'App Store) et peuvent varier selon la région et la devise."
+        },
+        "payments": {
+          "title": "Paiements",
+          "description1": "Tous les achats sont traités via la boutique d'applications de votre appareil (Google Play ou l'App Store) en utilisant les modes de paiement qu'elle prend en charge.",
+          "description2": "Les modes de paiement sont soumis à des contrôles de validation et à l'autorisation de l'App Store et de votre banque. En cas de refus d'autorisation, la société décline toute responsabilité en cas de retard ou d'impossibilité de livraison de votre achat."
+        }
+      },
+      "subscriptions": {
+        "title": "Abonnements",
+        "period": {
+          "title": "Période d'abonnement",
+          "description1": "Le Service, ou certaines de ses parties, est uniquement accessible via un abonnement payant. Vous serez facturé(e) à l'avance, de manière récurrente et périodique (quotidienne, hebdomadaire, mensuelle ou annuelle), selon la formule d'abonnement choisie lors de votre achat.",
+          "description2": "À la fin de chaque période, votre abonnement sera automatiquement renouvelé aux mêmes conditions, sauf si vous l'annulez ou si la société l'annule."
+        },
+        "cancellations": {
+          "title": "Annulations d'abonnement",
+          "description1": "Vous pouvez annuler le renouvellement de votre abonnement soit depuis la page des paramètres de votre compte, soit en contactant la société. Aucun remboursement ne sera effectué pour les frais déjà payés pour la période d'abonnement en cours, et vous pourrez accéder au service jusqu'à la fin de cette période.",
+          "description2": "Si vous avez souscrit un abonnement via un achat intégré, vous pouvez annuler son renouvellement depuis l'App Store."
+        },
+        "billing": {
+          "title": "Facturation",
+          "description1": "Vous devrez fournir à la Société des informations de facturation exactes et complètes, notamment vos nom et prénom, adresse, état, code postal, numéro de téléphone et les informations relatives à un mode de paiement valide.",
+          "description2": "Si la facturation automatique échoue pour quelque raison que ce soit, la Société émettra une facture électronique indiquant que vous devez procéder manuellement, dans un délai déterminé, au paiement intégral correspondant à la période de facturation indiquée sur la facture.",
+          "description3": "Si l'abonnement a été souscrit via un achat intégré, la facturation est entièrement gérée par l'App Store et est régie par les conditions générales de l'Application Store."
+        },
+        "feeChanges": {
+          "title": "Modifications des frais",
+          "description1": "La Société peut, à son entière discrétion et à tout moment, modifier les frais d'abonnement. Toute modification des frais d'abonnement prendra effet à la fin de la période d'abonnement en cours.",
+          "description2": "La Société vous informera préalablement et dans un délai raisonnable de toute modification des frais d'abonnement afin de vous donner la possibilité de résilier votre abonnement avant que cette modification ne prenne effet.",
+          "description3": "Votre utilisation continue du Service après l'entrée en vigueur de la modification des frais d'abonnement constitue votre accord pour payer le montant modifié des frais d'abonnement."
+        },
+        "refunds": {
+          "title": "Remboursements",
+          "description1": "Sauf disposition légale contraire, les frais d'abonnement payés ne sont pas remboursables.",
+          "description2": "Certaines demandes de remboursement d'abonnements peuvent être examinées par la Société au cas par cas et accordées à sa seule discrétion.",
+          "description3": "Si l'abonnement a été souscrit via un achat intégré, la politique de remboursement de l'App Store s'applique. Pour demander un remboursement, veuillez contacter directement l'App Store."
+        },
+        "freeTrial": {
+          "title": "Essai gratuit",
+          "description1": "La Société peut, à son entière discrétion, proposer un abonnement avec un essai gratuit pour une durée limitée.",
+          "description2": "Il vous sera peut-être demandé de saisir vos informations de facturation pour vous inscrire à l'essai gratuit.",
+          "description3": "Si vous saisissez vos informations de facturation lors de votre inscription à un essai gratuit, vous ne serez facturé par la société qu'à la fin de cette période. Le dernier jour de l'essai gratuit, sauf si vous avez annulé votre abonnement, les frais d'abonnement correspondant au type d'abonnement choisi vous seront automatiquement facturés.",
+          "description4": "À tout moment et sans préavis, la Société se réserve le droit (i) de modifier les termes et conditions de l’offre d’essai gratuit, ou (ii) d’annuler cette offre d’essai gratuit."
+        }
+      },
+      "inAppPurchases": {
+        "title": "Achats intégrés",
+        "description1": "L'application peut inclure des achats intégrés vous permettant d'acheter des produits, des services ou des abonnements.",
+        "description2": "Vous trouverez davantage d'informations sur la manière de gérer les achats intégrés à l'aide de votre appareil dans les conditions générales de l'App Store ou dans les paramètres d'aide de votre appareil.",
+        "description3": "Les achats intégrés ne peuvent être utilisés que dans l'application. Une fois le téléchargement lancé, un achat intégré ne peut être annulé. Les achats intégrés ne sont ni échangeables ni transférables.",
+        "description4": "Vous reconnaissez et acceptez que tous les processus de facturation et de transaction sont gérés par la boutique d'applications à partir de laquelle vous avez téléchargé l'application et sont régis par les conditions générales de cette boutique d'applications."
+      },
+      "promotions": {
+        "title": "Promotions",
+        "description1": "Toute promotion proposée par le biais du Service peut être soumise à des règles distinctes des présentes Conditions.",
+        "description2": "Si vous participez à une promotion, veuillez consulter le règlement applicable ainsi que notre politique de confidentialité. En cas de conflit entre le règlement d'une promotion et les présentes conditions générales, le règlement de la promotion prévaudra."
+      },
+      "userAccounts": {
+        "title": "Comptes utilisateurs",
+        "description1": "Lorsque vous créez un compte chez nous, vous devez nous fournir des informations exactes, complètes et à jour. Le non-respect de cette obligation constitue une violation des Conditions d'utilisation et peut entraîner la résiliation immédiate de votre compte.",
+        "description2": "Vous êtes responsable de la protection du mot de passe que vous utilisez pour accéder au Service et de toutes les activités ou actions effectuées sous votre mot de passe, que ce soit avec notre Service ou un service de médias sociaux tiers.",
+        "description3": "Vous vous engagez à ne divulguer votre mot de passe à aucun tiers. Vous devez nous informer immédiatement de toute violation de sécurité ou utilisation non autorisée de votre compte.",
+        "description4": "Vous ne pouvez pas utiliser comme nom d'utilisateur le nom d'une autre personne ou entité, un nom qui n'est pas légalement disponible, un nom ou une marque déposée qui fait l'objet de droits appartenant à une autre personne ou entité que vous sans autorisation appropriée, ou un nom qui est autrement offensant, vulgaire ou obscène."
+      },
+      "userConduct": {
+        "title": "Comportement et sécurité des utilisateurs",
+        "zeroTolerance": {
+          "title": "Politique de tolérance zéro",
+          "description": "Vous vous engagez à ne pas utiliser le Service pour harceler, menacer, traquer ou intimider autrui. La Société applique une politique de tolérance zéro à l'égard de tout comportement abusif, harcèlement ou atteinte aux droits ou à la sécurité d'autrui. Toute infraction pourra entraîner la suspension ou la résiliation immédiate de votre compte."
+        },
+        "safetyDisclaimer": {
+          "title": "Avertissement relatif à la sécurité",
+          "description": "Ce service facilite les échanges entre utilisateurs qui souhaitent se rencontrer en personne. Nous ne procédons à aucune vérification d'antécédents ni d'identité. Vous êtes seul responsable de vos interactions avec les autres. Faites preuve de prudence, de bon sens et prenez les précautions nécessaires lorsque vous communiquez ou rencontrez d'autres utilisateurs hors ligne."
+        }
+      },
+      "content": {
+        "title": "Contenu",
+        "yourRight": {
+          "title": "Votre droit de publier du contenu",
+          "description1": "Notre service vous permet de publier du contenu. Vous êtes responsable du contenu que vous publiez sur le service, notamment de sa légalité, de sa fiabilité et de sa pertinence.",
+          "description2": "En publiant du Contenu sur le Service, vous nous accordez le droit et la licence d'utiliser, de modifier, de représenter, d'afficher, de reproduire et de distribuer ce Contenu sur et via le Service. Vous conservez l'intégralité de vos droits sur tout Contenu que vous soumettez, publiez ou affichez sur ou via le Service et il vous incombe de protéger ces droits.",
+          "description3": "Vous déclarez et garantissez que : (i) le Contenu vous appartient (vous en êtes le propriétaire) ou vous avez le droit de l'utiliser et de nous accorder les droits et la licence prévus dans les présentes Conditions, et (ii) la publication de votre Contenu sur ou via le Service ne viole pas les droits à la vie privée, les droits à l'image, les droits d'auteur, les droits contractuels ou tout autre droit de toute personne."
+        },
+        "restrictions": {
+          "title": "Restrictions de contenu",
+          "description1": "La Société décline toute responsabilité quant au contenu publié par les utilisateurs du Service. Vous reconnaissez et acceptez expressément être seul responsable du Contenu et de toute activité effectuée sur votre compte, que ce soit par vous-même ou par un tiers utilisant votre compte.",
+          "description2": "Vous ne pouvez transmettre aucun contenu illégal, offensant, choquant, répugnant, menaçant, diffamatoire, obscène ou autrement répréhensible. À titre d'exemple, et sans s'y limiter, vous pouvez citer les contenus suivants :",
+          "prohibitedContent": {
+            "unlawful": "Illégal ou encourageant une activité illégale.",
+            "discriminatory": "Tout contenu diffamatoire, discriminatoire ou malveillant, y compris les références ou commentaires concernant la religion, la race, l'orientation sexuelle, le sexe, l'origine nationale/ethnique ou d'autres groupes ciblés.",
+            "spam": "Les spams, les messages générés automatiquement ou aléatoirement, constituant de la publicité non autorisée ou non sollicitée, les chaînes de lettres, toute autre forme de sollicitation non autorisée, ou toute forme de loterie ou de jeu de hasard.",
+            "malware": "Contenir ou installer des virus, des vers, des logiciels malveillants, des chevaux de Troie ou tout autre contenu conçu ou destiné à perturber, endommager ou limiter le fonctionnement de tout logiciel, matériel ou équipement de télécommunications.",
+            "infringing": "Toute atteinte aux droits de propriété d'une partie, y compris les brevets, les marques de commerce, les secrets commerciaux, les droits d'auteur, le droit à l'image ou tout autre droit.",
+            "impersonating": "Se faire passer pour toute personne ou entité, y compris la Société et ses employés ou représentants.",
+            "privacy": "Violer la vie privée d'un tiers.",
+            "false": "Informations et caractéristiques erronées."
+          },
+          "description3": "La Société se réserve le droit, sans y être tenue, de déterminer à son entière discrétion si un Contenu est approprié et conforme aux présentes Conditions d'utilisation. Nous pouvons refuser d'afficher ou supprimer un Contenu, et nous nous réservons le droit de suspendre ou de résilier les comptes qui enfreignent les présentes Conditions d'utilisation ou nos règles communautaires."
+        },
+        "backups": {
+          "title": "Sauvegardes de contenu",
+          "description1": "Bien que des sauvegardes régulières du contenu soient effectuées, la société ne garantit pas l'absence de perte ou de corruption de données.",
+          "description2": "Des points de sauvegarde corrompus ou invalides peuvent être causés, entre autres, par un contenu corrompu avant d'être sauvegardé ou qui change pendant la durée de la sauvegarde.",
+          "description3": "La Société fournira une assistance et s'efforcera de résoudre tout problème connu ou découvert susceptible d'affecter les sauvegardes de Contenu. Toutefois, vous reconnaissez que la Société décline toute responsabilité quant à l'intégrité du Contenu ou à l'impossibilité de le restaurer à un état utilisable.",
+          "description4": "Vous acceptez de conserver une copie complète et exacte de tout Contenu dans un emplacement indépendant du Service."
+        }
+      },
+      "copyright": {
+        "title": "Politique de droits d'auteur",
+        "intellectualProperty": {
+          "title": "Violation de la propriété intellectuelle",
+          "description1": "Nous respectons les droits de propriété intellectuelle d'autrui. Notre politique est de répondre à toute réclamation concernant un contenu publié sur le Service qui enfreint un droit d'auteur ou tout autre droit de propriété intellectuelle.",
+          "description2": "Si vous êtes titulaire de droits d'auteur, ou autorisé à agir au nom d'un titulaire, et que vous estimez qu'une œuvre protégée par le droit d'auteur a été copiée d'une manière qui constitue une violation du droit d'auteur commise par le biais du Service, vous devez soumettre votre notification par écrit à l'attention de notre agent des droits d'auteur par courriel à support@ringdy.com et inclure dans votre notification une description détaillée de la violation alléguée.",
+          "description3": "Vous pourriez être tenu responsable des dommages (y compris les frais et honoraires d'avocat) pour avoir faussement déclaré que tout contenu portait atteinte à vos droits d'auteur."
+        },
+        "dmca": {
+          "title": "Avis DMCA et procédure DMCA pour les réclamations relatives à la violation du droit d'auteur",
+          "description": "Vous pouvez soumettre une notification conformément à la loi Digital Millennium Copyright Act (DMCA) en fournissant à notre agent des droits d'auteur les informations suivantes par écrit :",
+          "requirements": {
+            "signature": "Une signature électronique ou physique de la personne autorisée à agir au nom du titulaire des droits d'auteur.",
+            "description": "Une description de l'œuvre protégée par le droit d'auteur dont vous estimez qu'elle a été enfreinte, y compris l'URL (c'est-à-dire l'adresse de la page Web) de l'emplacement où se trouve l'œuvre protégée par le droit d'auteur ou une copie de l'œuvre protégée par le droit d'auteur.",
+            "identification": "Identification de l'URL ou de tout autre emplacement précis sur le Service où se trouve le contenu que vous estimez contrefaisant.",
+            "contact": "Votre adresse, votre numéro de téléphone et votre adresse e-mail.",
+            "goodFaith": "Une déclaration de votre part attestant que vous croyez de bonne foi que l'utilisation contestée n'est pas autorisée par le titulaire du droit d'auteur, son mandataire ou la loi.",
+            "accuracy": "Une déclaration de votre part, faite sous peine de parjure, attestant que les informations ci-dessus dans votre notification sont exactes et que vous êtes le titulaire des droits d'auteur ou autorisé à agir au nom du titulaire des droits d'auteur."
+          },
+          "contact": "Vous pouvez contacter notre agent des droits d'auteur par courriel à l'adresse support@ringdy.com. Dès réception d'une notification, la Société prendra, à sa seule discrétion, les mesures qu'elle jugera appropriées, y compris le retrait du contenu contesté du Service."
+        }
+      },
+      "intellectualProperty": {
+        "title": "Propriété intellectuelle",
+        "description1": "Le Service et son contenu original (à l'exclusion du contenu fourni par vous ou d'autres utilisateurs), ses fonctionnalités et ses caractéristiques demeurent la propriété exclusive de la Société et de ses concédants de licence.",
+        "description2": "Le Service est protégé par le droit d'auteur, les marques de commerce et autres lois du pays et des pays étrangers.",
+        "description3": "Nos marques de commerce et notre présentation commerciale ne peuvent être utilisées en relation avec un produit ou un service sans le consentement écrit préalable de la Société."
+      },
+      "feedback": {
+        "title": "Vos commentaires nous sont précieux.",
+        "description": "Vous cédez à la Société tous les droits, titres et intérêts relatifs aux commentaires que vous lui fournissez. Si, pour quelque raison que ce soit, cette cession s'avère inefficace, vous accordez à la Société une licence non exclusive, perpétuelle, irrévocable, gratuite et mondiale lui permettant d'utiliser, de reproduire, de divulguer, de concéder en sous-licence, de distribuer, de modifier et d'exploiter ces commentaires sans restriction."
+      },
+      "links": {
+        "title": "Liens vers d'autres sites Web",
+        "description1": "Notre Service peut contenir des liens vers des sites Web ou des services tiers qui ne sont ni détenus ni contrôlés par la Société.",
+        "description2": "La Société n'exerce aucun contrôle sur le contenu, les politiques de confidentialité ou les pratiques des sites web ou services tiers et décline toute responsabilité à cet égard. Vous reconnaissez et acceptez également que la Société ne saurait être tenue responsable, directement ou indirectement, de tout dommage ou perte causé ou prétendument causé par l'utilisation ou la confiance accordée à tout contenu, bien ou service disponible sur ou via ces sites web ou services.",
+        "description3": "Nous vous conseillons vivement de lire les conditions générales et les politiques de confidentialité de tous les sites Web ou services tiers que vous consultez."
+      },
+      "termination": {
+        "title": "Terminaison",
+        "description1": "Nous pouvons résilier ou suspendre votre compte immédiatement, sans préavis ni responsabilité, pour quelque raison que ce soit, y compris, sans limitation, si vous enfreignez les présentes conditions générales.",
+        "description2": "En cas de résiliation, votre droit d'utiliser le Service cessera immédiatement. Si vous souhaitez résilier votre compte, il vous suffit d'arrêter d'utiliser le Service.",
+        "dataDeletion": {
+          "title": "Suppression des données et clôture du compte",
+          "description": "Vous pouvez demander la suppression de votre compte et de vos données personnelles à tout moment en nous contactant à l'adresse support@ringdy.com ou en utilisant la fonction de suppression de compte intégrée à l'application. En cas de résiliation ou de suppression, nous supprimerons ou anonymiserons vos données personnelles conformément à la législation applicable, sauf si nous sommes tenus de conserver certaines données à des fins légales, de sécurité ou opérationnelles."
+        }
+      },
+      "liability": {
+        "title": "Limitation de responsabilité",
+        "importantNotice": "Avis juridique important",
+        "notice": "Nonobstant tout dommage que vous pourriez subir, la responsabilité totale de la Société et de ses fournisseurs en vertu de toute disposition des présentes Conditions et votre recours exclusif pour tout ce qui précède seront limités au montant que vous avez effectivement payé par le biais du Service ou à 100 USD si vous n'avez rien acheté par le biais du Service.",
+        "description1": "Dans toute la mesure permise par la loi applicable, la Société et ses fournisseurs ne sauraient en aucun cas être tenus responsables de dommages spéciaux, accessoires, indirects ou consécutifs de quelque nature que ce soit (y compris, mais sans s'y limiter, les dommages pour perte de profits, perte de données ou d'autres informations, pour interruption d'activité, pour préjudice corporel, atteinte à la vie privée découlant de l'utilisation ou de l'impossibilité d'utiliser le Service, les logiciels tiers et/ou le matériel tiers utilisés avec le Service, ou en lien avec toute disposition des présentes Conditions), même si la Société ou un fournisseur a été informé de la possibilité de tels dommages et même si le recours n'atteint pas son objectif essentiel.",
+        "description2": "Certains États n'autorisent pas l'exclusion des garanties implicites ni la limitation de responsabilité pour les dommages indirects ou consécutifs ; par conséquent, certaines des limitations susmentionnées peuvent ne pas s'appliquer. Dans ces États, la responsabilité de chaque partie sera limitée dans toute la mesure permise par la loi."
+      },
+      "disclaimer": {
+        "title": "Clause de non-responsabilité « TEL QUEL » et « SELON BLE »",
+        "description1": "Le Service vous est fourni « EN L’ÉTAT » et « SELON BLE », avec tous ses défauts et imperfections, sans aucune garantie. Dans toute la mesure permise par la loi applicable, la Société, en son nom propre et au nom de ses sociétés affiliées et de leurs concédants de licence et prestataires de services respectifs, exclut expressément toute garantie, expresse, implicite, légale ou autre, concernant le Service, y compris toutes les garanties implicites de qualité marchande, d’adéquation à un usage particulier, de propriété et d’absence de contrefaçon, ainsi que les garanties pouvant découler des usages commerciaux, des pratiques habituelles ou des usages du commerce.",
+        "description2": "Sans préjudice de ce qui précède, la Société ne fournit aucune garantie ni aucun engagement, et ne fait aucune déclaration de quelque nature que ce soit quant au fait que le Service répondra à vos exigences, atteindra les résultats escomptés, sera compatible ou fonctionnera avec d'autres logiciels, applications, systèmes ou services, fonctionnera sans interruption, répondra à des normes de performance ou de fiabilité, sera exempt d'erreurs ou que les erreurs ou défauts pourront ou seront corrigés.",
+        "description3": "Sans limiter ce qui précède, ni la Société ni aucun de ses fournisseurs ne fait de déclaration ni ne donne de garantie d'aucune sorte, expresse ou implicite : (i) quant au fonctionnement ou à la disponibilité du Service, ou aux informations, contenus et documents ou produits qui y sont inclus ; (ii) quant au fait que le Service sera ininterrompu ou exempt d'erreurs ; (iii) quant à l'exactitude, la fiabilité ou l'actualité de toute information ou contenu fourni par le biais du Service ; ou (iv) quant au fait que le Service, ses serveurs, le contenu ou les courriels envoyés par ou au nom de la Société sont exempts de virus, scripts, chevaux de Troie, vers, logiciels malveillants, bombes logiques ou autres composants nuisibles.",
+        "description4": "Certaines juridictions n'autorisent pas l'exclusion de certains types de garanties ni la limitation des droits légaux applicables aux consommateurs ; par conséquent, certaines ou toutes les exclusions et limitations ci-dessus peuvent ne pas vous être applicables. Dans ce cas, les exclusions et limitations énoncées dans la présente section s'appliqueront dans toute la mesure permise par la loi applicable."
+      },
+      "governingLaw": {
+        "title": "Loi applicable",
+        "description": "Les lois du pays, à l'exclusion de ses règles relatives aux conflits de lois, régissent les présentes Conditions et votre utilisation du Service. Votre utilisation de l'Application peut également être soumise à d'autres lois locales, étatiques, nationales ou internationales."
+      },
+      "disputes": {
+        "title": "Règlement des différends",
+        "description": "En cas de problème ou de litige concernant le Service, vous acceptez de tenter d'abord de le résoudre à l'amiable en contactant la Société."
+      },
+      "euUsers": {
+        "title": "Pour les utilisateurs de l'Union européenne (UE)",
+        "description": "Si vous êtes un consommateur de l'Union européenne, vous bénéficierez des dispositions impératives de la loi du pays dans lequel vous résidez."
+      },
+      "usLegal": {
+        "title": "Conformité juridique aux États-Unis",
+        "description": "Vous déclarez et garantissez que (i) vous n'êtes pas situé dans un pays soumis à un embargo du gouvernement des États-Unis ou désigné par le gouvernement des États-Unis comme un pays « soutenant le terrorisme », et (ii) vous n'êtes inscrit sur aucune liste du gouvernement des États-Unis de personnes interdites ou faisant l'objet de restrictions."
+      },
+      "severability": {
+        "title": "Divisibilité et renonciation",
+        "severabilityTitle": "divisibilité",
+        "severabilityDescription": "Si une disposition quelconque des présentes Conditions est jugée inapplicable ou invalide, cette disposition sera modifiée et interprétée de manière à atteindre, dans toute la mesure permise par la loi applicable, les objectifs qu'elle visait, et les autres dispositions resteront pleinement en vigueur.",
+        "waiverTitle": "Renoncer",
+        "waiverDescription": "Sauf disposition contraire des présentes, le défaut d'exercer un droit ou d'exiger l'exécution d'une obligation en vertu des présentes Conditions générales n'affectera pas la capacité d'une partie à exercer ce droit ou à exiger cette exécution ultérieurement, et la renonciation à un manquement ne constituera pas une renonciation à tout manquement ultérieur."
+      },
+      "translation": {
+        "title": "Traduction et interprétation",
+        "description": "Les présentes conditions générales peuvent avoir été traduites si nous les avons mises à votre disposition sur notre service. Vous acceptez qu'en cas de litige, le texte original en anglais prévale."
+      },
+      "changes": {
+        "title": "Modifications des présentes conditions générales",
+        "description1": "Nous nous réservons le droit, à notre entière discrétion, de modifier ou de remplacer les présentes Conditions à tout moment. En cas de modification importante, nous nous efforcerons de vous en informer au moins 30 jours avant l'entrée en vigueur des nouvelles conditions. La nature d'une modification importante sera déterminée à notre entière discrétion.",
+        "description2": "En continuant d'accéder à notre Service ou de l'utiliser après l'entrée en vigueur de ces modifications, vous acceptez d'être lié par les conditions révisées. Si vous n'acceptez pas les nouvelles conditions, en tout ou en partie, veuillez cesser d'utiliser le site web et le Service."
+      },
+      "contact": {
+        "title": "Contactez-nous",
+        "description": "Si vous avez des questions concernant ces conditions générales, vous pouvez nous contacter :",
+        "email": "Par courriel : support@ringdy.com",
+        "support": "Par le biais de notre système d'assistance intégré à l'application",
+        "website": "En visitant notre site web : www.ringdy.com"
+      },
+      "backToHome": "Retour à l'accueil",
+      "privacyPolicy": "politique de confidentialité"
+    }
+  },
+  "safety": {
+    "title": "Conseils et astuces de sécurité",
+    "subtitle": "Votre sécurité est notre priorité. Découvrez des conseils essentiels pour un réseau sécurisé et des connexions sûres.",
+    "lastUpdated": "Dernière mise à jour : janvier 2025",
+    "commitment": {
+      "title": "Notre engagement envers votre sécurité",
+      "items": {
+        "privacy": "Vous décidez de ce que vous partagez : vous pouvez changer d'avatar à tout moment, et nous ne partageons jamais votre numéro de téléphone ni votre adresse exacte avec d'autres utilisateurs.",
+        "noStorage": "Nous ne divulguons pas vos informations de contact privées à d'autres utilisateurs, sauf si vous choisissez de les partager vous-même.",
+        "tools": "Nous mettons à votre disposition des outils tels que le blocage et le signalement pour vous permettre de contrôler chaque interaction.",
+        "ageLimit": "Ringdy est réservé aux utilisateurs âgés de 18 ans et plus."
+      }
+    },
+    "respectfulBehavior": {
+      "title": "Un comportement respectueux est exigé.",
+      "expectation": "Nous attendons de vous que :",
+      "items": {
+        "kind": "Soyez aimable, respectueux et honnête.",
+        "language": "Utilisez un langage propre et approprié",
+        "laws": "Respectez les lois locales et les normes communautaires",
+        "genuine": "N'utilisez l'application que pour des interactions authentiques et respectueuses."
+      }
+    },
+    "prohibitedConduct": {
+      "title": "Comportements interdits",
+      "warning": "Pour garantir la sécurité de tous, vous ne devez pas :",
+      "items": {
+        "harassment": "Harceler, traquer ou intimider qui que ce soit",
+        "hateful": "Partagez du contenu haineux, violent ou discriminatoire",
+        "impersonation": "Usurper l'identité d'autres personnes ou créer de fausses sessions",
+        "personalData": "Demander des données personnelles comme l'adresse, le numéro de téléphone ou les profils sur les réseaux sociaux",
+        "explicit": "Envoyer des messages explicites, pornographiques ou offensants",
+        "scamming": "Se livrer à des escroqueries, à l'hameçonnage ou à des demandes d'argent",
+        "offPlatform": "Essayez de déplacer les conversations vers des applications de messagerie externes à des fins trompeuses",
+        "tracking": "Tenter de suivre ou de localiser des utilisateurs au-delà des capacités Bluetooth"
+      },
+      "consequence": "Chacune de ces actions peut entraîner une suspension ou une exclusion définitive."
+    },
+    "commonSense": {
+      "title": "Faites preuve de bon sens et de prudence.",
+      "intro": "Vous connaissez mieux que quiconque votre sécurité. Ces conseils sont là pour vous aider :",
+      "chatting": {
+        "title": "🗣 Lors d'une conversation :",
+        "items": {
+          "noPersonalInfo": "Ne divulguez pas votre nom complet, votre adresse, votre numéro de téléphone ni vos informations financières.",
+          "cautious": "Méfiez-vous des personnes qui demandent rapidement à poursuivre la conversation ailleurs.",
+          "noPressure": "Ne vous sentez pas obligé de répondre ou de poursuivre la conversation."
+        }
+      },
+      "redFlags": {
+        "title": "🛑 Soyez attentif aux signaux d'alerte :",
+        "items": {
+          "quickLove": "Une personne prétend être amoureuse après seulement quelques messages",
+          "moneyRequests": "Demandes d'envoi d'argent ou de données personnelles",
+          "strangeLinks": "Liens étranges ou demandes de discussions hors plateforme",
+          "emergencyStories": "Histoires de voyages d'urgence, de factures d'hôpital ou de problèmes de visa"
+        },
+        "advice": "Si vous avez le moindre doute, bloquez et signalez."
+      }
+    },
+    "reportBlock": {
+      "title": "Outils de signalement et de blocage",
+      "intro": "Si quelqu'un :",
+      "reasons": {
+        "uncomfortable": "Cela vous met mal à l'aise",
+        "violates": "Enfreint nos directives",
+        "suspicious": "Envoie des messages suspects ou nuisibles"
+      },
+      "instruction": "Utilisez immédiatement les fonctions de blocage et de signalement. Nous prenons tous les signalements au sérieux et les infractions répétées peuvent entraîner une suspension définitive.",
+      "anonymity": "Votre anonymat sera préservé lorsque vous signalerez une autre personne. Celle-ci ne sera pas informée de votre identité."
+    },
+    "meetingInPerson": {
+      "title": "Rencontre en personne (le cas échéant)",
+      "disclaimer": "Ringdy est conçu pour vous aider à découvrir et à entrer en contact avec des personnes à proximité via Bluetooth ou dans des lieux publics. De nombreux utilisateurs choisissent de se rencontrer en personne après avoir trouvé un partenaire. Veuillez suivre ces précautions :",
+      "safetyTips": {
+        "publicPlaces": "Rencontres uniquement dans les lieux publics",
+        "tellFriend": "Parlez de vos projets à un ami",
+        "shareLocation": "Partagez votre position avec une personne de confiance.",
+        "noRides": "N’acceptez pas de covoiturage avec des personnes que vous venez de rencontrer.",
+        "staySober": "Restez sobre et vigilant",
+        "chargePhone": "Chargez votre téléphone et gardez-le à proximité.",
+        "ownTransport": "Organisez vous-même votre transport aller-retour."
+      },
+      "reminder": "Si vous vous sentez mal à l'aise, vous pouvez partir à tout moment. Bloquez l'utilisateur et signalez-le-nous ensuite."
+    },
+    "enforcement": {
+      "title": "Application des mesures et mesures de sécurité",
+      "intro": "Ringdy peut prendre les mesures suivantes en cas d'infraction :",
+      "actions": {
+        "suspend": "Suspendre temporairement les comptes",
+        "ban": "Bannir définitivement les utilisateurs abusifs",
+        "lawEnforcement": "Signalez les menaces graves aux forces de l'ordre",
+        "verification": "Exiger une vérification en cas de suspicion d'usurpation d'identité"
+      }
+    },
+    "appeals": {
+      "title": "Appels et soutien",
+      "intro": "Si vous estimez avoir été banni injustement, ou si vous souhaitez signaler un problème grave :",
+      "contact": {
+        "email": "📧 Courriel : support@ringdy.com",
+        "website": "🌐 Visitez : Centre de sécurité Ringdy (Ouverture prochaine)"
+      }
+    },
+    "finalThoughts": {
+      "title": "Réflexions finales",
+      "message": "Ringdy vous permet de nouer des liens sûrs et authentiques en toute confidentialité. Vous gardez le contrôle sur vos interlocuteurs et nous sommes là pour vous accompagner."
+    },
+    "navigation": {
+      "backToHome": "Retour à l'accueil",
+      "downloadApp": "Télécharger l'application"
+    }
+  },
+  "profile": {
+    "connectViaBLE": "Connexion via BLE",
+    "stats": {
+      "connections": "Relations",
+      "messages": "Messages",
+      "filesShared": "Fichiers partagés"
+    },
+    "location": "San Francisco, Californie",
+    "onlineViaBLE": "En ligne via BLE",
+    "occupation": "Développeur logiciel - Start-up technologique",
+    "education": "Université de Stanford - Informatique",
+    "interests": "Intérêts : IoT, technologie Bluetooth , développement mobile",
+    "bio": "Passionné par la création de liens fluides grâce à la technologie, j'aime explorer les possibilités du Bluetooth Low Energy et développer des applications qui rapprochent les gens. Toujours ravi d'échanger avec d'autres développeurs et passionnés de technologie de ma région, n'hésitez pas à me contacter pour une collaboration ou simplement pour une discussion technique enrichissante !",
+    "showMore": "Afficher plus"
+  },
+  "auth": {
+    "agreeWith": "Je suis d'accord avec le"
+  }
+}

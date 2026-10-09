@@ -1,6 +1,10 @@
 import React from "react";
+import { Link } from "react-router-dom";
+import { useTranslation } from 'react-i18next';
+import appIcon from "assets/img/icon.png";
 
 export default function Footer() {
+  const { t } = useTranslation();
   return (
     <>
       <footer className="relative bg-blueGray-200 pt-8 pb-6">
@@ -26,113 +30,91 @@ export default function Footer() {
         <div className="container mx-auto px-4">
           <div className="flex flex-wrap text-center lg:text-left">
             <div className="w-full lg:w-6/12 px-4">
-              <h4 className="text-3xl font-semibold">Let's keep in touch!</h4>
+              <Link to="/" className="inline-flex items-center mb-4 font-bold text-xl text-blueGray-700">
+                <img src={appIcon} alt="" width="28" height="28" className="mr-2 flex-shrink-0 object-contain" />
+                Ringdy
+              </Link>
+              <h4 className="text-3xl font-semibold">{t('footer.keepInTouch')}</h4>
               <h5 className="text-lg mt-0 mb-2 text-blueGray-600">
-                Find us on any of these platforms, we respond 1-2 business days.
+                {t('footer.findUsOn')}
               </h5>
               <div className="mt-6 lg:mb-0 mb-6">
-                <button
-                  className="bg-white text-lightBlue-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
-                  type="button"
+                <a
+                  href="mailto:support@ringdy.com"
+                  className="bg-white text-lightBlue-400 shadow-lg font-normal h-10 w-10 items-center justify-center inline-flex align-center rounded-full outline-none focus:outline-none mr-2"
                 >
-                  <i className="fab fa-twitter"></i>
-                </button>
-                <button
-                  className="bg-white text-lightBlue-600 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
-                  type="button"
-                >
-                  <i className="fab fa-facebook-square"></i>
-                </button>
-                <button
-                  className="bg-white text-pink-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
-                  type="button"
-                >
-                  <i className="fab fa-dribbble"></i>
-                </button>
-                <button
-                  className="bg-white text-blueGray-800 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
-                  type="button"
-                >
-                  <i className="fab fa-github"></i>
-                </button>
+                  <i className="fas fa-envelope"></i>
+                </a>
               </div>
             </div>
             <div className="w-full lg:w-6/12 px-4">
               <div className="flex flex-wrap items-top mb-6">
                 <div className="w-full lg:w-4/12 px-4 ml-auto">
                   <span className="block uppercase text-blueGray-500 text-sm font-semibold mb-2">
-                    Useful Links
+                    {t('footer.usefulLinks')}
                   </span>
                   <ul className="list-unstyled">
                     <li>
-                      <a
+                      <Link
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://www.creative-tim.com/presentation?ref=nr-footer"
+                        to="/features"
                       >
-                        About Us
-                      </a>
+                        {t('navbar.features')}
+                      </Link>
                     </li>
                     <li>
-                      <a
+                      <Link
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://blog.creative-tim.com?ref=nr-footer"
+                        to="/subscription"
                       >
-                        Blog
-                      </a>
+                        {t('navbar.subscription')}
+                      </Link>
                     </li>
                     <li>
-                      <a
+                      <Link
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://www.github.com/creativetimofficial?ref=nr-footer"
+                        to="/download"
                       >
-                        Github
-                      </a>
-                    </li>
-                    <li>
-                      <a
-                        className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://www.creative-tim.com/bootstrap-themes/free?ref=nr-footer"
-                      >
-                        Free Products
-                      </a>
+                        {t('navbar.download')}
+                      </Link>
                     </li>
                   </ul>
                 </div>
                 <div className="w-full lg:w-4/12 px-4">
                   <span className="block uppercase text-blueGray-500 text-sm font-semibold mb-2">
-                    Other Resources
+                    {t('footer.otherResources')}
                   </span>
                   <ul className="list-unstyled">
                     <li>
-                      <a
+                      <Link
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://github.com/creativetimofficial/notus-react/blob/main/LICENSE.md?ref=nr-footer"
+                        to="/terms-of-use"
                       >
-                        MIT License
-                      </a>
+                        {t('footer.termsConditions')}
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
+                        to="/privacy-policy"
+                      >
+                        {t('footer.privacyPolicy')}
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
+                        to="/safety-tips"
+                      >
+                        {t('navbar.safetyTips')}
+                      </Link>
                     </li>
                     <li>
                       <a
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://creative-tim.com/terms?ref=nr-footer"
+                        href="mailto:support@ringdy.com"
                       >
-                        Terms & Conditions
-                      </a>
-                    </li>
-                    <li>
-                      <a
-                        className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://creative-tim.com/privacy?ref=nr-footer"
-                      >
-                        Privacy Policy
-                      </a>
-                    </li>
-                    <li>
-                      <a
-                        className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://creative-tim.com/contact-us?ref=nr-footer"
-                      >
-                        Contact Us
+                        {t('footer.contactUs')}
                       </a>
                     </li>
                   </ul>
@@ -144,14 +126,7 @@ export default function Footer() {
           <div className="flex flex-wrap items-center md:justify-between justify-center">
             <div className="w-full md:w-4/12 px-4 mx-auto text-center">
               <div className="text-sm text-blueGray-500 font-semibold py-1">
-                Copyright © {new Date().getFullYear()} Notus React by{" "}
-                <a
-                  href="https://www.creative-tim.com?ref=nr-footer"
-                  className="text-blueGray-500 hover:text-blueGray-800"
-                >
-                  Creative Tim
-                </a>
-                .
+                {t('footer.copyright', { year: new Date().getFullYear() })}
               </div>
             </div>
           </div>

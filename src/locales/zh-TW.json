@@ -1,0 +1,1434 @@
+{
+  "navbar": {
+    "features": "特徵",
+    "subscription": "訂閱",
+    "download": "下載",
+    "legal": "合法的",
+    "privacyPolicy": "隱私權政策",
+    "termsOfUse": "使用條款",
+    "safetyTips": "安全提示與技巧"
+  },
+  "hero": {
+    "title": "尋找附近的人。\n在現實生活中建立連結。",
+    "subtitle": "搖晃設備即可透過Bluetooth發現附近的人，或加入附近的活動，看看誰在那裡。發送好友請求，配對成功，即可開始聊天——您可以選擇設定頭像隱私，直到您準備好分享更多資訊。",
+    "discoverFeatures": "探索功能",
+    "downloadApp": "下載應用",
+    "anonymousAvatars": "可選頭像",
+    "autoExpiry": "Bluetooth + 場地",
+    "privacyFirst": "隱私優先"
+  },
+  "features": {
+    "proximityTitle": "基於鄰近性的發現",
+    "proximityDescription": "透過Bluetooth掃描或加入地圖上的地點，找到附近的人。發送好友請求，配對成功後即可開始聊天。",
+    "avatarsTitle": "可選的頭像隱私設置",
+    "avatarsDescription": "在認識某人時，可以先使用頭像，準備好後再切換到真實照片。",
+    "expiringTitle": "基於場所的發現",
+    "expiringDescription": "瀏覽附近推薦地點，查看附近範圍內有哪些人簽到－無需不斷掃描。",
+    "revealTitle": "黏合",
+    "revealDescription": "一旦找到想要長久相處的人，就將這段專屬關係標記為已確立。",
+    "bluetoothTitle": "Bluetooth低功耗技術",
+    "bluetoothDescription": "利用先進的低功耗Bluetooth技術，無需互聯網即可實現高效的本地網路連接。",
+    "keyFeaturesTitle": "主要特點",
+    "keyFeaturesDescription": "Ringdy擁有強大的功能，旨在無論您身在何處都能提升您的在地連線體驗。",
+    "downloadNow": "立即下載",
+    "tags": {
+      "autoDiscovery": "自動發現",
+      "chatMessaging": "聊天訊息",
+      "fileSharing": "文件共享",
+      "profiles": "簡介",
+      "privacyControls": "隱私控制",
+      "offlineMode": "離線模式",
+      "crossPlatform": "跨平台",
+      "lowPower": "低功耗"
+    }
+  },
+  "useCases": {
+    "actionTitle": "Ringdy的行動",
+    "actionDescription": "在真實的社交環境中，實現自動發現、聊天訊息和個人資料分享。無論身在何處，都能體驗到先進的低功耗Bluetooth技術帶來的無縫連接。",
+    "campusTitle": "校園連結",
+    "campusDescription": "立即找到學習夥伴",
+    "eventTitle": "活動社交",
+    "eventDescription": "在會議上建立聯繫",
+    "businessTitle": "商務會議",
+    "businessDescription": "專業人脈",
+    "cafeTitle": "咖啡館聯誼會",
+    "cafeDescription": "與附近的咖啡愛好者見面",
+    "localTitle": "本地探索",
+    "localDescription": "探索你的社區",
+    "gamingTitle": "遊戲團體",
+    "gamingDescription": "尋找遊戲夥伴",
+    "perfectTitle": "完美應用案例",
+    "perfectDescription": "Ringdy可以將任何地點變成社交機會。無論你是在大學、會議現場還是當地的咖啡館， ",
+    "perfectDescriptionContinued": "立即建立有意義的聯繫。",
+    "approachDescription": "從學習小組到職業人脈拓展，我們以地理位置為基礎的方式讓聯繫變得自然輕鬆。",
+    "tryItNow": "立即嘗試",
+    "tags": {
+      "studyGroups": "學習小組",
+      "events": "活動",
+      "coworking": "共同工作",
+      "gaming": "賭博",
+      "travel": "旅行",
+      "shopping": "購物",
+      "fitness": "健康",
+      "social": "社會的"
+    }
+  },
+  "community": {
+    "whyLoveTitle": "人們為什麼喜歡Ringdy",
+    "whyLoveDescription": "我們的用戶經常告訴我們， Ringdy徹底改變了他們的社交體驗。從在咖啡館偶遇新朋友到在各種活動中建立聯繫，這款應用程式都能幫助他們在附近建立真實的人脈關係。",
+    "privacyProtection": "尊重隱私的設計",
+    "instantConnection": "無需網路即可即時連接",
+    "lowPowerConsumption": "超低功耗",
+    "experienceTitle": "體驗Ringdy",
+    "experienceDescription": "透過不同的使用者介面探索我們的應用程式。從用戶個人資料開始 ",
+    "experienceDescriptionContinued": "了解Ringdy如何讓基於位置的社交網路變得直觀且引人入勝，從而實現連接流程。",
+    "anonymousProfiles": "頭像簡介",
+    "chatInterface": "聊天介面",
+    "nearbyDiscovery": "附近發現",
+    "joinTitle": "加入我們的社區",
+    "joinDescription1": "Ringdy不僅僅是一個應用程序，它還是一種透過Bluetooth掃描或您最喜歡的本地地點結識附近真實用戶的方式。",
+    "joinDescription2": "關注我們，隨時了解您所在地區的新功能、使用者故事和社區活動！",
+    "downloadNow": "立即下載"
+  },
+  "download": {
+    "title": "下載Ringdy",
+    "subtitle": "在您的行動裝置上下載Ringdy ，即可開始與附近的人聯繫。現已支援 Android 和 iOS 平台。",
+    "googlePlay": "Google Play",
+    "appStore": "App Store",
+    "getItOn": "開始吧",
+    "downloadOn": "下載",
+    "comingSoon": "即將推出",
+    "whatYouGet": "您將獲得",
+    "instantConnections": "即時連線",
+    "instantConnectionsDesc": "使用低功耗Bluetooth技術或加入本地活動，即可立即與附近的人聯繫。",
+    "anonymousProfiles": "頭像隱私",
+    "anonymousProfilesDesc": "為了保護隱私，你可以使用虛擬頭像作為個人資料，並在準備好時分享你的真實照片。",
+    "privacyFirst": "隱私優先",
+    "privacyFirstDesc": "您可以自主控制分享內容和時間。封鎖和檢舉工具可確保社區安全。",
+    "crossPlatform": "跨平台",
+    "crossPlatformDesc": "可在iOS和Android裝置上無縫運作。",
+    "requirements": "系統需求",
+    "androidReq": "Android 6.0 或更高版本",
+    "iosReq": "iOS 12.0 或更高版本",
+    "bluetoothReq": "支援Bluetooth 4.0 ( BLE )。",
+    "storageReq": "50MB 可用儲存空間",
+    "systemDescription": "Ringdy需要支援低功耗Bluetooth ( BLE ) 的裝置。大多數現代智慧型手機和平板電腦都支援BLE技術。",
+    "androidRequirements": "Android 系統需求：",
+    "androidReq1": "Android 5.0（API 等級 21）或更高版本",
+    "androidReq2": "支援Bluetooth 4.0 LE",
+    "androidReq3": "位置權限（用於BLE掃描）",
+    "androidReq4": "建議至少配備 2GB 內存",
+    "iosRequirements": "iOS系統需求：",
+    "iosReq1": "iOS 12.0 或更高版本",
+    "iosReq2": "iPhone 5s 或更新機型，iPad Air 或更新機型",
+    "iosReq3": "支援Bluetooth 4.0 LE的設備",
+    "iosReq4": "已啟用背景應用程式刷新",
+    "learnMoreFeatures": "了解更多Ringdy功能！",
+    "crossPlatformTitle": "跨平台相容性",
+    "crossPlatformCompatibilityDesc": "與不同平台的用戶建立聯繫。 Android 和 iOS 用戶可以無縫發現彼此並進行聊天。",
+    "android": {
+      "title": "安卓",
+      "description": "在運行 Android 5.0（API 等級 21）及以上版本的 Android 裝置上，可獲得完整的Ringdy體驗。",
+      "featuresTitle": "特徵：",
+      "features": {
+        "bluetooth": "Bluetooth低功耗掃描與廣告",
+        "background": "後台運行",
+        "notifications": "推播通知",
+        "offline": "支援離線模式"
+      },
+      "downloadButton": "在 Google Play 下載"
+    },
+    "ios": {
+      "title": "iOS",
+      "description": "原生 iOS 應用，針對 iPhone 和 iPad 進行了最佳化，相容於 iOS 12.0 及更高版本。",
+      "featuresTitle": "特徵：",
+      "features": {
+        "bluetooth": "核心Bluetooth集成",
+        "background": "後台應用程式刷新",
+        "privacy": "以隱私為中心的設計",
+        "universal": "通用應用程式支援"
+      },
+      "downloadButton": "在 App Store 下載"
+    },
+    "qrCode": {
+      "title": "快速下載",
+      "description": "使用手機相機掃描二維碼下載Ringdy",
+      "placeholder": "QR 圖碼",
+      "instruction": "將相機對準二維碼即可下載"
+    },
+    "installation": {
+      "title": "安裝簡單",
+      "description": "Ringdy的使用非常簡單。下載應用，授予必要的權限，即可開始發現附近的人。",
+      "step1": "從您平台的應用程式商店下載",
+      "step2": "授予Bluetooth和位置權限",
+      "step3": "建立個人資料，開始聯繫吧！"
+    },
+    "callToAction": {
+      "title": "加入Ringdy社區",
+      "description": "以安全私密的方式與附近的人聯繫。立即下載Ringdy ，探索近距離社交的未來。",
+      "googlePlay": "Google Play",
+      "appStore": "App Store"
+    }
+  },
+  "featurePage": {
+    "title": "探索附近景點。\n與真人交流。",
+    "subtitle": "瀏覽附近推薦場所，透過Bluetooth發現周圍的人，並發送好友請求，開啟真正的對話。",
+    "exploreFeatures": "探索功能",
+    "downloadApp": "下載應用",
+    "heroTitle": "發現附近的真實聯繫",
+    "heroSubtitle": "加入推薦的地點或掃描周圍環境，看看附近有哪些人，並透過低功耗Bluetooth技術與有趣的人聯繫。",
+    "discoverCrowdedPlaces": "探索附近場所",
+    "discoverCrowdedPlacesDesc": "取得附近熱門場所的建議，在那裡您可以結識志同道合的人，並建立有意義的聯繫。",
+    "scanThroughAvatars": "查看附近有哪些人",
+    "scanThroughAvatarsDesc": "瀏覽附近用戶的個人資料卡片，您可以選擇保留自己的頭像，直到準備好分享更多資訊為止。",
+    "revealAndMeet": "匹配與聊天",
+    "revealAndMeetDesc": "發送好友請求，對方接受後，你們就配對成功，可以在應用程式內開始聊天了。",
+    "proximityBasedConnections": "基於鄰近性的真實連接",
+    "proximityBasedConnectionsDesc": "我們的應用程式會推薦附近的場所，讓您有機會認識與您興趣相投的人。當你們都處於附近區域時，瀏覽附近的個人資料，尋找潛在的聯絡人。",
+    "bleProximityTech": "低功耗Bluetooth技術可確保您只能與附近的人連接，使每一次連接都真實可靠。",
+    "downloadNow": "立即下載Ringdy ！",
+    "realTimeProximity": "即時接近檢測",
+    "realTimeProximityDesc": "只與你附近或與你在同一地點的人聯繫，確保建立真實的聯繫。",
+    "howItWorks": "工作原理",
+    "howItWorksDesc": "三個簡單的步驟，即可發現附近的場所，與真人聯繫，並開始聊天。",
+    "step1Title": "掃描或加入場地",
+    "step1Desc": "搖晃手機即可透過Bluetooth掃描，或瀏覽我們推薦的附近場所，加入您有興趣的場所。",
+    "step2Title": "瀏覽附近用戶資料",
+    "step2Desc": "查看附近用戶的個人資料卡片，您可以選擇設定頭像隱私，直到您準備好分享更多資訊。",
+    "step3Title": "發送請求並聊天",
+    "step3Desc": "發送好友請求，對方接受後即可配對成功，並可在應用程式內開始聊天。",
+    "coreFeatures": "核心功能",
+    "proximityNetworking": "近距離網絡",
+    "proximityDesc": "使用先進的低功耗Bluetooth技術與您附近的人聯繫。",
+    "anonymousChat": "好友請求匹配",
+    "anonymousChatDesc": "發送好友請求，對方接受後即可開始聊天——沒有壓力，沒有垃圾訊息。",
+    "autoExpiry": "場地探索",
+    "autoExpiryDesc": "加入建議的附近場所，查看在指定半徑範圍內有哪些人簽到。",
+    "gradualReveal": "逐步揭露身份",
+    "gradualRevealDesc": "隨著人際關係的自然發展，您可以選擇何時從頭像切換到真實照片。",
+    "keyPrivacyFeatures": "主要隱私功能",
+    "keyPrivacyFeaturesDesc": "每項功能都旨在實現安全的社交網路——從可選的頭像到保護您隱私的好友請求匹配。",
+    "avatarBasedProfiles": "可選的基於頭像的個人資料",
+    "autoExpiringChats": "以設定的半徑進行場地發現",
+    "progressiveIdentity": "漸進式身分揭示",
+    "ourTeam": "我們的團隊",
+    "ourTeamDesc": "充滿熱情的專家致力於透過創新、以隱私為先的技術連結人們。",
+    "team": {
+      "alex": {
+        "name": "Alex Chen",
+        "role": "BLE協定工程師"
+      },
+      "sarah": {
+        "name": "莎拉·約翰遜",
+        "role": "行動應用開發者"
+      },
+      "maria": {
+        "name": "瑪麗亞·羅德里格斯",
+        "role": "隱私與安全主管"
+      },
+      "david": {
+        "name": "大衛金",
+        "role": "創辦人兼首席執行官"
+      },
+      "title": "我們的團隊",
+      "description": "一群充滿熱情、致力於透過創新、以隱私為先的科技連結人們的人。",
+      "roles": {
+        "engineer": "BLE協定工程師",
+        "developer": "行動應用開發者",
+        "security": "隱私與安全主管",
+        "ceo": "創辦人兼首席執行官"
+      }
+    },
+    "readyToConnect": "準備好連接了嗎？",
+    "readyToConnectDesc": "透過Bluetooth和場地發現功能，安全地加入社交圈。只有在找到真正志同道合的人時，才能進行配對、聊天並公開身份。",
+    "finalFeatures": {
+      "anonymousAvatars": "可選頭像",
+      "anonymousAvatarsDesc": "在認識某人的過程中，可以保留你的頭像，不必馬上公開身分。",
+      "autoExpire": "場地和Bluetooth發現",
+      "autoExpireDesc": "透過Bluetooth掃描附近用戶或加入推薦的本地場所來尋找用戶。",
+      "friendRequests": "好友請求",
+      "friendRequestsDesc": "向有興趣的人發送好友請求，並且只在雙方都感興趣的情況下才開始對話。"
+    },
+    "eventNetworking": "活動社交",
+    "eventNetworkingDesc": "在會議、聚會和活動中，利用Bluetooth近場通訊功能發現周圍的人。",
+    "studyGroups": "學習小組",
+    "studyGroupsDesc": "無需事先認識對方，即可在校園內找到附近的學習夥伴。",
+    "workplace": "工作場所和咖啡館",
+    "workplaceDesc": "在附近的共享辦公空間和咖啡館與同事和其他專業人士會面。",
+    "anonymousNetworking": "基於頭像的隱私",
+    "anonymousNetworkingDesc": "先用虛擬形象熟悉一下，然後隨時可以依照自己的喜好分享真實照片。",
+    "privacyProtection": "你始終可以掌控自己分享的內容以及與誰分享。",
+    "privacyFeatures": {
+      "title": "您掌控的隱私",
+      "description": "Ringdy設計理念是讓您決定分享什麼內容以及何時分享——從您如何發現他人到您透露多少個人資訊。",
+      "avatarProfiles": "可選的基於頭像的個人資料",
+      "autoExpiring": "以設定的半徑進行場地發現",
+      "progressiveReveal": "按照自己的步調公開你的真實照片"
+    },
+    "cta": {
+      "title": "準備好連接了嗎？",
+      "description": "加入附近的人們，透過Bluetooth或在當地場所簽到，發現真誠的友誼。",
+      "features": {
+        "anonymousAvatars": "可選頭像",
+        "anonymousAvatarsDesc": "在認識某人的過程中，可以保留你的頭像，不必馬上公開身分。",
+        "autoExpire": "場地和Bluetooth發現",
+        "autoExpireDesc": "透過掃描附近區域或加入推薦的本地場所來尋找使用者。",
+        "friendRequests": "好友請求",
+        "friendRequestsDesc": "向有興趣的人發送好友請求，並且只在雙方都感興趣的情況下才開始對話。"
+      }
+    }
+  },
+  "subscription": {
+    "title": "Ringdy Premium",
+    "subtitle": "解鎖高級功能，獲得更佳連結體驗。選擇適合您網路需求的套餐。",
+    "weeklyTitle": "週付進階版",
+    "weeklyPrice": "$1.99",
+    "weeklyPeriod": "/週",
+    "weeklyDescription": "非常適合試用進階功能",
+    "chooseWeekly": "選擇週付",
+    "monthlyTitle": "每月",
+    "monthlyPrice": "查看價格",
+    "monthlyPeriod": "每月",
+    "monthlyDescription": "靈活，可隨時取消",
+    "mostPopular": "最受歡迎",
+    "chooseMonthly": "選擇月付",
+    "sixMonthTitle": "六個月",
+    "sixMonthPrice": "查看價格",
+    "sixMonthPeriod": "每6個月",
+    "sixMonthDescription": "六個月內可節省更多",
+    "chooseSixMonth": "選擇六個月",
+    "featuresTitle": "Premium功能詳解",
+    "featuresDescription": "Ringdy Premium解鎖強大的功能，旨在提升您的社交體驗，幫助您建立更有意義的聯繫。",
+    "enhancedNetworking": "增強型網絡",
+    "enhancedNetworkingDesc": "Premium功能可協助您更有效率地連接，不受每日限制。",
+    "features": {
+      "unlimitedRequests": "無限好友請求",
+      "advancedFilters": "進階篩選",
+      "meetingPlaces": "智慧會面地點建議",
+      "rematch": "與之前用戶重新配對",
+      "unlimitedRequestsDesc": "每天發送無限好友請求。免費用戶限制20/天。",
+      "advancedFiltersDesc": "根據興趣、個性和已驗證狀態篩選以確保真實連接。",
+      "meetingPlacesDesc": "根據您的精確區域獲得個人化位置建議。",
+      "rematchDesc": "當您們再次相遇時與之前用戶重新連接。",
+      "unlimitedConnections": "無限連接",
+      "unlimitedAreaAccess": "無限制區域訪問",
+      "unlimitedUndo": "無限撤銷",
+      "profilePriority": "個人資料優先級",
+      "premiumAvatars": "Premium頭像",
+      "customAvatar": "自訂頭像",
+      "unlimitedConnectionsDesc": "新增好友和接受邀請沒有每日限制。",
+      "unlimitedAreaAccessDesc": "您可以加入任意數量的場館，沒有任何限制。",
+      "unlimitedUndoDesc": "隨時可以撤銷任何新增好友請求。",
+      "profilePriorityDesc": "您的個人資料始終顯示在向其他使用者顯示的清單頂部。",
+      "premiumAvatarsDesc": "獲取獨家精選高級頭像設計。",
+      "customAvatarDesc": "根據你自己的照片創建個人化頭像。"
+    },
+    "faqTitle": "常見問題解答",
+    "faqDescription": "對Ringdy Premium有疑問？我們有答案。",
+    "faq": {
+      "cancelTitle": "我可以隨時取消訂閱嗎？",
+      "cancelAnswer": "是的，您可以隨時透過帳戶設定或裝置的應用程式商店取消訂閱。您的進階功能將持續有效至目前帳單週期結束。",
+      "unlimitedTitle": "「無限連結」是什麼意思？",
+      "unlimitedAnswer": "使用Premium ，您可以新增好友並接受邀請，而無需像免費帳戶那樣受到每日限制。",
+      "filtersTitle": "進階篩選具體是什麼？",
+      "filtersAnswer": "進階篩選讓您可以按興趣、年齡範圍、職業、距離半徑和活動狀態搜尋。您也可以篩選目前在線或最近活躍的用戶，以獲得更好的連接機會。",
+      "meetingTitle": "會面地點建議如何運作？",
+      "meetingAnswer": "我們的AI建議安全的公共會面地點，如咖啡廳、圖書館或雙方步行距離內的共同工作空間。它考慮您的偏好、當前位置和時間來推薦最佳會面地點。",
+      "rematchTitle": "「與之前用戶重新配對」是什麼意思？",
+      "rematchAnswer": "如果您有一個過期（30分鐘）而未揭示身份的對話，進階用戶可以在附近再次遇到該人時重新連接。這給您第二次建立聯繫的機會。",
+      "trialTitle": "有免費試用嗎？",
+      "trialAnswer": "有的！新用戶可獲得所有進階功能的7天免費試用。您可以在決定哪個方案最適合您之前，探索無限好友請求、進階篩選和會面建議。",
+      "offlineTitle": "進階功能在沒有網路時能運作嗎？",
+      "offlineAnswer": "藍牙LE近距離偵測可離線運作，但位置建議、無限請求和進階篩選等進階功能需要網路連接才能完整使用。",
+      "paymentTitle": "你們接受哪些付款方式？",
+      "paymentAnswer": "我們接受透過您裝置的應用程式商店（Google Play 或 App Store）進行的付款，包括所有支援的付款方式。",
+      "areaTitle": "什麼是「無限制區域存取」？",
+      "areaAnswer": "Premium會員可以加入任意數量的附近場所，每天可以探索的區域數量沒有限制。",
+      "ticketsTitle": "什麼是探索通行證？",
+      "ticketsAnswer": "探索通行證是一種按需付費的訂閱替代方案——每張通行證都允許您加入並探索附近的一個場所，而無需承諾定期訂閱。",
+      "nightPassTitle": "什麼是Night Pass ？",
+      "nightPassAnswer": "Night Pass是一張 24 小時通行證，可解鎖一整天或一整夜的場地探索功能，而無需消耗探索通行證。"
+    },
+    "priceDisclaimer": "價格是根據您瀏覽器所在地區從美元近似轉換而來。如果當地匯率不可用，則價格將以美元顯示。應用程式內最終價格由您的應用程式商店設定，可能會有所不同。",
+    "yearlyTitle": "每年",
+    "yearlyPrice": "查看價格",
+    "yearlyPeriod": "每年",
+    "yearlyDescription": "普通用戶的最佳選擇",
+    "bestValue": "最佳性價比",
+    "chooseYearly": "選擇年度",
+    "tickets": {
+      "title": "探索通行證",
+      "subtitle": "無需完整訂閱，即可使用發現功能探索附近地區的人。",
+      "single": "單次發現",
+      "singleDesc": "使用一張通行證即可進入一個場地，看看有哪些人在那裡。",
+      "venueAccessFeature": "每張通行證可進入一個場館。",
+      "pack3": "3項發現",
+      "pack3Desc": "三張探索通行證。每張通行證可解鎖一個場館。",
+      "pack5": "5項發現",
+      "pack5Desc": "五張探索通行證。每張通行證可解鎖一個場館。",
+      "bestValue": "最佳性價比",
+      "specialTicket": "Night Pass",
+      "specialTicketDesc": "24 小時內無限次進入場館，無需使用探索通行證。"
+    }
+  },
+  "footer": {
+    "keepInTouch": "保持聯繫！",
+    "findUsOn": "您可以透過以下任一平台找到我們，我們會在 1-2 個工作天內回覆。",
+    "usefulLinks": "實用連結",
+    "aboutUs": "關於我們",
+    "blog": "部落格",
+    "github": "Github",
+    "freeProducts": "免費產品",
+    "otherResources": "其他資源",
+    "mitLicense": "MIT許可證",
+    "termsConditions": "條款及細則",
+    "privacyPolicy": "隱私權政策",
+    "contactUs": "聯絡我們",
+    "copyright": "版權所有 © {{year}} Ringdy 。保留所有權利。"
+  },
+  "legal": {
+    "privacyPolicy": {
+      "title": "隱私權政策",
+      "subtitle": "您的隱私是我們的首要任務。了解我們如何保護您的數據，並讓您完全掌控您分享的內容。",
+      "lastUpdated": "最後更新時間：2025年1月",
+      "introduction": "本隱私權政策描述了當您使用本服務時，我們如何收集、使用和披露您的信息，並告知您您的隱私權以及法律如何保護您。",
+      "agreement": "我們使用您的個人資料來提供和改進服務。使用本服務即表示您同意我們依照本隱私權政策收集和使用您的資訊。",
+      "sections": {
+        "interpretationTitle": "解釋與定義",
+        "interpretationSubtitle": "解釋",
+        "definitionsSubtitle": "定義",
+        "interpretationText": "首字母大寫的詞語具有以下定義的含義。下列定義無論以單數或複數形式出現，均具有相同的意義。",
+        "definitionsText": "就本隱私權政策而言：",
+        "definitionLabels": {
+          "account": "帳戶：",
+          "affiliate": "聯盟：",
+          "application": "應用：",
+          "business": "商業：",
+          "ccpaCpra": "CCPA 和/或 CPRA：",
+          "company": "公司：",
+          "consumer": "消費者：",
+          "country": "國家：",
+          "dataController": "數據控制者：",
+          "device": "裝置:",
+          "doNotTrack": "請勿追蹤（DNT）：",
+          "gdpr": "GDPR：",
+          "personalData": "個人資料：",
+          "service": "服務：",
+          "serviceProvider": "服務提供者：",
+          "thirdPartySocialMedia": "第三方社群媒體服務：",
+          "usageData": "使用數據：",
+          "you": "你："
+        },
+        "definitions": {
+          "account": "為您建立的專屬帳戶，用於存取我們的服務或部分服務。",
+          "affiliate": "控制一方、受一方控製或與一方處於共同控制之下的實體，其中「控制」是指擁有 50% 或以上有權選舉董事或其他管理機構成員的股份、股權或其他證券。",
+          "application": "指Ringdy ，即該公司提供的軟體程式。",
+          "business": "就 CCPA/CPRA 而言，指公司作為收集消費者個人資訊的法律實體，並決定處理消費者個人資訊的目的和方式。",
+          "ccpaCpra": "指經 2020 年加州隱私權法案（「CPRA」）修訂的加州消費者隱私法案（「CCPA」）。",
+          "company": "本協議中提及的「本公司」、「我們」或「我們的」均指Ringdy 。根據GDPR的規定，公司是資料控制者。",
+          "consumer": "就 CCPA/CPRA 而言，指加州居民的自然人。",
+          "country": "指：美國",
+          "dataController": "就 GDPR（一般資料保護規範）而言，公司是指單獨或與他人共同決定個人資料處理的目的和方式的法人實體。",
+          "device": "任何可以存取該服務的設備，例如智慧型手機、平板電腦或電腦。",
+          "doNotTrack": "美國監管機構一直倡導互聯網行業開發和實施一種機制，允許互聯網用戶控制其在各個網站上的在線活動跟踪，這一理念應運而生。",
+          "gdpr": "指歐盟一般資料保護規範。",
+          "personalData": "任何與已識別或可識別的個人相關的資訊。就《一般資料保護規範》(GDPR)而言，個人資料是指與您相關的任何信息，例如姓名、身分證號碼、位置資料、線上標識符，或與您的生理、心理、遺傳、經濟、文化或社會身分相關的一個或多個特定因素。",
+          "service": "指的是應用程式。",
+          "serviceProvider": "任何代表公司處理資料的自然人或法人。這包括公司聘用的第三方公司或個人，他們負責協助提供服務、代表公司提供服務、執行與服務相關的服務或協助公司分析服務的使用情況。",
+          "thirdPartySocialMedia": "使用者可以透過任何網站或社群網路網站登入或建立帳戶來使用本服務。",
+          "usageData": "自動收集的數據，無論是透過使用服務產生的數據，或是來自服務基礎設施本身的數據（例如，頁面存取時長）。",
+          "you": "存取或使用本服務的個人，或代表該個人存取或使用本服務的公司或其他法律實體（如適用）。"
+        },
+        "dataCollectionTitle": "收集和使用您的個人數據",
+        "dataTypesTitle": "收集的資料類型",
+        "personalDataTitle": "個人資料",
+        "personalDataDescription": "在使用我們的服務時，我們可能會要求您提供某些個人識別信息，以便與您聯繫或識別您的身份。個人識別資訊可能包括但不限於：",
+        "usageDataTitle": "使用數據",
+        "usageDataDescription1": "使用服務時，我們會自動收集使用資料。",
+        "usageDataDescription2": "使用資料可能包括以下資訊：您的裝置網際網路通訊協定位址（例如 IP 位址）、瀏覽器類型、瀏覽器版本、您造訪的我們服務的頁面、您造訪的時間和日期、您在這些頁面上花費的時間、唯一裝置識別碼和其他診斷資料。",
+        "usageDataDescription3": "當您透過行動裝置存取服務時，我們可能會自動收集某些信息，包括但不限於您使用的行動裝置類型、您的行動裝置唯一 ID、您的行動裝置 IP 位址、您的行動作業系統、您使用的行動上網瀏覽器類型、唯一裝置識別碼和其他診斷資料。",
+        "thirdPartyTitle": "來自第三方社交媒體服務的訊息",
+        "thirdPartyDescription1": "本公司允許您透過以下第三方社群媒體服務建立帳戶並登入以使用本服務：",
+        "thirdPartyDescription2": "如果您決定透過第三方社群媒體服務註冊或以其他方式授予我們存取權限，我們可能會收集已與您的第三方社群媒體服務帳戶關聯的個人數據，例如您的姓名、電子郵件地址、活動或與該帳戶關聯的聯絡人清單。",
+        "appDataTitle": "使用應用程式期間收集的信息",
+        "appDataDescription1": "在使用我們的應用程式時，為了提供我們應用程式的各項功能，我們可能會在事先徵得您的同意後收集以下資訊：",
+        "appDataDescription2": "我們使用這些資訊來提供服務功能，並改善和客製化我們的服務。這些資訊可能儲存在您的裝置本地，也可能上傳到加密伺服器。您可以隨時透過裝置設定啟用或停用對這些資訊的存取。",
+        "dataUseTitle": "個人資料的使用",
+        "dataUseDescription": "公司可能將個人資料用於以下用途：",
+        "sharingTitle": "個人資訊共享",
+        "sharingDescription": "我們可能會在以下情況下分享您的個人資訊：",
+        "retentionTitle": "個人資料保留"
+      },
+      "dataUses": {
+        "provide": "為了提供和維護我們的服務：包括監控我們服務的使用情況，並啟用基於Bluetooth和基於場所的附近人員發現功能。",
+        "account": "管理您的帳戶：用於管理您作為服務使用者的註冊資訊。您提供的個人資料可讓您存取註冊用戶可使用的不同服務功能。",
+        "contract": "為了履行合約：開發、遵守和提供您透過本服務向我們提出的任何要求的服務或任何其他合約。",
+        "contact": "聯絡您：透過電子郵件、推播通知或其他類似的電子通訊方式與您聯繫，告知您有關更新、安全通知或與功能相關的資訊。",
+        "offers": "向您提供新聞和特別優惠：關於我們提供的其他與您已使用或諮詢過的商品、服務和活動類似的商品、服務和活動，除非您已選擇不接收此類資訊。",
+        "requests": "處理您的請求：處理您向我們提出的請求。",
+        "content": "為了提供有針對性的內容：我們可能會使用您的資訊來開發和展示根據您的興趣和位置（用於附近用戶發現）量身定制的內容，並衡量其有效性。",
+        "business": "對於業務轉讓：我們可能會使用您的資訊來評估或進行合併、剝離、重組、改組、解散或其他出售或轉讓我們部分或全部資產的交易。",
+        "other": "其他用途：我們可能會將您的資訊用於其他用途，例如數據分析、識別使用趨勢、確定我們促銷活動的有效性以及評估和改進我們的服務、產品、行銷和您的體驗。"
+      },
+      "sharingTypes": {
+        "providers": "與服務提供者分享：我們可能會與服務提供者分享您的個人信息，以便監控和分析您對我們服務的使用情況、進行支付處理以及與您聯繫。",
+        "transfers": "對於業務轉讓：我們可能會在任何合併、出售公司資產、融資或將我們全部或部分業務收購給另一家公司的過程中或談判期間共享或轉移您的個人資訊。",
+        "affiliates": "與關聯公司：我們可能會與我們的關聯公司分享您的訊息，在這種情況下，我們將要求這些關聯公司遵守本隱私權政策。",
+        "partners": "與商業夥伴合作：我們可能會與我們的商業夥伴分享您的訊息，以便為您提供某些產品、服務或促銷活動。",
+        "users": "與其他使用者互動：當您發現並聯絡附近的其他使用者時，您的個人資料資訊（包括您的姓名和照片，或者如果您選擇使用頭像，則包括您的頭像）會在發現、好友請求和配對過程中共用。您可以隨時選擇顯示頭像或您的真實照片。",
+        "consent": "經您同意：經您同意，我們可能會將您的個人資訊用於任何其他目的。"
+      },
+      "security": {
+        "title": "個人資料安全",
+        "description": "您的個人資料安全對我們至關重要，但請記住，沒有任何一種網路傳輸方式或電子儲存方式是絕對安全的。儘管我們努力採取商業上可接受的方式來保護您的個人數據，包括對聊天資訊進行端到端加密以及使用安全的Bluetooth協議，但我們無法保證其絕對安全。"
+      },
+      "contact": {
+        "title": "聯絡我們",
+        "description": "如果您對本隱私權政策有任何疑問，可以聯絡我們：",
+        "email": "透過電子郵件：privacy@ringdy.com",
+        "website": "在本頁面（https://ringdy.com/contact）上",
+        "mail": "郵寄地址： Ringdy Privacy Team, 123 Tech Street, San Francisco, CA 94105, United States"
+      },
+      "shineTheLight": {
+        "title": "您的加州隱私權（加州陽光法案）",
+        "description1": "根據加州民法典第 1798 條（加州陽光法案），與我們建立業務關係的加州居民每年可以請求一次有關我們與第三方共享其個人資料以用於第三方直接行銷目的的資訊。",
+        "description2": "如果您想根據加州陽光法案獲取更多信息，並且您是加州居民，您可以使用以下提供的聯繫方式與我們聯繫。"
+      },
+      "minorUsers": {
+        "title": "加州未成年使用者隱私權（加州商業和職業法典第 22581 條）",
+        "description1": "加州商業和職業法典第 22581 條允許 18 歲以下的加州居民，作為線上網站、服務或應用程式的註冊用戶，請求並獲得刪除他們已公開發布的內容或資訊。",
+        "description2": "如果您是加州居民，請要求刪除此類數據，您可以使用下面提供的聯絡資訊聯絡我們，並提供與您的帳戶關聯的電子郵件地址。",
+        "description3": "請注意，您的請求並不能保證完全或徹底刪除網路上發布的內容或訊息，並且在某些情況下，法律可能不允許或不要求刪除。"
+      },
+      "childrenPrivacy": {
+        "title": "兒童隱私",
+        "description1": "我們的服務不適用於13歲以下的用戶。我們不會故意收集13歲以下用戶的個人識別資訊。如果您是家長或監護人，並且您發現您的孩子已向我們提供個人數據，請與我們聯絡。",
+        "description2": "如果我們發現未經父母同意而收集了 13 歲以下任何人的個人數據，我們將採取措施從我們的伺服器中刪除該資訊。",
+        "description3": "如果我們需要以您的同意作為處理您的資訊的法律依據，而您的國家/地區要求獲得父母的同意，則我們可能需要在收集和使用該資訊之前獲得您父母的同意。"
+      },
+      "linksToOtherWebsites": {
+        "title": "與其他網站的連結",
+        "description": "我們的服務可能包含指向其他網站的鏈接，這些網站並非由我們運營。如果您點擊第三方鏈接，您將被引導至該第三方的網站。我們強烈建議您仔細閱讀您造訪的每個網站的隱私權政策。我們對任何第三方網站或服務的內容、隱私權政策或做法均不承擔任何責任，也無法控制。"
+      },
+      "changes": {
+        "title": "隱私權政策變更",
+        "description1": "我們可能會不時更新我們的隱私權政策。如有任何變更，我們將在本頁面發布新的隱私權政策並通知您。",
+        "description2": "在變更生效之前，我們將透過電子郵件和/或在我們服務上的顯著通知告知您，並更新本隱私權政策頂部的「最後更新日期」。",
+        "description3": "建議您定期查看本隱私權政策，以了解任何變更。本隱私權政策的變更將在本頁面發布後生效。"
+      },
+      "backToHome": "回首頁",
+      "retention": {
+        "description1": "本公司僅會在本隱私權政策所述目的所需的時間內保留您的個人資料。我們將在必要範圍內保留和使用您的個人數據，以履行我們的法律義務、解決爭議並執行我們的法律協議和政策。",
+        "description2": "公司也會將使用資料保留用於內部分析。使用資料的保留時間通常較短，除非該資料用於增強安全性或改善我們服務的功能，或我們依法有義務將該資料保留更長時間。"
+      },
+      "transfer": {
+        "title": "您的個人資料傳輸",
+        "description1": "您的資訊（包括個人資料）將在本公司的營運辦公室以及參與資訊處理的各方所在的任何其他地點進行處理。這意味著這些資訊可能會傳輸到您所在州、省、國家/地區或其他政府管轄範圍之外的電腦上，並在這些電腦上進行維護，而這些地區的隱私保護法律可能與您所在地區的法律不同。",
+        "description2": "您同意本隱私權政策並提交此類資訊即表示您同意該等資訊的傳輸。本公司將採取一切合理必要的措施，確保您的資料得到安全處理並符合本隱私權政策。除非有足夠的保障措施（包括確保您的資料和其他個人資訊的安全），否則本公司不會將您的個人資料傳輸至任何組織或國家。"
+      },
+      "deletion": {
+        "title": "刪除您的個人數據",
+        "description1": "您有權刪除或要求我們協助刪除我們收集的關於您的個人資料。",
+        "description2": "我們的服務可能會允許您從服務中刪除關於您的某些資訊。",
+        "description3": "您可以隨時登入您的帳戶（如有），存取帳戶設定部分，更新、修改或刪除您的個人資訊。您也可以聯絡我們，要求存取、更正或刪除您提供給我們的任何個人資訊。"
+      },
+      "disclosure": {
+        "title": "揭露您的個人數據",
+        "businessTitle": "商業交易",
+        "businessDescription": "如果公司涉及合併、收購或資產出售，您的個人資料可能會被轉移。我們會在您的個人資料被轉移並受制於不同的隱私權政策之前通知您。",
+        "lawTitle": "執法",
+        "lawDescription": "在某些情況下，如果法律要求或公共機構（例如法院或政府機構）提出有效請求，公司可能需要揭露您的個人資料。",
+        "legalTitle": "其他法律要求",
+        "legalDescription": "本公司可能出於善意，認為有必要揭露您的個人數據，以達到以下目的：",
+        "legalReasons": {
+          "comply": "履行法律義務",
+          "protect": "保護和捍衛公司的權利或財產",
+          "prevent": "防止或調查與服務相關的潛在不當行為",
+          "safety": "保護服務使用者或公眾的人身安全",
+          "liability": "防範法律責任"
+        },
+        "detailedInfo": {
+          "title": "關於處理您的個人資料的詳細信息",
+          "description": "我們使用的服務提供者可能需要存取您的個人資料。這些第三方供應商會根據其隱私權政策收集、儲存、使用、處理和傳輸有關您在我們服務上的活動的資訊。",
+          "analyticsTitle": "分析",
+          "analyticsDescription": "我們可能會使用第三方服務提供者來監控和分析我們服務的使用情況。"
+        },
+        "analytics": {
+          "title": "行為再行銷",
+          "description": "本公司使用再行銷服務，在您造訪我們的服務後，透過第三方網站向您投放廣告。我們及我們的第三方供應商使用 Cookie，根據您以往對我們服務的存取情況，為您提供相關資訊、優化廣告投放並顯示廣告。",
+          "googleAnalytics": {
+            "title": "Google Analytics",
+            "description1": "Google Analytics 是 Google 提供的網路分析服務，用於追蹤和報告網站流量。 Google 使用收集的資料來追蹤和監控您對我們服務的使用情況。這些資料會與其他 Google 服務共用。 Google 可能會使用收集的數據來優化其廣告網路的廣告投放，使其更具針對性和個人化。",
+            "description2": "您可以透過行動裝置設定（例如裝置廣告設定）選擇退出某些 Google Analytics 功能，或按照 Google 在其隱私權政策中提供的說明進行操作：",
+            "description3": "如需了解有關 Google 隱私權政策的更多信息，請訪問 Google 隱私權與條款網頁："
+          },
+          "firebase": {
+            "title": "Firebase",
+            "description1": "Firebase 是 Google Inc. 提供的分析服務。",
+            "description2": "您可以透過行動裝置設定（例如裝置廣告設定）選擇退出某些 Firebase 功能，或按照 Google 隱私權政策中提供的說明進行操作：",
+            "description3": "我們也建議您查看Google的資料保護政策：",
+            "description4": "如需了解 Firebase 收集哪些類型的信息，請訪問「當您使用我們合作夥伴的網站或應用程式時，Google 如何使用資料」網頁："
+          }
+        },
+        "advertising": {
+          "title": "廣告",
+          "description": "我們可能會使用服務提供者向您顯示廣告，以協助支援和維護我們的服務。",
+          "googleAdSense": {
+            "title": "Google AdSense 與 DoubleClick Cookie",
+            "description1": "作為第三方供應商，Google 使用 Cookie 在我們的服務上投放廣告。 Google 使用 DoubleClick Cookie，使其及其合作夥伴能夠根據使用者存取我們的服務或網路上的其他網站的情況，向使用者投放廣告。",
+            "description2": "您可以造訪 Google 廣告設定網頁，選擇停用 DoubleClick Cookie 以進行基於興趣的廣告投放："
+          },
+          "adMob": {
+            "title": "Google AdMob",
+            "description1": "Google AdMob 由 Google 公司提供。",
+            "description2": "您可以依照 Google 提供的說明選擇退出 Google AdMob 服務：",
+            "description3": "如需了解 Google 如何使用收集的信息，請造訪「當您使用我們合作夥伴的網站或應用程式時，Google 如何使用資料」頁面；或造訪 Google 隱私權政策："
+          }
+        },
+        "payments": {
+          "title": "付款",
+          "description1": "我們可能會在服務中提供付費產品和/或服務。在這種情況下，我們可能會使用第三方服務進行支付處理（例如支付處理商）。",
+          "description2": "我們不會儲存或收集您的支付卡資訊。這些資訊將直接提供給我們的第三方支付處理商，他們對您個人資訊的使用受其隱私權政策的約束。這些支付處理商均遵守支付卡產業資料安全標準 (PCI-DSS)，該標準由支付卡產業安全標準委員會 (PCI SSC) 管理，該委員會由 Visa、Mastercard、American Express 和 Discover 等品牌聯合成立。 PCI DSS 要求有助於確保支付資訊的安全處理。",
+          "appleStore": {
+            "title": "蘋果商店應用程式內支付",
+            "description": "他們的隱私權政策可在以下網址查看："
+          },
+          "googlePlay": {
+            "title": "Google Play 應用程式內支付",
+            "description": "他們的隱私權政策可在以下網址查看："
+          },
+          "stripe": {
+            "title": "條紋",
+            "description": "他們的隱私權政策可在以下網址查看："
+          },
+          "payPal": {
+            "title": "PayPal 或 Braintree",
+            "description": "他們的隱私權政策可在以下網址查看："
+          }
+        }
+      },
+      "behavioralRemarketing": {
+        "title": "行為再行銷",
+        "description": "本公司使用再行銷服務，在您造訪我們的服務後，透過第三方網站向您投放廣告。我們及我們的第三方供應商使用 Cookie，根據您以往對我們服務的存取情況，為您提供相關資訊、優化廣告投放並顯示廣告。",
+        "vendorsDescription1": "這些第三方供應商會根據其隱私權政策收集、儲存、使用、處理和傳輸有關您在我們服務上的活動的信息，以便我們能夠：",
+        "purposes": {
+          "measure": "衡量和分析我們服務的流量和瀏覽活動",
+          "show": "在第三方網站或應用程式上向您顯示我們產品和/或服務的廣告",
+          "analyze": "衡量並分析我們廣告活動的表現"
+        },
+        "vendorsDescription2": "部分第三方供應商可能使用非 Cookie 技術，這些技術可能不受瀏覽器阻止 Cookie 設定的影響。您的瀏覽器可能不允許您阻止此類技術。您可以使用以下第三方工具來拒絕收集和使用您的資訊以用於向您投放基於興趣的廣告：",
+        "optOutTools": {
+          "nai": "NAI的退出平台：",
+          "edaa": "《EDAA》的退出平台：",
+          "daa": "DAA的退出平台："
+        },
+        "mobileOptOut": "您可以透過啟用行動裝置上的隱私功能（例如「限制廣告追蹤」（iOS）和「選擇退出廣告個人化」（Android））來選擇退出所有個人化廣告。有關更多信息，請參閱移動設備的幫助系統。",
+        "dataSharing": "我們可能會與這些第三方供應商共享訊息，例如經過哈希處理的電子郵件地址（如有）或透過我們的服務收集的其他線上識別碼。這使我們的第三方供應商能夠跨裝置和瀏覽器識別您並向您投放廣告。要了解有關這些第三方供應商使用的技術及其跨設備功能的更多信息，請參閱下方列出的各供應商的隱私政策。",
+        "vendorsIntro": "我們使用的第三方供應商包括：",
+        "googleAds": {
+          "title": "Google廣告（AdWords）",
+          "description1": "Google Ads（AdWords）再行銷服務由 Google Inc. 提供。",
+          "description2": "您可以造訪 Google 廣告設定頁面，選擇停用 Google Analytics（分析）的展示廣告功能，並自訂 Google 展示廣告網路廣告：",
+          "description3": "谷歌也建議您為瀏覽器安裝「Google Analytics（分析）選擇退出瀏覽器外掛程式」。該插件允許訪客阻止谷歌分析收集和使用其數據。",
+          "description4": "如需了解有關 Google 隱私權政策的更多信息，請訪問 Google 隱私權與條款網頁："
+        },
+        "facebook": {
+          "title": "Facebook",
+          "description1": "Facebook 再行銷服務由 Facebook 公司提供。",
+          "description2": "您可以造訪此頁面，以了解更多關於 Facebook 基於興趣的廣告的資訊：",
+          "description3": "若要退出 Facebook 的興趣定向廣告，請按照 Facebook 的以下說明操作：",
+          "description4": "Facebook 遵守數位廣告聯盟制定的《網路行為廣告自律原則》。您也可以透過美國數位廣告聯盟、加拿大數位廣告聯盟或歐洲互動數位廣告聯盟選擇退出 Facebook 和其他參與公司的廣告服務，或透過行動裝置設定選擇退出。",
+          "description5": "如需了解有關 Facebook 隱私保護措施的更多信息，請訪問 Facebook 的資料政策："
+        }
+      },
+      "detailedInfo": {
+        "title": "關於處理您的個人資料的詳細信息",
+        "description": "我們使用的服務提供者可能需要存取您的個人資料。這些第三方供應商會根據其隱私權政策收集、儲存、使用、處理和傳輸有關您在我們服務上的活動的資訊。",
+        "analyticsTitle": "分析",
+        "analyticsDescription": "我們可能會使用第三方服務提供者來監控和分析我們服務的使用情況。"
+      },
+      "analytics": {
+        "firebase": {
+          "title": "Firebase",
+          "description1": "Firebase 是 Google Inc. 提供的分析服務。",
+          "description2": "您可以透過行動裝置設定（例如裝置廣告設定）選擇退出某些 Firebase 功能，或按照 Google 隱私權政策中提供的說明進行操作：",
+          "description3": "我們也建議您查看Google的資料保護政策：",
+          "description4": "如需了解 Firebase 收集哪些類型的信息，請訪問「當您使用我們合作夥伴的網站或應用程式時，Google 如何使用資料」網頁："
+        },
+        "googleAnalytics": {
+          "title": "Google Analytics",
+          "description1": "Google Analytics 是 Google 提供的網路分析服務，用於追蹤和報告網站流量。 Google 使用收集的資料來追蹤和監控您對我們服務的使用情況。這些資料會與其他 Google 服務共用。 Google 可能會使用收集的數據來優化其廣告網路的廣告投放，使其更具針對性和個人化。",
+          "description2": "您可以安裝 Google Analytics 選擇退出瀏覽器插件，選擇不讓 Google Analytics 收集您在使用本服務時的活動資料。該外掛程式會阻止 Google Analytics JavaScript（ga.js、analytics.js 和 gtag.js）與 Google Analytics 分享有關存取活動的資訊。如需了解更多關於 Google 隱私權政策的信息，請造訪 Google 隱私權及條款網頁：",
+          "description3": "Google 也建議您為瀏覽器安裝 Google Analytics（分析）選擇退出瀏覽器外掛程式。 Google Analytics（分析）選擇退出瀏覽器外掛程式可讓訪客阻止 Google Analytics（分析）收集和使用其資料。有關安裝和使用 Google Analytics（分析）選擇退出瀏覽器插件的更多信息，請訪問以下 Google Analytics（分析）選擇退出頁面："
+        }
+      },
+      "advertising": {
+        "title": "廣告",
+        "description": "我們可能會使用服務提供者向您顯示廣告，以協助支援和維護我們的服務。",
+        "googleAdSense": {
+          "title": "Google AdSense 與 DoubleClick Cookie",
+          "description1": "作為第三方供應商，Google 使用 Cookie 在我們的服務上投放廣告。 Google 使用 DoubleClick Cookie，使其及其合作夥伴能夠根據使用者存取我們的服務或網路上的其他網站的情況，向使用者投放廣告。",
+          "description2": "您可以造訪 Google 廣告設定網頁，選擇停用 DoubleClick Cookie 以進行基於興趣的廣告投放："
+        },
+        "adMob": {
+          "title": "Google AdMob",
+          "description1": "Google AdMob 由 Google 公司提供。",
+          "description2": "您可以依照 Google 提供的說明選擇退出 Google AdMob 服務：",
+          "description3": "如需了解 Google 如何使用收集的信息，請造訪「當您使用我們合作夥伴的網站或應用程式時，Google 如何使用資料」頁面；或造訪 Google 隱私權政策："
+        }
+      },
+      "payments": {
+        "title": "付款",
+        "description1": "我們可能會在服務中提供付費產品和/或服務。在這種情況下，我們可能會使用第三方服務進行支付處理（例如支付處理商）。",
+        "description2": "我們不會儲存或收集您的支付卡資訊。這些資訊將直接提供給我們的第三方支付處理商，他們對您個人資訊的使用受其隱私權政策的約束。這些支付處理商均遵守支付卡產業資料安全標準 (PCI-DSS)，該標準由支付卡產業安全標準委員會 (PCI SSC) 管理，該委員會由 Visa、Mastercard、American Express 和 Discover 等品牌聯合成立。 PCI DSS 要求有助於確保支付資訊的安全處理。",
+        "appleStore": {
+          "title": "蘋果商店應用程式內支付",
+          "description": "他們的隱私權政策可在以下網址查看："
+        },
+        "googlePlay": {
+          "title": "Google Play 應用程式內支付",
+          "description": "他們的隱私權政策可在以下網址查看："
+        },
+        "stripe": {
+          "title": "條紋",
+          "description": "他們的隱私權政策可在以下網址查看："
+        },
+        "payPal": {
+          "title": "PayPal 或 Braintree",
+          "description": "他們的隱私權政策可在以下網址查看："
+        }
+      },
+      "gdpr": {
+        "title": "GDPR隱私",
+        "legalBasis": {
+          "title": "根據GDPR處理個人資料的法律依據",
+          "description": "我們可能在以下情況下處理個人資料：",
+          "consent": "同意：您已同意為一項或多項特定目的處理您的個人資料。",
+          "contract": "履行合約：提供個人資料是履行與您簽訂的協議和/或履行任何相關合約前義務所必需的。",
+          "legal": "法律義務：處理個人資料是公司履行其所承擔的法律義務所必需的。",
+          "vital": "切身利益：處理個人資料是為了保護您或其他自然人的切身利益。",
+          "public": "公共利益：處理個人資料與為公共利益或行使公司被賦予的官方權力而執行的任務有關。",
+          "legitimate": "合法權益：處理個人資料對於公司追求的合法權益是必要的。"
+        },
+        "rights": {
+          "title": "您在GDPR下的權利",
+          "description": "本公司承諾尊重您的個人資料保密性，並保證您能夠行使您的權利。根據本隱私權政策，如果您位於歐盟境內，您也享有法律賦予的權利，您有權：",
+          "access": "要求存取您的個人資料：您有權存取、更新或刪除我們擁有的關於您的資訊。",
+          "correction": "要求更正個人資料：您有權要求更正我們持有的任何關於您的不完整或不準確的資訊。",
+          "object": "反對處理：當我們以合法利益作為處理的法律依據時，您享有此項權利。",
+          "erasure": "要求刪除：當沒有正當理由讓我們繼續處理您的個人資料時，您有權要求我們刪除或移除您的個人資料。",
+          "transfer": "請求轉移：我們將以結構化的、常用的、機器可讀的格式，將您的個人資料提供給您或您選擇的第三方。",
+          "withdraw": "撤回您的同意：您有權撤回您對使用您的個人資料的同意。"
+        },
+        "exercising": {
+          "title": "行使您的 GDPR 資料保護權利",
+          "description1": "您可以透過聯絡我們行使您的存取、更正、取消和反對權。請注意，在回覆此類請求之前，我們可能會要求您驗證身分。如果您提出請求，我們將盡力盡快回覆您。",
+          "description2": "您有權就我們收集和使用您的個人資料向資料保護機構提出投訴。如果您位於歐洲經濟區 (EEA) 內，請聯絡您所在 EEA 地區的當地資料保護機構以取得更多資訊。"
+        }
+      },
+      "ccpa": {
+        "title": "CCPA/CPRA 隱私權聲明",
+        "introduction": "本隱私權聲明部分適用於加州居民，是我們隱私權政策中所含資訊的補充，並且僅適用於居住在加州的所有訪客、使用者和其他人士。",
+        "categoriesTitle": "收集的個人資訊類別",
+        "categoriesDescription1": "我們會收集能夠識別、關聯、描述、引用特定消費者或設備，或能夠直接或間接地與特定消費者或設備合理關聯的資訊。以下列出了我們可能收集或在過去十二 (12) 個月內從加州居民收集的個人資訊類別。",
+        "categoriesDescription2": "請注意，以下清單中提供的類別和範例均符合《加州消費者隱私法案》(CCPA)/《加州隱私權法案》(CPRA) 的定義。這並不意味著我們實際收集了該類別的所有個人信息，而是反映了我們基於自身所知，真誠地相信我們可能已經收集了適用類別中的部分信息。例如，某些類別的個人資訊只有在您直接向我們提供的情況下才會被收集。",
+        "categoryLabels": {
+          "examples": "例如：",
+          "collected": "集："
+        },
+        "categories": {
+          "identifiers": {
+            "title": "A類：標識符",
+            "examples": "真實姓名、別名、郵寄地址、唯一個人識別碼、線上識別碼、網際網路協議地址、電子郵件地址、帳戶名稱、駕駛證號碼、護照號碼或其他類似識別碼。",
+            "collected": "是的"
+          },
+          "personalInfo": {
+            "title": "B類：加州客戶記錄法中列出的個人資訊類別",
+            "examples": "姓名、簽名、社會安全號碼、體貌特徵或描述、地址、電話號碼、護照號碼、駕照或州身分證號碼、保險單號碼、教育背景、就業狀況、就業歷史、銀行帳號、信用卡號、金融卡號或任何其他財務資訊、醫療資訊或健康保險資訊。此類別中包含的某些個人資訊可能與其他類別重疊。",
+            "collected": "是的"
+          },
+          "protected": {
+            "title": "C類：受加州或聯邦法律保護的分類特徵",
+            "examples": "年齡（40 歲或以上）、種族、膚色、血統、國籍、公民身份、宗教或信仰、婚姻狀況、醫療狀況、身體或精神殘疾、性別（包括性別、性別認同、性別表達、懷孕或分娩及相關醫療狀況）、性取向、退伍軍人或現役軍人身份、基因資訊（包括家族基因資訊）。",
+            "collected": "不"
+          },
+          "commercial": {
+            "title": "D類：商業訊息",
+            "examples": "已購買或考慮購買的產品或服務的記錄和歷史記錄。",
+            "collected": "是的"
+          },
+          "biometric": {
+            "title": "E類：生物辨識資訊",
+            "examples": "用於提取模板或其他標識符或識別資訊的遺傳、生理、行為和生物特徵或活動模式，例如指紋、面部特徵、聲紋、虹膜或視網膜掃描、擊鍵、步態或其他身體模式，以及睡眠、健康或運動數據。",
+            "collected": "不"
+          },
+          "internet": {
+            "title": "F類：網際網路或其他類似網路活動",
+            "examples": "與我們的服務或廣告互動。",
+            "collected": "是的"
+          },
+          "geolocation": {
+            "title": "G類：地理位置數據",
+            "examples": "大致實際位置。",
+            "collected": "是的"
+          },
+          "sensory": {
+            "title": "H類：感官數據",
+            "examples": "音頻、電子、視覺、熱力、嗅覺或類似訊息。",
+            "collected": "不"
+          },
+          "professional": {
+            "title": "第一類：職業或就業相關訊息",
+            "examples": "目前或以往的工作經驗或績效評估。",
+            "collected": "不"
+          },
+          "education": {
+            "title": "J類：非公立教育資訊",
+            "examples": "教育機構或代表教育機構行事的機構所保存的與學生直接相關的教育記錄，例如成績、成績單、班級名單、學生課表、學生識別碼、學生財務資訊或學生紀律記錄。",
+            "collected": "不"
+          },
+          "inferences": {
+            "title": "K類：從其他個人資訊推斷出的信息",
+            "examples": "個人簡介反映一個人的喜好、特質、心理傾向、性格、行為、態度、智力、能力和資歷。",
+            "collected": "不"
+          },
+          "sensitive": {
+            "title": "L類：敏感個人訊息",
+            "examples": "帳戶登入名稱和密碼資訊、地理位置資料。",
+            "collected": "是的"
+          }
+        },
+        "exclusions": {
+          "description": "根據《加州消費者隱私法案》(CCPA)/《加州公共記錄法案》(CPRA)，個人資訊不包括：",
+          "publicRecords": "政府記錄中公開的信息",
+          "deidentified": "去識別化或匯總的消費者訊息",
+          "excludedScope": "CCPA/CPRA 適用範圍以外的信息，例如：",
+          "hipaa": "受1996年《健康保險流通與責任法案》(HIPAA)和《加州醫療資訊保密法案》(CMIA)保護的健康或醫療信息，或臨床試驗數據",
+          "sectorSpecific": "受某些特定行業隱私法律保護的個人信息，包括《公平信用報告法》(FRCA)、《格雷姆-里奇-比利雷法案》(GLBA)或《加州金融資訊隱私法》(FIPA)以及1994年《駕駛員隱私保護法》。"
+        },
+        "sources": {
+          "title": "個人資訊來源",
+          "description": "我們從以下幾類來源取得上述各類個人資訊：",
+          "directlyFromYou": "直接來自您。",
+          "directlyDescription": "例如，來自您在我們服務中填寫的表格、您透過我們服務表達或提供的偏好，或來自您在我們服務中的購買行為。",
+          "indirectlyFromYou": "間接來自你。",
+          "indirectlyDescription": "例如，透過觀察您在我們服務上的活動。",
+          "automaticallyFromYou": "自動從您處取得。",
+          "automaticallyDescription": "例如，透過我們或我們的服務提供者在您瀏覽我們的服務時在您的裝置上設定的 cookie。",
+          "fromServiceProviders": "來自服務提供者。",
+          "serviceProvidersDescription": "例如，第三方供應商監控和分析我們服務的使用情況，第三方供應商在我們服務上提供廣告，第三方供應商向您投放定向廣告，第三方供應商進行支付處理，或者我們為了向您提供服務而使用的其他第三方供應商。"
+        },
+        "usage": {
+          "title": "個人資訊的使用",
+          "description": "我們可能會出於「商業目的」（根據 CCPA/CPRA 的定義）使用或揭露我們收集的個人信息，其中可能包括以下範例：",
+          "operateService": "為了運作我們的服務並向您提供服務。",
+          "provideSupport": "為了向您提供支援並回應您的詢問，包括調查和解決您的疑慮以及監控和改進我們的服務。",
+          "fulfillReason": "為了滿足您提供資訊的目的。例如，如果您分享您的聯絡資訊以諮詢我們的服務，我們將使用該個人資訊回覆您的諮詢。如果您提供您的個人資訊以購買產品或服務，我們將使用該資訊處理您的付款並安排發貨。",
+          "lawEnforcement": "為回應執法部門的要求，並根據適用的法律、法院命令或政府法規的要求。",
+          "asDescribed": "如在收集您的個人資訊時向您描述的那樣，或如 CCPA/CPRA 中另行規定的那樣。",
+          "administrative": "用於內部行政和審計目的。",
+          "securityIncidents": "偵測安全事件並防範惡意、欺騙、詐欺或非法活動，包括在必要時起訴對此類活動負有責任的人。",
+          "otherUses": "其他一次性用途。",
+          "noteExamples": "請注意，以上範例僅供參考，並非詳盡無遺。有關我們如何使用這些資訊的更多詳情，請參閱「個人資料使用」部分。",
+          "additionalCategories": "如果我們決定收集其他類別的個人信息，或將我們收集的個人資訊用於實質上不同、不相關或不相容的目的，我們將更新本隱私權政策。"
+        },
+        "ccpaDisclosure": {
+          "title": "個人資訊的揭露",
+          "description": "我們可能出於商業目的使用或披露，並且在過去十二 (12) 個月內可能已經使用或披露了以下類別的個人資訊：",
+          "categoryA": "A類：標識符",
+          "categoryB": "B類：加州客戶記錄法中列出的個人資訊類別",
+          "categoryD": "D類：商業訊息",
+          "categoryF": "F類：網際網路或其他類似網路活動",
+          "categoryG": "G類：地理位置數據",
+          "categoryL": "L類：敏感個人訊息",
+          "noteCategories": "請注意，上述列出的類別均符合《加州消費者隱私法案》(CCPA)/《加州隱私權法案》(CPRA) 的定義。這並不意味著該類別的所有個人資訊範例都已被披露，而是反映了我們基於自身所知，真誠地相信該類別中的某些資訊可能已被披露。",
+          "contractRequirement": "當我們出於商業目的或業務目的披露個人資訊時，我們會簽訂一份合同，其中描述了披露的目的，並要求接收方對該個人資訊保密，且不得將其用於除履行合同之外的任何其他目的。"
+        },
+        "sharing": {
+          "title": "個人資訊共享",
+          "description": "我們可能會（並且在過去十二 (12) 個月內已經）與以下幾類第三方分享您在上述類別中識別的個人資訊：",
+          "recipients": {
+            "serviceProviders": "服務提供者",
+            "paymentProcessors": "支付處理商",
+            "affiliates": "我們的關聯公司",
+            "businessPartners": "我們的商業夥伴",
+            "authorizedVendors": "經您或您的代理人授權，我們可向第三方供應商揭露您的個人訊息，以便為您提供產品或服務。"
+          }
+        },
+        "sale": {
+          "title": "出售個人資訊",
+          "definition": "根據《加州消費者隱私法案》(CCPA)/《加州隱私權法案》(CPRA) 的定義，「出售」是指企業以有價對價，透過口頭、書面、電子或其他方式，將消費者的個人資訊出售、出租、發布、揭露、傳播、提供、轉移或以其他方式傳遞給第三方。這意味著我們可能會因分享個人資訊而獲得某種利益，但不一定是指金錢利益。",
+          "doNotSell": "我們不會以通常意義上的「出售」方式來出售個人資訊。我們允許服務提供者出於我們隱私權政策中所述的商業目的使用您的個人信息，例如用於廣告、行銷和分析等活動，而這些活動可能被視為《加州消費者隱私法案》(CCPA)/《加州隱私權法案》(CPRA) 下的「出售」。",
+          "description": "我們可能會出售，並且在過去十二 (12) 個月內可能已經出售過以下類別的個人資訊：",
+          "sharedCategories": {
+            "categoryA": "A類：標識符",
+            "categoryB": "B類：加州客戶記錄法中列出的個人資訊類別",
+            "categoryD": "D類：商業訊息",
+            "categoryF": "F類：網際網路或其他類似網路活動",
+            "categoryG": "G類：地理位置數據",
+            "categoryL": "L類：敏感個人訊息"
+          }
+        },
+        "userRights": {
+          "title": "您在《加州消費者隱私法案》(CCPA)/《加州公共記錄法案》(CPRA) 下的權利",
+          "description": "《加州消費者隱私法案》(CCPA)/《加州隱私權法案》(CPRA)賦予加州居民關於其個人資訊的特定權利。如果您是加州居民，您享有以下權利：",
+          "rightToNotice": "知情權。",
+          "rightToNoticeDescription": "您有權被告知正在收集哪些類別的個人資料以及收集這些個人資料的目的。",
+          "disclosureItems": {
+            "categoriesCollected": "我們收集的關於您的個人資訊類別",
+            "sources": "我們收集的關於您的個人資訊的來源類別",
+            "purposes": "我們收集或出售該個人資訊的商業目的",
+            "thirdParties": "我們與之分享個人資訊的第三方類別",
+            "specificPieces": "我們收集的關於您的具體個人信息",
+            "soldDisclosed": "如果我們出售了您的個人資訊或出於商業目的而披露了您的個人資訊，我們將向您揭露出售和揭露的個人資訊類別。"
+          },
+          "rightToOptOut": "有權拒絕出售或共享個人資料（選擇退出）。",
+          "rightToOptOutDescription": "您有權指示我們不出售您的個人資訊。如需提交退出要求，請參閱「請勿出售我的個人資訊」部分或聯絡我們。",
+          "doNotSellSection": "請勿出售我的個人資訊",
+          "rightToCorrect": "更正個人資料的權利。",
+          "rightToCorrectDescription": "您有權更正或修改我們收集的任何關於您的不準確的個人資訊。一旦我們收到並確認您的要求，我們將盡商業上合理的努力更正您的個人資訊（並指示我們的服務提供者更正），除非有例外情況。",
+          "rightToLimit": "限制使用和揭露敏感個人資料的權利。",
+          "rightToLimitDescription": "您有權要求限制我們使用或披露我們收集的關於您的某些敏感個人信息，除非存在例外情況。如需提交請求，請參閱「限制使用或揭露我的敏感個人資訊」部分或聯絡我們。",
+          "limitSensitiveSection": "限制使用或披露我的敏感個人信息",
+          "rightToDelete": "刪除個人資料的權利。",
+          "rightToDeleteDescription": "在特定情況下，您有權要求刪除您的個人數據，但某些例外情況除外。一旦我們收到並確認您的要求，我們將從我們的記錄中刪除您的個人資訊（並指示我們的服務提供者刪除），除非有例外情況。",
+          "rightNonDiscrimination": "不受歧視的權利。",
+          "rightNonDiscriminationDescription": "您有權不因行使任何消費者權利而受到歧視，包括拒絕提供商品或服務、收取不同的價格、提供不同等級的服務，或建議不同的價格或服務等級。"
+        },
+        "exercisingRights": {
+          "title": "行使您的 CCPA/CPRA 資料保護權利",
+          "intro": "如果您是加州居民，並希望行使您在 CCPA/CPRA 下的任何權利，您可以使用以下提供的資訊與我們聯絡。",
+          "authorization": "只有您本人，或經您授權代表您向加州州務卿註冊的人員，才能提出與您的個人資訊相關的可驗證請求。",
+          "requestRequirements": "您向我們提出的請求必須：",
+          "requirements": {
+            "verify": "請提供足夠的信息，以便我們能夠合理地核實您是個人資訊收集對象本人或其授權代表。",
+            "describe": "請詳細描述您的請求，以便我們能夠正確理解、評估和回覆。"
+          },
+          "verification": "如果我們無法驗證您的身分或您提出要求的權限，也無法確認個人資訊與您有關，我們將無法回應您的要求或向您提供所需資訊。",
+          "response": "我們將在收到您可核實的請求後 45 天內免費披露並提供所需資訊。如有合理必要，並在事先通知的情況下，提供所需資訊的期限可延長一次，延長期限為 45 天。",
+          "dataPortability": "對於資料可攜性請求，我們將選擇一種易於使用的格式來提供您的個人訊息，以便您能夠毫無阻礙地將訊息從一個實體傳輸到另一個實體。"
+        },
+        "doNotSell": {
+          "title": "請勿出售我的個人資訊",
+          "definition": "根據《加州消費者隱私法案》(CCPA)/《加州隱私權法案》(CPRA) 的定義，「出售」是指企業以有價對價，透過口頭、書面、電子或其他方式，將消費者的個人資訊出售、出租、發布、揭露、傳播、提供、轉移或以其他方式傳遞給第三方。這意味著我們可能會因分享個人資訊而獲得某種利益，但不一定是指金錢利益。",
+          "policy": "我們不會以通常意義上的「出售」方式來出售個人資訊。我們允許服務提供者出於我們隱私權政策中所述的商業目的使用您的個人信息，例如用於廣告、行銷和分析等活動，而這些活動可能被視為《加州消費者隱私法案》(CCPA)/《加州隱私權法案》(CPRA) 下的「出售」。",
+          "optOutRight": "您有權選擇不出售您的個人資訊。一旦我們收到並確認您提交的可驗證的消費者請求，我們將停止出售您的個人資訊。如需行使您的選擇退出權，請聯絡我們。",
+          "serviceProviders": "我們合作的服務提供者（例如，我們的分析或廣告合作夥伴）可能會在服務中使用科技來出售《加州消費者隱私法案》(CCPA)/《加州隱私權法案》(CPRA) 所定義的個人資訊。如果您希望選擇退出將您的個人資訊用於基於興趣的廣告目的以及此類根據 CCPA/CPRA 法案定義的潛在出售，您可以按照以下說明進行操作。",
+          "browserNote": "請注意，任何退出設定都僅適用於您使用的瀏覽器。您可能需要在您使用的每個瀏覽器上都進行退出設定。",
+          "websiteTitle": "網站",
+          "websiteInstructions": "如果適用，請點擊服務頁面上的「隱私偏好設定」、「更新隱私偏好設定」或「請勿出售我的個人資訊」按鈕，查看您的隱私偏好設定並選擇退出我們可能使用的 Cookie 和其他技術。請注意，您需要在用於存取服務的每個瀏覽器中分別進行選擇退出。"
+        },
+        "mobileOptOut": {
+          "title": "行動裝置",
+          "description": "您的行動裝置可能允許您選擇不收集您使用的應用程式的相關信息，以便向您投放符合您興趣的廣告：",
+          "androidAds": "在安卓裝置上選擇「選擇退出基於興趣的廣告」或「選擇退出廣告個人化」。",
+          "iosTracking": "iOS 裝置上的“限制廣告追蹤”",
+          "locationNote": "您也可以透過更改行動裝置上的設定來停止從您的行動裝置收集位置資訊。"
+        },
+        "sensitiveInfo": {
+          "title": "限制使用或披露我的敏感個人信息",
+          "description": "如果您是加州居民，您有權限制我們對您敏感個人資訊的使用和揭露，僅限於為履行服務或提供一般消費者合理預期所期望的商品所必需的用途。我們會以提供服務所必需的方式收集、使用和揭露敏感個人資訊。有關我們如何使用您的個人資訊的更多信息，請參閱“個人資料的使用”部分或聯絡我們。"
+        },
+        "caloppaPolicy": {
+          "doNotTrackResponse": "我們的服務不響應“請勿追蹤”信號。",
+          "thirdPartyTracking": "然而，某些第三方網站確實會追蹤您的瀏覽活動。如果您造訪此類網站，可以在瀏覽器中設定偏好，告知網站您不希望被追蹤。您可以透過造訪瀏覽器的偏好設定或設定頁面來啟用或停用「請勿追蹤」（DNT）功能。"
+        },
+        "caloppa": {
+          "title": "根據加州線上隱私權保護法 (CalOPPA) 的要求，我們制定了「請勿追蹤」政策。"
+        },
+        "saleNote": {
+          "categoriesListed": "請注意，上述列出的類別均符合《加州消費者隱私法案》(CCPA)/《加州隱私權法案》(CPRA) 的定義。這並不意味著該類別的所有個人資訊都已被出售，而是反映了我們基於自身所知，真誠地相信該類別中的某些資訊可能已被共享以獲取利益。"
+        },
+        "minorsUnder16": {
+          "title": "出售未滿16歲未成年人的個人資訊",
+          "description1": "我們不會透過我們的服務有意收集16歲以下未成年人的個人信息，但我們連結的某些第三方網站可能會這樣做。這些第三方網站有各自的使用條款和隱私權政策，我們鼓勵家長和法定監護人監督子女的網路使用情況，並指導子女未經許可不得在其他網站上提供任何資訊。",
+          "description2": "我們不會出售我們已知未滿 16 歲消費者的個人訊息，除非我們收到 13 至 16 歲消費者本人或其父母或監護人的明確授權（「選擇加入權」）。選擇加入個人資訊出售的消費者可以隨時選擇退出未來的出售。如需行使退出權，您（或您的授權代表）可以透過聯絡我們提交請求。",
+          "description3": "如果您有理由相信未滿 13 歲（或 16 歲）的兒童向我們提供了個人信息，請聯繫我們並提供足夠的詳細信息，以便我們刪除該信息。"
+        },
+        "optOutPlatforms": {
+          "description": "此外，您可以按照服務中提供的說明，選擇不接收由我們的服務提供者提供的個人化廣告：",
+          "nai": "NAI的退出平台：",
+          "edaa": "《EDAA》的退出平台：",
+          "daa": "DAA的退出平台：",
+          "cookieNote": "選擇退出後，您的電腦上會放置一個與您用於選擇退出的瀏覽器唯一的 Cookie。如果您更換瀏覽器或刪除瀏覽器儲存的 Cookie，則需要再次選擇退出。"
+        },
+        "rights": {
+          "rightToKnowAccess": "知情權/取得權。",
+          "rightToKnowAccessDescription": "根據《加州消費者隱私法案》(CCPA)/《加州隱私權法案》(CPRA)，您有權要求我們向您揭露有關我們收集、使用、出售、出於商業目的揭露和分享個人資訊的資訊。一旦我們收到並確認您的請求，我們將向您揭露："
+        }
+      },
+      "optOut": {
+        "androidAds": "在安卓裝置上選擇「選擇退出基於興趣的廣告」或「選擇退出廣告個人化」。",
+        "androidInterestBased": "選擇退出基於興趣的廣告",
+        "androidPersonalization": "選擇退出廣告個人化",
+        "iosTracking": "iOS 裝置上的“限制廣告追蹤”",
+        "iosLimit": "限制廣告追蹤"
+      },
+      "dataTypes": {
+        "email": "電子郵件",
+        "name": "名字和姓氏",
+        "phone": "電話號碼",
+        "address": "地址、州/省、省/自治區、郵遞區號、城市",
+        "usageData": "使用數據"
+      },
+      "socialMedia": {
+        "google": "Google",
+        "facebook": "Facebook",
+        "apple": "蘋果"
+      },
+      "appPermissions": {
+        "location": "關於您的位置資訊（用於Bluetooth近距離檢測）",
+        "bluetooth": "Bluetooth設備資訊和附近設備掃描",
+        "camera": "用於創建頭像的來自設備攝像頭的信息",
+        "contacts": "設備聯絡人（可選，用於查找朋友）"
+      }
+    },
+    "termsOfUse": {
+      "title": "使用條款",
+      "subtitle": "了解您在使用Ringdy服務時的權利和義務。",
+      "lastUpdated": "最後更新時間：2025年1月",
+      "introduction": "請在使用我們的服務前仔細閱讀這些條款和條件。",
+      "sections": {
+        "interpretationTitle": "解釋與定義",
+        "interpretationSubtitle": "解釋",
+        "interpretationText": "首字母大寫的詞語具有以下定義的含義。下列定義無論以單數或複數形式出現，均具有相同的意義。",
+        "definitionsSubtitle": "定義",
+        "definitionsText": "就本條款和條件而言：",
+        "definitions": {
+          "application": "指您下載到任何電子設備上的公司提供的名為Ringdy軟體程式。",
+          "applicationStore": "指由 Apple Inc.（Apple App Store）或 Google Inc.（Google Play Store）經營開發的數位發行服務，應用程式已從該服務下載。",
+          "affiliate": "指控制一方、受一方控製或與一方處於共同控制之下的實體，其中「控制」指擁有50%或以上有權選舉董事或其他管理機構成員的股份、股權或其他證券。",
+          "account": "指為您建立的唯一帳戶，用於存取我們的服務或部分服務。",
+          "country": "指：越南",
+          "company": "（在本協議中稱為「本公司」、「我們」或「我們的」）是指Ringdy 。",
+          "content": "指您可以發布、上傳、連結或以其他方式提供的任何內容，例如文字、圖像或其他訊息，無論該內容的形式為何。",
+          "device": "指任何可以存取該服務的設備，例如電腦、智慧型手機或平板電腦。",
+          "feedback": "指您就我們服務的屬性、效能或功能所發送的回饋、創新或建議。",
+          "freeTrial": "指購買訂閱服務時可能獲得的一段限時免費期。",
+          "goods": "請參閱本服務上提供的待售商品。",
+          "inAppPurchase": "指透過應用程式購買產品、物品、服務或訂閱，並受本條款和條件及/或應用程式商店本身的條款和條件的約束。",
+          "orders": "指您向我們提出的購買商品的請求。",
+          "promotions": "請參閱透過本服務提供的競賽、抽獎或其他促銷活動。",
+          "service": "指的是應用程式。",
+          "subscriptions": "請參閱本公司以訂閱方式向您提供的服務或服務存取權限。",
+          "termsAndConditions": "（也稱為「條款」）是指構成您與本公司之間關於使用本服務的完整協議的這些條款和條件。",
+          "thirdPartySocialMedia": "指第三方提供的任何服務或內容（包括資料、資訊、產品或服務），這些服務或內容可能透過本服務顯示、包含或提供。",
+          "you": "指存取或使用本服務的個人，或代表該個人存取或使用本服務的公司或其他法律實體（如適用）。"
+        },
+        "definitionLabels": {
+          "application": "應用：",
+          "applicationStore": "應用程式商店：",
+          "affiliate": "聯盟：",
+          "account": "帳戶：",
+          "country": "國家：",
+          "company": "公司：",
+          "content": "內容：",
+          "device": "裝置:",
+          "feedback": "回饋:",
+          "freeTrial": "免費試用：",
+          "goods": "商品：",
+          "inAppPurchase": "應用程式內購買：",
+          "orders": "訂單：",
+          "promotions": "促銷活動：",
+          "service": "服務：",
+          "subscriptions": "訂閱：",
+          "termsAndConditions": "條款與條件：",
+          "thirdPartySocialMedia": "第三方社群媒體服務：",
+          "you": "你："
+        }
+      },
+      "acknowledgment": {
+        "title": "致謝",
+        "description1": "本條款與條件規範您對本服務的使用，並構成您與本公司之間的協議。本條款和條件規定了所有使用者在使用本服務方面的權利和義務。",
+        "description2": "您存取和使用本服務的前提是您接受並遵守這些條款和條件。這些條款和條件適用於所有造訪或使用本服務的訪客、使用者及其他人員。",
+        "description3": "存取或使用本服務即表示您同意受本條款和條件的約束。如果您不同意本條款和條件的任何部分，則您不得存取本服務。",
+        "description4": "您聲明您已年滿18歲。本公司不允許未滿18歲的人士使用本服務。",
+        "description5": "您存取和使用本服務的前提是您接受並遵守本公司的隱私權政策。我們的隱私權政策闡述了您在使用本應用程式時，我們如何收集、使用和揭露您的個人信息，並告知您您的隱私權以及法律如何保護您。請在使用我們的服務前仔細閱讀我們的隱私權政策。",
+        "bluetoothNotice": "使用我們的服務，即表示您確認本應用程式使用Bluetooth和定位服務來發現並連接附近的其他使用者。您同意我們使用此類技術來提供基於位置的功能。",
+        "bluetoothTitle": "Bluetooth和位置服務"
+      },
+      "orders": {
+        "title": "購買數位商品",
+        "introduction": "透過本服務購買探索通行證、 Night Pass或訂閱服務，即表示您保證您具有訂立具有法律約束力的合約的能力。",
+        "yourInformation": {
+          "title": "您的訊息",
+          "description1": "探索通行證、 Night Pass和訂閱服務的付款完全透過您裝置的應用程式商店（Google Play 或 App Store）進行。我們不會收集或儲存您的支付卡資訊。",
+          "description2": "您聲明並保證：(i) 您有權使用在您的應用程式商店帳戶中註冊的任何付款方式；以及 (ii) 您向應用程式商店提供的資訊是真實、正確和完整的。",
+          "description3": "所有付款資訊均直接提交至 Google Play 或 App Store，而非提交給本公司。"
+        },
+        "cancellation": {
+          "title": "購買取消",
+          "description1": "我們保留在任何時候以某些理由拒絕或取消您的購買的權利，這些理由包括但不限於：",
+          "reasons": {
+            "availability": "商品庫存狀況",
+            "errors": "商品描述或價格錯誤",
+            "orderErrors": "您購買過程中出現的錯誤"
+          },
+          "description2": "如果懷疑有詐欺或未經授權或非法的交易，我們保留拒絕或取消您的購買的權利。",
+          "yourRights": {
+            "title": "您的取消權",
+            "description1": "探索通行證、 Night Pass和其他消耗性數位物品一旦兌換即被消耗，一般無法退款。",
+            "description2": "我們對數位購買的退款政策在下面的「應用程式內購買和退款」部分中進行了描述。",
+            "description3": "一旦探索通行證或Night Pass被兌換用於解鎖某個場所，則無法取消或退款。",
+            "description4": "符合資格的退款申請將按照應用程式商店的退款政策進行處理，如下「退款」部分所述。",
+            "description5": "以下商品您無權取消購買：",
+            "exceptions": {
+              "personalized": "已新增至您的帳戶或已使用的物品，例如用於解鎖場館的探索通行證。",
+              "perishable": "限時通行證，例如Night Pass ，一旦其有效期開始，就無法使用。",
+              "hygiene": "已向您提供服務的訂閱期限。",
+              "mixed": "數位商品與其他購買商品組合成一個捆綁包。",
+              "digital": "如果數位內容的提供並非透過有形媒介提供，且該內容的履行已在您事先明確同意的情況下開始，並且您已承認您喪失了取消權，則該數位內容的提供不適用。"
+            }
+          }
+        },
+        "availability": {
+          "title": "可用性、錯誤和不準確之處",
+          "description1": "我們會不斷更新服務中的探索通行證、 Night Pass和訂閱方案。這些資訊可能存在價格錯誤、描述不準確或無法提供的情況，我們更新這些資訊可能會有所延遲。",
+          "description2": "我們無法且不保證任何資訊的準確性或完整性，包括價格和庫存情況。我們保留隨時更改或更新資訊以及更正錯誤、不準確或遺漏之處的權利，恕不另行通知。"
+        },
+        "pricing": {
+          "title": "價格政策",
+          "description1": "本公司保留在接受購買前隨時修改探索通行證、 Night Pass和訂閱價格的權利。",
+          "description2": "價格透過您裝置的應用程式商店（Google Play 或 App Store）設定和顯示，並可能因地區和貨幣而異。"
+        },
+        "payments": {
+          "title": "付款",
+          "description1": "所有購買均透過您裝置的應用程式商店（Google Play 或 App Store）使用其支援的付款方式進行處理。",
+          "description2": "付款方式需經應用程式商店和您的發卡機構驗證和授權。如未收到授權，本公司對由此造成的任何延遲或未能交付您的購買商品概不負責。"
+        }
+      },
+      "subscriptions": {
+        "title": "訂閱",
+        "period": {
+          "title": "訂閱期",
+          "description1": "本服務或部分服務內容僅限付費訂閱用戶使用。我們將根據您購買訂閱時選擇的訂閱方案類型，按週期性（例如每日、每週、每月或每年）預先向您收取費用。",
+          "description2": "每個週期結束時，您的訂閱將按照完全相同的條件自動續訂，除非您取消訂閱或公司取消訂閱。"
+        },
+        "cancellations": {
+          "title": "訂閱取消",
+          "description1": "您可以透過帳戶設定頁面或聯絡公司取消訂閱續訂。您已支付的當前訂閱期費用將不予退還，但您仍可在當前訂閱期結束前繼續使用本服務。",
+          "description2": "如果訂閱是透過應用程式內購買完成的，您可以透過應用程式商店取消訂閱續訂。"
+        },
+        "billing": {
+          "title": "帳單",
+          "description1": "您應向本公司提供準確完整的帳單訊息，包括姓名、地址、州/省、郵遞區號、電話號碼和有效的付款方式資訊。",
+          "description2": "若因任何原因導致自動扣款失敗，本公司將發出電子發票，要求您在規定的截止日期前手動支付發票上所示的帳單週期對應的全部款項。",
+          "description3": "如果訂閱是透過應用程式內購買完成的，則所有計費均由應用程式商店處理，並受應用程式商店本身的條款和條件約束。"
+        },
+        "feeChanges": {
+          "title": "費用變更",
+          "description1": "本公司有權自行決定隨時修改訂閱費用。任何訂閱費用變更將在當前訂閱期結束時生效。",
+          "description2": "本公司將提前合理通知您訂閱費用的任何變更，以便您有機會在變更生效前終止訂閱。",
+          "description3": "訂閱費用變更生效後，您繼續使用本服務即表示您同意支付變更後的訂閱費用金額。"
+        },
+        "refunds": {
+          "title": "退款",
+          "description1": "除法律另有規定外，已支付的訂閱費用概不退還。",
+          "description2": "對於訂閱服務的某些退款要求，本公司可依具體情況逐案考慮，並由本公司全權酌情決定是否批准。",
+          "description3": "如果訂閱是透過應用程式內購買完成的，則適用應用程式商店的退款政策。如果您希望申請退款，可以直接聯絡應用程式商店。"
+        },
+        "freeTrial": {
+          "title": "免費試用",
+          "description1": "本公司可自行決定是否提供限時免費試用的訂閱服務。",
+          "description2": "您可能需要輸入您的帳單資訊才能註冊免費試用。",
+          "description3": "如果您在註冊免費試用時輸入了您的帳單訊息，公司將在免費試用期結束前不會向您收費。在免費試用期的最後一天，除非您取消了訂閱，否則我們將自動向您收取您所選訂閱類型的適用訂閱費用。",
+          "description4": "本公司保留隨時更改或取消免費試用優惠的權利，恕不另行通知。 (i) 修改免費試用優惠的條款與條件，或 (ii) 取消免費試用優惠。"
+        }
+      },
+      "inAppPurchases": {
+        "title": "應用程式內購買",
+        "description1": "該應用程式可能包含應用程式內購買項目，可讓您購買產品、服務或訂閱。",
+        "description2": "有關如何使用您的設備管理應用程式內購買的更多信息，請參閱應用程式商店的條款和條件或您設備的幫助設定。",
+        "description3": "應用程式內購買項目僅限於應用程式內使用。一旦開始下載，應用程式內購買項目將無法取消。應用程式內購買項目不可兌換現金或其他形式的補償，也不可轉讓。",
+        "description4": "您承認並同意，所有計費和交易流程均由您下載應用程式的應用程式商店處理，並受該應用程式商店本身的條款和條件約束。"
+      },
+      "promotions": {
+        "title": "促銷",
+        "description1": "透過本服務提供的任何促銷活動可能受獨立於本條款的規則約束。",
+        "description2": "如果您參與任何促銷活動，請仔細閱讀相關規則以及我們的隱私權政策。若促銷活動的規則與本條款相衝突，則以促銷活動的規則為準。"
+      },
+      "userAccounts": {
+        "title": "使用者帳戶",
+        "description1": "當您在我們這裡建立帳戶時，您必須始終向我們提供準確、完整且最新的資訊。否則，即構成違反本條款，我們可能會立即終止您在我們服務上的帳戶。",
+        "description2": "您有責任保護您用於存取服務的密碼，並對使用該密碼進行的任何活動或操作負責，無論該密碼是用於我們的服務還是第三方社交媒體服務。",
+        "description3": "您同意不向任何第三方透露您的密碼。如果您發現任何安全漏洞或您的帳戶被未經授權使用，必須立即通知我們。",
+        "description4": "您不得使用他人或實體的名稱作為使用者名，或使用不合法可用的名稱，或使用未經適當授權而受他人或實體（而非您本人）權利約束的名稱或商標，或使用其他冒犯性、粗俗或淫穢的名稱。"
+      },
+      "userConduct": {
+        "title": "使用者行為與安全",
+        "zeroTolerance": {
+          "title": "零容忍政策",
+          "description": "您同意不使用本服務騷擾、威脅、跟蹤或恐嚇他人。本公司對任何辱罵行為、騷擾或侵犯他人權利或安全的行為均採取零容忍政策。違規者可能會被立即暫停或終止帳戶。"
+        },
+        "safetyDisclaimer": {
+          "title": "安全免責聲明",
+          "description": "本服務旨在促進用戶之間的聯繫和溝通，用戶可以選擇線下見面。我們不進行背景調查或驗證使用者身分。您需對與其他使用者的互動負全部責任。在與用戶線下溝通或見面時，請務必謹慎行事，運用常識，並採取適當的安全措施。"
+        }
+      },
+      "content": {
+        "title": "內容",
+        "yourRight": {
+          "title": "您發佈內容的權利",
+          "description1": "我們的服務可讓您發佈內容。您對發佈到服務中的內容負全部責任，包括其合法性、可靠性和適宜性。",
+          "description2": "您透過向本服務發佈內容，即授予我們使用、修改、公開表演、公開展示、複製和散佈此類內容的權利和許可，包括透過本服務進行此類內容的使用。您保留對您提交、發布或展示在本服務上或透過本服務展示的任何內容的所有權利，並且您有責任保護這些權利。",
+          "description3": "您聲明並保證：(i) 內容屬於您（您擁有該內容）或您有權使用該內容並授予我們本條款規定的權利和許可，並且 (ii) 在服務上或透過服務發布您的內容不會侵犯任何人的隱私權、公開權、版權、合約權利或任何其他權利。"
+        },
+        "restrictions": {
+          "title": "內容限制",
+          "description1": "本公司不對服務用戶的內容負責。您明確瞭解並同意，您對您帳戶下的內容及所有活動負全部責任，無論這些活動是由您本人還是任何使用您帳戶的第三方進行的。",
+          "description2": "您不得散播任何非法、冒犯性、令人不安、意圖使人反感、威脅性、誹謗性、中傷性、猥褻或其他令人反感的內容。此類令人反感的內容範例包括但不限於以下內容：",
+          "prohibitedContent": {
+            "unlawful": "非法活動或宣揚非法活動。",
+            "discriminatory": "誹謗性、歧視性或惡意的內容，包括有關宗教、種族、性取向、性別、國籍/民族出身或其他針對性群體的提及或評論。",
+            "spam": "垃圾郵件，無論是機器產生的還是隨機產生的，構成未經授權或未經請求的廣告、連鎖信、任何其他形式的未經授權的招攬，或任何形式的彩票或賭博。",
+            "malware": "包含或安裝任何病毒、蠕蟲、惡意軟體、木馬或其他旨在破壞、損害或限制任何軟體、硬體或電信設備功能的程式或內容。",
+            "infringing": "侵害任何一方的任何專有權利，包括專利權、商標權、商業機密、著作權、形象權或其他權利。",
+            "impersonating": "冒充任何個人或實體，包括本公司及其員工或代表。",
+            "privacy": "侵犯任何第三方的隱私。",
+            "false": "虛假資訊和特徵。"
+          },
+          "description3": "本公司保留權利（但無義務）自行決定任何內容是否適當並符合本條款。我們可能拒絕展示或移除內容，並保留暫停或終止違反本條款或我們社群準則的帳戶的權利。"
+        },
+        "backups": {
+          "title": "內容備份",
+          "description1": "儘管公司會定期備份內容，但公司不保證不會發生資料遺失或損壞。",
+          "description2": "備份點損壞或無效可能是由於（但不限於）備份前內容已損壞或在執行備份期間內容發生變更所造成的。",
+          "description3": "本公司將提供支援並嘗試解決任何已知或已發現的可能影響內容備份的問題。但您承認，本公司對內容的完整性或未能成功將內容恢復到可用狀態不承擔任何責任。",
+          "description4": "您同意在獨立於本服務的位置保存任何內容的完整準確副本。"
+        }
+      },
+      "copyright": {
+        "title": "版權政策",
+        "intellectualProperty": {
+          "title": "智慧財產權侵權",
+          "description1": "我們尊重他人的智慧財產權。我們的政策是，對於任何聲稱服務上發布的內容侵犯他人版權或其他智慧財產權的指控，我們都會回應。",
+          "description2": "如果您是版權所有者，或已獲得版權所有者的授權，並且您認為受版權保護的作品已被以構成透過本服務發生的版權侵權的方式複製，您必須透過電子郵件將書面通知發送至我們的版權代理人 support@ringdy.com，並在您的通知中包含對涉嫌侵權行為的詳細描述。",
+          "description3": "如果您謊稱任何內容侵犯了您的版權，您可能需要承擔損害賠償責任（包括費用和律師費）。"
+        },
+        "dmca": {
+          "title": "DMCA通知及DMCA版權侵權索賠程序",
+          "description": "您可以根據《數位千禧年版權法案》（DMCA）提交通知，方法是向我們的版權代理人提供以下書面資訊：",
+          "requirements": {
+            "signature": "取得版權所有者授權代表其行事的人的電子簽名或親筆簽名。",
+            "description": "您聲稱被侵權的受版權保護作品的描述，包括受版權保護作品所在位置的 URL（即網頁地址）或受版權保護作品的副本。",
+            "identification": "請提供您聲稱構成侵權的資料在服務中的 URL 或其他具體位置。",
+            "contact": "您的地址、電話號碼和電子郵件地址。",
+            "goodFaith": "您聲明您有充分理由相信，爭議的使用未經版權所有者、其代理人或法律授權。",
+            "accuracy": "您需以作偽證處罰為擔保，聲明您通知中的上述資訊準確無誤，且您是版權所有者或已取得版權所有者的授權代表其行事。"
+          },
+          "contact": "您可以透過電子郵件 support@ringdy.com 聯絡我們的版權代理人。收到通知後，本公司將自行決定採取其認為適當的任何措施，包括從服務中刪除被質疑的內容。"
+        }
+      },
+      "intellectualProperty": {
+        "title": "智慧財產",
+        "description1": "本服務及其原創內容（不包括您或其他使用者提供的內容）、功能和特性是並將始終是本公司及其授權人的專屬財產。",
+        "description2": "本服務受本國及外國的著作權法、商標法及其他法律保護。",
+        "description3": "未經本公司事先書面同意，不得將本公司的商標和商業外觀用於任何產品或服務。"
+      },
+      "feedback": {
+        "title": "您對我們的回饋",
+        "description": "您在此將您向本公司提供的任何回饋的所有權利、所有權和權益轉讓給本公司。若因任何原因導致該轉讓無效，您同意授予本公司一項非獨佔的、永久的、不可撤銷的、免版稅的、全球範圍內的權利和許可，允許本公司不受限制地使用、複製、披露、再許可、分發、修改和利用該等反饋。"
+      },
+      "links": {
+        "title": "與其他網站的連結",
+        "description1": "我們的服務可能包含第三方網站或服務的鏈接，這些網站或服務並非由本公司擁有或控制。",
+        "description2": "本公司對任何第三方網站或服務的內容、隱私權政策或做法均不予控制，亦不承擔任何責任。您進一步確認並同意，對於因使用或依賴任何此類網站或服務上提供的任何內容、商品或服務而造成或據稱造成的任何損害或損失，本公司不承擔任何直接或間接的責任。",
+        "description3": "我們強烈建議您閱讀您造訪的任何第三方網站或服務的條款和條件以及隱私權政策。"
+      },
+      "termination": {
+        "title": "終止",
+        "description1": "我們可能會因任何原因立即終止或暫停您的帳戶，無需事先通知或承擔任何責任，包括但不限於您違反這些條款和條件的情況。",
+        "description2": "終止後，您使用本服務的權利將立即終止。如果您希望終止您的帳戶，只需停止使用本服務即可。",
+        "dataDeletion": {
+          "title": "資料刪除和帳戶終止",
+          "description": "您可以隨時透過發送郵件至 support@ringdy.com 或使用應用程式內帳戶刪除功能，要求刪除您的帳戶和個人資料。帳戶終止或刪除後，我們將根據適用法律刪除或匿名化您的個人數據，但出於法律、安全或營運目的，我們可能需要保留某些數據。"
+        }
+      },
+      "liability": {
+        "title": "責任限制",
+        "importantNotice": "重要法律聲明",
+        "notice": "無論您可能遭受任何損失，本公司及其任何供應商在本條款任何規定下的全部責任以及您對上述所有事項的唯一補救措施均應限於您透過服務實際支付的金額，如果您未透過服務購買任何商品，則限於 100 美元。",
+        "description1": "在適用法律允許的最大範圍內，本公司或其供應商在任何情況下均不對任何特殊、偶然、間接或後果性損害承擔責任（包括但不限於利潤損失、數據或其他資訊遺失、業務中斷、人身傷害、因使用或無法使用本服務、與本服務一起使用的第三方軟體和/或第三方硬體，或與本條款的任何規定相關的任何補救",
+        "description2": "某些州不允許排除默示擔保或限製附帶或間接損害賠償責任，這意味著上述部分限制可能不適用。在這些州，各方的責任將僅限於法律允許的最大範圍。"
+      },
+      "disclaimer": {
+        "title": "「按現況」及「依BLE 」免責聲明",
+        "description1": "本服務以「現況」及「 BLE 」方式提供，不保證其無任何瑕疵或缺陷。在適用法律允許的最大範圍內，本公司代表其自身、其關聯公司以及各自的許可方和服務提供商，明確否認與本服務相關的任何明示、默示、法定或其他形式的保證，包括所有關於適銷性、特定用途適用性、所有權和不侵權的默示保證，以及可能因交易過程、履行過程、慣例或行業慣例而產生的保證。",
+        "description2": "在不限制前述規定的前提下，本公司不提供任何保證或承諾，也不作任何形式的陳述，保證服務將滿足您的要求，達到任何預期結果，與任何其他軟體、應用程式、系統或服務相容或協同工作，不間斷運行，達到任何性能或可靠性標準，或無錯誤，或任何錯誤或缺陷可以或將得到糾正。",
+        "description3": "在不限制前述規定的前提下，本公司及其任何供應商均不作任何明示或暗示的陳述或保證，包括但不限於：(i) 服務的運作或可用性，或服務中包含的資訊、內容、資料或產品；(ii) 服務不會中斷或出現錯誤；(iii) 透過本服務提供的任何資訊或內容的準確性、可靠性或及時性；或 (iv)服務、其伺服器、內容或代表公司發送的電子郵件不含病毒、腳本、木馬、蠕蟲、惡意軟體、定時炸彈或其他有害元件。",
+        "description4": "某些司法管轄區不允許排除某些類型的保證或限制消費者適用的法定權利，因此上述部分或全部排除和限制可能不適用於您。但在此情況下，本節規定的排除和限制應在適用法律允許的最大範圍內適用。"
+      },
+      "governingLaw": {
+        "title": "適用法律",
+        "description": "本條款及您對服務的使用受該國法律管轄，但不包括其衝突法規則。您對應用程式的使用也可能受其他地方、州、國家或國際法律的約束。"
+      },
+      "disputes": {
+        "title": "爭議解決",
+        "description": "如果您對服務有任何疑問或爭議，您同意先嘗試透過聯絡公司以非正式方式解決爭議。"
+      },
+      "euUsers": {
+        "title": "適用於歐盟用戶",
+        "description": "如果您是歐盟消費者，您將受益於您居住國法律的任何強制規定。"
+      },
+      "usLegal": {
+        "title": "美國法律合規",
+        "description": "您聲明並保證：(i) 您不在受美國政府禁運的國家，也不在被美國政府指定為「支持恐怖主義」的國家；(ii) 您不在任何美國政府禁止或限制交易的名單上。"
+      },
+      "severability": {
+        "title": "可分割性與棄權",
+        "severabilityTitle": "可分割性",
+        "severabilityDescription": "如果本條款中的任何條款被認定為不可執行或無效，則該條款將被修改和解釋，以在適用法律允許的最大範圍內實現該條款的目標，其餘條款將繼續完全有效。",
+        "waiverTitle": "放棄",
+        "waiverDescription": "除本條款另有規定外，未能行使本條款項下的權利或要求履行本條款項下的義務，並不影響一方此後任何時候行使該權利或要求履行該義務的能力；對違約行為的放棄也不構成對任何後續違約行為的放棄。"
+      },
+      "translation": {
+        "title": "翻譯口譯",
+        "description": "如果我們的服務中已向您提供這些條款和條件的翻譯版本，則這些條款和條件可能已被翻譯。您同意，如果發生爭議，應以英文原文為準。"
+      },
+      "changes": {
+        "title": "這些條款和條件的變更",
+        "description1": "我們保留隨時自行決定修改或替換本條款的權利。如果修訂內容重大，我們將盡合理努力在新條款生效前至少提前 30 天發出通知。何為重大變更將由我們自行決定。",
+        "description2": "如果您在本修訂生效後繼續存取或使用我們的服務，即表示您同意受修訂後的條款約束。如果您不同意全部或部分新條款，請停止使用本網站和服務。"
+      },
+      "contact": {
+        "title": "聯絡我們",
+        "description": "如果您對這些條款和條件有任何疑問，可以聯絡我們：",
+        "email": "透過電子郵件：support@ringdy.com",
+        "support": "透過我們的應用內支援系統",
+        "website": "請瀏覽我們的網站：www.ringdy.com"
+      },
+      "backToHome": "回首頁",
+      "privacyPolicy": "隱私權政策"
+    }
+  },
+  "safety": {
+    "title": "安全提示與技巧",
+    "subtitle": "您的安全是我們的首要任務。學習安全網路連線的基本技巧。",
+    "lastUpdated": "最後更新時間：2025年1月",
+    "commitment": {
+      "title": "我們對您的安全承諾",
+      "items": {
+        "privacy": "您可自行決定分享多少資訊－隨時切換到頭像，我們絕不會與其他使用者分享您的電話號碼或確切地址。",
+        "noStorage": "除非您選擇自行分享，否則我們不會將您的私人聯絡資訊透露給其他用戶。",
+        "tools": "我們提供屏蔽和舉報等工具，以確保您對每一次互動都擁有控制權。",
+        "ageLimit": "Ringdy僅限 18 歲以上使用者使用。"
+      }
+    },
+    "respectfulBehavior": {
+      "title": "必須舉止得體。",
+      "expectation": "我們希望您：",
+      "items": {
+        "kind": "要友善、尊重他人、誠實守信。",
+        "language": "使用簡潔、恰當的語言",
+        "laws": "遵守當地法律和社區標準",
+        "genuine": "請僅將此應用程式用於真誠且尊重的互動。"
+      }
+    },
+    "prohibitedConduct": {
+      "title": "禁止行為",
+      "warning": "為了確保所有人的安全，您不得：",
+      "items": {
+        "harassment": "騷擾、跟蹤或霸凌任何人",
+        "hateful": "分享仇恨、暴力或歧視性內容",
+        "impersonation": "冒充他人或創造虛假會話",
+        "personalData": "索取個人資訊，例如地址、電話號碼或社交帳號",
+        "explicit": "發送露骨、色情或冒犯性訊息",
+        "scamming": "參與詐騙、網路釣魚或索取金錢等活動",
+        "offPlatform": "試圖將聊天轉移到外部即時通訊應用程式進行欺騙。",
+        "tracking": "嘗試在Bluetooth功能範圍之外追蹤或定位用戶"
+      },
+      "consequence": "上述任何行為都可能導致停職或永久封鎖。"
+    },
+    "commonSense": {
+      "title": "運用常識並謹慎行事",
+      "intro": "您最了解自己的安全。以下提示旨在為您提供協助：",
+      "chatting": {
+        "title": "🗣聊天時：",
+        "items": {
+          "noPersonalInfo": "請勿透露您的全名、地址、電話號碼或財務訊息",
+          "cautious": "要警惕那些迅速要求將聊天轉移到其他地方的人。",
+          "noPressure": "不要感到有壓力必須回應或繼續對話。"
+        }
+      },
+      "redFlags": {
+        "title": "🛑 注意危險訊號：",
+        "items": {
+          "quickLove": "有人只發了幾條訊息就聲稱自己戀愛了。",
+          "moneyRequests": "要求匯款或提供個人信息",
+          "strangeLinks": "奇怪的連結或請求進行平台外聊天",
+          "emergencyStories": "涉及緊急旅行、醫院帳單或簽證問題的故事"
+        },
+        "advice": "如果感覺有任何不對勁，請封鎖並檢舉。"
+      }
+    },
+    "reportBlock": {
+      "title": "報告和阻止工具",
+      "intro": "如果有人：",
+      "reasons": {
+        "uncomfortable": "讓你感到不舒服",
+        "violates": "違反了我們的準則",
+        "suspicious": "發送可疑或有害訊息"
+      },
+      "instruction": "請立即使用屏蔽和舉報功能。我們會認真審核所有舉報，重犯者可能會被永久封鎖。",
+      "anonymity": "舉報他人時，您的身分將被保密。被檢舉人不會收到檢舉人通知。"
+    },
+    "meetingInPerson": {
+      "title": "線下見面（如適用）",
+      "disclaimer": "Ringdy旨在透過Bluetooth掃描或當地場所幫助您發現並聯繫附近的人，許多用戶在匹配成功後選擇線下見面。請遵守以下注意事項：",
+      "safetyTips": {
+        "publicPlaces": "僅在公共場所見面",
+        "tellFriend": "把你的計劃告訴朋友",
+        "shareLocation": "與您信任的人分享您的位置",
+        "noRides": "不要接受剛認識的人的搭車邀約。",
+        "staySober": "保持清醒和警覺",
+        "chargePhone": "將手機充電並放在身邊",
+        "ownTransport": "請自行安排往返交通。"
+      },
+      "reminder": "如果您感到不適，可以隨時離開。之後請封鎖該用戶並向我們檢舉。"
+    },
+    "enforcement": {
+      "title": "執法與安全措施",
+      "intro": "當發生違規行為時， Ringdy可能會採取以下措施：",
+      "actions": {
+        "suspend": "暫時凍結帳戶",
+        "ban": "永久封鎖濫用用戶",
+        "lawEnforcement": "向執法部門報告嚴重威脅",
+        "verification": "對疑似冒充者進行核實"
+      }
+    },
+    "appeals": {
+      "title": "申訴與支持",
+      "intro": "如果您認為自己被不公正地封禁，或者您想舉報嚴重問題：",
+      "contact": {
+        "email": "📧 信箱：support@ringdy.com",
+        "website": "🌐 參觀： Ringdy安全中心（即將開放）"
+      }
+    },
+    "finalThoughts": {
+      "title": "最後想說的話",
+      "message": "Ringdy旨在幫助人們以安全、有意義的方式建立聯繫，同時保護個人識別資訊。您可以完全掌控與誰聊天，我們會為您提供支援。"
+    },
+    "navigation": {
+      "backToHome": "回首頁",
+      "downloadApp": "下載應用"
+    }
+  },
+  "profile": {
+    "connectViaBLE": "透過BLE連接",
+    "stats": {
+      "connections": "連接",
+      "messages": "訊息",
+      "filesShared": "文件共享"
+    },
+    "location": "加州舊金山",
+    "onlineViaBLE": "透過BLE線上連線。",
+    "occupation": "軟體開發工程師 - 科技新創公司",
+    "education": "史丹佛大學 - 計算機科學",
+    "interests": "研究方向：物聯網、 Bluetooth技術、行動開發",
+    "bio": "我熱衷於透過科技創造無縫連接。我喜歡探索低功耗Bluetooth的各種可能性，並開發能夠拉近人與人之間距離的應用程式。我一直很樂意與我所在地區的開發者和科技愛好者交流。歡迎隨時聯絡我，洽談合作或進行技術探討！",
+    "showMore": "顯示更多"
+  },
+  "auth": {
+    "agreeWith": "我同意。"
+  }
+}

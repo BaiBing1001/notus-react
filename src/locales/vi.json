@@ -1,0 +1,1434 @@
+{
+  "navbar": {
+    "features": "Đặc trưng",
+    "subscription": "Đăng ký",
+    "download": "Tải xuống",
+    "legal": "Pháp lý",
+    "privacyPolicy": "Chính sách bảo mật",
+    "termsOfUse": "Điều khoản sử dụng",
+    "safetyTips": "Mẹo và thủ thuật an toàn"
+  },
+  "hero": {
+    "title": "Tìm người ở gần bạn.\n Kết nối ngoài đời thực.",
+    "subtitle": "Lắc điện thoại để tìm người xung quanh qua Bluetooth , hoặc tham gia một địa điểm gần đó để xem ai đang ở đó. Gửi yêu cầu kết bạn, ghép đôi và bắt đầu trò chuyện - với tùy chọn bảo mật hình đại diện cho đến khi bạn sẵn sàng chia sẻ nhiều hơn.",
+    "discoverFeatures": "Khám phá các tính năng",
+    "downloadApp": "Tải ứng dụng",
+    "anonymousAvatars": "Ảnh đại diện tùy chọn",
+    "autoExpiry": "Bluetooth + Địa điểm",
+    "privacyFirst": "Bảo mật là trên hết"
+  },
+  "features": {
+    "proximityTitle": "Khám phá dựa trên khoảng cách",
+    "proximityDescription": "Tìm kiếm những người ở gần bằng cách quét qua Bluetooth hoặc tham gia một địa điểm trên bản đồ. Gửi yêu cầu kết bạn và bắt đầu trò chuyện khi cả hai đã kết nối thành công.",
+    "avatarsTitle": "Tùy chọn quyền riêng tư của Avatar",
+    "avatarsDescription": "Hãy để ảnh đại diện của bạn ở chế độ xem trong khi làm quen với ai đó, và chuyển sang ảnh thật của bạn khi nào bạn đã sẵn sàng.",
+    "expiringTitle": "Khám phá dựa trên địa điểm",
+    "expiringDescription": "Xem các địa điểm gợi ý gần đó và xem ai đã check-in trong bán kính nhất định - không cần phải liên tục quét tìm.",
+    "revealTitle": "Liên kết",
+    "revealDescription": "Hãy đánh dấu mối quan hệ độc quyền là đã gắn bó khi bạn tìm được người mà bạn muốn chung sống lâu dài.",
+    "bluetoothTitle": "Công nghệ Bluetooth LE",
+    "bluetoothDescription": "Kết nối không cần internet bằng công nghệ Bluetooth Low Energy tiên tiến để thiết lập mạng cục bộ hiệu quả.",
+    "keyFeaturesTitle": "Các tính năng chính",
+    "keyFeaturesDescription": "Ringdy được tích hợp nhiều tính năng mạnh mẽ được thiết kế để nâng cao trải nghiệm kết nối cục bộ của bạn mọi lúc mọi nơi.",
+    "downloadNow": "Tải xuống ngay",
+    "tags": {
+      "autoDiscovery": "Tự động phát hiện",
+      "chatMessaging": "Nhắn tin trò chuyện",
+      "fileSharing": "Chia sẻ tập tin",
+      "profiles": "Hồ sơ",
+      "privacyControls": "Kiểm soát quyền riêng tư",
+      "offlineMode": "Chế độ ngoại tuyến",
+      "crossPlatform": "Đa nền tảng",
+      "lowPower": "Công suất thấp"
+    }
+  },
+  "useCases": {
+    "actionTitle": "Ringdy trong hành động",
+    "actionDescription": "Tự động tìm kiếm, nhắn tin trò chuyện và chia sẻ hồ sơ trong môi trường xã hội thực tế. Trải nghiệm kết nối liền mạch với công nghệ Bluetooth Low Energy tiên tiến mọi lúc mọi nơi.",
+    "campusTitle": "Kết nối khuôn viên trường",
+    "campusDescription": "Tìm bạn học ngay lập tức",
+    "eventTitle": "Sự kiện kết nối",
+    "eventDescription": "Kết nối tại các hội nghị",
+    "businessTitle": "Gặp gỡ kinh doanh",
+    "businessDescription": "Mối quan hệ chuyên nghiệp",
+    "cafeTitle": "Kết nối quán cà phê",
+    "cafeDescription": "Gặp gỡ những người yêu cà phê gần đây",
+    "localTitle": "Khám phá địa phương",
+    "localDescription": "Khám phá khu phố của bạn",
+    "gamingTitle": "Nhóm chơi game",
+    "gamingDescription": "Tìm bạn chơi game",
+    "perfectTitle": "Các trường hợp sử dụng hoàn hảo",
+    "perfectDescription": "Ringdy biến bất kỳ địa điểm nào thành cơ hội kết nối. Cho dù bạn đang ở trường đại học, hội nghị hay quán cà phê quen thuộc, ",
+    "perfectDescriptionContinued": "Khám phá những mối liên kết ý nghĩa ngay lập tức.",
+    "approachDescription": "Từ các nhóm học tập đến các mạng lưới kết nối chuyên nghiệp, phương pháp dựa trên vị trí địa lý của chúng tôi giúp việc kết nối trở nên tự nhiên và dễ dàng.",
+    "tryItNow": "Hãy thử ngay bây giờ",
+    "tags": {
+      "studyGroups": "Nhóm học tập",
+      "events": "Sự kiện",
+      "coworking": "Không gian làm việc chung",
+      "gaming": "Chơi game",
+      "travel": "Du lịch",
+      "shopping": "Mua sắm",
+      "fitness": "Sự thích hợp",
+      "social": "Xã hội"
+    }
+  },
+  "community": {
+    "whyLoveTitle": "Vì sao mọi người yêu thích Ringdy",
+    "whyLoveDescription": "Người dùng của chúng tôi liên tục cho biết Ringdy đã thay đổi trải nghiệm kết nối của họ như thế nào. Từ việc gặp gỡ mọi người ở quán cà phê đến kết nối tại các sự kiện, ứng dụng tạo ra những mối liên hệ chân thực ở gần bạn.",
+    "privacyProtection": "Thiết kế tôn trọng quyền riêng tư",
+    "instantConnection": "Kết nối tức thì không cần internet",
+    "lowPowerConsumption": "Mức tiêu thụ điện năng cực thấp",
+    "experienceTitle": "Trải nghiệm Ringdy",
+    "experienceDescription": "Khám phá ứng dụng của chúng tôi thông qua các giao diện người dùng khác nhau. Từ hồ sơ người dùng ",
+    "experienceDescriptionContinued": "Để hiểu rõ hơn về luồng kết nối, hãy xem Ringdy làm cho việc kết nối dựa trên vị trí trở nên trực quan và hấp dẫn như thế nào.",
+    "anonymousProfiles": "Hồ sơ Avatar",
+    "chatInterface": "Giao diện trò chuyện",
+    "nearbyDiscovery": "Khám phá gần đó",
+    "joinTitle": "Tham gia cộng đồng của chúng tôi",
+    "joinDescription1": "Ringdy không chỉ là một ứng dụng - đó là cách để bạn gặp gỡ những người thật sự ở gần mình, dù là thông qua quét Bluetooth hay những địa điểm yêu thích của bạn.",
+    "joinDescription2": "Hãy theo dõi chúng tôi để cập nhật những tính năng mới, câu chuyện người dùng và các sự kiện cộng đồng trong khu vực của bạn!",
+    "downloadNow": "Tải xuống ngay"
+  },
+  "download": {
+    "title": "Tải xuống Ringdy",
+    "subtitle": "Tải Ringdy về thiết bị di động của bạn và bắt đầu kết nối với những người ở gần. Ứng dụng hiện có sẵn trên cả nền tảng Android và iOS.",
+    "googlePlay": "Google Play",
+    "appStore": "App Store",
+    "getItOn": "Hãy bắt đầu thôi!",
+    "downloadOn": "Tải xuống trên",
+    "comingSoon": "Sắp ra mắt",
+    "whatYouGet": "Những gì bạn nhận được",
+    "instantConnections": "Kết nối tức thì",
+    "instantConnectionsDesc": "Kết nối tức thì với những người ở gần bằng công nghệ Bluetooth Low Energy hoặc bằng cách tham gia một địa điểm địa phương.",
+    "anonymousProfiles": "Quyền riêng tư Avatar",
+    "anonymousProfilesDesc": "Hãy tạo một hồ sơ ảo để bảo vệ quyền riêng tư, và chỉ chia sẻ ảnh thật của bạn khi bạn đã sẵn sàng.",
+    "privacyFirst": "Bảo mật là trên hết",
+    "privacyFirstDesc": "Bạn có quyền kiểm soát những gì bạn chia sẻ và thời điểm chia sẻ. Các công cụ chặn và báo cáo giúp bảo vệ cộng đồng.",
+    "crossPlatform": "Đa nền tảng",
+    "crossPlatformDesc": "Hoạt động mượt mà trên cả thiết bị iOS và Android.",
+    "requirements": "Yêu cầu hệ thống",
+    "androidReq": "Android 6.0 trở lên",
+    "iosReq": "iOS 12.0 trở lên",
+    "bluetoothReq": "Hỗ trợ Bluetooth 4.0 ( BLE )",
+    "storageReq": "50MB dung lượng lưu trữ miễn phí",
+    "systemDescription": "Ringdy yêu cầu các thiết bị hỗ trợ Bluetooth Low Energy ( BLE ). Hầu hết các điện thoại thông minh và máy tính bảng hiện đại đều hỗ trợ công nghệ BLE .",
+    "androidRequirements": "Yêu cầu hệ điều hành Android:",
+    "androidReq1": "Android 5.0 (API level 21) trở lên",
+    "androidReq2": "Hỗ trợ Bluetooth 4.0 LE",
+    "androidReq3": "Quyền truy cập vị trí (để quét BLE )",
+    "androidReq4": "Khuyến nghị RAM tối thiểu 2GB.",
+    "iosRequirements": "Yêu cầu hệ điều hành iOS:",
+    "iosReq1": "iOS 12.0 trở lên",
+    "iosReq2": "iPhone 5s trở lên, iPad Air trở lên",
+    "iosReq3": "Thiết bị có khả năng Bluetooth 4.0 LE",
+    "iosReq4": "Đã bật tính năng làm mới ứng dụng nền.",
+    "learnMoreFeatures": "Tìm hiểu thêm về các tính năng Ringdy !",
+    "crossPlatformTitle": "Khả năng tương thích đa nền tảng",
+    "crossPlatformCompatibilityDesc": "Kết nối với người dùng trên nhiều nền tảng khác nhau. Người dùng Android và iOS có thể dễ dàng tìm thấy và trò chuyện với nhau.",
+    "android": {
+      "title": "Android",
+      "description": "Trải nghiệm đầy đủ Ringdy có sẵn trên các thiết bị Android chạy Android 5.0 (API level 21) trở lên.",
+      "featuresTitle": "Đặc trưng:",
+      "features": {
+        "bluetooth": "Quét và quảng cáo Bluetooth LE",
+        "background": "Hoạt động nền",
+        "notifications": "Thông báo đẩy",
+        "offline": "Hỗ trợ chế độ ngoại tuyến"
+      },
+      "downloadButton": "Tải xuống trên Google Play"
+    },
+    "ios": {
+      "title": "iOS",
+      "description": "Ứng dụng iOS gốc được tối ưu hóa cho iPhone và iPad, tương thích với iOS 12.0 trở lên.",
+      "featuresTitle": "Đặc trưng:",
+      "features": {
+        "bluetooth": "Tích hợp Bluetooth cốt lõi",
+        "background": "Làm mới ứng dụng nền",
+        "privacy": "Thiết kế tập trung vào quyền riêng tư",
+        "universal": "Hỗ trợ ứng dụng phổ quát"
+      },
+      "downloadButton": "Tải xuống trên App Store"
+    },
+    "qrCode": {
+      "title": "Tải xuống nhanh",
+      "description": "Quét mã QR bằng camera điện thoại để tải xuống Ringdy",
+      "placeholder": "Mã QR",
+      "instruction": "Hướng camera vào mã QR để tải xuống."
+    },
+    "installation": {
+      "title": "Dễ dàng lắp đặt",
+      "description": "Bắt đầu sử dụng Ringdy rất đơn giản. Tải ứng dụng, cấp các quyền cần thiết và bắt đầu tìm kiếm những người ở gần bạn.",
+      "step1": "Tải xuống từ cửa hàng ứng dụng của nền tảng bạn đang sử dụng.",
+      "step2": "Cấp quyền truy cập Bluetooth và vị trí",
+      "step3": "Hãy tạo hồ sơ của bạn và bắt đầu kết nối!"
+    },
+    "callToAction": {
+      "title": "Tham gia cộng đồng Ringdy",
+      "description": "Bắt đầu kết nối với những người ở gần bạn một cách an toàn và riêng tư. Tải xuống Ringdy ngay hôm nay và khám phá tương lai của mạng lưới kết nối dựa trên vị trí.",
+      "googlePlay": "Google Play",
+      "appStore": "App Store"
+    }
+  },
+  "featurePage": {
+    "title": "Khám phá địa điểm lân cận.\n Kết nối với những người thật.",
+    "subtitle": "Xem các địa điểm gần đó được đề xuất, tìm kiếm những người xung quanh bạn qua Bluetooth và gửi lời mời kết bạn dẫn đến những cuộc trò chuyện thực sự.",
+    "exploreFeatures": "Khám phá các tính năng",
+    "downloadApp": "Tải ứng dụng",
+    "heroTitle": "Khám phá những mối liên kết thực sự gần bạn",
+    "heroSubtitle": "Hãy tham gia vào địa điểm được đề xuất hoặc quét xung quanh, xem ai đang ở gần và kết nối với những người thú vị thông qua công nghệ Bluetooth Low Energy.",
+    "discoverCrowdedPlaces": "Khám phá các địa điểm gần đó",
+    "discoverCrowdedPlacesDesc": "Nhận gợi ý về những địa điểm nổi tiếng gần đó, nơi bạn có thể gặp gỡ những người cùng sở thích và tạo dựng những mối quan hệ ý nghĩa.",
+    "scanThroughAvatars": "Xem ai đang ở gần đây",
+    "scanThroughAvatarsDesc": "Xem ảnh đại diện của những người ở gần bạn, với tùy chọn giữ nguyên ảnh đại diện cho đến khi bạn sẵn sàng chia sẻ thêm thông tin.",
+    "revealAndMeet": "Ghép đôi & Trò chuyện",
+    "revealAndMeetDesc": "Gửi lời mời kết bạn, và khi được chấp nhận, bạn sẽ ghép đôi và có thể bắt đầu trò chuyện trên ứng dụng.",
+    "proximityBasedConnections": "Kết nối thực sự dựa trên khoảng cách",
+    "proximityBasedConnectionsDesc": "Ứng dụng của chúng tôi gợi ý các địa điểm gần đó, nơi bạn có thể tìm thấy những người có sở thích tương đồng. Khi cả hai đều ở trong phạm vi kết nối, hãy duyệt qua các hồ sơ gần đó để tìm kiếm những người có tiềm năng kết nối.",
+    "bleProximityTech": "Công nghệ Bluetooth Low Energy đảm bảo bạn chỉ có thể kết nối với những người thực sự ở gần, giúp mọi kết nối đều chân thực và đáng tin cậy.",
+    "downloadNow": "Tải xuống Ringdy ngay!",
+    "realTimeProximity": "Phát hiện khoảng cách gần trong thời gian thực",
+    "realTimeProximityDesc": "Chỉ kết nối với những người thực sự ở gần hoặc cùng địa điểm với bạn, đảm bảo các kết nối chân thực.",
+    "howItWorks": "Cách thức hoạt động",
+    "howItWorksDesc": "Ba bước đơn giản để khám phá các địa điểm gần đó, kết nối với những người thật và bắt đầu trò chuyện.",
+    "step1Title": "Quét mã hoặc tham gia địa điểm",
+    "step1Desc": "Lắc điện thoại để quét mã qua Bluetooth , hoặc xem các địa điểm gần đó mà chúng tôi gợi ý và tham gia một địa điểm mà bạn quan tâm.",
+    "step2Title": "Xem các hồ sơ gần đây",
+    "step2Desc": "Xem thông tin cá nhân của những người ở gần, với tùy chọn bảo mật hình đại diện cho đến khi bạn sẵn sàng chia sẻ thêm thông tin.",
+    "step3Title": "Gửi yêu cầu & Trò chuyện",
+    "step3Desc": "Gửi lời mời kết bạn, và khi được chấp nhận, bạn sẽ ghép đôi và có thể bắt đầu trò chuyện ngay trong ứng dụng.",
+    "coreFeatures": "Các tính năng chính",
+    "proximityNetworking": "Mạng lưới lân cận",
+    "proximityDesc": "Kết nối với những người xung quanh bạn bằng công nghệ Bluetooth Low Energy tiên tiến.",
+    "anonymousChat": "Ghép đôi yêu cầu kết bạn",
+    "anonymousChatDesc": "Gửi lời mời kết bạn và bắt đầu trò chuyện ngay khi được chấp nhận — không áp lực, không spam.",
+    "autoExpiry": "Khám phá địa điểm",
+    "autoExpiryDesc": "Tham gia vào danh sách địa điểm gần đó được đề xuất để xem ai đã check-in trong phạm vi bán kính nhất định.",
+    "gradualReveal": "Tiết lộ danh tính dần dần",
+    "gradualRevealDesc": "Hãy lựa chọn thời điểm chuyển từ ảnh đại diện sang ảnh thật khi các mối quan hệ phát triển một cách tự nhiên.",
+    "keyPrivacyFeatures": "Các tính năng bảo mật chính",
+    "keyPrivacyFeaturesDesc": "Mọi tính năng đều được thiết kế để đảm bảo kết nối mạng an toàn - từ hình đại diện tùy chọn đến tính năng ghép đôi yêu cầu kết bạn giúp bảo vệ quyền riêng tư của bạn.",
+    "avatarBasedProfiles": "Hồ sơ tùy chọn dựa trên hình đại diện",
+    "autoExpiringChats": "Tìm kiếm địa điểm trong phạm vi bán kính đã định.",
+    "progressiveIdentity": "Sự tiết lộ danh tính tiến bộ",
+    "ourTeam": "Đội ngũ của chúng tôi",
+    "ourTeamDesc": "Các chuyên gia đầy nhiệt huyết tận tâm kết nối mọi người thông qua công nghệ tiên tiến, ưu tiên bảo mật thông tin.",
+    "team": {
+      "alex": {
+        "name": "Alex Chen",
+        "role": "Kỹ sư giao thức BLE"
+      },
+      "sarah": {
+        "name": "Sarah Johnson",
+        "role": "Nhà phát triển ứng dụng di động"
+      },
+      "maria": {
+        "name": "Maria Rodriguez",
+        "role": "Trưởng nhóm Bảo mật & Quyền riêng tư"
+      },
+      "david": {
+        "name": "David Kim",
+        "role": "Người sáng lập và Giám đốc điều hành"
+      },
+      "title": "Đội ngũ của chúng tôi",
+      "description": "Những người đầy nhiệt huyết, tận tâm kết nối mọi người thông qua công nghệ tiên tiến, ưu tiên bảo mật thông tin.",
+      "roles": {
+        "engineer": "Kỹ sư giao thức BLE",
+        "developer": "Nhà phát triển ứng dụng di động",
+        "security": "Trưởng nhóm Bảo mật & Quyền riêng tư",
+        "ceo": "Người sáng lập và Giám đốc điều hành"
+      }
+    },
+    "readyToConnect": "Sẵn sàng kết nối?",
+    "readyToConnectDesc": "Kết nối với mọi người một cách an toàn thông qua Bluetooth và tính năng tìm kiếm địa điểm. Ghép đôi, trò chuyện và chỉ tiết lộ danh tính của bạn khi tìm thấy một mối liên hệ thực sự.",
+    "finalFeatures": {
+      "anonymousAvatars": "Ảnh đại diện tùy chọn",
+      "anonymousAvatarsDesc": "Hãy cứ để ảnh đại diện của bạn bật trong khi làm quen với ai đó, không cần phải tiết lộ ngay lập tức đâu.",
+      "autoExpire": "Khám phá địa điểm và Bluetooth",
+      "autoExpireDesc": "Tìm kiếm người dùng bằng cách quét các địa điểm lân cận qua Bluetooth hoặc tham gia các địa điểm địa phương được đề xuất.",
+      "friendRequests": "Yêu cầu kết bạn",
+      "friendRequestsDesc": "Hãy gửi lời mời kết bạn đến những người thú vị và chỉ bắt đầu cuộc trò chuyện khi cả hai cùng có chung sở thích."
+    },
+    "eventNetworking": "Sự kiện kết nối",
+    "eventNetworkingDesc": "Tìm kiếm những người xung quanh bạn tại các hội nghị, buổi gặp mặt và sự kiện bằng cách sử dụng tính năng định vị Bluetooth .",
+    "studyGroups": "Nhóm học tập",
+    "studyGroupsDesc": "Tìm bạn học cùng nhóm gần trường mà không cần phải quen biết trước.",
+    "workplace": "Nơi làm việc & Quán cà phê",
+    "workplaceDesc": "Gặp gỡ đồng nghiệp và các chuyên gia khác tại các không gian làm việc chung và quán cà phê gần đó.",
+    "anonymousNetworking": "Bảo mật dựa trên Avatar",
+    "anonymousNetworkingDesc": "Hãy bật ảnh đại diện trong lúc bạn làm quen, sau đó chia sẻ ảnh thật của mình bất cứ khi nào bạn muốn.",
+    "privacyProtection": "Bạn luôn có quyền kiểm soát những gì mình chia sẻ và chia sẻ với ai.",
+    "privacyFeatures": {
+      "title": "Quyền riêng tư bạn kiểm soát",
+      "description": "Ringdy được thiết kế để bạn tự quyết định những gì mình muốn chia sẻ và khi nào - từ cách bạn tìm thấy mọi người đến mức độ bạn tiết lộ về bản thân.",
+      "avatarProfiles": "Hồ sơ tùy chọn dựa trên hình đại diện",
+      "autoExpiring": "Tìm kiếm địa điểm trong phạm vi bán kính đã định.",
+      "progressiveReveal": "Hãy tiết lộ những bức ảnh thật của bạn theo tốc độ của riêng bạn."
+    },
+    "cta": {
+      "title": "Sẵn sàng kết nối?",
+      "description": "Hãy kết nối với mọi người xung quanh để tìm thấy những mối liên hệ chân thành - thông qua Bluetooth hoặc bằng cách check-in tại một địa điểm địa phương.",
+      "features": {
+        "anonymousAvatars": "Ảnh đại diện tùy chọn",
+        "anonymousAvatarsDesc": "Hãy cứ để ảnh đại diện của bạn bật trong khi làm quen với ai đó, không cần phải tiết lộ ngay lập tức đâu.",
+        "autoExpire": "Khám phá địa điểm và Bluetooth",
+        "autoExpireDesc": "Tìm kiếm người khác bằng cách quét khu vực lân cận hoặc tham gia các địa điểm địa phương được đề xuất.",
+        "friendRequests": "Yêu cầu kết bạn",
+        "friendRequestsDesc": "Hãy gửi lời mời kết bạn đến những người thú vị và chỉ bắt đầu cuộc trò chuyện khi cả hai cùng có chung sở thích."
+      }
+    }
+  },
+  "subscription": {
+    "title": "Ringdy Premium",
+    "subtitle": "Mở khóa các tính năng nâng cao để có kết nối tốt hơn. Chọn gói dịch vụ phù hợp với nhu cầu mạng của bạn.",
+    "weeklyTitle": "Premium hàng tuần",
+    "weeklyPrice": "$1.99",
+    "weeklyPeriod": "/tuần",
+    "weeklyDescription": "Hoàn hảo để thử các tính năng premium",
+    "chooseWeekly": "Chọn hàng tuần",
+    "monthlyTitle": "Hàng tháng",
+    "monthlyPrice": "Xem giá",
+    "monthlyPeriod": "mỗi tháng",
+    "monthlyDescription": "Linh hoạt, có thể hủy bất cứ lúc nào",
+    "mostPopular": "Phổ biến nhất",
+    "chooseMonthly": "Chọn hàng tháng",
+    "sixMonthTitle": "Sáu tháng",
+    "sixMonthPrice": "Xem giá",
+    "sixMonthPeriod": "mỗi 6 tháng",
+    "sixMonthDescription": "Tiết kiệm hơn trong vòng sáu tháng",
+    "chooseSixMonth": "Chọn sáu tháng",
+    "featuresTitle": "Giải thích các tính năng Premium",
+    "featuresDescription": "Ringdy Premium mở khóa các tính năng mạnh mẽ được thiết kế để nâng cao trải nghiệm kết nối mạng của bạn và giúp bạn tạo ra nhiều mối quan hệ ý nghĩa hơn.",
+    "enhancedNetworking": "Mạng lưới nâng cao",
+    "enhancedNetworkingDesc": "Các tính năng Premium giúp bạn kết nối hiệu quả hơn mà không bị giới hạn thời gian sử dụng hàng ngày.",
+    "features": {
+      "unlimitedRequests": "Yêu cầu kết bạn không giới hạn",
+      "advancedFilters": "Bộ lọc nâng cao",
+      "meetingPlaces": "Gợi ý địa điểm gặp mặt thông minh",
+      "rematch": "Kết nối lại với người dùng trước đây",
+      "unlimitedRequestsDesc": "Gửi yêu cầu kết bạn không giới hạn hàng ngày. Người dùng miễn phí bị giới hạn 20/ngày.",
+      "advancedFiltersDesc": "Lọc theo sở thích, tính cách và trạng thái đã xác minh để có kết nối chân thực.",
+      "meetingPlacesDesc": "Nhận gợi ý vị trí được cá nhân hóa dựa trên khu vực chính xác của bạn.",
+      "rematchDesc": "Kết nối lại với người dùng trước đây khi bạn gặp lại nhau.",
+      "unlimitedConnections": "Kết nối không giới hạn",
+      "unlimitedAreaAccess": "Truy cập khu vực không giới hạn",
+      "unlimitedUndo": "Hoàn tác không giới hạn",
+      "profilePriority": "Ưu tiên hồ sơ",
+      "premiumAvatars": "Ảnh đại Premium",
+      "customAvatar": "Ảnh đại diện tùy chỉnh",
+      "unlimitedConnectionsDesc": "Thêm bạn bè và chấp nhận lời mời mà không có giới hạn hàng ngày.",
+      "unlimitedAreaAccessDesc": "Bạn có thể tham gia bao nhiêu địa điểm tùy thích mà không bị hạn chế.",
+      "unlimitedUndoDesc": "Bạn có thể hủy bỏ bất kỳ yêu cầu kết bạn nào bất cứ lúc nào.",
+      "profilePriorityDesc": "Hồ sơ của bạn luôn được hiển thị ở đầu danh sách cho những người dùng khác.",
+      "premiumAvatarsDesc": "Truy cập vào bộ sưu tập độc quyền các thiết kế avatar cao cấp.",
+      "customAvatarDesc": "Tạo hình đại diện cá nhân dựa trên ảnh của chính bạn."
+    },
+    "faqTitle": "Câu hỏi thường gặp",
+    "faqDescription": "Bạn có thắc mắc về Ringdy Premium ? Chúng tôi có câu trả lời.",
+    "faq": {
+      "cancelTitle": "Tôi có thể hủy đăng ký bất cứ lúc nào không?",
+      "cancelAnswer": "Có, bạn có thể hủy đăng ký bất cứ lúc nào thông qua cài đặt tài khoản hoặc cửa hàng ứng dụng trên thiết bị của mình. Các tính năng cao cấp của bạn vẫn được kích hoạt cho đến hết kỳ thanh toán hiện tại.",
+      "unlimitedTitle": "\"Kết nối không giới hạn\" nghĩa là gì?",
+      "unlimitedAnswer": "Với Premium , bạn có thể thêm bạn bè và chấp nhận lời mời mà không bị giới hạn số lượng cuộc gọi/lời mời mỗi ngày như tài khoản miễn phí.",
+      "filtersTitle": "Bộ lọc nâng cao chính xác là gì?",
+      "filtersAnswer": "Bộ lọc nâng cao cho phép bạn tìm kiếm theo sở thích, độ tuổi, nghề nghiệp, bán kính khoảng cách và trạng thái hoạt động. Bạn cũng có thể lọc theo người dùng hiện đang trực tuyến hoặc đã hoạt động gần đây để có cơ hội kết nối tốt hơn.",
+      "meetingTitle": "Gợi ý địa điểm gặp mặt hoạt động như thế nào?",
+      "meetingAnswer": "AI của chúng tôi gợi ý những địa điểm gặp mặt an toàn, công cộng như quán cà phê, thư viện hoặc không gian làm việc chung trong khoảng cách đi bộ của cả hai người dùng. Nó xem xét sở thích, vị trí hiện tại và thời gian trong ngày để đề xuất những nơi tốt nhất để gặp mặt.",
+      "rematchTitle": "\"Kết nối lại với người dùng trước đây\" có nghĩa là gì?",
+      "rematchAnswer": "Nếu bạn có cuộc trò chuyện đã hết hạn (30 phút) mà không tiết lộ danh tính, người dùng premium có thể kết nối lại với người đó nếu bạn gặp nhau gần đó. Điều này cho bạn cơ hội thứ hai để tạo kết nối.",
+      "trialTitle": "Có dùng thử miễn phí không?",
+      "trialAnswer": "Có! Người dùng mới nhận được 7 ngày dùng thử miễn phí tất cả tính năng premium. Bạn có thể khám phá yêu cầu kết bạn không giới hạn, bộ lọc nâng cao và gợi ý gặp mặt trước khi quyết định gói nào phù hợp nhất với bạn.",
+      "offlineTitle": "Các tính năng premium có hoạt động mà không có internet không?",
+      "offlineAnswer": "Phát hiện gần BLE hoạt động ngoại tuyến, nhưng các tính năng premium như gợi ý vị trí, yêu cầu không giới hạn và bộ lọc nâng cao cần kết nối internet để có đầy đủ chức năng.",
+      "paymentTitle": "Bạn chấp nhận những phương thức thanh toán nào?",
+      "paymentAnswer": "Chúng tôi chấp nhận thanh toán thông qua cửa hàng ứng dụng trên thiết bị của bạn (Google Play hoặc App Store), bao gồm tất cả các phương thức thanh toán được hỗ trợ tại đó.",
+      "areaTitle": "\"Quyền truy cập không giới hạn khu vực\" là gì?",
+      "areaAnswer": "Thành viên Premium có thể tham gia bao nhiêu địa điểm gần đó tùy thích, không giới hạn số lượng khu vực có thể khám phá mỗi ngày.",
+      "ticketsTitle": "Thẻ Discovery Pass là gì?",
+      "ticketsAnswer": "Thẻ Khám Phá là một lựa chọn trả tiền theo từng lần sử dụng thay thế cho hình thức đăng ký định kỳ - mỗi thẻ cho phép bạn tham gia và khám phá một địa điểm gần đó mà không cần cam kết với một gói dịch vụ định kỳ.",
+      "nightPassTitle": "Night Pass là gì?",
+      "nightPassAnswer": "Night Pass (Night Pass) là loại thẻ có hiệu lực 24 giờ, cho phép bạn khám phá các địa điểm trong suốt cả ngày hoặc đêm mà không cần sử dụng Thẻ khám phá (Discovery Pass)."
+    },
+    "priceDisclaimer": "Giá hiển thị là giá quy đổi gần đúng từ USD dựa trên khu vực trình duyệt của bạn. Nếu không có tỷ giá hối đoái, giá sẽ hiển thị bằng USD. Giá cuối cùng trong ứng dụng do cửa hàng ứng dụng của bạn thiết lập và có thể khác.",
+    "yearlyTitle": "Hàng năm",
+    "yearlyPrice": "Xem giá",
+    "yearlyPeriod": "mỗi năm",
+    "yearlyDescription": "Giá trị tốt nhất cho người dùng thường xuyên",
+    "bestValue": "Giá trị tốt nhất",
+    "chooseYearly": "Chọn hàng năm",
+    "tickets": {
+      "title": "Thẻ Khám phá",
+      "subtitle": "Sử dụng tính năng Khám phá để tìm hiểu về những người ở gần đó mà không cần đăng ký gói đầy đủ.",
+      "single": "Khám phá duy nhất",
+      "singleDesc": "Sử dụng một thẻ để vào một địa điểm và xem ai đang ở đó.",
+      "venueAccessFeature": "Mỗi thẻ cho phép vào cửa một địa điểm.",
+      "pack3": "3 Khám phá",
+      "pack3Desc": "Ba Thẻ Khám Phá. Mỗi thẻ mở khóa một địa điểm.",
+      "pack5": "5 Khám phá",
+      "pack5Desc": "Năm Thẻ Khám Phá. Mỗi thẻ mở khóa một địa điểm.",
+      "bestValue": "Giá trị tốt nhất",
+      "specialTicket": "Night Pass",
+      "specialTicketDesc": "Tham gia không giới hạn tại nhiều địa điểm trong 24 giờ mà không cần sử dụng Thẻ Khám Phá."
+    }
+  },
+  "footer": {
+    "keepInTouch": "Hãy giữ liên lạc nhé!",
+    "findUsOn": "Bạn có thể tìm thấy chúng tôi trên bất kỳ nền tảng nào trong số này, chúng tôi sẽ phản hồi trong vòng 1-2 ngày làm việc.",
+    "usefulLinks": "Liên kết hữu ích",
+    "aboutUs": "Về chúng tôi",
+    "blog": "Blog",
+    "github": "Github",
+    "freeProducts": "Sản phẩm miễn phí",
+    "otherResources": "Các nguồn tài liệu khác",
+    "mitLicense": "Giấy phép MIT",
+    "termsConditions": "Điều khoản và điều kiện",
+    "privacyPolicy": "Chính sách bảo mật",
+    "contactUs": "Liên hệ với chúng tôi",
+    "copyright": "Bản quyền © {{year}} Ringdy . Mọi quyền được bảo lưu."
+  },
+  "legal": {
+    "privacyPolicy": {
+      "title": "Chính sách bảo mật",
+      "subtitle": "Bảo vệ quyền riêng tư của bạn là ưu tiên hàng đầu của chúng tôi. Tìm hiểu cách chúng tôi bảo vệ dữ liệu của bạn và cho phép bạn toàn quyền kiểm soát những gì bạn chia sẻ.",
+      "lastUpdated": "Cập nhật lần cuối: Tháng 1 năm 2025",
+      "introduction": "Chính sách bảo mật này mô tả các chính sách và thủ tục của Chúng tôi về việc thu thập, sử dụng và tiết lộ thông tin của Bạn khi Bạn sử dụng Dịch vụ, đồng thời cho Bạn biết về các quyền riêng tư của Bạn và cách pháp luật bảo vệ Bạn.",
+      "agreement": "Chúng tôi sử dụng dữ liệu cá nhân của bạn để cung cấp và cải thiện Dịch vụ. Bằng cách sử dụng Dịch vụ, bạn đồng ý với việc thu thập và sử dụng thông tin theo Chính sách Bảo mật này.",
+      "sections": {
+        "interpretationTitle": "Giải thích và Định nghĩa",
+        "interpretationSubtitle": "Giải thích",
+        "definitionsSubtitle": "Định nghĩa",
+        "interpretationText": "Những từ có chữ cái đầu tiên viết hoa có nghĩa được định nghĩa theo các điều kiện sau. Các định nghĩa sau đây sẽ có cùng nghĩa bất kể chúng xuất hiện ở dạng số ít hay số nhiều.",
+        "definitionsText": "Vì mục đích của Chính sách Bảo mật này:",
+        "definitionLabels": {
+          "account": "Tài khoản:",
+          "affiliate": "Đối tác liên kết:",
+          "application": "Ứng dụng:",
+          "business": "Việc kinh doanh:",
+          "ccpaCpra": "CCPA và/hoặc CPRA:",
+          "company": "Công ty:",
+          "consumer": "Người tiêu dùng:",
+          "country": "Quốc gia:",
+          "dataController": "Người quản lý dữ liệu:",
+          "device": "Thiết bị:",
+          "doNotTrack": "Không theo dõi (Do Not Track - DNT):",
+          "gdpr": "GDPR:",
+          "personalData": "Thông tin cá nhân:",
+          "service": "Dịch vụ:",
+          "serviceProvider": "Nhà cung cấp dịch vụ:",
+          "thirdPartySocialMedia": "Dịch vụ mạng xã hội bên thứ ba:",
+          "usageData": "Dữ liệu sử dụng:",
+          "you": "Bạn:"
+        },
+        "definitions": {
+          "account": "Một tài khoản duy nhất được tạo cho Bạn để truy cập Dịch vụ của chúng tôi hoặc một phần Dịch vụ của chúng tôi.",
+          "affiliate": "Một thực thể kiểm soát, bị kiểm soát bởi hoặc thuộc quyền kiểm soát chung với một bên, trong đó \"kiểm soát\" có nghĩa là sở hữu 50% hoặc hơn cổ phần, vốn chủ sở hữu hoặc các chứng khoán khác có quyền biểu quyết để bầu chọn giám đốc hoặc cơ quan quản lý khác.",
+          "application": "Thuật ngữ này đề cập đến Ringdy , chương trình phần mềm do Công ty cung cấp.",
+          "business": "Theo quy định của CCPA/CPRA, \"Công ty\" được hiểu là pháp nhân thu thập thông tin cá nhân của Người tiêu dùng và xác định mục đích cũng như phương tiện xử lý thông tin cá nhân của Người tiêu dùng.",
+          "ccpaCpra": "Điều khoản này đề cập đến Đạo luật Bảo vệ Quyền riêng tư Người tiêu dùng California (CCPA) được sửa đổi bởi Đạo luật Quyền riêng tư California năm 2020 (CPRA).",
+          "company": "Trong Thỏa thuận này, bất kỳ thuật ngữ nào được dùng để chỉ \"Công ty\", \"Chúng tôi\", \"Chúng ta\" hoặc \"Của chúng tôi\" đều đề cập đến Ringdy . Theo quy định của GDPR, Công ty là Bên kiểm soát dữ liệu.",
+          "consumer": "Theo mục đích của CCPA/CPRA, \"cá nhân\" có nghĩa là một người cư trú tại California.",
+          "country": "Áp dụng cho: Hoa Kỳ",
+          "dataController": "Theo quy định của GDPR (Quy định chung về bảo vệ dữ liệu), Công ty được hiểu là pháp nhân tự mình hoặc cùng với các pháp nhân khác xác định mục đích và phương tiện xử lý Dữ liệu Cá nhân.",
+          "device": "Bất kỳ thiết bị nào có thể truy cập Dịch vụ, chẳng hạn như điện thoại thông minh, máy tính bảng hoặc máy tính.",
+          "doNotTrack": "Một khái niệm được các cơ quan quản lý của Hoa Kỳ thúc đẩy nhằm giúp ngành công nghiệp Internet phát triển và triển khai một cơ chế cho phép người dùng Internet kiểm soát việc theo dõi hoạt động trực tuyến của họ trên các trang web.",
+          "gdpr": "Điều khoản này đề cập đến Quy định chung về bảo vệ dữ liệu của Liên minh châu Âu (GDPR).",
+          "personalData": "Bất kỳ thông tin nào liên quan đến một cá nhân đã được xác định hoặc có thể xác định được. Theo quy định của GDPR, Dữ liệu Cá nhân có nghĩa là bất kỳ thông tin nào liên quan đến Bạn, chẳng hạn như tên, số định danh, dữ liệu vị trí, mã định danh trực tuyến hoặc một hoặc nhiều yếu tố cụ thể liên quan đến danh tính vật lý, sinh lý, di truyền, tinh thần, kinh tế, văn hóa hoặc xã hội.",
+          "service": "Đề cập đến Ứng dụng.",
+          "serviceProvider": "Bất kỳ cá nhân hoặc pháp nhân nào xử lý dữ liệu thay mặt cho Công ty. Điều này bao gồm các công ty hoặc cá nhân bên thứ ba được Công ty thuê để hỗ trợ Dịch vụ, cung cấp Dịch vụ thay mặt cho Công ty, thực hiện các dịch vụ liên quan đến Dịch vụ hoặc hỗ trợ Công ty trong việc phân tích cách thức sử dụng Dịch vụ.",
+          "thirdPartySocialMedia": "Bất kỳ trang web nào hoặc bất kỳ trang mạng xã hội nào mà qua đó Người dùng có thể đăng nhập hoặc tạo tài khoản để sử dụng Dịch vụ.",
+          "usageData": "Dữ liệu được thu thập tự động, được tạo ra từ việc sử dụng Dịch vụ hoặc từ cơ sở hạ tầng của Dịch vụ (ví dụ: thời gian truy cập trang).",
+          "you": "Cá nhân truy cập hoặc sử dụng Dịch vụ, hoặc công ty, hoặc pháp nhân khác mà cá nhân đó đại diện để truy cập hoặc sử dụng Dịch vụ, tùy thuộc vào trường hợp cụ thể."
+        },
+        "dataCollectionTitle": "Thu thập và sử dụng dữ liệu cá nhân của bạn",
+        "dataTypesTitle": "Các loại dữ liệu được thu thập",
+        "personalDataTitle": "Dữ liệu cá nhân",
+        "personalDataDescription": "Trong quá trình sử dụng Dịch vụ của chúng tôi, chúng tôi có thể yêu cầu bạn cung cấp cho chúng tôi một số thông tin cá nhân có thể dùng để liên hệ hoặc nhận dạng bạn. Thông tin cá nhân có thể bao gồm, nhưng không giới hạn ở:",
+        "usageDataTitle": "Dữ liệu sử dụng",
+        "usageDataDescription1": "Dữ liệu sử dụng được thu thập tự động khi sử dụng Dịch vụ.",
+        "usageDataDescription2": "Dữ liệu sử dụng có thể bao gồm thông tin như địa chỉ giao thức Internet của thiết bị của bạn (ví dụ: địa chỉ IP), loại trình duyệt, phiên bản trình duyệt, các trang Dịch vụ của chúng tôi mà bạn truy cập, thời gian và ngày truy cập, thời gian dành cho các trang đó, mã định danh thiết bị duy nhất và dữ liệu chẩn đoán khác.",
+        "usageDataDescription3": "Khi bạn truy cập Dịch vụ bằng hoặc thông qua thiết bị di động, chúng tôi có thể tự động thu thập một số thông tin nhất định, bao gồm nhưng không giới hạn ở loại thiết bị di động bạn sử dụng, ID duy nhất của thiết bị di động của bạn, địa chỉ IP của thiết bị di động của bạn, hệ điều hành di động của bạn, loại trình duyệt Internet di động bạn sử dụng, mã định danh thiết bị duy nhất và dữ liệu chẩn đoán khác.",
+        "thirdPartyTitle": "Thông tin từ các dịch vụ mạng xã hội của bên thứ ba",
+        "thirdPartyDescription1": "Công ty cho phép bạn tạo tài khoản và đăng nhập để sử dụng Dịch vụ thông qua các Dịch vụ Mạng xã hội của bên thứ ba sau đây:",
+        "thirdPartyDescription2": "Nếu bạn quyết định đăng ký thông qua hoặc cho phép chúng tôi truy cập vào Dịch vụ Mạng xã hội của bên thứ ba, chúng tôi có thể thu thập dữ liệu cá nhân đã được liên kết với tài khoản Dịch vụ Mạng xã hội của bên thứ ba đó, chẳng hạn như tên, địa chỉ email, hoạt động hoặc danh sách liên hệ của bạn liên kết với tài khoản đó.",
+        "appDataTitle": "Thông tin được thu thập trong quá trình sử dụng ứng dụng",
+        "appDataDescription1": "Trong quá trình sử dụng Ứng dụng của chúng tôi, để cung cấp các tính năng của Ứng dụng, chúng tôi có thể thu thập thông tin của bạn, với sự cho phép trước của bạn:",
+        "appDataDescription2": "Chúng tôi sử dụng thông tin này để cung cấp các tính năng của Dịch vụ, để cải thiện và tùy chỉnh Dịch vụ của chúng tôi. Thông tin có thể được lưu trữ cục bộ trên thiết bị của bạn hoặc được tải lên các máy chủ được mã hóa. Bạn có thể bật hoặc tắt quyền truy cập vào thông tin này bất cứ lúc nào thông qua cài đặt thiết bị của mình.",
+        "dataUseTitle": "Sử dụng dữ liệu cá nhân của bạn",
+        "dataUseDescription": "Công ty có thể sử dụng Dữ liệu Cá nhân cho các mục đích sau:",
+        "sharingTitle": "Chia sẻ thông tin cá nhân",
+        "sharingDescription": "Chúng tôi có thể chia sẻ thông tin cá nhân của bạn trong các trường hợp sau:",
+        "retentionTitle": "Lưu trữ dữ liệu cá nhân của bạn"
+      },
+      "dataUses": {
+        "provide": "Để cung cấp và duy trì Dịch vụ của chúng tôi: Bao gồm việc giám sát việc sử dụng Dịch vụ và cho phép phát hiện người dùng ở gần dựa trên Bluetooth và vị trí.",
+        "account": "Để quản lý tài khoản của bạn: Để quản lý việc đăng ký của bạn với tư cách là người dùng Dịch vụ. Dữ liệu cá nhân bạn cung cấp có thể cho phép bạn truy cập vào các chức năng khác nhau của Dịch vụ dành cho bạn với tư cách là người dùng đã đăng ký.",
+        "contract": "Để thực hiện hợp đồng: Việc phát triển, tuân thủ và thực hiện các dịch vụ mà Quý khách đã yêu cầu hoặc bất kỳ hợp đồng nào khác với Chúng tôi thông qua Dịch vụ.",
+        "contact": "Để liên hệ với bạn: Chúng tôi có thể liên hệ với bạn qua email, thông báo đẩy hoặc các hình thức liên lạc điện tử tương đương khác về các bản cập nhật, thông báo bảo mật hoặc thông tin liên quan đến các chức năng.",
+        "offers": "Để cung cấp cho bạn tin tức và ưu đãi đặc biệt: Về các sản phẩm, dịch vụ và sự kiện khác mà chúng tôi cung cấp, tương tự như những sản phẩm, dịch vụ và sự kiện mà bạn đã sử dụng hoặc đã hỏi về, trừ khi bạn đã chọn không nhận thông tin đó.",
+        "requests": "Để quản lý các yêu cầu của Quý khách: Tiếp nhận và quản lý các yêu cầu của Quý khách gửi đến Chúng tôi.",
+        "content": "Để cung cấp nội dung phù hợp: Chúng tôi có thể sử dụng thông tin của Bạn để phát triển và hiển thị nội dung được điều chỉnh theo sở thích và vị trí của Bạn (để người dùng ở gần có thể tìm thấy) và để đo lường hiệu quả của nó.",
+        "business": "Đối với các giao dịch chuyển nhượng doanh nghiệp: Chúng tôi có thể sử dụng thông tin của Bạn để đánh giá hoặc tiến hành sáp nhập, thoái vốn, tái cấu trúc, tổ chức lại, giải thể hoặc bán hoặc chuyển nhượng một phần hoặc toàn bộ tài sản của Chúng tôi.",
+        "other": "Đối với các mục đích khác: Chúng tôi có thể sử dụng thông tin của bạn cho các mục đích khác, chẳng hạn như phân tích dữ liệu, xác định xu hướng sử dụng, xác định hiệu quả của các chiến dịch quảng cáo và để đánh giá cũng như cải thiện Dịch vụ, sản phẩm, hoạt động tiếp thị và trải nghiệm của bạn."
+      },
+      "sharingTypes": {
+        "providers": "Với các Nhà cung cấp dịch vụ: Chúng tôi có thể chia sẻ thông tin cá nhân của bạn với các Nhà cung cấp dịch vụ để theo dõi và phân tích việc sử dụng Dịch vụ của chúng tôi, để xử lý thanh toán và để liên hệ với bạn.",
+        "transfers": "Đối với các giao dịch chuyển nhượng kinh doanh: Chúng tôi có thể chia sẻ hoặc chuyển giao thông tin cá nhân của Bạn liên quan đến, hoặc trong quá trình đàm phán, bất kỳ vụ sáp nhập, bán tài sản Công ty, huy động vốn hoặc mua lại toàn bộ hoặc một phần hoạt động kinh doanh của Chúng tôi cho một công ty khác.",
+        "affiliates": "Với các đối tác liên kết: Chúng tôi có thể chia sẻ thông tin của Bạn với các đối tác liên kết của chúng tôi, trong trường hợp đó, chúng tôi sẽ yêu cầu các đối tác liên kết đó tuân thủ Chính sách Bảo mật này.",
+        "partners": "Với các đối tác kinh doanh: Chúng tôi có thể chia sẻ thông tin của bạn với các đối tác kinh doanh để cung cấp cho bạn một số sản phẩm, dịch vụ hoặc chương trình khuyến mãi nhất định.",
+        "users": "Với những người dùng khác: Khi bạn tìm thấy và kết nối với những người dùng khác ở gần, thông tin hồ sơ của bạn (bao gồm tên và ảnh, hoặc ảnh đại diện nếu bạn chọn sử dụng) sẽ được chia sẻ như một phần của quá trình tìm kiếm, gửi yêu cầu kết bạn và ghép đôi. Bạn có thể kiểm soát việc hiển thị ảnh đại diện hoặc ảnh thật của mình bất cứ lúc nào.",
+        "consent": "Với sự đồng ý của bạn: Chúng tôi có thể tiết lộ thông tin cá nhân của bạn cho bất kỳ mục đích nào khác với sự đồng ý của bạn."
+      },
+      "security": {
+        "title": "Bảo mật dữ liệu cá nhân của bạn",
+        "description": "Việc bảo mật Dữ liệu Cá nhân của Bạn rất quan trọng đối với Chúng tôi, nhưng hãy nhớ rằng không có phương thức truyền dữ liệu qua Internet hoặc phương thức lưu trữ điện tử nào an toàn 100%. Mặc dù Chúng tôi nỗ lực sử dụng các biện pháp được chấp nhận rộng rãi trong thương mại để bảo vệ Dữ liệu Cá nhân của Bạn, bao gồm mã hóa đầu cuối cho tin nhắn trò chuyện và giao thức Bluetooth an toàn, nhưng Chúng tôi không thể đảm bảo tính bảo mật tuyệt đối của dữ liệu đó."
+      },
+      "contact": {
+        "title": "Liên hệ với chúng tôi",
+        "description": "Nếu bạn có bất kỳ thắc mắc nào về Chính sách Bảo mật này, bạn có thể liên hệ với chúng tôi:",
+        "email": "Qua email: privacy@ringdy.com",
+        "website": "Trên trang này của trang web chúng tôi: https://ringdy.com/contact",
+        "mail": "Qua đường bưu điện: Ringdy Privacy Team, 123 Tech Street, San Francisco, CA 94105, Hoa Kỳ"
+      },
+      "shineTheLight": {
+        "title": "Quyền riêng tư của bạn tại California (Luật Shine the Light của California)",
+        "description1": "Theo Điều 1798 Bộ luật Dân sự California (Luật Minh bạch thông tin của California), cư dân California có quan hệ kinh doanh lâu năm với chúng tôi có thể yêu cầu thông tin một lần mỗi năm về việc chia sẻ Dữ liệu Cá nhân của họ với bên thứ ba cho mục đích tiếp thị trực tiếp của bên thứ ba đó.",
+        "description2": "Nếu bạn muốn yêu cầu thêm thông tin theo luật California Shine the Light, và nếu bạn là cư dân California, bạn có thể liên hệ với chúng tôi bằng thông tin liên hệ được cung cấp bên dưới."
+      },
+      "minorUsers": {
+        "title": "Quyền riêng tư của người dùng vị thành niên tại California (Điều 22581 Bộ luật Kinh doanh và Nghề nghiệp California)",
+        "description1": "Điều 22581 của Bộ luật Kinh doanh và Nghề nghiệp California cho phép cư dân California dưới 18 tuổi, là người dùng đã đăng ký của các trang web, dịch vụ hoặc ứng dụng trực tuyến, yêu cầu và được xóa nội dung hoặc thông tin mà họ đã đăng tải công khai.",
+        "description2": "Để yêu cầu xóa dữ liệu đó, và nếu bạn là cư dân California, bạn có thể liên hệ với chúng tôi bằng thông tin liên hệ được cung cấp bên dưới, và bao gồm địa chỉ email liên kết với tài khoản của bạn.",
+        "description3": "Xin lưu ý rằng yêu cầu của bạn không đảm bảo việc xóa bỏ hoàn toàn hoặc toàn diện nội dung hoặc thông tin đã đăng tải trực tuyến và pháp luật có thể không cho phép hoặc không yêu cầu việc xóa bỏ trong một số trường hợp nhất định."
+      },
+      "childrenPrivacy": {
+        "title": "Quyền riêng tư của trẻ em",
+        "description1": "Dịch vụ của chúng tôi không dành cho người dưới 13 tuổi. Chúng tôi không cố ý thu thập thông tin nhận dạng cá nhân từ bất kỳ ai dưới 13 tuổi. Nếu bạn là phụ huynh hoặc người giám hộ và bạn biết rằng con bạn đã cung cấp Dữ liệu Cá nhân cho chúng tôi, vui lòng liên hệ với chúng tôi.",
+        "description2": "Nếu chúng tôi phát hiện ra rằng mình đã thu thập Dữ liệu Cá nhân từ bất kỳ ai dưới 13 tuổi mà không có sự xác nhận đồng ý của phụ huynh, chúng tôi sẽ thực hiện các bước để xóa thông tin đó khỏi máy chủ của mình.",
+        "description3": "Nếu chúng tôi cần dựa vào sự đồng ý làm cơ sở pháp lý để xử lý thông tin của bạn và quốc gia của bạn yêu cầu sự đồng ý từ cha mẹ, chúng tôi có thể yêu cầu sự đồng ý của cha mẹ bạn trước khi thu thập và sử dụng thông tin đó."
+      },
+      "linksToOtherWebsites": {
+        "title": "Liên kết đến các trang web khác",
+        "description": "Dịch vụ của chúng tôi có thể chứa các liên kết đến các trang web khác không do chúng tôi điều hành. Nếu bạn nhấp vào liên kết của bên thứ ba, bạn sẽ được chuyển hướng đến trang web của bên thứ ba đó. Chúng tôi khuyên bạn nên xem xét Chính sách bảo mật của mỗi trang web mà bạn truy cập. Chúng tôi không kiểm soát và không chịu trách nhiệm về nội dung, chính sách bảo mật hoặc các hoạt động của bất kỳ trang web hoặc dịch vụ nào của bên thứ ba."
+      },
+      "changes": {
+        "title": "Những thay đổi đối với Chính sách Bảo mật này",
+        "description1": "Chúng tôi có thể cập nhật Chính sách Bảo mật của mình theo thời gian. Chúng tôi sẽ thông báo cho bạn về bất kỳ thay đổi nào bằng cách đăng tải Chính sách Bảo mật mới trên trang này.",
+        "description2": "Chúng tôi sẽ thông báo cho Bạn qua email và/hoặc thông báo nổi bật trên Dịch vụ của Chúng tôi trước khi thay đổi có hiệu lực và cập nhật ngày \"Cập nhật lần cuối\" ở đầu Chính sách Bảo mật này.",
+        "description3": "Bạn nên xem lại Chính sách Bảo mật này định kỳ để cập nhật bất kỳ thay đổi nào. Các thay đổi đối với Chính sách Bảo mật này sẽ có hiệu lực kể từ khi được đăng tải trên trang này."
+      },
+      "backToHome": "Trở về Trang chủ",
+      "retention": {
+        "description1": "Công ty sẽ chỉ lưu giữ Dữ liệu Cá nhân của Bạn trong thời gian cần thiết cho các mục đích được nêu trong Chính sách Bảo mật này. Chúng tôi sẽ lưu giữ và sử dụng Dữ liệu Cá nhân của Bạn trong phạm vi cần thiết để tuân thủ các nghĩa vụ pháp lý, giải quyết tranh chấp và thực thi các thỏa thuận và chính sách pháp lý của chúng tôi.",
+        "description2": "Công ty cũng sẽ lưu giữ Dữ liệu Sử dụng cho mục đích phân tích nội bộ. Dữ liệu Sử dụng thường được lưu giữ trong thời gian ngắn hơn, trừ khi dữ liệu này được sử dụng để tăng cường bảo mật hoặc cải thiện chức năng của Dịch vụ của chúng tôi, hoặc chúng tôi có nghĩa vụ pháp lý phải lưu giữ dữ liệu này trong thời gian dài hơn."
+      },
+      "transfer": {
+        "title": "Chuyển giao dữ liệu cá nhân của bạn",
+        "description1": "Thông tin của bạn, bao gồm Dữ liệu Cá nhân, được xử lý tại các văn phòng hoạt động của Công ty và tại bất kỳ địa điểm nào khác mà các bên liên quan đến quá trình xử lý đang hoạt động. Điều này có nghĩa là thông tin này có thể được chuyển đến và lưu trữ trên các máy tính nằm ngoài tiểu bang, tỉnh, quốc gia hoặc khu vực pháp lý khác của bạn, nơi luật bảo vệ dữ liệu có thể khác với luật ở khu vực pháp lý của bạn.",
+        "description2": "Việc bạn chấp thuận Chính sách Bảo mật này và sau đó gửi thông tin đó đồng nghĩa với việc bạn đồng ý cho phép chuyển giao dữ liệu. Công ty sẽ thực hiện mọi biện pháp cần thiết để đảm bảo dữ liệu của bạn được xử lý an toàn và phù hợp với Chính sách Bảo mật này, và sẽ không có việc chuyển giao Dữ liệu Cá nhân của bạn cho bất kỳ tổ chức hoặc quốc gia nào trừ khi có các biện pháp kiểm soát đầy đủ, bao gồm cả việc bảo mật dữ liệu và thông tin cá nhân khác của bạn."
+      },
+      "deletion": {
+        "title": "Xóa dữ liệu cá nhân của bạn",
+        "description1": "Bạn có quyền xóa hoặc yêu cầu chúng tôi hỗ trợ xóa Dữ liệu Cá nhân mà chúng tôi đã thu thập về bạn.",
+        "description2": "Dịch vụ của chúng tôi có thể cho phép bạn xóa một số thông tin cá nhân của mình ngay trong phạm vi Dịch vụ.",
+        "description3": "Bạn có thể cập nhật, sửa đổi hoặc xóa thông tin của mình bất cứ lúc nào bằng cách đăng nhập vào Tài khoản của bạn (nếu có) và truy cập vào phần cài đặt tài khoản cho phép bạn quản lý thông tin cá nhân của mình. Bạn cũng có thể liên hệ với chúng tôi để yêu cầu truy cập, chỉnh sửa hoặc xóa bất kỳ thông tin cá nhân nào mà bạn đã cung cấp cho chúng tôi."
+      },
+      "disclosure": {
+        "title": "Tiết lộ thông tin cá nhân của bạn",
+        "businessTitle": "Giao dịch kinh doanh",
+        "businessDescription": "Nếu Công ty tham gia vào một vụ sáp nhập, mua lại hoặc bán tài sản, Dữ liệu Cá nhân của Bạn có thể được chuyển giao. Chúng tôi sẽ thông báo trước khi Dữ liệu Cá nhân của Bạn được chuyển giao và chịu sự điều chỉnh của Chính sách Bảo mật khác.",
+        "lawTitle": "Cơ quan thực thi pháp luật",
+        "lawDescription": "Trong một số trường hợp nhất định, Công ty có thể buộc phải tiết lộ Dữ liệu Cá nhân của Bạn nếu pháp luật yêu cầu hoặc để đáp ứng các yêu cầu hợp lệ từ các cơ quan công quyền (ví dụ: tòa án hoặc cơ quan chính phủ).",
+        "legalTitle": "Các yêu cầu pháp lý khác",
+        "legalDescription": "Công ty có thể tiết lộ Dữ liệu Cá nhân của Bạn nếu tin tưởng một cách thiện chí rằng hành động đó là cần thiết để:",
+        "legalReasons": {
+          "comply": "Tuân thủ nghĩa vụ pháp lý",
+          "protect": "Bảo vệ và bênh vực các quyền hoặc tài sản của Công ty.",
+          "prevent": "Ngăn chặn hoặc điều tra các hành vi sai trái có thể xảy ra liên quan đến Dịch vụ.",
+          "safety": "Bảo vệ sự an toàn cá nhân của Người dùng Dịch vụ hoặc công chúng.",
+          "liability": "Bảo vệ bản thân khỏi trách nhiệm pháp lý."
+        },
+        "detailedInfo": {
+          "title": "Thông tin chi tiết về việc xử lý dữ liệu cá nhân của bạn.",
+          "description": "Các nhà cung cấp dịch vụ mà chúng tôi sử dụng có thể truy cập vào Dữ liệu Cá nhân của bạn. Các nhà cung cấp bên thứ ba này thu thập, lưu trữ, sử dụng, xử lý và chuyển giao thông tin về hoạt động của bạn trên Dịch vụ của chúng tôi theo Chính sách Bảo mật của họ.",
+          "analyticsTitle": "Phân tích",
+          "analyticsDescription": "Chúng tôi có thể sử dụng các nhà cung cấp dịch vụ bên thứ ba để giám sát và phân tích việc sử dụng Dịch vụ của chúng tôi."
+        },
+        "analytics": {
+          "title": "Tiếp thị lại dựa trên hành vi",
+          "description": "Công ty sử dụng dịch vụ tiếp thị lại để quảng cáo trên các trang web của bên thứ ba cho Bạn sau khi Bạn đã truy cập Dịch vụ của chúng tôi. Chúng tôi và các nhà cung cấp bên thứ ba của chúng tôi sử dụng cookie để thông báo, tối ưu hóa và phân phát quảng cáo dựa trên các lần truy cập trước đây của Bạn vào Dịch vụ của chúng tôi.",
+          "googleAnalytics": {
+            "title": "Google Analytics",
+            "description1": "Google Analytics là dịch vụ phân tích web do Google cung cấp, theo dõi và báo cáo lưu lượng truy cập trang web. Google sử dụng dữ liệu thu thập được để theo dõi và giám sát việc sử dụng Dịch vụ của chúng tôi. Dữ liệu này được chia sẻ với các dịch vụ khác của Google. Google có thể sử dụng dữ liệu thu thập được để điều chỉnh và cá nhân hóa quảng cáo trong mạng lưới quảng cáo của riêng mình.",
+            "description2": "Bạn có thể từ chối một số tính năng của Google Analytics thông qua cài đặt thiết bị di động của mình, chẳng hạn như cài đặt quảng cáo của thiết bị hoặc bằng cách làm theo hướng dẫn do Google cung cấp trong Chính sách quyền riêng tư của họ:",
+            "description3": "Để biết thêm thông tin về các chính sách bảo mật của Google, vui lòng truy cập trang web Chính sách bảo mật và Điều khoản của Google:"
+          },
+          "firebase": {
+            "title": "Firebase",
+            "description1": "Firebase là một dịch vụ phân tích do Google Inc. cung cấp.",
+            "description2": "Bạn có thể từ chối sử dụng một số tính năng của Firebase thông qua cài đặt thiết bị di động của mình, chẳng hạn như cài đặt quảng cáo của thiết bị hoặc bằng cách làm theo hướng dẫn do Google cung cấp trong Chính sách quyền riêng tư của họ:",
+            "description3": "Chúng tôi cũng khuyến khích bạn xem xét chính sách của Google về việc bảo vệ dữ liệu của bạn:",
+            "description4": "Để biết thêm thông tin về loại thông tin mà Firebase thu thập, vui lòng truy cập trang Cách Google sử dụng dữ liệu khi bạn sử dụng các trang web hoặc ứng dụng của đối tác chúng tôi:"
+          }
+        },
+        "advertising": {
+          "title": "Quảng cáo",
+          "description": "Chúng tôi có thể sử dụng các nhà cung cấp dịch vụ để hiển thị quảng cáo cho bạn nhằm hỗ trợ và duy trì dịch vụ của chúng tôi.",
+          "googleAdSense": {
+            "title": "Cookie Google AdSense & DoubleClick",
+            "description1": "Google, với tư cách là nhà cung cấp bên thứ ba, sử dụng cookie để hiển thị quảng cáo trên Dịch vụ của chúng tôi. Việc Google sử dụng cookie DoubleClick cho phép họ và các đối tác của họ hiển thị quảng cáo cho người dùng của chúng tôi dựa trên lượt truy cập của họ vào Dịch vụ của chúng tôi hoặc các trang web khác trên Internet.",
+            "description2": "Bạn có thể từ chối việc sử dụng cookie DoubleClick cho quảng cáo dựa trên sở thích bằng cách truy cập trang web Cài đặt quảng cáo của Google:"
+          },
+          "adMob": {
+            "title": "AdMob của Google",
+            "description1": "AdMob của Google được cung cấp bởi Google Inc.",
+            "description2": "Bạn có thể từ chối sử dụng dịch vụ AdMob của Google bằng cách làm theo hướng dẫn do Google cung cấp:",
+            "description3": "Để biết thêm thông tin về cách Google sử dụng thông tin đã thu thập, vui lòng truy cập trang \"Cách Google sử dụng dữ liệu khi bạn sử dụng các trang web hoặc ứng dụng của đối tác chúng tôi\" hoặc truy cập Chính sách bảo mật của Google:"
+          }
+        },
+        "payments": {
+          "title": "Thanh toán",
+          "description1": "Chúng tôi có thể cung cấp các sản phẩm và/hoặc dịch vụ trả phí trong phạm vi Dịch vụ. Trong trường hợp đó, chúng tôi có thể sử dụng các dịch vụ của bên thứ ba để xử lý thanh toán (ví dụ: các nhà cung cấp dịch vụ thanh toán).",
+          "description2": "Chúng tôi sẽ không lưu trữ hoặc thu thập thông tin chi tiết thẻ thanh toán của Bạn. Thông tin đó được cung cấp trực tiếp cho các nhà xử lý thanh toán bên thứ ba của chúng tôi, việc sử dụng thông tin cá nhân của Bạn được điều chỉnh bởi Chính sách Bảo mật của họ. Các nhà xử lý thanh toán này tuân thủ các tiêu chuẩn do PCI-DSS đặt ra, được quản lý bởi Hội đồng Tiêu chuẩn Bảo mật PCI, một nỗ lực chung của các thương hiệu như Visa, Mastercard, American Express và Discover. Các yêu cầu của PCI-DSS giúp đảm bảo việc xử lý thông tin thanh toán một cách an toàn.",
+          "appleStore": {
+            "title": "Thanh toán trong ứng dụng trên Apple Store",
+            "description": "Bạn có thể xem Chính sách Bảo mật của họ tại đây."
+          },
+          "googlePlay": {
+            "title": "Thanh toán trong ứng dụng Google Play",
+            "description": "Bạn có thể xem Chính sách Bảo mật của họ tại đây."
+          },
+          "stripe": {
+            "title": "Sọc",
+            "description": "Bạn có thể xem Chính sách Bảo mật của họ tại đây."
+          },
+          "payPal": {
+            "title": "PayPal hoặc Braintree",
+            "description": "Bạn có thể xem Chính sách Bảo mật của họ tại đây."
+          }
+        }
+      },
+      "behavioralRemarketing": {
+        "title": "Tiếp thị lại dựa trên hành vi",
+        "description": "Công ty sử dụng dịch vụ tiếp thị lại để quảng cáo trên các trang web của bên thứ ba cho Bạn sau khi Bạn đã truy cập Dịch vụ của chúng tôi. Chúng tôi và các nhà cung cấp bên thứ ba của chúng tôi sử dụng cookie để thông báo, tối ưu hóa và phân phát quảng cáo dựa trên các lần truy cập trước đây của Bạn vào Dịch vụ của chúng tôi.",
+        "vendorsDescription1": "Các nhà cung cấp bên thứ ba này thu thập, lưu trữ, sử dụng, xử lý và chuyển giao thông tin về hoạt động của Bạn trên Dịch vụ của Chúng tôi theo Chính sách Bảo mật của họ và để cho phép Chúng tôi:",
+        "purposes": {
+          "measure": "Đo lường và phân tích lưu lượng truy cập và hoạt động duyệt web trên Dịch vụ của chúng tôi.",
+          "show": "Hiển thị quảng cáo sản phẩm và/hoặc dịch vụ của chúng tôi cho bạn trên các trang web hoặc ứng dụng của bên thứ ba.",
+          "analyze": "Đo lường và phân tích hiệu quả của các chiến dịch quảng cáo của chúng tôi."
+        },
+        "vendorsDescription2": "Một số nhà cung cấp bên thứ ba này có thể sử dụng các công nghệ không phải cookie, và các công nghệ này có thể không bị ảnh hưởng bởi cài đặt trình duyệt chặn cookie. Trình duyệt của bạn có thể không cho phép bạn chặn các công nghệ đó. Bạn có thể sử dụng các công cụ của bên thứ ba sau đây để từ chối việc thu thập và sử dụng thông tin nhằm mục đích hiển thị quảng cáo dựa trên sở thích của bạn:",
+        "optOutTools": {
+          "nai": "Nền tảng từ chối tham gia của NAI:",
+          "edaa": "Nền tảng từ chối tham gia của EDAA:",
+          "daa": "Nền tảng từ chối tham gia của DAA:"
+        },
+        "mobileOptOut": "Bạn có thể từ chối tất cả quảng cáo được cá nhân hóa bằng cách bật các tính năng bảo mật trên thiết bị di động của mình, chẳng hạn như Giới hạn theo dõi quảng cáo (iOS) và Từ chối cá nhân hóa quảng cáo (Android). Xem hệ thống Trợ giúp trên thiết bị di động của bạn để biết thêm thông tin.",
+        "dataSharing": "Chúng tôi có thể chia sẻ thông tin, chẳng hạn như địa chỉ email đã được mã hóa (nếu có) hoặc các định danh trực tuyến khác được thu thập trên Dịch vụ của chúng tôi với các nhà cung cấp bên thứ ba này. Điều này cho phép các nhà cung cấp bên thứ ba của chúng tôi nhận diện và hiển thị quảng cáo cho bạn trên nhiều thiết bị và trình duyệt khác nhau. Để tìm hiểu thêm về các công nghệ được sử dụng bởi các nhà cung cấp bên thứ ba này và khả năng hoạt động trên nhiều thiết bị của họ, vui lòng tham khảo Chính sách bảo mật của từng nhà cung cấp được liệt kê bên dưới.",
+        "vendorsIntro": "Các nhà cung cấp bên thứ ba mà chúng tôi sử dụng là:",
+        "googleAds": {
+          "title": "Quảng cáo Google (AdWords)",
+          "description1": "Dịch vụ tiếp thị lại Google Ads (AdWords) được cung cấp bởi Google Inc.",
+          "description2": "Bạn có thể từ chối sử dụng Google Analytics cho Quảng cáo hiển thị và tùy chỉnh quảng cáo Mạng hiển thị của Google bằng cách truy cập trang Cài đặt quảng cáo của Google:",
+          "description3": "Google cũng khuyến nghị cài đặt tiện ích mở rộng trình duyệt Google Analytics Opt-out cho trình duyệt web của bạn. Tiện ích mở rộng trình duyệt Google Analytics Opt-out cho phép người dùng ngăn chặn việc dữ liệu của họ bị thu thập và sử dụng bởi Google Analytics.",
+          "description4": "Để biết thêm thông tin về các chính sách bảo mật của Google, vui lòng truy cập trang web Chính sách bảo mật và Điều khoản của Google:"
+        },
+        "facebook": {
+          "title": "Facebook",
+          "description1": "Dịch vụ tiếp thị lại của Facebook được cung cấp bởi Facebook Inc.",
+          "description2": "Bạn có thể tìm hiểu thêm về quảng cáo dựa trên sở thích từ Facebook bằng cách truy cập trang này:",
+          "description3": "Để từ chối nhận quảng cáo dựa trên sở thích của Facebook, hãy làm theo hướng dẫn sau từ Facebook:",
+          "description4": "Facebook tuân thủ các Nguyên tắc Tự điều chỉnh về Quảng cáo Hành vi Trực tuyến do Liên minh Quảng cáo Kỹ thuật số (Digital Advertising Alliance) thiết lập. Bạn cũng có thể từ chối nhận quảng cáo từ Facebook và các công ty tham gia khác thông qua Liên minh Quảng cáo Kỹ thuật số tại Hoa Kỳ, Liên minh Quảng cáo Kỹ thuật số Canada tại Canada hoặc Liên minh Quảng cáo Kỹ thuật số Tương tác Châu Âu tại Châu Âu, hoặc từ chối bằng cách sử dụng cài đặt thiết bị di động của bạn.",
+          "description5": "Để biết thêm thông tin về các chính sách bảo mật của Facebook, vui lòng truy cập Chính sách dữ liệu của Facebook:"
+        }
+      },
+      "detailedInfo": {
+        "title": "Thông tin chi tiết về việc xử lý dữ liệu cá nhân của bạn.",
+        "description": "Các nhà cung cấp dịch vụ mà chúng tôi sử dụng có thể truy cập vào Dữ liệu Cá nhân của bạn. Các nhà cung cấp bên thứ ba này thu thập, lưu trữ, sử dụng, xử lý và chuyển giao thông tin về hoạt động của bạn trên Dịch vụ của chúng tôi theo Chính sách Bảo mật của họ.",
+        "analyticsTitle": "Phân tích",
+        "analyticsDescription": "Chúng tôi có thể sử dụng các nhà cung cấp dịch vụ bên thứ ba để giám sát và phân tích việc sử dụng Dịch vụ của chúng tôi."
+      },
+      "analytics": {
+        "firebase": {
+          "title": "Firebase",
+          "description1": "Firebase là một dịch vụ phân tích do Google Inc. cung cấp.",
+          "description2": "Bạn có thể từ chối sử dụng một số tính năng của Firebase thông qua cài đặt thiết bị di động của mình, chẳng hạn như cài đặt quảng cáo của thiết bị hoặc bằng cách làm theo hướng dẫn do Google cung cấp trong Chính sách quyền riêng tư của họ:",
+          "description3": "Chúng tôi cũng khuyến khích bạn xem xét chính sách của Google về việc bảo vệ dữ liệu của bạn:",
+          "description4": "Để biết thêm thông tin về loại thông tin mà Firebase thu thập, vui lòng truy cập trang Cách Google sử dụng dữ liệu khi bạn sử dụng các trang web hoặc ứng dụng của đối tác chúng tôi:"
+        },
+        "googleAnalytics": {
+          "title": "Google Analytics",
+          "description1": "Google Analytics là dịch vụ phân tích web do Google cung cấp, theo dõi và báo cáo lưu lượng truy cập trang web. Google sử dụng dữ liệu thu thập được để theo dõi và giám sát việc sử dụng Dịch vụ của chúng tôi. Dữ liệu này được chia sẻ với các dịch vụ khác của Google. Google có thể sử dụng dữ liệu thu thập được để điều chỉnh và cá nhân hóa quảng cáo trong mạng lưới quảng cáo của riêng mình.",
+          "description2": "Bạn có thể chọn không cho phép Google Analytics truy cập hoạt động của bạn trên Dịch vụ bằng cách cài đặt tiện ích mở rộng trình duyệt Google Analytics opt-out. Tiện ích mở rộng này ngăn chặn mã JavaScript của Google Analytics (ga.js, analytics.js và gtag.js) chia sẻ thông tin về hoạt động truy cập với Google Analytics. Để biết thêm thông tin về các chính sách bảo mật của Google, vui lòng truy cập trang web Chính sách & Điều khoản bảo mật của Google:",
+          "description3": "Google cũng khuyến nghị bạn nên cài đặt tiện ích mở rộng trình duyệt Google Analytics Opt-out cho trình duyệt web của mình. Tiện ích mở rộng trình duyệt Google Analytics Opt-out cho phép người dùng ngăn chặn việc dữ liệu của họ bị thu thập và sử dụng bởi Google Analytics. Để biết thêm thông tin về cách cài đặt và sử dụng tiện ích mở rộng trình duyệt Google Analytics Opt-out, vui lòng truy cập trang từ chối Google Analytics sau:"
+        }
+      },
+      "advertising": {
+        "title": "Quảng cáo",
+        "description": "Chúng tôi có thể sử dụng các nhà cung cấp dịch vụ để hiển thị quảng cáo cho bạn nhằm hỗ trợ và duy trì dịch vụ của chúng tôi.",
+        "googleAdSense": {
+          "title": "Cookie Google AdSense & DoubleClick",
+          "description1": "Google, với tư cách là nhà cung cấp bên thứ ba, sử dụng cookie để hiển thị quảng cáo trên Dịch vụ của chúng tôi. Việc Google sử dụng cookie DoubleClick cho phép họ và các đối tác của họ hiển thị quảng cáo cho người dùng của chúng tôi dựa trên lượt truy cập của họ vào Dịch vụ của chúng tôi hoặc các trang web khác trên Internet.",
+          "description2": "Bạn có thể từ chối việc sử dụng cookie DoubleClick cho quảng cáo dựa trên sở thích bằng cách truy cập trang web Cài đặt quảng cáo của Google:"
+        },
+        "adMob": {
+          "title": "AdMob của Google",
+          "description1": "AdMob của Google được cung cấp bởi Google Inc.",
+          "description2": "Bạn có thể từ chối sử dụng dịch vụ AdMob của Google bằng cách làm theo hướng dẫn do Google cung cấp:",
+          "description3": "Để biết thêm thông tin về cách Google sử dụng thông tin đã thu thập, vui lòng truy cập trang \"Cách Google sử dụng dữ liệu khi bạn sử dụng các trang web hoặc ứng dụng của đối tác chúng tôi\" hoặc truy cập Chính sách bảo mật của Google:"
+        }
+      },
+      "payments": {
+        "title": "Thanh toán",
+        "description1": "Chúng tôi có thể cung cấp các sản phẩm và/hoặc dịch vụ trả phí trong phạm vi Dịch vụ. Trong trường hợp đó, chúng tôi có thể sử dụng các dịch vụ của bên thứ ba để xử lý thanh toán (ví dụ: các nhà cung cấp dịch vụ thanh toán).",
+        "description2": "Chúng tôi sẽ không lưu trữ hoặc thu thập thông tin chi tiết thẻ thanh toán của Bạn. Thông tin đó được cung cấp trực tiếp cho các nhà xử lý thanh toán bên thứ ba của chúng tôi, việc sử dụng thông tin cá nhân của Bạn được điều chỉnh bởi Chính sách Bảo mật của họ. Các nhà xử lý thanh toán này tuân thủ các tiêu chuẩn do PCI-DSS đặt ra, được quản lý bởi Hội đồng Tiêu chuẩn Bảo mật PCI, một nỗ lực chung của các thương hiệu như Visa, Mastercard, American Express và Discover. Các yêu cầu của PCI-DSS giúp đảm bảo việc xử lý thông tin thanh toán một cách an toàn.",
+        "appleStore": {
+          "title": "Thanh toán trong ứng dụng trên Apple Store",
+          "description": "Bạn có thể xem Chính sách Bảo mật của họ tại đây."
+        },
+        "googlePlay": {
+          "title": "Thanh toán trong ứng dụng Google Play",
+          "description": "Bạn có thể xem Chính sách Bảo mật của họ tại đây."
+        },
+        "stripe": {
+          "title": "Sọc",
+          "description": "Bạn có thể xem Chính sách Bảo mật của họ tại đây."
+        },
+        "payPal": {
+          "title": "PayPal hoặc Braintree",
+          "description": "Bạn có thể xem Chính sách Bảo mật của họ tại đây."
+        }
+      },
+      "gdpr": {
+        "title": "Quyền riêng tư theo GDPR",
+        "legalBasis": {
+          "title": "Cơ sở pháp lý cho việc xử lý dữ liệu cá nhân theo GDPR",
+          "description": "Chúng tôi có thể xử lý Dữ liệu Cá nhân trong các điều kiện sau:",
+          "consent": "Sự đồng ý: Bạn đã đồng ý cho phép xử lý Dữ liệu Cá nhân của mình cho một hoặc nhiều mục đích cụ thể.",
+          "contract": "Thực hiện hợp đồng: Việc cung cấp Dữ liệu Cá nhân là cần thiết để thực hiện thỏa thuận với Bạn và/hoặc cho bất kỳ nghĩa vụ tiền hợp đồng nào liên quan.",
+          "legal": "Nghĩa vụ pháp lý: Việc xử lý Dữ liệu Cá nhân là cần thiết để tuân thủ nghĩa vụ pháp lý mà Công ty phải chịu trách nhiệm.",
+          "vital": "Lợi ích thiết yếu: Việc xử lý Dữ liệu Cá nhân là cần thiết để bảo vệ lợi ích thiết yếu của Bạn hoặc của một cá nhân khác.",
+          "public": "Lợi ích công cộng: Việc xử lý Dữ liệu Cá nhân liên quan đến một nhiệm vụ được thực hiện vì lợi ích công cộng hoặc trong việc thực thi quyền hạn chính thức được giao cho Công ty.",
+          "legitimate": "Lợi ích chính đáng: Việc xử lý Dữ liệu Cá nhân là cần thiết cho các mục đích lợi ích chính đáng mà Công ty theo đuổi."
+        },
+        "rights": {
+          "title": "Quyền của bạn theo GDPR",
+          "description": "Công ty cam kết tôn trọng tính bảo mật Dữ liệu Cá nhân của Bạn và đảm bảo Bạn có thể thực hiện các quyền của mình. Theo Chính sách Bảo mật này, và theo luật nếu Bạn ở trong Liên minh Châu Âu, Bạn có quyền:",
+          "access": "Yêu cầu truy cập Dữ liệu Cá nhân của Bạn: Quyền truy cập, cập nhật hoặc xóa thông tin mà Chúng tôi đang lưu giữ về Bạn.",
+          "correction": "Yêu cầu chỉnh sửa Dữ liệu Cá nhân: Bạn có quyền yêu cầu chỉnh sửa bất kỳ thông tin nào không đầy đủ hoặc không chính xác mà chúng tôi đang lưu giữ về bạn.",
+          "object": "Quyền phản đối việc xử lý dữ liệu: Quyền này tồn tại khi Chúng tôi dựa vào lợi ích hợp pháp làm cơ sở pháp lý cho việc xử lý dữ liệu của Chúng tôi.",
+          "erasure": "Yêu cầu xóa bỏ: Bạn có quyền yêu cầu chúng tôi xóa hoặc loại bỏ Dữ liệu Cá nhân khi không còn lý do chính đáng nào để chúng tôi tiếp tục xử lý dữ liệu đó.",
+          "transfer": "Yêu cầu chuyển giao: Chúng tôi sẽ cung cấp cho Bạn, hoặc cho bên thứ ba mà Bạn đã chọn, Dữ liệu Cá nhân của Bạn ở định dạng có cấu trúc, phổ biến và có thể đọc được bằng máy tính.",
+          "withdraw": "Rút lại sự đồng ý của bạn: Bạn có quyền rút lại sự đồng ý của mình về việc sử dụng Dữ liệu Cá nhân của bạn."
+        },
+        "exercising": {
+          "title": "Thực hiện các quyền bảo vệ dữ liệu của bạn theo GDPR",
+          "description1": "Bạn có thể thực hiện các quyền truy cập, chỉnh sửa, hủy bỏ và phản đối của mình bằng cách liên hệ với chúng tôi. Xin lưu ý rằng chúng tôi có thể yêu cầu bạn xác minh danh tính trước khi phản hồi các yêu cầu đó. Nếu bạn gửi yêu cầu, chúng tôi sẽ cố gắng hết sức để phản hồi cho bạn trong thời gian sớm nhất.",
+          "description2": "Bạn có quyền khiếu nại với Cơ quan Bảo vệ Dữ liệu về việc Chúng tôi thu thập và sử dụng Dữ liệu Cá nhân của Bạn. Để biết thêm thông tin, nếu Bạn ở Khu vực Kinh tế Châu Âu (EEA), vui lòng liên hệ với cơ quan bảo vệ dữ liệu địa phương của Bạn trong EEA."
+        }
+      },
+      "ccpa": {
+        "title": "Thông báo về quyền riêng tư theo CCPA/CPRA",
+        "introduction": "Phần thông báo về quyền riêng tư dành cho cư dân California này bổ sung cho thông tin có trong Chính sách Bảo mật của chúng tôi và chỉ áp dụng cho tất cả khách truy cập, người dùng và những người khác cư trú tại Tiểu bang California.",
+        "categoriesTitle": "Các loại thông tin cá nhân được thu thập",
+        "categoriesDescription1": "Chúng tôi thu thập thông tin xác định, liên quan đến, mô tả, tham chiếu, có khả năng liên kết hoặc có thể được liên kết một cách hợp lý, trực tiếp hoặc gián tiếp, với một Người tiêu dùng hoặc Thiết bị cụ thể. Sau đây là danh sách các loại thông tin cá nhân mà chúng tôi có thể thu thập hoặc đã thu thập từ cư dân California trong vòng mười hai (12) tháng qua.",
+        "categoriesDescription2": "Xin lưu ý rằng các danh mục và ví dụ được cung cấp trong danh sách bên dưới là những danh mục được định nghĩa trong CCPA/CPRA. Điều này không có nghĩa là tất cả các ví dụ thuộc danh mục thông tin cá nhân đó đều đã được Chúng tôi thu thập, mà phản ánh niềm tin thiện chí của chúng tôi dựa trên hiểu biết tốt nhất của Chúng tôi rằng một số thông tin thuộc danh mục áp dụng có thể đã được thu thập. Ví dụ, một số danh mục thông tin cá nhân chỉ được thu thập nếu Bạn cung cấp thông tin cá nhân đó trực tiếp cho Chúng tôi.",
+        "categoryLabels": {
+          "examples": "Ví dụ:",
+          "collected": "Đã thu thập:"
+        },
+        "categories": {
+          "identifiers": {
+            "title": "Danh mục A: Mã định danh",
+            "examples": "Tên thật, biệt danh, địa chỉ bưu chính, mã định danh cá nhân duy nhất, mã định danh trực tuyến, địa chỉ giao thức Internet, địa chỉ email, tên tài khoản, số giấy phép lái xe, số hộ chiếu hoặc các mã định danh tương tự khác.",
+            "collected": "Đúng"
+          },
+          "personalInfo": {
+            "title": "Danh mục B: Các loại thông tin cá nhân được liệt kê trong luật Hồ sơ Khách hàng của California.",
+            "examples": "Tên, chữ ký, số an sinh xã hội, đặc điểm hoặc mô tả ngoại hình, địa chỉ, số điện thoại, số hộ chiếu, số giấy phép lái xe hoặc số thẻ căn cước công dân, số hợp đồng bảo hiểm, trình độ học vấn, nghề nghiệp, lịch sử làm việc, số tài khoản ngân hàng, số thẻ tín dụng, số thẻ ghi nợ, hoặc bất kỳ thông tin tài chính nào khác, thông tin y tế, hoặc thông tin bảo hiểm y tế. Một số thông tin cá nhân trong mục này có thể trùng lặp với các mục khác.",
+            "collected": "Đúng"
+          },
+          "protected": {
+            "title": "Hạng mục C: Đặc điểm phân loại được bảo vệ theo luật California hoặc luật liên bang.",
+            "examples": "Tuổi (từ 40 tuổi trở lên), chủng tộc, màu da, nguồn gốc tổ tiên, quốc tịch, tôn giáo hoặc tín ngưỡng, tình trạng hôn nhân, tình trạng sức khỏe, khuyết tật về thể chất hoặc tinh thần, giới tính (bao gồm giới tính sinh học, bản dạng giới, biểu hiện giới, mang thai hoặc sinh con và các tình trạng y tế liên quan), xu hướng tình dục, tình trạng cựu chiến binh hoặc quân nhân, thông tin di truyền (bao gồm thông tin di truyền gia đình).",
+            "collected": "KHÔNG"
+          },
+          "commercial": {
+            "title": "Danh mục D: Thông tin thương mại",
+            "examples": "Hồ sơ và lịch sử mua bán các sản phẩm hoặc dịch vụ đã mua hoặc đang xem xét.",
+            "collected": "Đúng"
+          },
+          "biometric": {
+            "title": "Danh mục E: Thông tin sinh trắc học",
+            "examples": "Các đặc điểm di truyền, sinh lý, hành vi và sinh học, hoặc các kiểu hoạt động được sử dụng để trích xuất mẫu hoặc thông tin nhận dạng khác, chẳng hạn như dấu vân tay, dấu khuôn mặt và dấu giọng nói, quét mống mắt hoặc võng mạc, thao tác gõ bàn phím, dáng đi hoặc các kiểu vận động khác, và dữ liệu về giấc ngủ, sức khỏe hoặc tập thể dục.",
+            "collected": "KHÔNG"
+          },
+          "internet": {
+            "title": "Danh mục F: Hoạt động trên Internet hoặc mạng tương tự khác",
+            "examples": "Tương tác với Dịch vụ hoặc quảng cáo của chúng tôi.",
+            "collected": "Đúng"
+          },
+          "geolocation": {
+            "title": "Danh mục G: Dữ liệu định vị địa lý",
+            "examples": "Vị trí thực tế gần đúng.",
+            "collected": "Đúng"
+          },
+          "sensory": {
+            "title": "Danh mục H: Dữ liệu cảm quan",
+            "examples": "Thông tin âm thanh, điện tử, hình ảnh, nhiệt, khứu giác hoặc các thông tin tương tự.",
+            "collected": "KHÔNG"
+          },
+          "professional": {
+            "title": "Danh mục I: Thông tin liên quan đến nghề nghiệp hoặc việc làm",
+            "examples": "Lịch sử công việc hiện tại hoặc trước đây, hoặc các đánh giá hiệu suất làm việc.",
+            "collected": "KHÔNG"
+          },
+          "education": {
+            "title": "Danh mục J: Thông tin giáo dục không công khai",
+            "examples": "Hồ sơ giáo dục liên quan trực tiếp đến học sinh do cơ sở giáo dục hoặc bên đại diện cho cơ sở đó lưu giữ, chẳng hạn như điểm số, bảng điểm, danh sách lớp, thời khóa biểu, mã số học sinh, thông tin tài chính hoặc hồ sơ kỷ luật của học sinh.",
+            "collected": "KHÔNG"
+          },
+          "inferences": {
+            "title": "Danh mục K: Suy luận dựa trên thông tin cá nhân khác",
+            "examples": "Hồ sơ phản ánh sở thích, đặc điểm, xu hướng tâm lý, khuynh hướng, hành vi, thái độ, trí thông minh, khả năng và năng khiếu của một người.",
+            "collected": "KHÔNG"
+          },
+          "sensitive": {
+            "title": "Danh mục L: Thông tin cá nhân nhạy cảm",
+            "examples": "Thông tin đăng nhập và mật khẩu tài khoản, dữ liệu định vị địa lý.",
+            "collected": "Đúng"
+          }
+        },
+        "exclusions": {
+          "description": "Theo CCPA/CPRA, thông tin cá nhân không bao gồm:",
+          "publicRecords": "Thông tin công khai từ hồ sơ chính phủ.",
+          "deidentified": "Thông tin người tiêu dùng đã được ẩn danh hoặc tổng hợp",
+          "excludedScope": "Thông tin không thuộc phạm vi áp dụng của CCPA/CPRA, chẳng hạn như:",
+          "hipaa": "Thông tin sức khỏe hoặc y tế được quy định bởi Đạo luật Bảo mật và Trách nhiệm Giải trình Thông tin Y tế năm 1996 (HIPAA) và Đạo luật Bảo mật Thông tin Y tế California (CMIA) hoặc dữ liệu thử nghiệm lâm sàng.",
+          "sectorSpecific": "Thông tin cá nhân được bảo vệ bởi một số luật bảo mật riêng biệt theo từng lĩnh vực, bao gồm Đạo luật Báo cáo Tín dụng Công bằng (FRCA), Đạo luật Gramm-Leach-Bliley (GLBA) hoặc Đạo luật Bảo mật Thông tin Tài chính California (FIPA), và Đạo luật Bảo vệ Quyền riêng tư của Người lái xe năm 1994."
+        },
+        "sources": {
+          "title": "Nguồn thông tin cá nhân",
+          "description": "Chúng tôi thu thập các loại thông tin cá nhân được liệt kê ở trên từ các nguồn sau:",
+          "directlyFromYou": "Trực tiếp từ bạn.",
+          "directlyDescription": "Ví dụ, từ các biểu mẫu bạn điền trên Dịch vụ của chúng tôi, các tùy chọn bạn thể hiện hoặc cung cấp thông qua Dịch vụ của chúng tôi, hoặc từ các giao dịch mua hàng của bạn trên Dịch vụ của chúng tôi.",
+          "indirectlyFromYou": "Thông tin này đến từ bạn một cách gián tiếp.",
+          "indirectlyDescription": "Ví dụ, bằng cách quan sát hoạt động của bạn trên Dịch vụ của chúng tôi.",
+          "automaticallyFromYou": "Tự động từ bạn.",
+          "automaticallyDescription": "Ví dụ, thông qua cookie mà Chúng tôi hoặc Nhà cung cấp dịch vụ của chúng tôi thiết lập trên Thiết bị của bạn khi bạn truy cập Dịch vụ của chúng tôi.",
+          "fromServiceProviders": "Từ các nhà cung cấp dịch vụ.",
+          "serviceProvidersDescription": "Ví dụ, các nhà cung cấp bên thứ ba để giám sát và phân tích việc sử dụng Dịch vụ của chúng tôi, các nhà cung cấp bên thứ ba để cung cấp quảng cáo trên Dịch vụ của chúng tôi, các nhà cung cấp bên thứ ba để phân phối quảng cáo nhắm mục tiêu đến Bạn, các nhà cung cấp bên thứ ba để xử lý thanh toán hoặc các nhà cung cấp bên thứ ba khác mà Chúng tôi sử dụng để cung cấp Dịch vụ cho Bạn."
+        },
+        "usage": {
+          "title": "Sử dụng thông tin cá nhân",
+          "description": "Chúng tôi có thể sử dụng hoặc tiết lộ thông tin cá nhân mà chúng tôi thu thập cho \"mục đích kinh doanh\" hoặc \"mục đích thương mại\" (như được định nghĩa theo CCPA/CPRA), bao gồm các ví dụ sau:",
+          "operateService": "Để vận hành Dịch vụ của chúng tôi và cung cấp Dịch vụ cho Bạn.",
+          "provideSupport": "Để hỗ trợ và giải đáp các thắc mắc của Quý khách, bao gồm cả việc điều tra và giải quyết các vấn đề mà Quý khách quan tâm, cũng như giám sát và cải thiện dịch vụ của chúng tôi.",
+          "fulfillReason": "Để thực hiện hoặc đáp ứng lý do bạn cung cấp thông tin. Ví dụ, nếu bạn chia sẻ thông tin liên hệ của mình để hỏi về Dịch vụ của chúng tôi, chúng tôi sẽ sử dụng thông tin cá nhân đó để trả lời yêu cầu của bạn. Nếu bạn cung cấp thông tin cá nhân để mua sản phẩm hoặc dịch vụ, chúng tôi sẽ sử dụng thông tin đó để xử lý thanh toán và hỗ trợ giao hàng.",
+          "lawEnforcement": "Để đáp ứng các yêu cầu từ cơ quan thực thi pháp luật và theo yêu cầu của luật pháp hiện hành, lệnh của tòa án hoặc quy định của chính phủ.",
+          "asDescribed": "Như đã mô tả cho Bạn khi thu thập thông tin cá nhân của Bạn hoặc như đã được quy định khác trong CCPA/CPRA.",
+          "administrative": "Phục vụ cho mục đích quản lý nội bộ và kiểm toán.",
+          "securityIncidents": "Nhằm phát hiện các sự cố an ninh và bảo vệ chống lại các hoạt động độc hại, lừa đảo, gian lận hoặc bất hợp pháp, bao gồm cả việc truy tố những người chịu trách nhiệm về các hoạt động đó khi cần thiết.",
+          "otherUses": "Các mục đích sử dụng một lần khác.",
+          "noteExamples": "Xin lưu ý rằng các ví dụ được cung cấp ở trên chỉ mang tính minh họa và không nhằm mục đích bao quát toàn diện. Để biết thêm chi tiết về cách chúng tôi sử dụng thông tin này, vui lòng tham khảo mục \"Sử dụng dữ liệu cá nhân của bạn\".",
+          "additionalCategories": "Nếu chúng tôi quyết định thu thập thêm các loại thông tin cá nhân khác hoặc sử dụng thông tin cá nhân đã thu thập cho các mục đích khác biệt, không liên quan hoặc không tương thích, chúng tôi sẽ cập nhật Chính sách Bảo mật này."
+        },
+        "ccpaDisclosure": {
+          "title": "Tiết lộ thông tin cá nhân",
+          "description": "Chúng tôi có thể sử dụng hoặc tiết lộ và có thể đã sử dụng hoặc tiết lộ trong mười hai (12) tháng qua các loại thông tin cá nhân sau đây cho mục đích kinh doanh hoặc thương mại:",
+          "categoryA": "Danh mục A: Mã định danh",
+          "categoryB": "Danh mục B: Các loại thông tin cá nhân được liệt kê trong luật Hồ sơ Khách hàng của California.",
+          "categoryD": "Danh mục D: Thông tin thương mại",
+          "categoryF": "Danh mục F: Hoạt động trên Internet hoặc mạng tương tự khác",
+          "categoryG": "Danh mục G: Dữ liệu định vị địa lý",
+          "categoryL": "Danh mục L: Thông tin cá nhân nhạy cảm",
+          "noteCategories": "Xin lưu ý rằng các danh mục được liệt kê ở trên là những danh mục được định nghĩa trong CCPA/CPRA. Điều này không có nghĩa là tất cả các ví dụ về thông tin cá nhân thuộc danh mục đó đều đã bị tiết lộ, mà phản ánh niềm tin thiện chí của chúng tôi, dựa trên hiểu biết tốt nhất của chúng tôi, rằng một số thông tin thuộc danh mục áp dụng có thể đã và đang bị tiết lộ.",
+          "contractRequirement": "Khi chúng tôi tiết lộ thông tin cá nhân vì mục đích kinh doanh hoặc thương mại, chúng tôi sẽ ký kết hợp đồng mô tả mục đích đó và yêu cầu bên nhận phải giữ bí mật thông tin cá nhân đó và không sử dụng thông tin đó cho bất kỳ mục đích nào khác ngoài việc thực hiện hợp đồng."
+        },
+        "sharing": {
+          "title": "Chia sẻ thông tin cá nhân",
+          "description": "Chúng tôi có thể chia sẻ, và đã chia sẻ trong mười hai (12) tháng qua, thông tin cá nhân của Bạn được xác định trong các danh mục nêu trên với các bên thứ ba thuộc các danh mục sau:",
+          "recipients": {
+            "serviceProviders": "Nhà cung cấp dịch vụ",
+            "paymentProcessors": "Bộ xử lý thanh toán",
+            "affiliates": "Các chi nhánh của chúng tôi",
+            "businessPartners": "Các đối tác kinh doanh của chúng tôi",
+            "authorizedVendors": "Các nhà cung cấp bên thứ ba mà Bạn hoặc đại diện của Bạn ủy quyền cho Chúng tôi tiết lộ thông tin cá nhân của Bạn liên quan đến các sản phẩm hoặc dịch vụ mà Chúng tôi cung cấp cho Bạn."
+          }
+        },
+        "sale": {
+          "title": "Bán thông tin cá nhân",
+          "definition": "Theo định nghĩa trong CCPA/CPRA, \"bán\" và \"giao dịch bán\" có nghĩa là bán, cho thuê, phát hành, tiết lộ, phổ biến, cung cấp, chuyển giao hoặc truyền đạt bằng lời nói, bằng văn bản, hoặc bằng phương tiện điện tử hoặc các phương tiện khác, thông tin cá nhân của Người tiêu dùng bởi Doanh nghiệp cho bên thứ ba để đổi lấy lợi ích vật chất. Điều này có nghĩa là Chúng tôi có thể đã nhận được một số lợi ích nào đó để đổi lấy việc chia sẻ thông tin cá nhân, nhưng không nhất thiết phải là lợi ích về mặt tiền tệ.",
+          "doNotSell": "Chúng tôi không bán thông tin cá nhân theo nghĩa thông thường của thuật ngữ \"bán\". Chúng tôi cho phép các Nhà cung cấp dịch vụ sử dụng thông tin cá nhân của bạn cho các mục đích kinh doanh được mô tả trong Chính sách bảo mật của chúng tôi, cho các hoạt động như quảng cáo, tiếp thị và phân tích, và những hoạt động này có thể được coi là bán theo CCPA/CPRA.",
+          "description": "Chúng tôi có thể bán và có thể đã bán trong mười hai (12) tháng qua các loại thông tin cá nhân sau:",
+          "sharedCategories": {
+            "categoryA": "Danh mục A: Mã định danh",
+            "categoryB": "Danh mục B: Các loại thông tin cá nhân được liệt kê trong luật Hồ sơ Khách hàng của California.",
+            "categoryD": "Danh mục D: Thông tin thương mại",
+            "categoryF": "Danh mục F: Hoạt động trên Internet hoặc mạng tương tự khác",
+            "categoryG": "Danh mục G: Dữ liệu định vị địa lý",
+            "categoryL": "Danh mục L: Thông tin cá nhân nhạy cảm"
+          }
+        },
+        "userRights": {
+          "title": "Quyền của bạn theo CCPA/CPRA",
+          "description": "Đạo luật CCPA/CPRA cung cấp cho cư dân California những quyền cụ thể liên quan đến thông tin cá nhân của họ. Nếu bạn là cư dân California, bạn có các quyền sau:",
+          "rightToNotice": "Quyền được thông báo.",
+          "rightToNoticeDescription": "Bạn có quyền được thông báo về các loại Dữ liệu Cá nhân nào đang được thu thập và mục đích sử dụng Dữ liệu Cá nhân đó.",
+          "disclosureItems": {
+            "categoriesCollected": "Các loại thông tin cá nhân mà chúng tôi thu thập về bạn",
+            "sources": "Các nguồn thông tin cá nhân mà chúng tôi thu thập về bạn",
+            "purposes": "Mục đích kinh doanh hoặc thương mại của chúng tôi khi thu thập hoặc bán thông tin cá nhân đó.",
+            "thirdParties": "Các bên thứ ba mà chúng tôi chia sẻ thông tin cá nhân đó.",
+            "specificPieces": "Những thông tin cá nhân cụ thể mà chúng tôi thu thập về bạn",
+            "soldDisclosed": "Nếu chúng tôi bán thông tin cá nhân của bạn hoặc tiết lộ thông tin cá nhân của bạn cho mục đích kinh doanh, chúng tôi sẽ tiết lộ cho bạn các loại thông tin cá nhân đã được bán và tiết lộ."
+          },
+          "rightToOptOut": "Quyền từ chối việc bán hoặc chia sẻ Dữ liệu Cá nhân (quyền từ chối tham gia).",
+          "rightToOptOutDescription": "Bạn có quyền yêu cầu chúng tôi không bán thông tin cá nhân của bạn. Để gửi yêu cầu từ chối, vui lòng xem phần \"Không bán thông tin cá nhân của tôi\" hoặc liên hệ với chúng tôi.",
+          "doNotSellSection": "Không bán thông tin cá nhân của tôi",
+          "rightToCorrect": "Quyền chỉnh sửa dữ liệu cá nhân.",
+          "rightToCorrectDescription": "Bạn có quyền yêu cầu chỉnh sửa hoặc bổ sung bất kỳ thông tin cá nhân không chính xác nào về bạn mà chúng tôi đã thu thập. Sau khi nhận và xác nhận yêu cầu của bạn, chúng tôi sẽ nỗ lực hết sức để chỉnh sửa (và chỉ đạo các nhà cung cấp dịch vụ của chúng tôi chỉnh sửa) thông tin cá nhân của bạn, trừ khi có trường hợp ngoại lệ.",
+          "rightToLimit": "Quyền hạn chế việc sử dụng và tiết lộ Dữ liệu Cá nhân nhạy cảm.",
+          "rightToLimitDescription": "Bạn có quyền yêu cầu hạn chế việc sử dụng hoặc tiết lộ một số thông tin cá nhân nhạy cảm mà chúng tôi đã thu thập về bạn, trừ khi có trường hợp ngoại lệ. Để gửi yêu cầu, vui lòng xem phần \"Hạn chế việc sử dụng hoặc tiết lộ thông tin cá nhân nhạy cảm của tôi\" hoặc liên hệ với chúng tôi.",
+          "limitSensitiveSection": "Hạn chế việc sử dụng hoặc tiết lộ thông tin cá nhân nhạy cảm của tôi.",
+          "rightToDelete": "Quyền xóa dữ liệu cá nhân.",
+          "rightToDeleteDescription": "Bạn có quyền yêu cầu xóa Dữ liệu Cá nhân của mình trong một số trường hợp nhất định, tùy thuộc vào một số ngoại lệ. Sau khi Chúng tôi nhận và xác nhận yêu cầu của Bạn, Chúng tôi sẽ xóa (và chỉ đạo các Nhà cung cấp Dịch vụ của Chúng tôi xóa) thông tin cá nhân của Bạn khỏi hồ sơ của chúng tôi, trừ khi có ngoại lệ áp dụng.",
+          "rightNonDiscrimination": "Quyền không bị phân biệt đối xử.",
+          "rightNonDiscriminationDescription": "Bạn có quyền không bị phân biệt đối xử vì thực hiện bất kỳ quyền nào của người tiêu dùng, bao gồm cả việc từ chối cung cấp hàng hóa hoặc dịch vụ, tính giá khác nhau, cung cấp các mức độ dịch vụ khác nhau hoặc đề xuất giá cả hoặc mức độ dịch vụ khác nhau."
+        },
+        "exercisingRights": {
+          "title": "Thực hiện các quyền bảo vệ dữ liệu của bạn theo CCPA/CPRA",
+          "intro": "Để thực hiện bất kỳ quyền nào của Bạn theo CCPA/CPRA, và nếu Bạn là cư dân California, Bạn có thể liên hệ với Chúng tôi bằng thông tin được cung cấp bên dưới.",
+          "authorization": "Chỉ có bạn, hoặc người được bạn ủy quyền hành động thay mặt bạn và đã đăng ký với Văn phòng Thư ký Tiểu bang California, mới có thể đưa ra yêu cầu xác minh liên quan đến thông tin cá nhân của bạn.",
+          "requestRequirements": "Yêu cầu của bạn gửi cho chúng tôi phải:",
+          "requirements": {
+            "verify": "Vui lòng cung cấp đầy đủ thông tin để chúng tôi có thể xác minh một cách hợp lý rằng bạn là người mà chúng tôi đã thu thập thông tin cá nhân hoặc là người đại diện được ủy quyền.",
+            "describe": "Hãy mô tả yêu cầu của bạn một cách chi tiết để chúng tôi có thể hiểu, đánh giá và phản hồi một cách chính xác."
+          },
+          "verification": "Chúng tôi không thể phản hồi yêu cầu của Quý khách hoặc cung cấp cho Quý khách thông tin cần thiết nếu chúng tôi không thể xác minh danh tính hoặc quyền hạn của Quý khách để đưa ra yêu cầu và xác nhận rằng thông tin cá nhân đó thuộc về Quý khách.",
+          "response": "Chúng tôi sẽ tiết lộ và cung cấp thông tin cần thiết miễn phí trong vòng 45 ngày kể từ khi nhận được yêu cầu xác thực của Quý khách. Thời hạn cung cấp thông tin cần thiết có thể được gia hạn thêm 45 ngày một lần khi cần thiết và có thông báo trước.",
+          "dataPortability": "Đối với các yêu cầu chuyển đổi dữ liệu, chúng tôi sẽ chọn định dạng để cung cấp thông tin cá nhân của bạn sao cho dễ sử dụng và cho phép bạn truyền thông tin từ tổ chức này sang tổ chức khác mà không gặp trở ngại."
+        },
+        "doNotSell": {
+          "title": "Không bán thông tin cá nhân của tôi",
+          "definition": "Theo định nghĩa trong CCPA/CPRA, \"bán\" và \"giao dịch bán\" có nghĩa là bán, cho thuê, phát hành, tiết lộ, phổ biến, cung cấp, chuyển giao hoặc truyền đạt bằng lời nói, bằng văn bản, hoặc bằng phương tiện điện tử hoặc các phương tiện khác, thông tin cá nhân của Người tiêu dùng bởi Doanh nghiệp cho bên thứ ba để đổi lấy lợi ích vật chất. Điều này có nghĩa là Chúng tôi có thể đã nhận được một số lợi ích nào đó để đổi lấy việc chia sẻ thông tin cá nhân, nhưng không nhất thiết phải là lợi ích về mặt tiền tệ.",
+          "policy": "Chúng tôi không bán thông tin cá nhân theo nghĩa thông thường của thuật ngữ \"bán\". Chúng tôi cho phép các Nhà cung cấp dịch vụ sử dụng thông tin cá nhân của bạn cho các mục đích kinh doanh được mô tả trong Chính sách bảo mật của chúng tôi, cho các hoạt động như quảng cáo, tiếp thị và phân tích, và những hoạt động này có thể được coi là bán theo CCPA/CPRA.",
+          "optOutRight": "Bạn có quyền từ chối việc bán thông tin cá nhân của mình. Sau khi chúng tôi nhận và xác nhận yêu cầu hợp lệ từ bạn, chúng tôi sẽ ngừng bán thông tin cá nhân của bạn. Để thực hiện quyền từ chối này, vui lòng liên hệ với chúng tôi.",
+          "serviceProviders": "Các nhà cung cấp dịch vụ mà chúng tôi hợp tác (ví dụ: các đối tác phân tích hoặc quảng cáo) có thể sử dụng công nghệ trên Dịch vụ để bán thông tin cá nhân theo định nghĩa của luật CCPA/CPRA. Nếu bạn muốn từ chối việc sử dụng thông tin cá nhân của mình cho mục đích quảng cáo dựa trên sở thích và các hoạt động bán thông tin tiềm năng này theo định nghĩa của luật CCPA/CPRA, bạn có thể thực hiện bằng cách làm theo hướng dẫn bên dưới.",
+          "browserNote": "Xin lưu ý rằng việc từ chối nhận thông tin chỉ áp dụng cho trình duyệt bạn đang sử dụng. Bạn có thể cần phải từ chối trên mọi trình duyệt mà bạn sử dụng.",
+          "websiteTitle": "Trang web",
+          "websiteInstructions": "Nếu có thể, hãy nhấp vào các nút \"Tùy chọn quyền riêng tư\", \"Cập nhật tùy chọn quyền riêng tư\" hoặc \"Không bán thông tin cá nhân của tôi\" được liệt kê trên Dịch vụ để xem lại các tùy chọn quyền riêng tư của bạn và từ chối sử dụng cookie và các công nghệ khác mà Chúng tôi có thể sử dụng. Xin lưu ý rằng Bạn cần phải từ chối trên mỗi trình duyệt mà Bạn sử dụng để truy cập Dịch vụ."
+        },
+        "mobileOptOut": {
+          "title": "Thiết bị di động",
+          "description": "Thiết bị di động của bạn có thể cho phép bạn từ chối việc sử dụng thông tin về các ứng dụng bạn sử dụng để hiển thị quảng cáo nhắm mục tiêu theo sở thích của bạn:",
+          "androidAds": "Chọn \"Không tham gia quảng cáo dựa trên sở thích\" hoặc \"Không tham gia cá nhân hóa quảng cáo\" trên thiết bị Android.",
+          "iosTracking": "\"Giới hạn theo dõi quảng cáo\" trên thiết bị iOS",
+          "locationNote": "Bạn cũng có thể ngừng thu thập thông tin vị trí từ thiết bị di động của mình bằng cách thay đổi cài đặt trên thiết bị di động."
+        },
+        "sensitiveInfo": {
+          "title": "Hạn chế việc sử dụng hoặc tiết lộ thông tin cá nhân nhạy cảm của tôi.",
+          "description": "Nếu bạn là cư dân California, bạn có quyền hạn chế việc sử dụng và tiết lộ thông tin cá nhân nhạy cảm của mình chỉ trong phạm vi cần thiết để thực hiện các dịch vụ hoặc cung cấp hàng hóa mà một người tiêu dùng thông thường mong đợi khi yêu cầu các dịch vụ hoặc hàng hóa đó. Chúng tôi thu thập, sử dụng và tiết lộ thông tin cá nhân nhạy cảm theo những cách cần thiết để cung cấp Dịch vụ. Để biết thêm thông tin về cách chúng tôi sử dụng thông tin cá nhân của bạn, vui lòng xem phần \"Sử dụng dữ liệu cá nhân của bạn\" hoặc liên hệ với chúng tôi."
+        },
+        "caloppaPolicy": {
+          "doNotTrackResponse": "Dịch vụ của chúng tôi không phản hồi tín hiệu \"Không theo dõi\".",
+          "thirdPartyTracking": "Tuy nhiên, một số trang web của bên thứ ba vẫn theo dõi hoạt động duyệt web của bạn. Nếu bạn truy cập những trang web như vậy, bạn có thể thiết lập tùy chọn trong trình duyệt web của mình để thông báo cho các trang web đó rằng bạn không muốn bị theo dõi. Bạn có thể bật hoặc tắt chế độ \"Không theo dõi\" (DNT) bằng cách truy cập trang tùy chọn hoặc cài đặt của trình duyệt web."
+        },
+        "caloppa": {
+          "title": "Chính sách \"Không theo dõi\" theo yêu cầu của Đạo luật Bảo vệ Quyền riêng tư Trực tuyến California (CalOPPA)"
+        },
+        "saleNote": {
+          "categoriesListed": "Xin lưu ý rằng các danh mục được liệt kê ở trên là những danh mục được định nghĩa trong CCPA/CPRA. Điều này không có nghĩa là tất cả các ví dụ về thông tin cá nhân thuộc danh mục đó đều đã bị bán, mà phản ánh niềm tin thiện chí của chúng tôi, dựa trên hiểu biết tốt nhất của chúng tôi, rằng một số thông tin thuộc danh mục áp dụng có thể đã được chia sẻ để đổi lấy giá trị nào đó."
+        },
+        "minorsUnder16": {
+          "title": "Bán thông tin cá nhân của trẻ vị thành niên dưới 16 tuổi",
+          "description1": "Chúng tôi không cố ý thu thập thông tin cá nhân từ trẻ vị thành niên dưới 16 tuổi thông qua Dịch vụ của mình, mặc dù một số trang web của bên thứ ba mà chúng tôi liên kết đến có thể làm như vậy. Các trang web của bên thứ ba này có điều khoản sử dụng và chính sách bảo mật riêng và chúng tôi khuyến khích phụ huynh và người giám hộ giám sát việc sử dụng Internet của con cái họ và hướng dẫn con cái họ không bao giờ cung cấp thông tin trên các trang web khác mà không có sự cho phép của họ.",
+          "description2": "Chúng tôi không bán thông tin cá nhân của Người tiêu dùng mà chúng tôi biết chắc chắn là dưới 16 tuổi, trừ khi chúng tôi nhận được sự cho phép rõ ràng (\"quyền lựa chọn tham gia\") từ Người tiêu dùng từ 13 đến 16 tuổi, hoặc từ cha mẹ hoặc người giám hộ của Người tiêu dùng dưới 13 tuổi. Người tiêu dùng đã đồng ý cho phép bán thông tin cá nhân có thể từ chối việc bán thông tin trong tương lai bất cứ lúc nào. Để thực hiện quyền từ chối, Bạn (hoặc người đại diện được ủy quyền của Bạn) có thể gửi yêu cầu cho Chúng tôi bằng cách liên hệ với Chúng tôi.",
+          "description3": "Nếu bạn có lý do để tin rằng một trẻ em dưới 13 tuổi (hoặc 16 tuổi) đã cung cấp thông tin cá nhân cho chúng tôi, vui lòng liên hệ với chúng tôi và cung cấp đầy đủ thông tin chi tiết để chúng tôi có thể xóa thông tin đó."
+        },
+        "optOutPlatforms": {
+          "description": "Ngoài ra, bạn có thể chọn không nhận quảng cáo được cá nhân hóa do các nhà cung cấp dịch vụ của chúng tôi phân phát bằng cách làm theo hướng dẫn được hiển thị trên Dịch vụ:",
+          "nai": "Nền tảng từ chối tham gia của NAI:",
+          "edaa": "Nền tảng từ chối tham gia của EDAA:",
+          "daa": "Nền tảng từ chối tham gia của DAA:",
+          "cookieNote": "Thao tác từ chối sẽ đặt một cookie trên máy tính của bạn, cookie này chỉ dành riêng cho trình duyệt bạn sử dụng để từ chối. Nếu bạn thay đổi trình duyệt hoặc xóa các cookie đã lưu bởi trình duyệt của mình, bạn sẽ cần phải thực hiện thao tác từ chối lại."
+        },
+        "rights": {
+          "rightToKnowAccess": "Quyền được biết/tiếp cận thông tin.",
+          "rightToKnowAccessDescription": "Theo CCPA/CPRA, Bạn có quyền yêu cầu Chúng tôi tiết lộ thông tin cho Bạn về việc Chúng tôi thu thập, sử dụng, bán, tiết lộ cho mục đích kinh doanh và chia sẻ thông tin cá nhân. Sau khi Chúng tôi nhận và xác nhận yêu cầu của Bạn, Chúng tôi sẽ tiết lộ cho Bạn:"
+        }
+      },
+      "optOut": {
+        "androidAds": "Chọn \"Không tham gia quảng cáo dựa trên sở thích\" hoặc \"Không tham gia cá nhân hóa quảng cáo\" trên thiết bị Android.",
+        "androidInterestBased": "Từ chối quảng cáo dựa trên sở thích",
+        "androidPersonalization": "Từ chối cá nhân hóa quảng cáo",
+        "iosTracking": "\"Giới hạn theo dõi quảng cáo\" trên thiết bị iOS",
+        "iosLimit": "Giới hạn theo dõi quảng cáo"
+      },
+      "dataTypes": {
+        "email": "Địa chỉ email",
+        "name": "Tên và họ",
+        "phone": "Số điện thoại",
+        "address": "Địa chỉ, Tiểu bang, Tỉnh, Mã bưu chính, Thành phố",
+        "usageData": "Dữ liệu sử dụng"
+      },
+      "socialMedia": {
+        "google": "Google",
+        "facebook": "Facebook",
+        "apple": "Quả táo"
+      },
+      "appPermissions": {
+        "location": "Thông tin về vị trí của bạn (để phát hiện khoảng cách Bluetooth )",
+        "bluetooth": "Thông tin thiết bị Bluetooth và quét thiết bị lân cận",
+        "camera": "Thông tin từ camera của thiết bị để tạo hình đại diện",
+        "contacts": "Danh bạ thiết bị (tùy chọn, để tìm bạn bè)"
+      }
+    },
+    "termsOfUse": {
+      "title": "Điều khoản sử dụng",
+      "subtitle": "Hiểu rõ quyền và trách nhiệm của bạn khi sử dụng dịch vụ Ringdy .",
+      "lastUpdated": "Cập nhật lần cuối: Tháng 1 năm 2025",
+      "introduction": "Vui lòng đọc kỹ các điều khoản và điều kiện này trước khi sử dụng Dịch vụ của chúng tôi.",
+      "sections": {
+        "interpretationTitle": "Giải thích và Định nghĩa",
+        "interpretationSubtitle": "Giải thích",
+        "interpretationText": "Những từ có chữ cái đầu tiên viết hoa có nghĩa được định nghĩa theo các điều kiện sau. Các định nghĩa sau đây sẽ có cùng nghĩa bất kể chúng xuất hiện ở dạng số ít hay số nhiều.",
+        "definitionsSubtitle": "Định nghĩa",
+        "definitionsText": "Vì mục đích của các Điều khoản và Điều kiện này:",
+        "definitions": {
+          "application": "Có nghĩa là chương trình phần mềm do Công ty cung cấp mà Bạn đã tải xuống trên bất kỳ thiết bị điện tử nào, có tên là Ringdy .",
+          "applicationStore": "Có nghĩa là dịch vụ phân phối kỹ thuật số được vận hành và phát triển bởi Apple Inc. (Apple App Store) hoặc Google Inc. (Google Play Store) nơi Ứng dụng đã được tải xuống.",
+          "affiliate": "Thuật ngữ \"kiểm soát\" có nghĩa là một thực thể kiểm soát, bị kiểm soát bởi hoặc thuộc quyền kiểm soát chung với một bên, trong đó \"kiểm soát\" có nghĩa là sở hữu 50% hoặc hơn cổ phần, vốn chủ sở hữu hoặc các chứng khoán khác có quyền biểu quyết để bầu chọn giám đốc hoặc cơ quan quản lý khác.",
+          "account": "Có nghĩa là một tài khoản duy nhất được tạo cho Bạn để truy cập Dịch vụ của chúng tôi hoặc một phần Dịch vụ của chúng tôi.",
+          "country": "Đề cập đến: Việt Nam",
+          "company": "(được gọi chung là \"Công ty\", \"Chúng tôi\", \"Chúng ta\" hoặc \"Của chúng tôi\" trong Thỏa thuận này) là Ringdy .",
+          "content": "Nội dung này đề cập đến các loại nội dung như văn bản, hình ảnh hoặc thông tin khác mà bạn có thể đăng tải, tải lên, liên kết hoặc cung cấp theo bất kỳ cách nào, bất kể hình thức của nội dung đó là gì.",
+          "device": "Có nghĩa là bất kỳ thiết bị nào có thể truy cập Dịch vụ, chẳng hạn như máy tính, điện thoại thông minh hoặc máy tính bảng.",
+          "feedback": "Điều này có nghĩa là phản hồi, cải tiến hoặc đề xuất do Bạn gửi liên quan đến các thuộc tính, hiệu suất hoặc tính năng của Dịch vụ của chúng tôi.",
+          "freeTrial": "Thuật ngữ này đề cập đến một khoảng thời gian giới hạn mà bạn có thể được dùng thử miễn phí khi mua gói đăng ký.",
+          "goods": "Vui lòng tham khảo các mặt hàng được rao bán trên Dịch vụ.",
+          "inAppPurchase": "Điều khoản này đề cập đến việc mua sản phẩm, mặt hàng, dịch vụ hoặc Gói đăng ký được thực hiện thông qua Ứng dụng và tuân theo các Điều khoản và Điều kiện này và/hoặc các điều khoản và điều kiện riêng của Cửa hàng Ứng dụng.",
+          "orders": "Có nghĩa là yêu cầu mua hàng từ phía bạn.",
+          "promotions": "Hãy tham khảo các cuộc thi, chương trình rút thăm trúng thưởng hoặc các chương trình khuyến mãi khác được cung cấp thông qua Dịch vụ.",
+          "service": "Đề cập đến Ứng dụng.",
+          "subscriptions": "Hãy tham khảo các dịch vụ hoặc quyền truy cập vào Dịch vụ được Công ty cung cấp cho Bạn theo hình thức đăng ký.",
+          "termsAndConditions": "(còn được gọi là \"Điều khoản\") có nghĩa là các Điều khoản và Điều kiện này tạo thành toàn bộ thỏa thuận giữa Bạn và Công ty liên quan đến việc sử dụng Dịch vụ.",
+          "thirdPartySocialMedia": "\"Bất kỳ dịch vụ hoặc nội dung nào (bao gồm dữ liệu, thông tin, sản phẩm hoặc dịch vụ) do bên thứ ba cung cấp có thể được hiển thị, bao gồm hoặc cung cấp thông qua Dịch vụ\" là bất kỳ dịch vụ hoặc nội dung nào (bao gồm dữ liệu, thông tin, sản phẩm hoặc dịch vụ) do bên thứ ba cung cấp mà có thể được hiển thị, bao gồm hoặc được cung cấp bởi Dịch vụ.",
+          "you": "Có nghĩa là cá nhân truy cập hoặc sử dụng Dịch vụ, hoặc công ty, hoặc thực thể pháp lý khác mà cá nhân đó đại diện để truy cập hoặc sử dụng Dịch vụ, tùy thuộc vào trường hợp cụ thể."
+        },
+        "definitionLabels": {
+          "application": "Ứng dụng:",
+          "applicationStore": "Cửa hàng ứng dụng:",
+          "affiliate": "Đối tác liên kết:",
+          "account": "Tài khoản:",
+          "country": "Quốc gia:",
+          "company": "Công ty:",
+          "content": "Nội dung:",
+          "device": "Thiết bị:",
+          "feedback": "Nhận xét:",
+          "freeTrial": "Dùng thử miễn phí:",
+          "goods": "Hàng hóa:",
+          "inAppPurchase": "Mua hàng trong ứng dụng:",
+          "orders": "Đơn đặt hàng:",
+          "promotions": "Khuyến mãi:",
+          "service": "Dịch vụ:",
+          "subscriptions": "Đăng ký:",
+          "termsAndConditions": "Điều khoản và điều kiện:",
+          "thirdPartySocialMedia": "Dịch vụ mạng xã hội bên thứ ba:",
+          "you": "Bạn:"
+        }
+      },
+      "acknowledgment": {
+        "title": "Lời cảm ơn",
+        "description1": "Đây là các Điều khoản và Điều kiện điều chỉnh việc sử dụng Dịch vụ này và thỏa thuận giữa Bạn và Công ty. Các Điều khoản và Điều kiện này quy định quyền và nghĩa vụ của tất cả người dùng liên quan đến việc sử dụng Dịch vụ.",
+        "description2": "Việc bạn truy cập và sử dụng Dịch vụ phụ thuộc vào việc bạn chấp nhận và tuân thủ các Điều khoản và Điều kiện này. Các Điều khoản và Điều kiện này áp dụng cho tất cả khách truy cập, người dùng và những người khác truy cập hoặc sử dụng Dịch vụ.",
+        "description3": "Bằng cách truy cập hoặc sử dụng Dịch vụ, bạn đồng ý chịu ràng buộc bởi các Điều khoản và Điều kiện này. Nếu bạn không đồng ý với bất kỳ phần nào của các Điều khoản và Điều kiện này, bạn không được phép truy cập Dịch vụ.",
+        "description4": "Bạn xác nhận rằng bạn đã đủ 18 tuổi. Công ty không cho phép người dưới 18 tuổi sử dụng Dịch vụ.",
+        "description5": "Việc bạn truy cập và sử dụng Dịch vụ cũng phụ thuộc vào việc bạn chấp nhận và tuân thủ Chính sách Bảo mật của Công ty. Chính sách Bảo mật của chúng tôi mô tả các chính sách và thủ tục của chúng tôi về việc thu thập, sử dụng và tiết lộ thông tin cá nhân của bạn khi bạn sử dụng Ứng dụng, đồng thời cho bạn biết về các quyền riêng tư của bạn và cách pháp luật bảo vệ bạn. Vui lòng đọc kỹ Chính sách Bảo mật của chúng tôi trước khi sử dụng Dịch vụ của chúng tôi.",
+        "bluetoothNotice": "Bằng cách sử dụng Dịch vụ của chúng tôi, bạn thừa nhận rằng Ứng dụng sử dụng Bluetooth và dịch vụ định vị để tìm kiếm và kết nối với người dùng ở gần. Bạn đồng ý cho phép chúng tôi sử dụng các công nghệ này để cung cấp các tính năng dựa trên khoảng cách.",
+        "bluetoothTitle": "Dịch vụ Bluetooth và Định vị"
+      },
+      "orders": {
+        "title": "Mua các mặt hàng kỹ thuật số",
+        "introduction": "Bằng việc mua Thẻ Khám phá, Night Pass hoặc Gói đăng ký thông qua Dịch vụ, bạn đảm bảo rằng bạn có đủ năng lực pháp lý để ký kết các hợp đồng ràng buộc.",
+        "yourInformation": {
+          "title": "Thông tin của bạn",
+          "description1": "Việc thanh toán cho Thẻ Khám phá, Night Pass và các Gói đăng ký được thực hiện hoàn toàn thông qua cửa hàng ứng dụng trên thiết bị của bạn (Google Play hoặc App Store). Chúng tôi không thu thập hoặc lưu trữ thông tin thẻ thanh toán của bạn.",
+          "description2": "Bạn cam kết và đảm bảo rằng: (i) Bạn có quyền hợp pháp để sử dụng bất kỳ phương thức thanh toán nào đã đăng ký với tài khoản cửa hàng ứng dụng của Bạn; và (ii) thông tin Bạn cung cấp cho cửa hàng ứng dụng là đúng, chính xác và đầy đủ.",
+          "description3": "Tất cả thông tin thanh toán được gửi trực tiếp đến Google Play hoặc App Store, chứ không phải đến Công ty."
+        },
+        "cancellation": {
+          "title": "Hủy đơn hàng",
+          "description1": "Chúng tôi có quyền từ chối hoặc hủy bỏ đơn đặt hàng của Quý khách bất cứ lúc nào vì một số lý do, bao gồm nhưng không giới hạn ở:",
+          "reasons": {
+            "availability": "Tình trạng sẵn có của mặt hàng",
+            "errors": "Sai sót trong mô tả hoặc giá cả của mặt hàng",
+            "orderErrors": "Lỗi trong giao dịch mua hàng của bạn"
+          },
+          "description2": "Chúng tôi có quyền từ chối hoặc hủy bỏ đơn mua hàng của Quý khách nếu nghi ngờ có hành vi gian lận hoặc giao dịch trái phép.",
+          "yourRights": {
+            "title": "Quyền hủy bỏ của bạn",
+            "description1": "Thẻ Discovery Pass, thẻ Night Pass và các vật phẩm kỹ thuật số dùng một lần khác sẽ không thể sử dụng được nữa và thường không được hoàn trả.",
+            "description2": "Chính sách hoàn tiền cho các giao dịch mua hàng kỹ thuật số được mô tả trong phần Mua hàng trong ứng dụng và Hoàn tiền bên dưới.",
+            "description3": "Sau khi Thẻ Khám Phá hoặc Night Pass đã được sử dụng để mở khóa một địa điểm, thẻ đó không thể bị hủy hoặc hoàn tiền.",
+            "description4": "Các yêu cầu hoàn tiền hợp lệ sẽ được xử lý theo chính sách hoàn tiền của Cửa hàng ứng dụng, như được mô tả trong phần Hoàn tiền bên dưới.",
+            "description5": "Bạn sẽ không có quyền hủy bỏ giao dịch mua hàng đối với các mặt hàng sau:",
+            "exceptions": {
+              "personalized": "Các vật phẩm đã được áp dụng vào tài khoản của bạn hoặc đã được sử dụng, chẳng hạn như Thẻ Khám phá dùng để mở khóa một địa điểm.",
+              "perishable": "Các loại vé có thời hạn, chẳng hạn như Night Pass , sẽ hết hiệu lực sau khi thời gian sử dụng đã bắt đầu.",
+              "hygiene": "Các kỳ đăng ký mà Dịch vụ đã được cung cấp cho Bạn.",
+              "mixed": "Các vật phẩm kỹ thuật số được kết hợp với các vật phẩm đã mua khác như một phần của gói sản phẩm.",
+              "digital": "Việc cung cấp nội dung kỹ thuật số không được cung cấp trên phương tiện vật lý nếu việc thực hiện đã bắt đầu với sự đồng ý rõ ràng trước đó của Bạn và Bạn đã thừa nhận việc mất quyền hủy bỏ."
+            }
+          }
+        },
+        "availability": {
+          "title": "Tính khả dụng, lỗi và sự không chính xác",
+          "description1": "Chúng tôi liên tục cập nhật các loại Thẻ Khám phá, Night Pass và các gói đăng ký trên Dịch vụ. Giá cả có thể bị sai, mô tả không chính xác hoặc không có sẵn, và chúng tôi có thể gặp phải sự chậm trễ trong việc cập nhật thông tin này.",
+          "description2": "Chúng tôi không thể và không đảm bảo tính chính xác hoặc đầy đủ của bất kỳ thông tin nào, bao gồm cả giá cả và tình trạng hàng hóa. Chúng tôi có quyền thay đổi hoặc cập nhật thông tin và sửa chữa các lỗi, sự không chính xác hoặc thiếu sót bất cứ lúc nào mà không cần thông báo trước."
+        },
+        "pricing": {
+          "title": "Chính sách giá cả",
+          "description1": "Công ty có quyền điều chỉnh giá các loại Thẻ Khám phá, Night Pass và Gói Đăng ký bất cứ lúc nào trước khi chấp nhận giao dịch mua.",
+          "description2": "Giá được thiết lập và hiển thị thông qua cửa hàng ứng dụng trên thiết bị của bạn (Google Play hoặc App Store) và có thể khác nhau tùy theo khu vực và đơn vị tiền tệ."
+        },
+        "payments": {
+          "title": "Thanh toán",
+          "description1": "Tất cả các giao dịch mua hàng đều được xử lý thông qua cửa hàng ứng dụng trên thiết bị của bạn (Google Play hoặc App Store) bằng các phương thức thanh toán được hỗ trợ.",
+          "description2": "Các phương thức thanh toán phải trải qua quá trình kiểm tra xác thực và ủy quyền từ cửa hàng ứng dụng và tổ chức phát hành thẻ của bạn. Nếu không nhận được sự ủy quyền, Công ty sẽ không chịu trách nhiệm cho bất kỳ sự chậm trễ hoặc thất bại nào trong việc giao hàng cho bạn."
+        }
+      },
+      "subscriptions": {
+        "title": "Đăng ký",
+        "period": {
+          "title": "Thời gian đăng ký",
+          "description1": "Dịch vụ hoặc một số phần của Dịch vụ chỉ khả dụng khi đăng ký trả phí. Bạn sẽ được thanh toán trước theo định kỳ (như hàng ngày, hàng tuần, hàng tháng hoặc hàng năm), tùy thuộc vào loại gói đăng ký bạn chọn khi mua dịch vụ.",
+          "description2": "Vào cuối mỗi kỳ, gói đăng ký của bạn sẽ tự động gia hạn với các điều kiện y hệt như cũ trừ khi bạn hủy hoặc Công ty hủy bỏ."
+        },
+        "cancellations": {
+          "title": "Hủy đăng ký",
+          "description1": "Bạn có thể hủy gia hạn đăng ký của mình thông qua trang cài đặt tài khoản hoặc bằng cách liên hệ với Công ty. Bạn sẽ không được hoàn lại phí đã thanh toán cho kỳ đăng ký hiện tại và bạn vẫn có thể truy cập Dịch vụ cho đến hết kỳ đăng ký hiện tại.",
+          "description2": "Nếu bạn đã đăng ký thông qua giao dịch mua trong ứng dụng, bạn có thể hủy gia hạn đăng ký của mình thông qua Cửa hàng ứng dụng."
+        },
+        "billing": {
+          "title": "Thanh toán",
+          "description1": "Bạn phải cung cấp cho Công ty thông tin thanh toán chính xác và đầy đủ, bao gồm họ tên đầy đủ, địa chỉ, tiểu bang, mã bưu chính, số điện thoại và thông tin phương thức thanh toán hợp lệ.",
+          "description2": "Nếu vì bất kỳ lý do nào mà quá trình lập hóa đơn tự động không thành công, Công ty sẽ phát hành hóa đơn điện tử yêu cầu quý khách phải thanh toán thủ công toàn bộ số tiền tương ứng với kỳ thanh toán được ghi trên hóa đơn trong một thời hạn nhất định.",
+          "description3": "Nếu gói đăng ký được thực hiện thông qua giao dịch mua trong ứng dụng, tất cả việc thanh toán sẽ do Cửa hàng ứng dụng xử lý và tuân theo các điều khoản và điều kiện riêng của Cửa hàng ứng dụng."
+        },
+        "feeChanges": {
+          "title": "Thay đổi phí",
+          "description1": "Công ty, theo quyết định riêng và vào bất kỳ thời điểm nào, có thể điều chỉnh phí đăng ký. Bất kỳ thay đổi nào về phí đăng ký sẽ có hiệu lực vào cuối kỳ đăng ký hiện tại.",
+          "description2": "Công ty sẽ thông báo trước cho Quý khách một cách hợp lý về bất kỳ thay đổi nào về phí đăng ký để Quý khách có cơ hội chấm dứt đăng ký trước khi thay đổi đó có hiệu lực.",
+          "description3": "Việc bạn tiếp tục sử dụng Dịch vụ sau khi phí đăng ký thay đổi có hiệu lực đồng nghĩa với việc bạn đồng ý thanh toán mức phí đăng ký đã được điều chỉnh."
+        },
+        "refunds": {
+          "title": "Hoàn tiền",
+          "description1": "Trừ trường hợp pháp luật yêu cầu, phí đăng ký đã thanh toán sẽ không được hoàn trả.",
+          "description2": "Công ty có thể xem xét một số yêu cầu hoàn tiền đối với các gói đăng ký dựa trên từng trường hợp cụ thể và việc chấp thuận hoàn tiền hoàn toàn tùy thuộc vào quyết định của Công ty.",
+          "description3": "Nếu gói đăng ký được thực hiện thông qua giao dịch mua trong ứng dụng, chính sách hoàn tiền của Cửa hàng ứng dụng sẽ được áp dụng. Nếu bạn muốn yêu cầu hoàn tiền, bạn có thể liên hệ trực tiếp với Cửa hàng ứng dụng."
+        },
+        "freeTrial": {
+          "title": "Dùng thử miễn phí",
+          "description1": "Công ty có thể, theo quyết định riêng của mình, cung cấp Gói đăng ký dùng thử miễn phí trong một khoảng thời gian giới hạn.",
+          "description2": "Bạn có thể được yêu cầu nhập thông tin thanh toán để đăng ký dùng thử miễn phí.",
+          "description3": "Nếu bạn nhập thông tin thanh toán khi đăng ký dùng thử miễn phí, Công ty sẽ không tính phí cho bạn cho đến khi thời gian dùng thử miễn phí kết thúc. Vào ngày cuối cùng của thời gian dùng thử miễn phí, trừ khi bạn hủy đăng ký, bạn sẽ tự động bị tính phí đăng ký áp dụng cho loại đăng ký bạn đã chọn.",
+          "description4": "Bất cứ lúc nào và không cần báo trước, Công ty có quyền (i) sửa đổi các điều khoản và điều kiện của chương trình Dùng thử miễn phí, hoặc (ii) hủy bỏ chương trình Dùng thử miễn phí đó."
+        }
+      },
+      "inAppPurchases": {
+        "title": "Mua hàng trong ứng dụng",
+        "description1": "Ứng dụng có thể bao gồm các giao dịch mua trong ứng dụng cho phép bạn mua sản phẩm, dịch vụ hoặc gói đăng ký.",
+        "description2": "Bạn có thể tìm thêm thông tin về cách quản lý các giao dịch mua trong ứng dụng bằng thiết bị của mình trong điều khoản và điều kiện của cửa hàng ứng dụng hoặc trong phần Trợ giúp của thiết bị.",
+        "description3": "Các giao dịch mua trong ứng dụng chỉ có thể được sử dụng trong ứng dụng. Nếu bạn thực hiện mua hàng trong ứng dụng, giao dịch đó không thể bị hủy sau khi bạn đã bắt đầu tải xuống. Các giao dịch mua trong ứng dụng không thể được quy đổi thành tiền mặt hoặc bất kỳ hình thức thanh toán nào khác, cũng không thể chuyển nhượng.",
+        "description4": "Bạn thừa nhận và đồng ý rằng tất cả các quy trình thanh toán và giao dịch đều do Cửa hàng ứng dụng nơi bạn tải xuống Ứng dụng xử lý và tuân theo các điều khoản và điều kiện riêng của Cửa hàng ứng dụng đó."
+      },
+      "promotions": {
+        "title": "Khuyến mãi",
+        "description1": "Bất kỳ chương trình khuyến mãi nào được cung cấp thông qua Dịch vụ đều có thể tuân theo các quy định riêng biệt với các Điều khoản này.",
+        "description2": "Nếu bạn tham gia bất kỳ chương trình khuyến mãi nào, vui lòng xem lại các quy định áp dụng cũng như Chính sách Bảo mật của chúng tôi. Nếu các quy định của chương trình khuyến mãi mâu thuẫn với các Điều khoản này, thì các quy định của chương trình khuyến mãi sẽ được áp dụng."
+      },
+      "userAccounts": {
+        "title": "Tài khoản người dùng",
+        "description1": "Khi tạo tài khoản với chúng tôi, bạn phải cung cấp cho chúng tôi thông tin chính xác, đầy đủ và cập nhật mọi lúc. Việc không làm như vậy sẽ cấu thành hành vi vi phạm Điều khoản, có thể dẫn đến việc chấm dứt ngay lập tức tài khoản của bạn trên Dịch vụ của chúng tôi.",
+        "description2": "Bạn chịu trách nhiệm bảo mật mật khẩu mà bạn sử dụng để truy cập Dịch vụ và chịu trách nhiệm cho mọi hoạt động hoặc hành động được thực hiện dưới mật khẩu của bạn, cho dù mật khẩu đó được sử dụng trên Dịch vụ của chúng tôi hay trên Dịch vụ mạng xã hội của bên thứ ba.",
+        "description3": "Bạn đồng ý không tiết lộ mật khẩu của mình cho bất kỳ bên thứ ba nào. Bạn phải thông báo cho chúng tôi ngay lập tức khi phát hiện bất kỳ vi phạm bảo mật hoặc sử dụng trái phép tài khoản của bạn.",
+        "description4": "Bạn không được sử dụng tên của người hoặc tổ chức khác, hoặc tên không được phép sử dụng hợp pháp, tên hoặc nhãn hiệu thuộc quyền sở hữu của người hoặc tổ chức khác mà không có sự cho phép thích hợp, hoặc tên mang tính xúc phạm, thô tục hoặc khiếm nhã làm tên người dùng."
+      },
+      "userConduct": {
+        "title": "Hành vi và sự an toàn của người dùng",
+        "zeroTolerance": {
+          "title": "Chính sách không khoan nhượng",
+          "description": "Bạn đồng ý không sử dụng Dịch vụ để quấy rối, đe dọa, theo dõi hoặc hăm dọa người khác. Công ty duy trì chính sách không khoan dung đối với hành vi lạm dụng, quấy rối hoặc vi phạm quyền hoặc sự an toàn của người khác. Vi phạm có thể dẫn đến việc đình chỉ hoặc chấm dứt tài khoản của bạn ngay lập tức."
+        },
+        "safetyDisclaimer": {
+          "title": "Tuyên bố miễn trừ trách nhiệm về an toàn",
+          "description": "Dịch vụ này tạo điều kiện kết nối và giao tiếp giữa những người dùng có thể lựa chọn gặp mặt trực tiếp. Chúng tôi không thực hiện kiểm tra lý lịch hoặc xác minh danh tính của người dùng. Bạn hoàn toàn chịu trách nhiệm về các tương tác của mình với người khác. Hãy thận trọng, sử dụng lý trí và thực hiện các biện pháp an toàn thích hợp khi giao tiếp hoặc gặp gỡ người dùng khác ngoài đời thực."
+        }
+      },
+      "content": {
+        "title": "Nội dung",
+        "yourRight": {
+          "title": "Quyền đăng tải nội dung của bạn",
+          "description1": "Dịch vụ của chúng tôi cho phép bạn đăng tải Nội dung. Bạn chịu trách nhiệm về Nội dung mà bạn đăng tải lên Dịch vụ, bao gồm tính hợp pháp, độ tin cậy và tính phù hợp của Nội dung đó.",
+          "description2": "Bằng việc đăng tải Nội dung lên Dịch vụ, Bạn cấp cho Chúng tôi quyền và giấy phép sử dụng, chỉnh sửa, trình diễn công khai, hiển thị công khai, sao chép và phân phối Nội dung đó trên và thông qua Dịch vụ. Bạn giữ lại tất cả các quyền của mình đối với bất kỳ Nội dung nào Bạn gửi, đăng tải hoặc hiển thị trên hoặc thông qua Dịch vụ và Bạn chịu trách nhiệm bảo vệ các quyền đó.",
+          "description3": "Bạn tuyên bố và đảm bảo rằng: (i) Nội dung là của Bạn (Bạn sở hữu nó) hoặc Bạn có quyền sử dụng nó và cấp cho Chúng tôi các quyền và giấy phép như được quy định trong Điều khoản này, và (ii) việc đăng tải Nội dung của Bạn trên hoặc thông qua Dịch vụ không vi phạm quyền riêng tư, quyền công khai, bản quyền, quyền hợp đồng hoặc bất kỳ quyền nào khác của bất kỳ người nào."
+        },
+        "restrictions": {
+          "title": "Hạn chế nội dung",
+          "description1": "Công ty không chịu trách nhiệm về nội dung do người dùng Dịch vụ đăng tải. Bạn hiểu rõ và đồng ý rằng bạn hoàn toàn chịu trách nhiệm về Nội dung và mọi hoạt động diễn ra dưới tài khoản của bạn, cho dù do bạn hay bất kỳ bên thứ ba nào sử dụng tài khoản của bạn thực hiện.",
+          "description2": "Bạn không được phép truyền tải bất kỳ Nội dung nào bất hợp pháp, xúc phạm, gây khó chịu, có ý định gây ghê tởm, đe dọa, phỉ báng, bôi nhục, tục tĩu hoặc gây phản cảm khác. Ví dụ về Nội dung gây phản cảm bao gồm, nhưng không giới hạn ở những điều sau:",
+          "prohibitedContent": {
+            "unlawful": "Hành vi bất hợp pháp hoặc cổ vũ hành vi bất hợp pháp.",
+            "discriminatory": "Nội dung mang tính phỉ báng, phân biệt đối xử hoặc ác ý, bao gồm các tham chiếu hoặc bình luận về tôn giáo, chủng tộc, xu hướng tình dục, giới tính, nguồn gốc quốc gia/dân tộc hoặc các nhóm bị nhắm mục tiêu khác.",
+            "spam": "Thư rác, được tạo tự động hoặc ngẫu nhiên, bao gồm quảng cáo trái phép hoặc không được yêu cầu, thư dây chuyền, bất kỳ hình thức chào mời trái phép nào khác, hoặc bất kỳ hình thức xổ số hoặc cờ bạc nào.",
+            "malware": "Chứa hoặc cài đặt bất kỳ loại vi-rút, sâu máy tính, phần mềm độc hại, mã độc Trojan hoặc nội dung nào khác được thiết kế hoặc nhằm mục đích làm gián đoạn, gây hư hại hoặc hạn chế chức năng của bất kỳ phần mềm, phần cứng hoặc thiết bị viễn thông nào.",
+            "infringing": "Xâm phạm bất kỳ quyền sở hữu trí tuệ nào của bất kỳ bên nào, bao gồm bằng sáng chế, nhãn hiệu, bí mật thương mại, bản quyền, quyền công khai hoặc các quyền khác.",
+            "impersonating": "Giả mạo bất kỳ cá nhân hoặc tổ chức nào, bao gồm cả Công ty và nhân viên hoặc đại diện của Công ty.",
+            "privacy": "Vi phạm quyền riêng tư của bất kỳ bên thứ ba nào.",
+            "false": "Thông tin và tính năng sai lệch."
+          },
+          "description3": "Công ty có quyền, nhưng không có nghĩa vụ, tự quyết định xem bất kỳ Nội dung nào có phù hợp và tuân thủ các Điều khoản này hay không. Chúng tôi có thể từ chối hiển thị hoặc xóa Nội dung, và chúng tôi có quyền đình chỉ hoặc chấm dứt các tài khoản vi phạm các Điều khoản này hoặc tiêu chuẩn cộng đồng của chúng tôi."
+        },
+        "backups": {
+          "title": "Sao lưu nội dung",
+          "description1": "Mặc dù việc sao lưu nội dung được thực hiện thường xuyên, Công ty không đảm bảo sẽ không xảy ra mất mát hoặc hư hỏng dữ liệu.",
+          "description2": "Các điểm sao lưu bị lỗi hoặc không hợp lệ có thể do nhiều nguyên nhân, bao gồm nhưng không giới hạn ở: Nội dung bị lỗi trước khi được sao lưu hoặc thay đổi trong quá trình sao lưu.",
+          "description3": "Công ty sẽ hỗ trợ và cố gắng khắc phục mọi sự cố đã biết hoặc phát hiện có thể ảnh hưởng đến các bản sao lưu Nội dung. Tuy nhiên, Bạn thừa nhận rằng Công ty không chịu trách nhiệm liên quan đến tính toàn vẹn của Nội dung hoặc việc không thể khôi phục Nội dung về trạng thái có thể sử dụng được.",
+          "description4": "Bạn đồng ý duy trì một bản sao đầy đủ và chính xác của bất kỳ Nội dung nào ở một vị trí độc lập với Dịch vụ."
+        }
+      },
+      "copyright": {
+        "title": "Chính sách bản quyền",
+        "intellectualProperty": {
+          "title": "Vi phạm quyền sở hữu trí tuệ",
+          "description1": "Chúng tôi tôn trọng quyền sở hữu trí tuệ của người khác. Chính sách của chúng tôi là phản hồi mọi khiếu nại cho rằng Nội dung được đăng tải trên Dịch vụ vi phạm bản quyền hoặc quyền sở hữu trí tuệ khác của bất kỳ cá nhân nào.",
+          "description2": "Nếu bạn là chủ sở hữu bản quyền, hoặc được ủy quyền thay mặt chủ sở hữu bản quyền, và bạn tin rằng tác phẩm có bản quyền đã bị sao chép theo cách vi phạm bản quyền thông qua Dịch vụ, bạn phải gửi thông báo bằng văn bản đến người đại diện bản quyền của chúng tôi qua email tại support@ringdy.com và bao gồm trong thông báo của bạn mô tả chi tiết về hành vi vi phạm bị cáo buộc.",
+          "description3": "Bạn có thể phải chịu trách nhiệm bồi thường thiệt hại (bao gồm chi phí và phí luật sư) nếu đưa ra thông tin sai lệch rằng bất kỳ Nội dung nào đang vi phạm bản quyền của bạn."
+        },
+        "dmca": {
+          "title": "Thông báo DMCA và quy trình DMCA đối với các khiếu nại vi phạm bản quyền",
+          "description": "Bạn có thể gửi thông báo theo Đạo luật Bản quyền Thiên niên kỷ Kỹ thuật số (DMCA) bằng cách cung cấp cho Đại diện Bản quyền của chúng tôi những thông tin sau bằng văn bản:",
+          "requirements": {
+            "signature": "Chữ ký điện tử hoặc chữ ký vật lý của người được ủy quyền hành động thay mặt chủ sở hữu quyền tác giả.",
+            "description": "Mô tả tác phẩm có bản quyền mà bạn cho rằng đã bị xâm phạm, bao gồm URL (tức là địa chỉ trang web) nơi tác phẩm có bản quyền tồn tại hoặc một bản sao của tác phẩm có bản quyền.",
+            "identification": "Xác định URL hoặc vị trí cụ thể khác trên Dịch vụ nơi chứa nội dung mà bạn cho là vi phạm bản quyền.",
+            "contact": "Địa chỉ, số điện thoại và địa chỉ email của bạn.",
+            "goodFaith": "Bạn cần đưa ra tuyên bố rằng bạn tin tưởng một cách thiện chí rằng việc sử dụng đang tranh chấp không được chủ sở hữu bản quyền, người đại diện của họ hoặc pháp luật cho phép.",
+            "accuracy": "Bạn phải đưa ra tuyên bố, dưới hình thức cam kết chịu trách nhiệm trước pháp luật, rằng thông tin nêu trên trong thông báo của bạn là chính xác và bạn là chủ sở hữu bản quyền hoặc được ủy quyền hành động thay mặt chủ sở hữu bản quyền."
+          },
+          "contact": "Bạn có thể liên hệ với đại diện bản quyền của chúng tôi qua email tại support@ringdy.com. Sau khi nhận được thông báo, Công ty sẽ thực hiện bất kỳ hành động nào mà họ cho là phù hợp theo quyết định riêng của mình, bao gồm cả việc xóa nội dung bị khiếu nại khỏi Dịch vụ."
+        }
+      },
+      "intellectualProperty": {
+        "title": "Sở hữu trí tuệ",
+        "description1": "Dịch vụ và nội dung gốc của dịch vụ (ngoại trừ Nội dung do Bạn hoặc người dùng khác cung cấp), các tính năng và chức năng của dịch vụ đều thuộc sở hữu độc quyền của Công ty và các bên cấp phép của Công ty.",
+        "description2": "Dịch vụ này được bảo vệ bởi luật bản quyền, nhãn hiệu thương mại và các luật khác của cả trong nước và nước ngoài.",
+        "description3": "Các nhãn hiệu và kiểu dáng thương mại của chúng tôi không được phép sử dụng liên quan đến bất kỳ sản phẩm hoặc dịch vụ nào mà không có sự đồng ý bằng văn bản trước đó của Công ty."
+      },
+      "feedback": {
+        "title": "Phản hồi của bạn dành cho chúng tôi",
+        "description": "Bạn chuyển nhượng toàn bộ quyền, quyền sở hữu và lợi ích đối với bất kỳ phản hồi nào bạn cung cấp cho Công ty. Nếu vì bất kỳ lý do nào mà việc chuyển nhượng đó không hiệu quả, bạn đồng ý cấp cho Công ty quyền và giấy phép không độc quyền, vĩnh viễn, không thể hủy bỏ, miễn phí bản quyền, trên toàn thế giới để sử dụng, sao chép, tiết lộ, cấp phép lại, phân phối, sửa đổi và khai thác phản hồi đó mà không bị hạn chế."
+      },
+      "links": {
+        "title": "Liên kết đến các trang web khác",
+        "description1": "Dịch vụ của chúng tôi có thể chứa các liên kết đến các trang web hoặc dịch vụ của bên thứ ba không thuộc sở hữu hoặc kiểm soát của Công ty.",
+        "description2": "Công ty không kiểm soát và không chịu trách nhiệm về nội dung, chính sách bảo mật hoặc các hoạt động của bất kỳ trang web hoặc dịch vụ bên thứ ba nào. Bạn cũng thừa nhận và đồng ý rằng Công ty sẽ không chịu trách nhiệm, trực tiếp hoặc gián tiếp, đối với bất kỳ thiệt hại hoặc tổn thất nào gây ra hoặc được cho là gây ra bởi hoặc liên quan đến việc sử dụng hoặc dựa vào bất kỳ nội dung, hàng hóa hoặc dịch vụ nào có sẵn trên hoặc thông qua bất kỳ trang web hoặc dịch vụ nào như vậy.",
+        "description3": "Chúng tôi đặc biệt khuyên bạn nên đọc kỹ các điều khoản và điều kiện cũng như chính sách bảo mật của bất kỳ trang web hoặc dịch vụ bên thứ ba nào mà bạn truy cập."
+      },
+      "termination": {
+        "title": "Chấm dứt",
+        "description1": "Chúng tôi có thể chấm dứt hoặc tạm ngừng Tài khoản của Bạn ngay lập tức, mà không cần thông báo trước hoặc chịu trách nhiệm pháp lý, vì bất kỳ lý do nào, bao gồm nhưng không giới hạn ở trường hợp Bạn vi phạm các Điều khoản và Điều kiện này.",
+        "description2": "Khi chấm dứt, quyền sử dụng Dịch vụ của Bạn sẽ chấm dứt ngay lập tức. Nếu Bạn muốn chấm dứt Tài khoản của mình, Bạn chỉ cần ngừng sử dụng Dịch vụ.",
+        "dataDeletion": {
+          "title": "Xóa dữ liệu và chấm dứt tài khoản",
+          "description": "Bạn có thể yêu cầu xóa tài khoản và dữ liệu cá nhân của mình bất cứ lúc nào bằng cách liên hệ với chúng tôi qua địa chỉ support@ringdy.com hoặc sử dụng bất kỳ tính năng xóa tài khoản nào trong ứng dụng. Khi chấm dứt hoặc xóa, chúng tôi sẽ xóa hoặc ẩn danh dữ liệu cá nhân của bạn theo luật hiện hành, trừ trường hợp chúng tôi bắt buộc phải giữ lại một số dữ liệu nhất định vì mục đích pháp lý, an ninh hoặc hoạt động."
+        }
+      },
+      "liability": {
+        "title": "Giới hạn trách nhiệm",
+        "importantNotice": "Thông báo pháp lý quan trọng",
+        "notice": "Bất kể những thiệt hại mà Bạn có thể phải gánh chịu, toàn bộ trách nhiệm của Công ty và bất kỳ nhà cung cấp nào của Công ty theo bất kỳ điều khoản nào trong Điều khoản này và biện pháp khắc phục duy nhất của Bạn đối với tất cả những điều nêu trên sẽ được giới hạn ở số tiền thực tế mà Bạn đã thanh toán thông qua Dịch vụ hoặc 100 USD nếu Bạn chưa mua bất kỳ thứ gì thông qua Dịch vụ.",
+        "description1": "Trong phạm vi tối đa được pháp luật hiện hành cho phép, trong mọi trường hợp, Công ty hoặc các nhà cung cấp của Công ty sẽ không chịu trách nhiệm đối với bất kỳ thiệt hại đặc biệt, ngẫu nhiên, gián tiếp hoặc hậu quả nào (bao gồm nhưng không giới hạn ở thiệt hại do mất lợi nhuận, mất dữ liệu hoặc thông tin khác, gián đoạn kinh doanh, thương tích cá nhân, mất quyền riêng tư phát sinh từ hoặc liên quan đến việc sử dụng hoặc không thể sử dụng Dịch vụ, phần mềm và/hoặc phần cứng của bên thứ ba được sử dụng với Dịch vụ, hoặc liên quan đến bất kỳ điều khoản nào trong Điều khoản này), ngay cả khi Công ty hoặc bất kỳ nhà cung cấp nào đã được thông báo về khả năng xảy ra những thiệt hại đó và ngay cả khi biện pháp khắc phục không đạt được mục đích thiết yếu của nó.",
+        "description2": "Một số tiểu bang không cho phép loại trừ các bảo hành ngầm định hoặc giới hạn trách nhiệm đối với thiệt hại ngẫu nhiên hoặc hậu quả, điều đó có nghĩa là một số giới hạn nêu trên có thể không áp dụng. Tại các tiểu bang này, trách nhiệm của mỗi bên sẽ được giới hạn ở mức tối đa cho phép theo luật."
+      },
+      "disclaimer": {
+        "title": "Tuyên bố miễn trừ trách nhiệm \"NGUYÊN TRẠNG\" và \"SẴN BLE \"",
+        "description1": "Dịch vụ được cung cấp cho Bạn \"NGUYÊN TRẠNG\" và \"SẴN BLE \" và với tất cả các lỗi và khiếm khuyết mà không có bất kỳ bảo hành nào. Trong phạm vi tối đa được pháp luật hiện hành cho phép, Công ty, thay mặt cho chính mình và các Công ty liên kết cũng như các nhà cấp phép và nhà cung cấp dịch vụ tương ứng của mình, từ chối rõ ràng tất cả các bảo hành, dù là rõ ràng, ngầm định, theo luật định hay bất kỳ hình thức nào khác, đối với Dịch vụ, bao gồm tất cả các bảo hành ngầm định về khả năng bán được, sự phù hợp cho mục đích cụ thể, quyền sở hữu và không vi phạm, và các bảo hành có thể phát sinh từ quá trình giao dịch, quá trình thực hiện, sử dụng hoặc tập quán thương mại.",
+        "description2": "Không giới hạn bởi những điều đã nêu ở trên, Công ty không cung cấp bất kỳ bảo hành hoặc cam kết nào, và không đưa ra bất kỳ tuyên bố nào rằng Dịch vụ sẽ đáp ứng các yêu cầu của Bạn, đạt được bất kỳ kết quả mong muốn nào, tương thích hoặc hoạt động với bất kỳ phần mềm, ứng dụng, hệ thống hoặc dịch vụ nào khác, hoạt động mà không bị gián đoạn, đáp ứng bất kỳ tiêu chuẩn hiệu suất hoặc độ tin cậy nào hoặc không có lỗi hoặc rằng bất kỳ lỗi hoặc khiếm khuyết nào có thể hoặc sẽ được khắc phục.",
+        "description3": "Không giới hạn những điều đã nêu ở trên, cả Công ty lẫn bất kỳ nhà cung cấp nào của Công ty đều không đưa ra bất kỳ tuyên bố hoặc bảo đảm nào, dù rõ ràng hay ngụ ý: (i) về hoạt động hoặc tính khả dụng của Dịch vụ, hoặc thông tin, nội dung, tài liệu hoặc sản phẩm được bao gồm trên đó; (ii) rằng Dịch vụ sẽ không bị gián đoạn hoặc không có lỗi; (iii) về tính chính xác, độ tin cậy hoặc tính cập nhật của bất kỳ thông tin hoặc nội dung nào được cung cấp thông qua Dịch vụ; hoặc (iv) rằng Dịch vụ, máy chủ của Dịch vụ, nội dung hoặc email được gửi từ hoặc thay mặt Công ty không chứa vi-rút, tập lệnh, mã độc Trojan, sâu máy tính, phần mềm độc hại, bom hẹn giờ hoặc các thành phần độc hại khác.",
+        "description4": "Một số khu vực pháp lý không cho phép loại trừ một số loại bảo hành hoặc hạn chế các quyền theo luật định của người tiêu dùng, do đó một số hoặc tất cả các điều khoản loại trừ và hạn chế nêu trên có thể không áp dụng cho Bạn. Nhưng trong trường hợp đó, các điều khoản loại trừ và hạn chế được nêu trong phần này sẽ được áp dụng ở mức độ tối đa có thể thực thi theo luật hiện hành."
+      },
+      "governingLaw": {
+        "title": "Luật điều chỉnh",
+        "description": "Luật pháp của quốc gia đó, không bao gồm các quy tắc xung đột pháp luật, sẽ điều chỉnh các Điều khoản này và việc bạn sử dụng Dịch vụ. Việc bạn sử dụng Ứng dụng cũng có thể phải tuân theo các luật địa phương, tiểu bang, quốc gia hoặc quốc tế khác."
+      },
+      "disputes": {
+        "title": "Giải quyết tranh chấp",
+        "description": "Nếu Quý khách có bất kỳ thắc mắc hoặc tranh chấp nào về Dịch vụ, Quý khách đồng ý trước tiên sẽ cố gắng giải quyết tranh chấp một cách không chính thức bằng cách liên hệ với Công ty."
+      },
+      "euUsers": {
+        "title": "Dành cho người dùng Liên minh Châu Âu (EU)",
+        "description": "Nếu bạn là người tiêu dùng thuộc Liên minh Châu Âu, bạn sẽ được hưởng lợi từ mọi điều khoản bắt buộc của luật pháp quốc gia nơi bạn cư trú."
+      },
+      "usLegal": {
+        "title": "Tuân thủ pháp luật Hoa Kỳ",
+        "description": "Bạn cam kết và đảm bảo rằng (i) Bạn không cư trú tại một quốc gia đang chịu lệnh cấm vận của chính phủ Hoa Kỳ, hoặc quốc gia đã được chính phủ Hoa Kỳ chỉ định là quốc gia \"hỗ trợ khủng bố\", và (ii) Bạn không có tên trong bất kỳ danh sách nào của chính phủ Hoa Kỳ về các bên bị cấm hoặc bị hạn chế."
+      },
+      "severability": {
+        "title": "Tính hiệu lực từng phần và sự từ bỏ quyền",
+        "severabilityTitle": "Tính tách rời",
+        "severabilityDescription": "Nếu bất kỳ điều khoản nào trong Điều khoản này bị coi là không thể thực thi hoặc không hợp lệ, điều khoản đó sẽ được sửa đổi và diễn giải để đạt được mục tiêu của điều khoản đó ở mức tối đa có thể theo luật hiện hành, và các điều khoản còn lại vẫn tiếp tục có hiệu lực đầy đủ.",
+        "waiverTitle": "Miễn trừ",
+        "waiverDescription": "Trừ trường hợp được quy định khác trong đây, việc không thực hiện quyền hoặc không yêu cầu thực hiện nghĩa vụ theo các Điều khoản này sẽ không ảnh hưởng đến khả năng của một bên trong việc thực hiện quyền đó hoặc yêu cầu thực hiện nghĩa vụ đó vào bất kỳ thời điểm nào sau đó, cũng như việc từ bỏ quyền đối với một vi phạm sẽ không cấu thành việc từ bỏ quyền đối với bất kỳ vi phạm nào tiếp theo."
+      },
+      "translation": {
+        "title": "Phiên dịch",
+        "description": "Các Điều khoản và Điều kiện này có thể đã được dịch nếu Chúng tôi đã cung cấp chúng cho Bạn trên Dịch vụ của chúng tôi. Bạn đồng ý rằng văn bản tiếng Anh gốc sẽ được ưu tiên áp dụng trong trường hợp có tranh chấp."
+      },
+      "changes": {
+        "title": "Thay đổi đối với các Điều khoản và Điều kiện này",
+        "description1": "Chúng tôi có quyền, theo quyết định riêng của mình, sửa đổi hoặc thay thế các Điều khoản này bất cứ lúc nào. Nếu việc sửa đổi là quan trọng, chúng tôi sẽ nỗ lực hợp lý để thông báo trước ít nhất 30 ngày trước khi các điều khoản mới có hiệu lực. Việc xác định thay đổi nào là quan trọng sẽ do chúng tôi toàn quyền quyết định.",
+        "description2": "Bằng việc tiếp tục truy cập hoặc sử dụng Dịch vụ của chúng tôi sau khi các điều khoản sửa đổi có hiệu lực, bạn đồng ý bị ràng buộc bởi các điều khoản đã sửa đổi. Nếu bạn không đồng ý với các điều khoản mới, toàn bộ hoặc một phần, vui lòng ngừng sử dụng trang web và Dịch vụ."
+      },
+      "contact": {
+        "title": "Liên hệ với chúng tôi",
+        "description": "Nếu bạn có bất kỳ thắc mắc nào về các Điều khoản và Điều kiện này, bạn có thể liên hệ với chúng tôi:",
+        "email": "Qua email: support@ringdy.com",
+        "support": "Thông qua hệ thống hỗ trợ trong ứng dụng của chúng tôi",
+        "website": "Bằng cách truy cập trang web của chúng tôi: www.ringdy.com"
+      },
+      "backToHome": "Trở về Trang chủ",
+      "privacyPolicy": "Chính sách bảo mật"
+    }
+  },
+  "safety": {
+    "title": "Mẹo và thủ thuật an toàn",
+    "subtitle": "Sự an toàn của bạn là ưu tiên hàng đầu của chúng tôi. Tìm hiểu những mẹo thiết yếu để thiết lập mạng và kết nối an toàn.",
+    "lastUpdated": "Cập nhật lần cuối: Tháng 1 năm 2025",
+    "commitment": {
+      "title": "Cam kết của chúng tôi về sự an toàn của bạn",
+      "items": {
+        "privacy": "Bạn tự quyết định mức độ chia sẻ thông tin — có thể chuyển sang ảnh đại diện bất cứ lúc nào, và chúng tôi không bao giờ chia sẻ số điện thoại hoặc địa chỉ chính xác của bạn với người dùng khác.",
+        "noStorage": "Chúng tôi không tiết lộ thông tin liên hệ cá nhân của bạn cho người dùng khác trừ khi bạn tự nguyện chia sẻ thông tin đó.",
+        "tools": "Chúng tôi cung cấp các công cụ như chặn và báo cáo để đảm bảo bạn kiểm soát được mọi tương tác.",
+        "ageLimit": "Ringdy chỉ dành cho người dùng từ 18 tuổi trở lên."
+      }
+    },
+    "respectfulBehavior": {
+      "title": "Cần phải có thái độ tôn trọng.",
+      "expectation": "Chúng tôi mong muốn bạn:",
+      "items": {
+        "kind": "Hãy tử tế, tôn trọng và trung thực.",
+        "language": "Sử dụng ngôn ngữ lịch sự và phù hợp.",
+        "laws": "Tuân thủ luật pháp địa phương và các tiêu chuẩn cộng đồng.",
+        "genuine": "Chỉ sử dụng ứng dụng cho các tương tác chân thành và tôn trọng."
+      }
+    },
+    "prohibitedConduct": {
+      "title": "Hành vi bị cấm",
+      "warning": "Để đảm bảo an toàn cho mọi người, bạn không được phép:",
+      "items": {
+        "harassment": "Quấy rối, theo dõi hoặc bắt nạt bất kỳ ai",
+        "hateful": "Chia sẻ nội dung thù hận, bạo lực hoặc phân biệt đối xử",
+        "impersonation": "Mạo danh người khác hoặc tạo các phiên giả mạo",
+        "personalData": "Yêu cầu cung cấp thông tin cá nhân như địa chỉ, số điện thoại hoặc tài khoản mạng xã hội.",
+        "explicit": "Gửi tin nhắn tục tĩu, khiêu dâm hoặc xúc phạm.",
+        "scamming": "Tham gia vào các hoạt động lừa đảo, tấn công giả mạo danh tính hoặc yêu cầu tiền.",
+        "offPlatform": "Cố gắng chuyển các cuộc trò chuyện sang các ứng dụng nhắn tin bên ngoài với mục đích lừa đảo.",
+        "tracking": "Cố gắng theo dõi hoặc định vị người dùng vượt ra ngoài phạm vi mà Bluetooth cung cấp."
+      },
+      "consequence": "Bất kỳ hành vi nào trong số này đều có thể dẫn đến đình chỉ hoặc cấm vĩnh viễn."
+    },
+    "commonSense": {
+      "title": "Hãy sử dụng lý trí và sự thận trọng.",
+      "intro": "Bạn là người hiểu rõ nhất về sự an toàn của mình. Những lời khuyên này sẽ giúp ích cho bạn:",
+      "chatting": {
+        "title": "🗣 Khi trò chuyện:",
+        "items": {
+          "noPersonalInfo": "Đừng chia sẻ họ tên đầy đủ, địa chỉ, số điện thoại hoặc thông tin tài chính của bạn.",
+          "cautious": "Hãy cảnh giác với những người nhanh chóng yêu cầu chuyển cuộc trò chuyện sang nơi khác.",
+          "noPressure": "Đừng cảm thấy áp lực phải trả lời hoặc tiếp tục cuộc trò chuyện."
+        }
+      },
+      "redFlags": {
+        "title": "🛑 Hãy cảnh giác với những dấu hiệu đáng ngờ:",
+        "items": {
+          "quickLove": "Có người tuyên bố đang yêu chỉ sau vài tin nhắn.",
+          "moneyRequests": "Yêu cầu gửi tiền hoặc thông tin cá nhân",
+          "strangeLinks": "Các liên kết lạ hoặc yêu cầu trò chuyện ngoài nền tảng",
+          "emergencyStories": "Những câu chuyện liên quan đến việc đi lại khẩn cấp, hóa đơn bệnh viện hoặc vấn đề visa."
+        },
+        "advice": "Nếu cảm thấy có điều gì bất thường, hãy chặn và báo cáo."
+      }
+    },
+    "reportBlock": {
+      "title": "Công cụ báo cáo và chặn",
+      "intro": "Nếu ai đó:",
+      "reasons": {
+        "uncomfortable": "Khiến bạn cảm thấy khó chịu",
+        "violates": "Vi phạm quy định của chúng tôi.",
+        "suspicious": "Gửi tin nhắn đáng ngờ hoặc có hại"
+      },
+      "instruction": "Hãy sử dụng ngay tính năng chặn và báo cáo. Chúng tôi xem xét tất cả các báo cáo một cách nghiêm túc, và vi phạm nhiều lần có thể dẫn đến đình chỉ vĩnh viễn.",
+      "anonymity": "Bạn sẽ giữ kín danh tính khi báo cáo người khác. Người báo cáo sẽ không được biết ai đã báo cáo họ."
+    },
+    "meetingInPerson": {
+      "title": "Gặp mặt trực tiếp (nếu có)",
+      "disclaimer": "Ringdy được thiết kế để giúp bạn khám phá và kết nối với những người ở gần thông qua quét Bluetooth hoặc các địa điểm địa phương, và nhiều người dùng chọn gặp mặt trực tiếp sau khi ghép đôi. Vui lòng tuân thủ các biện pháp phòng ngừa sau:",
+      "safetyTips": {
+        "publicPlaces": "Chỉ gặp nhau ở nơi công cộng.",
+        "tellFriend": "Hãy kể cho bạn bè về kế hoạch của bạn.",
+        "shareLocation": "Chia sẻ vị trí của bạn với người mà bạn tin tưởng.",
+        "noRides": "Đừng nhận lời đi nhờ xe từ những người bạn vừa mới gặp.",
+        "staySober": "Hãy tỉnh táo và cảnh giác.",
+        "chargePhone": "Sạc điện thoại và để sẵn bên mình.",
+        "ownTransport": "Tự thu xếp phương tiện di chuyển cả hai chiều."
+      },
+      "reminder": "Nếu bạn cảm thấy không thoải mái, bạn có thể rời đi bất cứ lúc nào. Hãy chặn người dùng đó và báo cáo cho chúng tôi sau đó."
+    },
+    "enforcement": {
+      "title": "Biện pháp thực thi và an toàn",
+      "intro": "Ringdy có thể thực hiện các hành động sau đây khi xảy ra vi phạm:",
+      "actions": {
+        "suspend": "Tạm thời đình chỉ tài khoản",
+        "ban": "Cấm vĩnh viễn người dùng có hành vi lạm dụng.",
+        "lawEnforcement": "Báo cáo các mối đe dọa nghiêm trọng cho cơ quan thực thi pháp luật.",
+        "verification": "Yêu cầu xác minh đối với trường hợp nghi ngờ mạo danh."
+      }
+    },
+    "appeals": {
+      "title": "Khiếu nại và Hỗ trợ",
+      "intro": "Nếu bạn cảm thấy mình bị cấm một cách không công bằng, hoặc muốn báo cáo một vấn đề nghiêm trọng:",
+      "contact": {
+        "email": "📧 Email: support@ringdy.com",
+        "website": "🌐 Ghé thăm: Trung tâm An toàn Ringdy (Sắp ra mắt)"
+      }
+    },
+    "finalThoughts": {
+      "title": "Lời kết",
+      "message": "Ringdy ra đời để giúp mọi người kết nối với nhau một cách an toàn và ý nghĩa mà không cần tiết lộ danh tính cá nhân. Bạn luôn nắm quyền kiểm soát người mà bạn trò chuyện cùng, và chúng tôi luôn sẵn sàng hỗ trợ bạn."
+    },
+    "navigation": {
+      "backToHome": "Trở về Trang chủ",
+      "downloadApp": "Tải ứng dụng"
+    }
+  },
+  "profile": {
+    "connectViaBLE": "Kết nối qua BLE",
+    "stats": {
+      "connections": "Kết nối",
+      "messages": "Tin nhắn",
+      "filesShared": "Các tệp được chia sẻ"
+    },
+    "location": "San Francisco, California",
+    "onlineViaBLE": "Trực tuyến qua BLE",
+    "occupation": "Lập trình viên phần mềm - Công ty khởi nghiệp công nghệ",
+    "education": "Đại học Stanford - Khoa học Máy tính",
+    "interests": "Sở thích: IoT, Công nghệ Bluetooth , Phát triển ứng dụng di động",
+    "bio": "Tôi đam mê tạo ra những kết nối liền mạch thông qua công nghệ. Tôi thích khám phá những khả năng của Bluetooth Low Energy và xây dựng các ứng dụng giúp mọi người xích lại gần nhau hơn. Tôi luôn hào hứng kết nối với các nhà phát triển và những người đam mê công nghệ trong khu vực của mình. Hãy liên hệ với tôi nếu bạn muốn hợp tác hoặc chỉ đơn giản là muốn thảo luận về công nghệ!",
+    "showMore": "Hiển thị thêm"
+  },
+  "auth": {
+    "agreeWith": "Tôi đồng ý với"
+  }
+}

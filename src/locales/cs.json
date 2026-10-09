@@ -1,0 +1,1434 @@
+{
+  "navbar": {
+    "features": "Funkce",
+    "subscription": "Předplatné",
+    "download": "Stáhnout",
+    "legal": "Právní",
+    "privacyPolicy": "Zásady ochrany osobních údajů",
+    "termsOfUse": "Podmínky použití",
+    "safetyTips": "Bezpečnostní tipy a triky"
+  },
+  "hero": {
+    "title": "Najít lidi v okolí.\n Spojte se v reálném životě.",
+    "subtitle": "Zatřesením objevte lidi kolem sebe přes Bluetooth nebo se připojte k nedaleké akci a podívejte se, kdo je tam. Pošlete žádost o přátelství, spárujte se a začněte chatovat – s volitelným nastavením soukromí avatara, dokud nebudete připraveni sdílet další informace.",
+    "discoverFeatures": "Objevte funkce",
+    "downloadApp": "Stáhnout aplikaci",
+    "anonymousAvatars": "Volitelné avatary",
+    "autoExpiry": "Bluetooth + Místa konání",
+    "privacyFirst": "Soukromí na prvním místě"
+  },
+  "features": {
+    "proximityTitle": "Objevování na základě blízkosti",
+    "proximityDescription": "Najděte lidi v okolí pomocí Bluetooth nebo se připojte k místu konání na mapě. Pošlete žádost o přátelství a začněte chatovat, jakmile si budete oba rozumět.",
+    "avatarsTitle": "Volitelné soukromí avatara",
+    "avatarsDescription": "Nechte si avatara zapnutého, když se s někým seznamujete, a na skutečné fotografie se přepněte, až budete připraveni.",
+    "expiringTitle": "Objevování na místě konání",
+    "expiringDescription": "Procházejte navrhovaná místa v okolí a podívejte se, kdo se zaregistroval v daném okruhu – není třeba neustále skenovat.",
+    "revealTitle": "Lepení",
+    "revealDescription": "Označte exkluzivní spojení jako propojené, jakmile najdete někoho, s kým chcete zůstat.",
+    "bluetoothTitle": "Technologie Bluetooth LE",
+    "bluetoothDescription": "Připojte se bez internetu pomocí pokročilé technologie Bluetooth Low Energy pro efektivní lokální síť.",
+    "keyFeaturesTitle": "Klíčové vlastnosti",
+    "keyFeaturesDescription": "Ringdy je vybaven výkonnými funkcemi, které vylepší vaše lokální připojení, ať jste kdekoli.",
+    "downloadNow": "Stáhnout nyní",
+    "tags": {
+      "autoDiscovery": "Automatické vyhledávání",
+      "chatMessaging": "Zprávy v chatu",
+      "fileSharing": "Sdílení souborů",
+      "profiles": "Profily",
+      "privacyControls": "Ovládací prvky ochrany osobních údajů",
+      "offlineMode": "Offline režim",
+      "crossPlatform": "Multiplatformní",
+      "lowPower": "Nízká spotřeba energie"
+    }
+  },
+  "useCases": {
+    "actionTitle": "Ringdy v akci",
+    "actionDescription": "Automatické vyhledávání, chatování a sdílení profilů v reálném sociálním prostředí. Zažijte bezproblémové připojení s pokročilou technologií Bluetooth Low Energy, ať jste kdekoli.",
+    "campusTitle": "Připojení k kampusu",
+    "campusDescription": "Okamžitě najděte studijní partnery",
+    "eventTitle": "Networking akcí",
+    "eventDescription": "Spojte se na konferencích",
+    "businessTitle": "Obchodní setkání",
+    "businessDescription": "Profesionální kontakty",
+    "cafeTitle": "Kavárna Connections",
+    "cafeDescription": "Seznamte se s milovníky kávy v okolí",
+    "localTitle": "Místní objevy",
+    "localDescription": "Prozkoumejte své okolí",
+    "gamingTitle": "Herní skupiny",
+    "gamingDescription": "Najděte herní partnery",
+    "perfectTitle": "Perfektní případy použití",
+    "perfectDescription": "Ringdy promění jakékoli místo v příležitost k navazování kontaktů. Ať už jste na univerzitě, konferenci nebo v místní kavárně, ",
+    "perfectDescriptionContinued": "okamžitě objevovat smysluplná spojení.",
+    "approachDescription": "Od studijních skupin až po profesní networking, náš přístup založený na blízkosti umožňuje přirozené a bezproblémové navazování kontaktů.",
+    "tryItNow": "Vyzkoušejte to hned",
+    "tags": {
+      "studyGroups": "Studijní skupiny",
+      "events": "Události",
+      "coworking": "Coworking",
+      "gaming": "Hraní her",
+      "travel": "Cestovat",
+      "shopping": "Nakupování",
+      "fitness": "Fitness",
+      "social": "Sociální"
+    }
+  },
+  "community": {
+    "whyLoveTitle": "Proč lidé milují Ringdy",
+    "whyLoveDescription": "Naši uživatelé nám neustále říkají, jak Ringdy změnila jejich networkingový zážitek. Od setkávání s lidmi v kavárnách až po navazování kontaktů na akcích, aplikace vytváří skutečná spojení v okolí.",
+    "privacyProtection": "Design respektující soukromí",
+    "instantConnection": "Okamžité připojení bez internetu",
+    "lowPowerConsumption": "Ultranízká spotřeba energie",
+    "experienceTitle": "Zažijte Ringdy",
+    "experienceDescription": "Prozkoumejte naši aplikaci prostřednictvím různých uživatelských rozhraní. Z uživatelských profilů ",
+    "experienceDescriptionContinued": "k tokům připojení, podívejte se, jak Ringdy dělá sítě založené na blízkosti intuitivními a poutavými.",
+    "anonymousProfiles": "Profily avatarů",
+    "chatInterface": "Rozhraní chatu",
+    "nearbyDiscovery": "Objevování v okolí",
+    "joinTitle": "Připojte se k naší komunitě",
+    "joinDescription1": "Ringdy je víc než jen aplikace - je to způsob, jak se setkat s opravdovými lidmi ve vašem okolí, ať už prostřednictvím Bluetooth skenování nebo na vašich oblíbených místech.",
+    "joinDescription2": "Sledujte nás a buďte informováni o nových funkcích, uživatelských příbězích a komunitních akcích ve vaší oblasti!",
+    "downloadNow": "Stáhnout nyní"
+  },
+  "download": {
+    "title": "Stáhnout Ringdy",
+    "subtitle": "Stáhněte si Ringdy na své mobilní zařízení a začněte se spojovat s lidmi v okolí. Aplikace je nyní k dispozici na platformách Android i iOS.",
+    "googlePlay": "Google Play",
+    "appStore": "Obchod s aplikacemi",
+    "getItOn": "Pořiď si to",
+    "downloadOn": "Stáhnout na",
+    "comingSoon": "Již brzy",
+    "whatYouGet": "Co získáte",
+    "instantConnections": "Okamžité připojení",
+    "instantConnectionsDesc": "Spojte se okamžitě s lidmi v okolí pomocí technologie Bluetooth Low Energy nebo se připojte k místnímu podniku.",
+    "anonymousProfiles": "Soukromí avatara",
+    "anonymousProfilesDesc": "Pro ochranu soukromí si ponechte avatar a sdílejte své skutečné fotografie, kdykoli budete připraveni.",
+    "privacyFirst": "Soukromí na prvním místě",
+    "privacyFirstDesc": "Vy máte kontrolu nad tím, co a kdy sdílíte. Nástroje pro blokování a hlášení chrání komunitu.",
+    "crossPlatform": "Víceplatformní",
+    "crossPlatformDesc": "Funguje bezproblémově napříč zařízeními iOS a Android.",
+    "requirements": "Systémové požadavky",
+    "androidReq": "Android 6.0 nebo novější",
+    "iosReq": "iOS 12.0 nebo novější",
+    "bluetoothReq": "Podpora Bluetooth 4.0 ( BLE )",
+    "storageReq": "50 MB volného úložiště",
+    "systemDescription": "Ringdy vyžaduje zařízení s podporou Bluetooth Low Energy ( BLE ). Většina moderních chytrých telefonů a tabletů technologii BLE podporuje.",
+    "androidRequirements": "Požadavky na Android:",
+    "androidReq1": "Android 5.0 (úroveň API 21) nebo vyšší",
+    "androidReq2": "Podpora Bluetooth 4.0 LE",
+    "androidReq3": "Oprávnění k přístupu k poloze (pro skenování BLE )",
+    "androidReq4": "Doporučeno minimálně 2 GB RAM",
+    "iosRequirements": "Požadavky na iOS:",
+    "iosReq1": "iOS 12.0 nebo novější",
+    "iosReq2": "iPhone 5s nebo novější, iPad Air nebo novější",
+    "iosReq3": "Zařízení s podporou Bluetooth 4.0 LE",
+    "iosReq4": "Obnovování aplikací na pozadí povoleno",
+    "learnMoreFeatures": "Zjistěte více o funkcích Ringdy !",
+    "crossPlatformTitle": "Kompatibilita napříč platformami",
+    "crossPlatformCompatibilityDesc": "Spojte se s uživateli na různých platformách. Uživatelé systémů Android a iOS se mohou navzájem bez problémů objevovat a chatovat.",
+    "android": {
+      "title": "Android",
+      "description": "Plný zážitek Ringdy je k dispozici na zařízeních Android s operačním systémem Android 5.0 (úroveň API 21) a vyšším.",
+      "featuresTitle": "Vlastnosti:",
+      "features": {
+        "bluetooth": "Skenování a reklama Bluetooth LE",
+        "background": "Provoz na pozadí",
+        "notifications": "Push notifikace",
+        "offline": "Podpora offline režimu"
+      },
+      "downloadButton": "Stáhnout na Google Play"
+    },
+    "ios": {
+      "title": "iOS",
+      "description": "Nativní iOS aplikace optimalizovaná pro iPhone a iPad, kompatibilní s iOS 12.0 a novějšími verzemi.",
+      "featuresTitle": "Vlastnosti:",
+      "features": {
+        "bluetooth": "Základní integrace Bluetooth",
+        "background": "Obnovení aplikace na pozadí",
+        "privacy": "Design zaměřený na soukromí",
+        "universal": "Podpora univerzálních aplikací"
+      },
+      "downloadButton": "Stáhnout v App Storu"
+    },
+    "qrCode": {
+      "title": "Rychlé stažení",
+      "description": "Naskenujte QR kód fotoaparátem telefonu a stáhněte si Ringdy",
+      "placeholder": "QR kód",
+      "instruction": "Namiřte fotoaparát na QR kód pro stažení"
+    },
+    "installation": {
+      "title": "Snadná instalace",
+      "description": "Začít s Ringdy je jednoduché. Stáhněte si aplikaci, udělte potřebná oprávnění a začněte objevovat lidi v okolí.",
+      "step1": "Stáhnout z obchodu s aplikacemi vaší platformy",
+      "step2": "Udělit oprávnění k přístupu Bluetooth a poloze",
+      "step3": "Vytvořte si profil a začněte se seznamovat!"
+    },
+    "callToAction": {
+      "title": "Připojte se ke komunitě Ringdy",
+      "description": "Začněte se bezpečně a soukromě spojovat s lidmi ve svém okolí. Stáhněte si Ringdy ještě dnes a objevte budoucnost sítí proximity.",
+      "googlePlay": "Google Play",
+      "appStore": "Obchod s aplikacemi"
+    }
+  },
+  "featurePage": {
+    "title": "Objevte místa v okolí.\n Spojte se se skutečnými lidmi.",
+    "subtitle": "Procházejte doporučená místa v okolí, objevujte lidi kolem sebe přes Bluetooth a posílejte žádosti o přátelství, které vedou k opravdovým konverzacím.",
+    "exploreFeatures": "Prozkoumejte funkce",
+    "downloadApp": "Stáhnout aplikaci",
+    "heroTitle": "Objevte skutečná spojení v okolí",
+    "heroSubtitle": "Připojte se k doporučenému místu konání nebo si prohlédněte okolí, podívejte se, kdo je poblíž, a spojte se se zajímavými lidmi prostřednictvím technologie Bluetooth Low Energy.",
+    "discoverCrowdedPlaces": "Objevte místa konání v okolí",
+    "discoverCrowdedPlacesDesc": "Získejte tipy na oblíbená místa v okolí, kde se můžete setkat s lidmi s podobným smýšlením a navázat smysluplné kontakty.",
+    "scanThroughAvatars": "Podívejte se, kdo je poblíž",
+    "scanThroughAvatarsDesc": "Procházejte profilové karty lidí v okolí s možností ponechat si avatara, dokud nebudete připraveni sdílet další informace.",
+    "revealAndMeet": "Shoda a chat",
+    "revealAndMeetDesc": "Pošlete žádost o přátelství a jakmile bude přijata, budete se shodovat a můžete začít chatovat v aplikaci.",
+    "proximityBasedConnections": "Reálná spojení založená na blízkosti",
+    "proximityBasedConnectionsDesc": "Naše aplikace vám navrhuje místa v okolí, kde můžete objevit lidi s podobnými zájmy. Jakmile budete oba v dosahu, procházejte profily v okolí a najděte potenciální kontakty.",
+    "bleProximityTech": "Technologie Bluetooth Low Energy zajišťuje, že se můžete spojit pouze s lidmi, kteří jsou skutečně poblíž, takže každé spojení je autentické a skutečné.",
+    "downloadNow": "Stáhněte si Ringdy hned teď!",
+    "realTimeProximity": "Detekce blízkosti v reálném čase",
+    "realTimeProximityDesc": "Spojujte se pouze s lidmi, kteří jsou skutečně poblíž nebo na stejném místě jako vy, a zajistěte si tak autentické spojení.",
+    "howItWorks": "Jak to funguje",
+    "howItWorksDesc": "Tři jednoduché kroky k objevení míst v okolí, spojení se skutečnými lidmi a zahájení chatování.",
+    "step1Title": "Naskenujte nebo se připojte k místu konání",
+    "step1Desc": "Zatřeste pro skenování přes Bluetooth nebo si prohlédněte naše doporučené podniky v okolí a připojte se k tomu, který vás zajímá.",
+    "step2Title": "Procházet profily v okolí",
+    "step2Desc": "Zobrazujte si profilové karty lidí v okolí s volitelným nastavením soukromí avatarů, dokud nebudete připraveni sdílet další informace.",
+    "step3Title": "Odeslat požadavek a chatovat",
+    "step3Desc": "Pošlete žádost o přátelství a po jejím přijetí se shodujete a můžete začít chatovat přímo v aplikaci.",
+    "coreFeatures": "Základní funkce",
+    "proximityNetworking": "Proximity Networking",
+    "proximityDesc": "Spojte se s lidmi ve vašem bezprostředním okolí pomocí pokročilé technologie Bluetooth Low Energy.",
+    "anonymousChat": "Párování žádostí o přátelství",
+    "anonymousChatDesc": "Pošlete žádost o přátelství a začněte chatovat, jakmile bude přijata – žádný nátlak, žádný spam.",
+    "autoExpiry": "Objev místa konání",
+    "autoExpiryDesc": "Připojte se k navrhovaným místům v okolí a zjistěte, kdo se zaregistroval v daném okruhu.",
+    "gradualReveal": "Postupné odhalování identity",
+    "gradualRevealDesc": "Vyberte si, kdy přepnete z avatara na skutečné fotografie, protože se tak přirozeně vyvíjejí vztahy.",
+    "keyPrivacyFeatures": "Klíčové funkce ochrany osobních údajů",
+    "keyPrivacyFeaturesDesc": "Každá funkce je navržena pro bezpečné navazování kontaktů – od volitelných avatarů až po párování žádostí o přátelství, které chrání vaše soukromí.",
+    "avatarBasedProfiles": "Volitelné profily založené na avatarech",
+    "autoExpiringChats": "Objevování místa konání s daným okruhem",
+    "progressiveIdentity": "Postupné odhalování identity",
+    "ourTeam": "Náš tým",
+    "ourTeamDesc": "Vášniví odborníci, kteří se věnují propojování lidí prostřednictvím inovativních technologií kladoucích důraz na soukromí.",
+    "team": {
+      "alex": {
+        "name": "Alex Chen",
+        "role": "Inženýr protokolu BLE"
+      },
+      "sarah": {
+        "name": "Sarah Johnsonová",
+        "role": "Vývojář mobilních aplikací"
+      },
+      "maria": {
+        "name": "Maria Rodriguez",
+        "role": "Vedoucí oddělení ochrany osobních údajů a zabezpečení"
+      },
+      "david": {
+        "name": "David Kim",
+        "role": "Zakladatel a generální ředitel"
+      },
+      "title": "Náš tým",
+      "description": "Vášniví lidé, kteří se věnují propojování lidí prostřednictvím inovativních technologií kladoucích důraz na soukromí.",
+      "roles": {
+        "engineer": "Inženýr protokolu BLE",
+        "developer": "Vývojář mobilních aplikací",
+        "security": "Vedoucí oddělení ochrany osobních údajů a zabezpečení",
+        "ceo": "Zakladatel a generální ředitel"
+      }
+    },
+    "readyToConnect": "Jste připraveni se připojit?",
+    "readyToConnectDesc": "Spojte se s lidmi bezpečně prostřednictvím Bluetooth a vyhledávání míst konání. Spojte se, chatujte a odhalte svou identitu pouze tehdy, když najdete skutečné spojení.",
+    "finalFeatures": {
+      "anonymousAvatars": "Volitelné avatary",
+      "anonymousAvatarsDesc": "Nechte si avatar zapnutý, zatímco se s někým seznamujete, netlačte na to, abyste to hned odhalili.",
+      "autoExpire": "Místo konání a objevování Bluetooth",
+      "autoExpireDesc": "Najděte lidi skenováním v okolí přes Bluetooth nebo se připojte k doporučenému místnímu podniku.",
+      "friendRequests": "Žádosti o přátelství",
+      "friendRequestsDesc": "Posílejte žádosti zajímavým lidem a zahajujte konverzace pouze s těmi, kteří mají vzájemný zájem."
+    },
+    "eventNetworking": "Networking akcí",
+    "eventNetworkingDesc": "Objevte lidi kolem sebe na konferencích, setkáních a akcích pomocí Bluetooth senzoru blízkosti.",
+    "studyGroups": "Studijní skupiny",
+    "studyGroupsDesc": "Najděte si studijní partnery v okolí kampusu, aniž byste je museli znát.",
+    "workplace": "Pracoviště a kavárny",
+    "workplaceDesc": "Sejděte se s kolegy a dalšími profesionály v coworkingových prostorách a kavárnách v okolí.",
+    "anonymousNetworking": "Soukromí založené na avataru",
+    "anonymousNetworkingDesc": "Nechte si avatara, dokud se necítíte pohodlně, a pak sdílejte své skutečné fotografie, kdykoli budete chtít.",
+    "privacyProtection": "Vždy máte kontrolu nad tím, co a s kým sdílíte.",
+    "privacyFeatures": {
+      "title": "Soukromí, které máte pod kontrolou",
+      "description": "Ringdy je postavený tak, abyste se sami rozhodovali, co a kdy sdílíte – od toho, jak objevujete lidi, až po to, kolik ze sebe odhalíte.",
+      "avatarProfiles": "Volitelné profily založené na avatarech",
+      "autoExpiring": "Objevování místa konání s daným okruhem",
+      "progressiveReveal": "Odhalte své skutečné fotografie vlastním tempem"
+    },
+    "cta": {
+      "title": "Jste připraveni se připojit?",
+      "description": "Přidejte se k lidem, kteří objevují opravdová spojení ve svém okolí – přes Bluetooth nebo se přihlásením do místního podniku.",
+      "features": {
+        "anonymousAvatars": "Volitelné avatary",
+        "anonymousAvatarsDesc": "Nechte si avatar zapnutý, zatímco se s někým seznamujete, netlačte na to, abyste to hned odhalili.",
+        "autoExpire": "Místo konání a objevování Bluetooth",
+        "autoExpireDesc": "Najděte lidi prohledáním okolí nebo se připojte k doporučenému místnímu podniku.",
+        "friendRequests": "Žádosti o přátelství",
+        "friendRequestsDesc": "Posílejte žádosti zajímavým lidem a zahajujte konverzace pouze s těmi, kteří mají vzájemný zájem."
+      }
+    }
+  },
+  "subscription": {
+    "title": "Premium Ringdy",
+    "subtitle": "Odemkněte pokročilé funkce pro lepší připojení. Vyberte si tarif, který vyhovuje vašim síťovým potřebám.",
+    "weeklyTitle": "Týdenní Premium",
+    "weeklyPrice": "$1.99",
+    "weeklyPeriod": "/týden",
+    "weeklyDescription": "Perfektní pro vyzkoušení prémiových funkcí",
+    "chooseWeekly": "Vybrat týdenní",
+    "monthlyTitle": "Měsíční",
+    "monthlyPrice": "Zobrazit ceny",
+    "monthlyPeriod": "za měsíc",
+    "monthlyDescription": "Flexibilní, zrušte kdykoli",
+    "mostPopular": "Nejoblíbenější",
+    "chooseMonthly": "Vyberte měsíční",
+    "sixMonthTitle": "Šest měsíců",
+    "sixMonthPrice": "Zobrazit ceny",
+    "sixMonthPeriod": "za 6 měsíců",
+    "sixMonthDescription": "Ušetřete více za šest měsíců",
+    "chooseSixMonth": "Vyberte šest měsíců",
+    "featuresTitle": "Vysvětlení Premium funkcí",
+    "featuresDescription": "Ringdy Premium odemyká výkonné funkce určené ke zlepšení vašeho síťového zážitku a navazování smysluplnějších spojení.",
+    "enhancedNetworking": "Vylepšené síťování",
+    "enhancedNetworkingDesc": "Premium funkce vám pomohou se efektivněji připojit bez denních omezení.",
+    "features": {
+      "unlimitedRequests": "Neomezené žádosti o přátelství",
+      "advancedFilters": "Pokročilé filtry",
+      "meetingPlaces": "Chytré návrhy míst setkání",
+      "rematch": "Opětovné spojení s předchozími uživateli",
+      "unlimitedRequestsDesc": "Posílejte neomezené žádosti o přátelství denně. Bezplatní uživatelé omezeni na 20/den.",
+      "advancedFiltersDesc": "Filtrujte podle zájmů, osobnosti a ověřeného statusu pro autentická spojení.",
+      "meetingPlacesDesc": "Získejte personalizované návrhy polohy na základě vaší přesné oblasti.",
+      "rematchDesc": "Znovu se spojte s předchozími uživateli, když se znovu potkáte.",
+      "unlimitedConnections": "Neomezené připojení",
+      "unlimitedAreaAccess": "Neomezený přístup do oblasti",
+      "unlimitedUndo": "Neomezené vrácení zpět",
+      "profilePriority": "Priorita profilu",
+      "premiumAvatars": "Premium avatary",
+      "customAvatar": "Vlastní avatar",
+      "unlimitedConnectionsDesc": "Přidávejte přátele a přijímejte pozvánky bez jakýchkoli denních limitů.",
+      "unlimitedAreaAccessDesc": "Připojte se k tolika místům, kolik chcete, bez jakýchkoli omezení.",
+      "unlimitedUndoDesc": "Žádost o přidání do přátelství můžete kdykoli zrušit.",
+      "profilePriorityDesc": "Váš profil se vždy zobrazuje na začátku seznamu, který se zobrazuje ostatním uživatelům.",
+      "premiumAvatarsDesc": "Získejte přístup k exkluzivní kolekci prémiových designů avatarů.",
+      "customAvatarDesc": "Vytvořte si personalizovaného avatara na základě vlastních fotografií."
+    },
+    "faqTitle": "Často kladené otázky",
+    "faqDescription": "Máte otázky ohledně Ringdy Premium ? Máme odpovědi.",
+    "faq": {
+      "cancelTitle": "Mohu kdykoli zrušit své předplatné?",
+      "cancelAnswer": "Ano, předplatné můžete kdykoli zrušit prostřednictvím nastavení účtu nebo obchodu s aplikacemi ve vašem zařízení. Prémiové funkce zůstávají aktivní až do konce aktuálního fakturačního období.",
+      "unlimitedTitle": "Co znamená „Neomezené připojení“?",
+      "unlimitedAnswer": "S Premium si můžete přidávat přátele a přijímat pozvánky bez denních limitů, které platí pro bezplatné účty.",
+      "filtersTitle": "Co přesně jsou pokročilé filtry?",
+      "filtersAnswer": "Pokročilé filtry vám umožňují vyhledávat podle zájmů, věkového rozmezí, profese, vzdálenostního rádiusu a stavu aktivity. Můžete také filtrovat podle uživatelů, kteří jsou aktuálně online nebo byli nedávno aktivní pro lepší šance na spojení.",
+      "meetingTitle": "Jak funguje navrhování míst setkání?",
+      "meetingAnswer": "Naše AI navrhuje bezpečná, veřejná místa setkání jako kavárny, knihovny nebo co-workingové prostory v docházkové vzdálenosti obou uživatelů. Zvažuje vaše preference, aktuální polohu a denní dobu, aby doporučila nejlepší místa k setkání.",
+      "rematchTitle": "Co znamená \"opětovné spojení s předchozími uživateli\"?",
+      "rematchAnswer": "Pokud jste měli konverzaci, která vypršela (30 minut) bez odhalení identit, prémiový uživatelé se mohou znovu spojit s touto osobou, pokud se s ní setkáte v okolí. To vám dává druhou šanci navázat spojení.",
+      "trialTitle": "Je k dispozici bezplatná zkušební verze?",
+      "trialAnswer": "Ano! Noví uživatelé získají 7denní bezplatnou zkušební verzi všech prémiových funkcí. Můžete prozkoumat neomezené žádosti o přátelství, pokročilé filtry a návrhy setkání, než se rozhodnete, který plán vám nejlépe vyhovuje.",
+      "offlineTitle": "Fungují prémiové funkce bez internetu?",
+      "offlineAnswer": "BLE detekce blízkosti funguje offline, ale prémiové funkce jako návrhy lokací, neomezené žádosti a pokročilé filtry vyžadují připojení k internetu pro plnou funkčnost.",
+      "paymentTitle": "Jaké platební metody akceptujete?",
+      "paymentAnswer": "Přijímáme platby prostřednictvím obchodu s aplikacemi vašeho zařízení (Google Play nebo App Store), a to všemi tam podporovanými platebními metodami.",
+      "areaTitle": "Co je to „neomezený přístup do oblasti“?",
+      "areaAnswer": "Premium členové se mohou připojit k tolika místům v okolí, kolik chtějí, bez omezení, kolik oblastí mohou denně objevovat.",
+      "ticketsTitle": "Co jsou to Discovery Passy?",
+      "ticketsAnswer": "Discovery Passy jsou alternativou k předplatnému s možností platby podle potřeby – každý pas vám umožní připojit se k jednomu z blízkých míst a prozkoumat je, aniž byste se museli zavazovat k opakovanému tarifu.",
+      "nightPassTitle": "Co je Night Pass ?",
+      "nightPassAnswer": "Night Pass je 24hodinová permanentka, která vám umožní objevovat místa konání akce na celý den nebo noc, aniž byste museli spotřebovat Discovery Pass."
+    },
+    "priceDisclaimer": "Ceny jsou přibližné převody z USD na základě regionu vašeho prohlížeče. Pokud kurzy nejsou k dispozici, zobrazují se v USD. Konečné ceny v aplikaci jsou stanoveny vaším obchodem s aplikacemi a mohou se lišit.",
+    "yearlyTitle": "Roční",
+    "yearlyPrice": "Zobrazit ceny",
+    "yearlyPeriod": "za rok",
+    "yearlyDescription": "Nejlepší hodnota pro běžné uživatele",
+    "bestValue": "Nejlepší hodnota",
+    "chooseYearly": "Vyberte roční",
+    "tickets": {
+      "title": "Objevovací vstupenky",
+      "subtitle": "Využijte funkci Objevy k prozkoumání lidí v okolí bez plného předplatného.",
+      "single": "Jednotlivý objev",
+      "singleDesc": "Použijte jednu vstupenku k vstupu na jedno místo konání a podívejte se, kdo tam je.",
+      "venueAccessFeature": "Každá permanentka odemyká přístup na jedno místo konání.",
+      "pack3": "3 objevy",
+      "pack3Desc": "Tři vstupenky Discovery Pass. Každá vstupenka odemyká jedno místo konání.",
+      "pack5": "5 objevů",
+      "pack5Desc": "Pět vstupenek Discovery Pass. Každý vstup odemyká jedno místo konání.",
+      "bestValue": "Nejlepší hodnota",
+      "specialTicket": "Night Pass",
+      "specialTicketDesc": "Neomezený počet vstupů do prostoru na 24 hodin bez nutnosti použití Discovery Pass."
+    }
+  },
+  "footer": {
+    "keepInTouch": "Zůstaňme v kontaktu!",
+    "findUsOn": "Najdete nás na kterékoli z těchto platforem, odpovídáme do 1–2 pracovních dnů.",
+    "usefulLinks": "Užitečné odkazy",
+    "aboutUs": "O nás",
+    "blog": "Blog",
+    "github": "Github",
+    "freeProducts": "Bezplatné produkty",
+    "otherResources": "Další zdroje",
+    "mitLicense": "Licence MIT",
+    "termsConditions": "Obchodní podmínky",
+    "privacyPolicy": "Zásady ochrany osobních údajů",
+    "contactUs": "Kontaktujte nás",
+    "copyright": "Autorská práva © {{year}} Ringdy . Všechna práva vyhrazena."
+  },
+  "legal": {
+    "privacyPolicy": {
+      "title": "Zásady ochrany osobních údajů",
+      "subtitle": "Vaše soukromí je naší prioritou. Zjistěte, jak chráníme vaše data a jak vám dáváme plnou kontrolu nad tím, co sdílíte.",
+      "lastUpdated": "Poslední aktualizace: leden 2025",
+      "introduction": "Tyto Zásady ochrany osobních údajů popisují naše zásady a postupy týkající se shromažďování, používání a zveřejňování vašich informací při používání Služby a informují vás o vašich právech na ochranu soukromí a o tom, jak vás chrání zákon.",
+      "agreement": "Vaše osobní údaje používáme k poskytování a vylepšování Služby. Používáním Služby souhlasíte se shromažďováním a používáním informací v souladu s těmito Zásadami ochrany osobních údajů.",
+      "sections": {
+        "interpretationTitle": "Interpretace a definice",
+        "interpretationSubtitle": "Výklad",
+        "definitionsSubtitle": "Definice",
+        "interpretationText": "Slova, jejichž počáteční písmeno je velké, mají význam definovaný za následujících podmínek. Následující definice mají stejný význam bez ohledu na to, zda se objevují v jednotném nebo množném čísle.",
+        "definitionsText": "Pro účely těchto Zásad ochrany osobních údajů:",
+        "definitionLabels": {
+          "account": "Účet:",
+          "affiliate": "Partnerský program:",
+          "application": "Aplikace:",
+          "business": "Obchod:",
+          "ccpaCpra": "CCPA a/nebo CPRA:",
+          "company": "Společnost:",
+          "consumer": "Spotřebitel:",
+          "country": "Země:",
+          "dataController": "Správce údajů:",
+          "device": "Zařízení:",
+          "doNotTrack": "Nesledovat (DNT):",
+          "gdpr": "GDPR:",
+          "personalData": "Osobní údaje:",
+          "service": "Servis:",
+          "serviceProvider": "Poskytovatel služeb:",
+          "thirdPartySocialMedia": "Služby sociálních médií třetích stran:",
+          "usageData": "Údaje o použití:",
+          "you": "Vy:"
+        },
+        "definitions": {
+          "account": "Unikátní účet vytvořený pro Vás pro přístup k naší Službě nebo jejím částem.",
+          "affiliate": "Subjekt, který ovládá stranu, je ovládán stranou nebo je pod společnou kontrolou se stranou, kde „kontrola“ znamená vlastnictví 50 % nebo více akcií, podílů na kapitálu nebo jiných cenných papírů s hlasovacím právem pro volbu ředitelů nebo jiného řídícího orgánu.",
+          "application": "Odkazuje na Ringdy , softwarový program poskytovaný společností.",
+          "business": "Pro účely CCPA/CPRA se vztahuje na Společnost jako na právnickou osobu, která shromažďuje osobní údaje Spotřebitelů a určuje účely a prostředky zpracování osobních údajů Spotřebitelů.",
+          "ccpaCpra": "Odkazuje na kalifornský zákon o ochraně soukromí spotřebitelů („CCPA“) ve znění kalifornského zákona o právech na soukromí z roku 2020 („CPRA“).",
+          "company": "V této Smlouvě označované výrazy „Společnost“, „My“, „Nás“ nebo „Naše“ označují Ringdy . Pro účely GDPR je Společnost správcem údajů.",
+          "consumer": "Pro účely CCPA/CPRA se rozumí fyzická osoba, která je rezidentem Kalifornie.",
+          "country": "Odkazuje na: Spojené státy",
+          "dataController": "Pro účely GDPR (obecné nařízení o ochraně osobních údajů) se Společnost vztahuje jako právnická osoba, která sama nebo společně s jinými určuje účely a prostředky zpracování Osobních údajů.",
+          "device": "Jakékoli zařízení, které má přístup ke Službě, jako je chytrý telefon, tablet nebo počítač.",
+          "doNotTrack": "Koncept, který prosazují americké regulační orgány pro internetový průmysl, jež má za cíl vyvinout a implementovat mechanismus, který uživatelům internetu umožní kontrolovat sledování jejich online aktivit napříč webovými stránkami.",
+          "gdpr": "Odkazuje na obecné nařízení EU o ochraně osobních údajů.",
+          "personalData": "Jakékoli informace, které se vztahují k identifikované nebo identifikovatelné osobě. Pro účely GDPR se osobními údaji rozumí jakékoli informace, které se vás týkají, jako je jméno, identifikační číslo, údaje o poloze, online identifikátor nebo jeden či více faktorů specifických pro vaši fyzickou, fyziologickou, genetickou, duševní, ekonomickou, kulturní nebo sociální identitu.",
+          "service": "Odkazuje na aplikaci.",
+          "serviceProvider": "Jakákoli fyzická nebo právnická osoba, která zpracovává údaje jménem Společnosti. Týká se to společností nebo osob třetích stran zaměstnaných Společností za účelem usnadnění Služby, poskytování Služby jménem Společnosti, provádění služeb souvisejících se Službou nebo pomoci Společnosti s analýzou způsobu používání Služby.",
+          "thirdPartySocialMedia": "Jakákoli webová stránka nebo webová stránka sociální sítě, jejímž prostřednictvím se Uživatel může přihlásit nebo si vytvořit účet za účelem používání Služby.",
+          "usageData": "Data shromažďovaná automaticky, buď generovaná používáním Služby, nebo ze samotné infrastruktury Služby (například délka návštěvy stránky).",
+          "you": "Jednotlivec, který přistupuje ke Službě nebo ji používá, nebo společnost či jiná právnická osoba, jejímž jménem takový jednotlivec přistupuje ke Službě nebo ji používá, dle okolností."
+        },
+        "dataCollectionTitle": "Shromažďování a používání vašich osobních údajů",
+        "dataTypesTitle": "Typy shromažďovaných údajů",
+        "personalDataTitle": "Osobní údaje",
+        "personalDataDescription": "Během používání naší služby vás můžeme požádat o poskytnutí určitých osobních údajů, které lze použít k vaší kontaktování nebo identifikaci. Osobní údaje mohou zahrnovat, mimo jiné:",
+        "usageDataTitle": "Údaje o užívání",
+        "usageDataDescription1": "Údaje o užívání se shromažďují automaticky při používání Služby.",
+        "usageDataDescription2": "Údaje o užívání mohou zahrnovat informace, jako je adresa internetového protokolu vašeho zařízení (např. IP adresa), typ prohlížeče, verze prohlížeče, stránky naší služby, které navštěvujete, čas a datum vaší návštěvy, čas strávený na těchto stránkách, jedinečné identifikátory zařízení a další diagnostická data.",
+        "usageDataDescription3": "Když přistupujete ke Službě prostřednictvím mobilního zařízení, můžeme automaticky shromažďovat určité informace, mimo jiné včetně typu mobilního zařízení, které používáte, jedinečného ID vašeho mobilního zařízení, IP adresy vašeho mobilního zařízení, vašeho mobilního operačního systému, typu mobilního internetového prohlížeče, který používáte, jedinečných identifikátorů zařízení a dalších diagnostických údajů.",
+        "thirdPartyTitle": "Informace ze služeb sociálních médií třetích stran",
+        "thirdPartyDescription1": "Společnost Vám umožňuje vytvořit si účet a přihlásit se k používání Služby prostřednictvím následujících služeb sociálních médií třetích stran:",
+        "thirdPartyDescription2": "Pokud se rozhodnete zaregistrovat prostřednictvím služby sociálních médií třetí strany nebo nám jinak udělit přístup k ní, můžeme shromažďovat osobní údaje, které jsou již přidruženy k vašemu účtu u služby sociálních médií třetí strany, jako je vaše jméno, vaše e-mailová adresa, vaše aktivity nebo váš seznam kontaktů přidružený k danému účtu.",
+        "appDataTitle": "Informace shromažďované během používání aplikace",
+        "appDataDescription1": "Během používání naší aplikace můžeme za účelem poskytování funkcí naší aplikace s vaším předchozím souhlasem shromažďovat:",
+        "appDataDescription2": "Tyto informace používáme k poskytování funkcí naší služby, k jejímu vylepšování a přizpůsobení. Informace mohou být uloženy lokálně ve vašem zařízení nebo nahrány na šifrované servery. Přístup k těmto informacím můžete kdykoli povolit nebo zakázat v nastavení vašeho zařízení.",
+        "dataUseTitle": "Použití vašich osobních údajů",
+        "dataUseDescription": "Společnost může použít Osobní údaje k následujícím účelům:",
+        "sharingTitle": "Sdílení osobních údajů",
+        "sharingDescription": "Vaše osobní údaje můžeme sdílet v následujících situacích:",
+        "retentionTitle": "Uchovávání vašich osobních údajů"
+      },
+      "dataUses": {
+        "provide": "Pro poskytování a údržbu naší Služby: Včetně sledování používání naší Služby a umožnění vyhledávání osob v okolí na základě Bluetooth a místa konání.",
+        "account": "Správa Vašeho účtu: Správa Vaší registrace jako uživatele Služby. Osobní údaje, které poskytnete, Vám mohou poskytnout přístup k různým funkcím Služby, které jsou Vám k dispozici jako registrovanému uživateli.",
+        "contract": "Pro plnění smlouvy: Vypracování, dodržování a provádění služeb, které jste si objednali, nebo jakékoli jiné smlouvy s námi prostřednictvím Služby.",
+        "contact": "Kontaktovat vás: Kontaktovat vás e-mailem, push notifikacemi nebo jinými ekvivalentními formami elektronické komunikace ohledně aktualizací, bezpečnostních oznámení nebo informativních sdělení souvisejících s funkcemi.",
+        "offers": "Abychom vám mohli poskytovat novinky a speciální nabídky: O dalším zboží, službách a akcích, které nabízíme a které jsou podobné těm, které jste již využili nebo se na ně informovali, pokud jste se nerozhodli, že si nepřejete tyto informace dostávat.",
+        "requests": "Pro správu vašich požadavků: Pro vyřizování a správu vašich požadavků směřovaných k nám.",
+        "content": "Pro poskytování cíleného obsahu: Vaše informace můžeme použít k vývoji a zobrazování obsahu přizpůsobeného vašim zájmům a poloze (pro vyhledávání uživatelů v okolí) a k měření jeho efektivity.",
+        "business": "V případě převodů podniků: Vaše informace můžeme použít k vyhodnocení nebo provedení fúze, odprodeje, restrukturalizace, reorganizace, zrušení nebo jiného prodeje či převodu některých nebo všech našich aktiv.",
+        "other": "Pro jiné účely: Vaše informace můžeme použít k jiným účelům, jako je analýza dat, identifikace trendů v používání, určení účinnosti našich propagačních kampaní a k vyhodnocení a vylepšení našich služeb, produktů, služeb, marketingu a vaší zkušenosti."
+      },
+      "sharingTypes": {
+        "providers": "S poskytovateli služeb: Vaše osobní údaje můžeme sdílet s poskytovateli služeb za účelem sledování a analýzy používání našich služeb, zpracování plateb a za účelem kontaktování.",
+        "transfers": "V případě převodu podnikání: Vaše osobní údaje můžeme sdílet nebo převést v souvislosti s jakoukoli fúzí, prodejem aktiv Společnosti, financováním nebo akvizicí celé Naší firmy nebo její části jiné společnosti, nebo během takových jednání.",
+        "affiliates": "S přidruženými společnostmi: Vaše informace můžeme sdílet s našimi přidruženými společnostmi, v takovém případě budeme od těchto přidružených společností požadovat, aby dodržovaly tyto Zásady ochrany osobních údajů.",
+        "partners": "S obchodními partnery: Vaše informace můžeme sdílet s našimi obchodními partnery, abychom vám mohli nabídnout určité produkty, služby nebo propagační akce.",
+        "users": "S ostatními uživateli: Když objevíte a spojíte se s dalšími uživateli v okolí, informace o vašem profilu (včetně vašeho jména a fotografií nebo vašeho avatara, pokud jste se rozhodli jej použít) jsou sdíleny jako součást procesu objevování, žádosti o přátelství a párování. Kdykoli si sami určíte, zda se má zobrazit avatar nebo vaše skutečné fotografie.",
+        "consent": "S Vaším souhlasem: Vaše osobní údaje můžeme s Vaším souhlasem zveřejnit pro jakýkoli jiný účel."
+      },
+      "security": {
+        "title": "Zabezpečení vašich osobních údajů",
+        "description": "Bezpečnost vašich osobních údajů je pro nás důležitá, ale nezapomeňte, že žádná metoda přenosu přes internet ani metoda elektronického ukládání není 100% bezpečná. I když se snažíme používat komerčně přijatelné prostředky k ochraně vašich osobních údajů, včetně šifrování end-to-end pro chatovací zprávy a zabezpečených protokolů Bluetooth , nemůžeme zaručit jejich absolutní bezpečnost."
+      },
+      "contact": {
+        "title": "Kontaktujte nás",
+        "description": "Pokud máte jakékoli dotazy ohledně těchto Zásad ochrany osobních údajů, můžete nás kontaktovat:",
+        "email": "E-mailem: privacy@ringdy.com",
+        "website": "Na této stránce našich webových stránek: https://ringdy.com/contact",
+        "mail": "Poštou: Ringdy Privacy Team, 123 Tech Street, San Francisco, CA 94105, Spojené státy americké"
+      },
+      "shineTheLight": {
+        "title": "Vaše práva na ochranu osobních údajů v Kalifornii (kalifornský zákon Shine the Light)",
+        "description1": "Podle § 1798 kalifornského občanského zákoníku (kalifornský zákon Shine the Light) si mohou obyvatelé Kalifornie, kteří s námi mají zavedený obchodní vztah, jednou ročně vyžádat informace o sdílení svých osobních údajů se třetími stranami pro účely přímého marketingu těchto třetích stran.",
+        "description2": "Pokud byste chtěli požádat o další informace podle kalifornského zákona Shine the Light a pokud jste rezidentem Kalifornie, můžete nás kontaktovat pomocí níže uvedených kontaktních údajů."
+      },
+      "minorUsers": {
+        "title": "Práva nezletilých uživatelů na ochranu osobních údajů v Kalifornii (kalifornský obchodní a profesní zákoník, paragraf 22581)",
+        "description1": "Paragraf 22581 kalifornského obchodního a profesního zákoníku umožňuje obyvatelům Kalifornie mladším 18 let, kteří jsou registrovanými uživateli online stránek, služeb nebo aplikací, požádat o odstranění obsahu nebo informací, které veřejně zveřejnili, a dosáhnout jejich odstranění.",
+        "description2": "Chcete-li požádat o odstranění těchto údajů, a pokud jste rezidentem Kalifornie, můžete nás kontaktovat pomocí níže uvedených kontaktních údajů a uvést e-mailovou adresu spojenou s vaším účtem.",
+        "description3": "Upozorňujeme, že Vaše žádost nezaručuje úplné nebo komplexní odstranění obsahu nebo informací zveřejněných online a že zákon nemusí za určitých okolností odstranění povolovat nebo vyžadovat."
+      },
+      "childrenPrivacy": {
+        "title": "Soukromí dětí",
+        "description1": "Naše Služba není určena pro osoby mladší 13 let. Vědomě neshromažďujeme osobní údaje od osob mladších 13 let. Pokud jste rodič nebo zákonný zástupce a víte, že nám Vaše dítě poskytlo osobní údaje, kontaktujte nás prosím.",
+        "description2": "Pokud zjistíme, že jsme shromáždili osobní údaje od osoby mladší 13 let bez ověření souhlasu rodičů, podnikneme kroky k odstranění těchto informací z našich serverů.",
+        "description3": "Pokud se potřebujeme spoléhat na souhlas jako právní základ pro zpracování Vašich údajů a Vaše země vyžaduje souhlas rodiče, můžeme si před shromažďováním a použitím těchto údajů vyžádat souhlas Vašeho rodiče."
+      },
+      "linksToOtherWebsites": {
+        "title": "Odkazy na jiné webové stránky",
+        "description": "Naše Služba může obsahovat odkazy na jiné webové stránky, které neprovozujeme. Pokud kliknete na odkaz třetí strany, budete přesměrováni na stránky dané třetí strany. Důrazně vám doporučujeme, abyste si přečetli Zásady ochrany osobních údajů všech stránek, které navštívíte. Nemáme žádnou kontrolu nad obsahem, zásadami ochrany osobních údajů ani postupy jakýchkoli stránek nebo služeb třetích stran a nepřebíráme za ně žádnou odpovědnost."
+      },
+      "changes": {
+        "title": "Změny těchto Zásad ochrany osobních údajů",
+        "description1": "Naše Zásady ochrany osobních údajů můžeme čas od času aktualizovat. O všech změnách vás budeme informovat zveřejněním nových Zásad ochrany osobních údajů na této stránce.",
+        "description2": "Před vstoupením změny v platnost vás o tom budeme informovat e-mailem a/nebo výrazným oznámením v našich službách a aktualizujeme datum „Poslední aktualizace“ v horní části těchto Zásad ochrany osobních údajů.",
+        "description3": "Doporučuje se vám pravidelně kontrolovat tyto Zásady ochrany osobních údajů, zda nedošlo k jejich změnám. Změny těchto Zásad ochrany osobních údajů nabývají účinnosti okamžikem jejich zveřejnění na této stránce."
+      },
+      "backToHome": "Zpět na domovskou stránku",
+      "retention": {
+        "description1": "Společnost bude uchovávat vaše osobní údaje pouze po dobu nezbytně nutnou pro účely stanovené v těchto Zásadách ochrany osobních údajů. Vaše osobní údaje budeme uchovávat a používat v rozsahu nezbytném k plnění našich zákonných povinností, řešení sporů a vymáhání našich právních dohod a zásad.",
+        "description2": "Společnost bude také uchovávat údaje o užívání pro účely interní analýzy. Údaje o užívání jsou obecně uchovávány po kratší dobu, s výjimkou případů, kdy jsou tyto údaje použity k posílení zabezpečení nebo ke zlepšení funkčnosti naší služby, nebo kdy jsme ze zákona povinni tyto údaje uchovávat po delší dobu."
+      },
+      "transfer": {
+        "title": "Přenos vašich osobních údajů",
+        "description1": "Vaše informace, včetně osobních údajů, jsou zpracovávány v provozních kancelářích Společnosti a na všech dalších místech, kde se nacházejí strany zapojené do zpracování. To znamená, že tyto informace mohou být přeneseny do počítačů umístěných mimo Váš stát, provincii, zemi nebo jinou vládní jurisdikci, kde se zákony na ochranu osobních údajů mohou lišit od zákonů platných ve Vaší jurisdikci, a na těchto počítačích mohou být uchovávány.",
+        "description2": "Váš souhlas s těmito Zásadami ochrany osobních údajů a následné poskytnutí těchto informací představuje Váš souhlas s tímto přenosem. Společnost podnikne veškeré nezbytně nutné kroky k zajištění bezpečného nakládání s Vašimi údaji v souladu s těmito Zásadami ochrany osobních údajů a Vaše osobní údaje nebudou předány žádné organizaci ani zemi, pokud nebudou zavedeny odpovídající kontroly, včetně zabezpečení Vašich údajů a dalších osobních údajů."
+      },
+      "deletion": {
+        "title": "Smazání osobních údajů",
+        "description1": "Máte právo smazat nebo požádat o pomoc s smazáním osobních údajů, které jsme o vás shromáždili.",
+        "description2": "Naše Služba vám může umožnit smazat určité informace o vás v rámci Služby.",
+        "description3": "Své informace můžete kdykoli aktualizovat, upravit nebo smazat přihlášením ke svému účtu, pokud jej máte, a návštěvou sekce nastavení účtu, která vám umožňuje spravovat vaše osobní údaje. Můžete nás také kontaktovat a požádat o přístup k jakýmkoli osobním údajům, které jste nám poskytli, o jejich opravu nebo smazání."
+      },
+      "disclosure": {
+        "title": "Zveřejnění vašich osobních údajů",
+        "businessTitle": "Obchodní transakce",
+        "businessDescription": "Pokud se Společnost účastní fúze, akvizice nebo prodeje aktiv, mohou být Vaše osobní údaje převedeny. Před převodem Vašich osobních údajů, který se na ně bude vztahovat jiný Zásad ochrany osobních údajů, Vás o tom informujeme.",
+        "lawTitle": "Vymáhání práva",
+        "lawDescription": "Za určitých okolností může být Společnost povinna zveřejnit Vaše osobní údaje, pokud to vyžaduje zákon nebo v reakci na platné žádosti veřejných orgánů (např. soudu nebo vládní agentury).",
+        "legalTitle": "Další právní požadavky",
+        "legalDescription": "Společnost může zveřejnit Vaše osobní údaje v dobré víře, že je takový krok nezbytný k:",
+        "legalReasons": {
+          "comply": "Splnit zákonnou povinnost",
+          "protect": "Chránit a obhajovat práva nebo majetek Společnosti",
+          "prevent": "Zabránit možnému protiprávnímu jednání v souvislosti se Službou nebo jej vyšetřit",
+          "safety": "Chránit osobní bezpečnost Uživatelů Služby nebo veřejnosti",
+          "liability": "Ochrana před právní odpovědností"
+        },
+        "detailedInfo": {
+          "title": "Podrobné informace o zpracování vašich osobních údajů",
+          "description": "Poskytovatelé služeb, které využíváme, mohou mít přístup k vašim osobním údajům. Tito externí dodavatelé shromažďují, ukládají, používají, zpracovávají a přenášejí informace o vaší aktivitě v rámci našich služeb v souladu se svými zásadami ochrany osobních údajů.",
+          "analyticsTitle": "Analytika",
+          "analyticsDescription": "K monitorování a analýze používání našich Služeb můžeme využít služeb třetích stran."
+        },
+        "analytics": {
+          "title": "Behaviorální remarketing",
+          "description": "Společnost využívá remarketingové služby k zobrazování reklamy na webových stránkách třetích stran poté, co jste navštívili naši Službu. My a naši externí dodavatelé používáme soubory cookie k informování, optimalizaci a zobrazování reklam na základě vašich minulých návštěv naší Služby.",
+          "googleAnalytics": {
+            "title": "Google Analytics",
+            "description1": "Google Analytics je služba webové analýzy nabízená společností Google, která sleduje a reportuje návštěvnost webových stránek. Google používá shromážděná data ke sledování a monitorování používání našich služeb. Tato data jsou sdílena s dalšími službami Google. Google může shromážděná data použít k kontextualizaci a personalizaci reklam své vlastní reklamní sítě.",
+            "description2": "Z některých funkcí služby Google Analytics se můžete odhlásit prostřednictvím nastavení mobilního zařízení, například v nastavení reklamy v zařízení, nebo podle pokynů uvedených v zásadách ochrany osobních údajů společnosti Google:",
+            "description3": "Další informace o postupech ochrany osobních údajů společnosti Google naleznete na webové stránce Ochrana osobních údajů a podmínky společnosti Google:"
+          },
+          "firebase": {
+            "title": "Firebase",
+            "description1": "Firebase je analytická služba poskytovaná společností Google Inc.",
+            "description2": "Z některých funkcí Firebase se můžete odhlásit v nastavení mobilního zařízení, například v nastavení reklamy v zařízení, nebo podle pokynů uvedených v zásadách ochrany osobních údajů společnosti Google:",
+            "description3": "Také vám doporučujeme seznámit se se zásadami společnosti Google pro ochranu vašich údajů:",
+            "description4": "Další informace o tom, jaké typy informací Firebase shromažďuje, naleznete na webové stránce Jak Google používá data, když používáte weby nebo aplikace našich partnerů:"
+          }
+        },
+        "advertising": {
+          "title": "Inzerce",
+          "description": "Můžeme využít poskytovatele služeb k zobrazování reklam, které vám pomohou s podporou a údržbou našich služeb.",
+          "googleAdSense": {
+            "title": "Soubory cookie Google AdSense a DoubleClick",
+            "description1": "Společnost Google, jakožto externí dodavatel, používá soubory cookie k zobrazování reklam v rámci našich Služeb. Používání souboru cookie DoubleClick společností Google umožňuje jí a jejím partnerům zobrazovat našim uživatelům reklamy na základě jejich návštěvy našich Služeb nebo jiných webových stránek na internetu.",
+            "description2": "Používání souboru cookie DoubleClick pro reklamu založenou na zájmech se můžete odhlásit na webové stránce Nastavení reklam Google:"
+          },
+          "adMob": {
+            "title": "AdMob od Googlu",
+            "description1": "AdMob od Googlu je poskytován společností Google Inc.",
+            "description2": "Z služby AdMob od Googlu se můžete odhlásit podle pokynů společnosti Google:",
+            "description3": "Další informace o tom, jak Google používá shromážděné informace, naleznete na stránce „Jak Google používá data, když používáte weby nebo aplikace našich partnerů“: nebo v Zásadách ochrany osobních údajů společnosti Google:"
+          }
+        },
+        "payments": {
+          "title": "Platby",
+          "description1": "V rámci Služby můžeme poskytovat placené produkty a/nebo služby. V takovém případě můžeme pro zpracování plateb využít služby třetích stran (např. zpracovatele plateb).",
+          "description2": "Údaje o vaší platební kartě nebudeme ukládat ani shromažďovat. Tyto informace jsou poskytovány přímo našim externím zpracovatelům plateb, jejichž používání vašich osobních údajů se řídí jejich Zásadami ochrany osobních údajů. Tito zpracovatelé plateb dodržují standardy stanovené normou PCI-DSS, které spravuje Rada pro bezpečnostní standardy PCI, což je společný projekt značek jako Visa, Mastercard, American Express a Discover. Požadavky PCI-DSS pomáhají zajistit bezpečné nakládání s platebními informacemi.",
+          "appleStore": {
+            "title": "Platby v aplikaci v obchodě Apple Store",
+            "description": "Jejich zásady ochrany osobních údajů si můžete prohlédnout na adrese"
+          },
+          "googlePlay": {
+            "title": "Platby v aplikaci Google Play",
+            "description": "Jejich zásady ochrany osobních údajů si můžete prohlédnout na adrese"
+          },
+          "stripe": {
+            "title": "Proužek",
+            "description": "Jejich zásady ochrany osobních údajů si můžete prohlédnout na adrese"
+          },
+          "payPal": {
+            "title": "PayPal nebo Braintree",
+            "description": "Jejich zásady ochrany osobních údajů si můžete prohlédnout na adrese"
+          }
+        }
+      },
+      "behavioralRemarketing": {
+        "title": "Behaviorální remarketing",
+        "description": "Společnost využívá remarketingové služby k zobrazování reklamy na webových stránkách třetích stran poté, co jste navštívili naši Službu. My a naši externí dodavatelé používáme soubory cookie k informování, optimalizaci a zobrazování reklam na základě vašich minulých návštěv naší Služby.",
+        "vendorsDescription1": "Tito externí dodavatelé shromažďují, ukládají, používají, zpracovávají a přenášejí informace o Vaší aktivitě v rámci našich služeb v souladu se svými Zásadami ochrany osobních údajů a za účelem umožnění nám:",
+        "purposes": {
+          "measure": "Měření a analýza návštěvnosti a aktivity prohlížení na našich službách",
+          "show": "Zobrazování reklam na naše produkty a/nebo služby na webových stránkách nebo v aplikacích třetích stran",
+          "analyze": "Měření a analýza výkonu našich reklamních kampaní"
+        },
+        "vendorsDescription2": "Někteří z těchto dodavatelů třetích stran mohou používat technologie bez souborů cookie, na které nemusí mít vliv nastavení prohlížeče, které blokuje soubory cookie. Váš prohlížeč vám nemusí umožnit takové technologie blokovat. K odmítnutí shromažďování a používání informací za účelem zobrazování reklamy založené na vašich zájmech můžete použít následující nástroje třetích stran:",
+        "optOutTools": {
+          "nai": "Platforma NAI pro odhlášení:",
+          "edaa": "Platforma EDAA pro odhlášení:",
+          "daa": "Platforma DAA pro odhlášení:"
+        },
+        "mobileOptOut": "Veškerou personalizovanou reklamu můžete odhlásit povolením funkcí ochrany osobních údajů na svém mobilním zařízení, jako je Omezit sledování reklam (iOS) a Odhlásit se z personalizace reklam (Android). Další informace naleznete v systému nápovědy k vašemu mobilnímu zařízení.",
+        "dataSharing": "S těmito dodavateli třetích stran můžeme sdílet informace, jako jsou hašované e-mailové adresy (pokud jsou k dispozici) nebo jiné online identifikátory shromážděné v rámci našich služeb. To umožňuje našim dodavatelům třetích stran rozpoznat a zobrazovat vám reklamy napříč zařízeními a prohlížeči. Chcete-li se dozvědět více o technologiích používaných těmito dodavateli třetích stran a jejich možnostech napříč zařízeními, přečtěte si prosím Zásady ochrany osobních údajů jednotlivých dodavatelů uvedených níže.",
+        "vendorsIntro": "Mezi externí dodavatele, které využíváme, patří:",
+        "googleAds": {
+          "title": "Reklamy Google (AdWords)",
+          "description1": "Remarketingovou službu Google Ads (AdWords) poskytuje společnost Google Inc.",
+          "description2": "Z Google Analytics pro zobrazovací reklamu se můžete odhlásit a přizpůsobit reklamy v síti Google Display Network na stránce Nastavení reklam Google:",
+          "description3": "Společnost Google také doporučuje nainstalovat doplněk prohlížeče pro odhlášení z Google Analytics do vašeho webového prohlížeče. Doplněk prohlížeče pro odhlášení z Google Analytics umožňuje návštěvníkům zabránit shromažďování a používání jejich údajů službou Google Analytics.",
+          "description4": "Další informace o postupech ochrany osobních údajů společnosti Google naleznete na webové stránce Ochrana osobních údajů a podmínky společnosti Google:"
+        },
+        "facebook": {
+          "title": "Facebook",
+          "description1": "Službu remarketingu na Facebooku poskytuje společnost Facebook Inc.",
+          "description2": "Více se o zájmově orientované reklamě na Facebooku dozvíte na této stránce:",
+          "description3": "Chcete-li se odhlásit ze zobrazování reklam založených na zájmech na Facebooku, postupujte podle těchto pokynů od Facebooku:",
+          "description4": "Facebook se řídí samoregulačními zásadami pro online behaviorální reklamu stanovenými organizací Digital Advertising Alliance. Z odběru informací na Facebooku a u dalších zúčastněných společností se můžete také odhlásit prostřednictvím Digital Advertising Alliance v USA, Digital Advertising Alliance of Canada v Kanadě nebo European Interactive Digital Advertising Alliance v Evropě, případně se můžete odhlásit pomocí nastavení svého mobilního zařízení.",
+          "description5": "Více informací o postupech ochrany osobních údajů společnosti Facebook naleznete v Zásadách ochrany osobních údajů společnosti Facebook:"
+        }
+      },
+      "detailedInfo": {
+        "title": "Podrobné informace o zpracování vašich osobních údajů",
+        "description": "Poskytovatelé služeb, které využíváme, mohou mít přístup k vašim osobním údajům. Tito externí dodavatelé shromažďují, ukládají, používají, zpracovávají a přenášejí informace o vaší aktivitě v rámci našich služeb v souladu se svými zásadami ochrany osobních údajů.",
+        "analyticsTitle": "Analytika",
+        "analyticsDescription": "K monitorování a analýze používání našich Služeb můžeme využít služeb třetích stran."
+      },
+      "analytics": {
+        "firebase": {
+          "title": "Firebase",
+          "description1": "Firebase je analytická služba poskytovaná společností Google Inc.",
+          "description2": "Z některých funkcí Firebase se můžete odhlásit v nastavení mobilního zařízení, například v nastavení reklamy v zařízení, nebo podle pokynů uvedených v zásadách ochrany osobních údajů společnosti Google:",
+          "description3": "Také vám doporučujeme seznámit se se zásadami společnosti Google pro ochranu vašich údajů:",
+          "description4": "Další informace o tom, jaké typy informací Firebase shromažďuje, naleznete na webové stránce Jak Google používá data, když používáte weby nebo aplikace našich partnerů:"
+        },
+        "googleAnalytics": {
+          "title": "Google Analytics",
+          "description1": "Google Analytics je služba webové analýzy nabízená společností Google, která sleduje a reportuje návštěvnost webových stránek. Google používá shromážděná data ke sledování a monitorování používání našich služeb. Tato data jsou sdílena s dalšími službami Google. Google může shromážděná data použít k kontextualizaci a personalizaci reklam své vlastní reklamní sítě.",
+          "description2": "Zpřístupnění vaší aktivity ve Službě službě Google Analytics můžete zakázat instalací doplňku prohlížeče pro odhlášení ze služby Google Analytics. Doplněk zabraňuje JavaScriptu služby Google Analytics (ga.js, analytics.js a gtag.js) ve sdílení informací o aktivitě návštěv se službou Google Analytics. Další informace o postupech ochrany osobních údajů společnosti Google naleznete na webové stránce Ochrana osobních údajů a podmínky společnosti Google:",
+          "description3": "Společnost Google také doporučuje nainstalovat doplněk prohlížeče pro odhlášení z Google Analytics do vašeho webového prohlížeče. Doplněk prohlížeče pro odhlášení z Google Analytics umožňuje návštěvníkům zabránit shromažďování a používání jejich dat službou Google Analytics. Další informace o instalaci a používání doplňku prohlížeče pro odhlášení z Google Analytics naleznete na následující stránce pro odhlášení z Google Analytics:"
+        }
+      },
+      "advertising": {
+        "title": "Inzerce",
+        "description": "Můžeme využít poskytovatele služeb k zobrazování reklam, které vám pomohou s podporou a údržbou našich služeb.",
+        "googleAdSense": {
+          "title": "Soubory cookie Google AdSense a DoubleClick",
+          "description1": "Společnost Google, jakožto externí dodavatel, používá soubory cookie k zobrazování reklam v rámci našich Služeb. Používání souboru cookie DoubleClick společností Google umožňuje jí a jejím partnerům zobrazovat našim uživatelům reklamy na základě jejich návštěvy našich Služeb nebo jiných webových stránek na internetu.",
+          "description2": "Používání souboru cookie DoubleClick pro reklamu založenou na zájmech se můžete odhlásit na webové stránce Nastavení reklam Google:"
+        },
+        "adMob": {
+          "title": "AdMob od Googlu",
+          "description1": "AdMob od Googlu je poskytován společností Google Inc.",
+          "description2": "Z služby AdMob od Googlu se můžete odhlásit podle pokynů společnosti Google:",
+          "description3": "Další informace o tom, jak Google používá shromážděné informace, naleznete na stránce „Jak Google používá data, když používáte weby nebo aplikace našich partnerů“: nebo v Zásadách ochrany osobních údajů společnosti Google:"
+        }
+      },
+      "payments": {
+        "title": "Platby",
+        "description1": "V rámci Služby můžeme poskytovat placené produkty a/nebo služby. V takovém případě můžeme pro zpracování plateb využít služby třetích stran (např. zpracovatele plateb).",
+        "description2": "Údaje o vaší platební kartě nebudeme ukládat ani shromažďovat. Tyto informace jsou poskytovány přímo našim externím zpracovatelům plateb, jejichž používání vašich osobních údajů se řídí jejich Zásadami ochrany osobních údajů. Tito zpracovatelé plateb dodržují standardy stanovené normou PCI-DSS, které spravuje Rada pro bezpečnostní standardy PCI, což je společný projekt značek jako Visa, Mastercard, American Express a Discover. Požadavky PCI-DSS pomáhají zajistit bezpečné nakládání s platebními informacemi.",
+        "appleStore": {
+          "title": "Platby v aplikaci v obchodě Apple Store",
+          "description": "Jejich zásady ochrany osobních údajů si můžete prohlédnout na adrese"
+        },
+        "googlePlay": {
+          "title": "Platby v aplikaci Google Play",
+          "description": "Jejich zásady ochrany osobních údajů si můžete prohlédnout na adrese"
+        },
+        "stripe": {
+          "title": "Proužek",
+          "description": "Jejich zásady ochrany osobních údajů si můžete prohlédnout na adrese"
+        },
+        "payPal": {
+          "title": "PayPal nebo Braintree",
+          "description": "Jejich zásady ochrany osobních údajů si můžete prohlédnout na adrese"
+        }
+      },
+      "gdpr": {
+        "title": "Ochrana osobních údajů GDPR",
+        "legalBasis": {
+          "title": "Právní základ pro zpracování osobních údajů podle GDPR",
+          "description": "Osobní údaje můžeme zpracovávat za následujících podmínek:",
+          "consent": "Souhlas: Udělili jste souhlas se zpracováním osobních údajů pro jeden nebo více konkrétních účelů.",
+          "contract": "Plnění smlouvy: Poskytnutí osobních údajů je nezbytné pro plnění smlouvy s vámi a/nebo pro jakékoli předsmluvní závazky z ní vyplývající.",
+          "legal": "Právní povinnosti: Zpracování osobních údajů je nezbytné pro splnění právní povinnosti, které Společnost podléhá.",
+          "vital": "Životně důležité zájmy: Zpracování osobních údajů je nezbytné k ochraně vašich životně důležitých zájmů nebo životně důležitých zájmů jiné fyzické osoby.",
+          "public": "Veřejný zájem: Zpracování osobních údajů souvisí s úkolem, který je prováděn ve veřejném zájmu nebo při výkonu veřejné moci svěřené Společnosti.",
+          "legitimate": "Oprávněné zájmy: Zpracování osobních údajů je nezbytné pro účely oprávněných zájmů Společnosti."
+        },
+        "rights": {
+          "title": "Vaše práva podle GDPR",
+          "description": "Společnost se zavazuje respektovat důvěrnost vašich osobních údajů a zaručit vám, že budete moci uplatnit svá práva. Podle těchto Zásad ochrany osobních údajů a ze zákona, pokud se nacházíte v EU, máte právo:",
+          "access": "Žádost o přístup k vašim osobním údajům: Právo na přístup k informacím, které o vás máme, na jejich aktualizaci nebo smazání.",
+          "correction": "Žádost o opravu osobních údajů: Máte právo na opravu jakýchkoli neúplných nebo nepřesných informací, které o vás uchováváme.",
+          "object": "Námitka proti zpracování: Toto právo existuje, pokud se spoléháme na oprávněný zájem jako právní základ pro naše zpracování.",
+          "erasure": "Žádost o výmaz: Máte právo požádat nás o výmaz nebo odstranění osobních údajů, pokud neexistuje žádný závažný důvod, proč bychom je nadále zpracovávali.",
+          "transfer": "Žádost o přenos: Vaše osobní údaje vám nebo vámi zvolené třetí straně poskytneme ve strukturovaném, běžně používaném a strojově čitelném formátu.",
+          "withdraw": "Odvolání souhlasu: Máte právo odvolat svůj souhlas s použitím vašich osobních údajů."
+        },
+        "exercising": {
+          "title": "Uplatnění vašich práv na ochranu osobních údajů podle GDPR",
+          "description1": "Svá práva na přístup, opravu, zrušení a vznesení námitky můžete uplatnit tak, že nás kontaktujete. Upozorňujeme, že před odpovědí na takové žádosti vás můžeme požádat o ověření vaší totožnosti. Pokud o něco požádáte, vynasnažíme se vám co nejdříve odpovědět.",
+          "description2": "Máte právo podat stížnost u Úřadu pro ochranu osobních údajů ohledně našeho shromažďování a používání vašich osobních údajů. Pro více informací, pokud se nacházíte v Evropském hospodářském prostoru (EHP), kontaktujte prosím místní úřad pro ochranu osobních údajů v EHP."
+        }
+      },
+      "ccpa": {
+        "title": "Oznámení o ochraně osobních údajů CCPA/CPRA",
+        "introduction": "Tato část oznámení o ochraně osobních údajů pro obyvatele Kalifornie doplňuje informace obsažené v našich Zásadách ochrany osobních údajů a vztahuje se výhradně na všechny návštěvníky, uživatele a další osoby s bydlištěm ve státě Kalifornie.",
+        "categoriesTitle": "Kategorie shromažďovaných osobních údajů",
+        "categoriesDescription1": "Shromažďujeme informace, které identifikují, vztahují se k určitému spotřebiteli nebo zařízení, popisují je, odkazují na ně, mohou být s nimi spojeny nebo by mohly být rozumně propojeny, přímo či nepřímo. Následuje seznam kategorií osobních údajů, které můžeme shromažďovat nebo mohly být shromážděny od obyvatel Kalifornie během posledních dvanácti (12) měsíců.",
+        "categoriesDescription2": "Vezměte prosím na vědomí, že kategorie a příklady uvedené v níže uvedeném seznamu odpovídají definicím v CCPA/CPRA. To neznamená, že všechny příklady osobních údajů dané kategorie byly skutečně shromážděny námi, ale odráží to naši dobrou víru, že dle našeho nejlepšího vědomí a svědomí některé z těchto informací z příslušné kategorie mohou být a mohly být shromážděny. Například určité kategorie osobních údajů by byly shromážděny pouze v případě, že byste nám tyto osobní údaje poskytli přímo.",
+        "categoryLabels": {
+          "examples": "Příklady:",
+          "collected": "Sesbíráno:"
+        },
+        "categories": {
+          "identifiers": {
+            "title": "Kategorie A: Identifikátory",
+            "examples": "Skutečné jméno, alias, poštovní adresa, jedinečný osobní identifikátor, online identifikátor, adresa internetového protokolu, e-mailová adresa, název účtu, číslo řidičského průkazu, číslo pasu nebo jiné podobné identifikátory.",
+            "collected": "Ano"
+          },
+          "personalInfo": {
+            "title": "Kategorie B: Kategorie osobních údajů uvedené v kalifornském zákoně o zákaznických záznamech",
+            "examples": "Jméno, podpis, číslo sociálního zabezpečení, fyzické vlastnosti nebo popis, adresa, telefonní číslo, číslo pasu, číslo řidičského průkazu nebo občanského průkazu, číslo pojistné smlouvy, vzdělání, zaměstnání, pracovní historie, číslo bankovního účtu, číslo kreditní karty, číslo debetní karty nebo jakékoli jiné finanční informace, lékařské informace nebo informace o zdravotním pojištění. Některé osobní údaje zahrnuté v této kategorii se mohou překrývat s jinými kategoriemi.",
+            "collected": "Ano"
+          },
+          "protected": {
+            "title": "Kategorie C: Chráněné klasifikační charakteristiky podle kalifornských nebo federálních zákonů",
+            "examples": "Věk (40 let a více), rasa, barva pleti, původ, národní původ, občanství, náboženství nebo vyznání, rodinný stav, zdravotní stav, fyzické nebo duševní postižení, pohlaví (včetně pohlaví, genderové identity, genderového projevu, těhotenství nebo porodu a souvisejících zdravotních stavů), sexuální orientace, status veterána nebo vojáka, genetické informace (včetně rodinných genetických informací).",
+            "collected": "Žádný"
+          },
+          "commercial": {
+            "title": "Kategorie D: Obchodní informace",
+            "examples": "Záznamy a historie zakoupených nebo zvažovaných produktů či služeb.",
+            "collected": "Ano"
+          },
+          "biometric": {
+            "title": "Kategorie E: Biometrické informace",
+            "examples": "Genetické, fyziologické, behaviorální a biologické charakteristiky nebo vzorce aktivity používané k extrakci šablony nebo jiného identifikátoru či identifikačních informací, jako jsou otisky prstů, otisky obličejů a hlasové otisky, skeny duhovky nebo sítnice, úhozy kláves, chůze nebo jiné fyzické vzorce a údaje o spánku, zdraví nebo cvičení.",
+            "collected": "Žádný"
+          },
+          "internet": {
+            "title": "Kategorie F: Internetová nebo jiná podobná síťová aktivita",
+            "examples": "Interakce s naší službou nebo reklamou.",
+            "collected": "Ano"
+          },
+          "geolocation": {
+            "title": "Kategorie G: Geolokační data",
+            "examples": "Přibližná fyzická poloha.",
+            "collected": "Ano"
+          },
+          "sensory": {
+            "title": "Kategorie H: Senzorické údaje",
+            "examples": "Zvukové, elektronické, vizuální, tepelné, čichové nebo podobné informace.",
+            "collected": "Žádný"
+          },
+          "professional": {
+            "title": "Kategorie I: Profesní nebo zaměstnanecké informace",
+            "examples": "Současná nebo minulá pracovní historie nebo hodnocení výkonu.",
+            "collected": "Žádný"
+          },
+          "education": {
+            "title": "Kategorie J: Neveřejné vzdělávací informace",
+            "examples": "Vzdělávací záznamy přímo související se studentem, které vede vzdělávací instituce nebo strana jednající jejím jménem, jako jsou známky, přepisy známek, seznamy hodin, rozvrhy studentů, identifikační kódy studentů, finanční informace studentů nebo disciplinární záznamy studentů.",
+            "collected": "Žádný"
+          },
+          "inferences": {
+            "title": "Kategorie K: Závěry vyvozené z jiných osobních údajů",
+            "examples": "Profil odrážející preference, charakteristiky, psychologické trendy, predispozice, chování, postoje, inteligenci, schopnosti a vlohy dané osoby.",
+            "collected": "Žádný"
+          },
+          "sensitive": {
+            "title": "Kategorie L: Citlivé osobní údaje",
+            "examples": "Informace o přihlašování a hesle k účtu, údaje o geolokaci.",
+            "collected": "Ano"
+          }
+        },
+        "exclusions": {
+          "description": "Podle CCPA/CPRA osobní údaje nezahrnují:",
+          "publicRecords": "Veřejně dostupné informace z vládních záznamů",
+          "deidentified": "Anonymizované nebo agregované informace o spotřebitelích",
+          "excludedScope": "Informace vyloučené z působnosti CCPA/CPRA, jako například:",
+          "hipaa": "Zdravotní nebo lékařské informace, na které se vztahuje zákon o přenositelnosti a odpovědnosti zdravotního pojištění z roku 1996 (HIPAA) a kalifornský zákon o důvěrnosti lékařských informací (CMIA) nebo údaje z klinických studií",
+          "sectorSpecific": "Osobní údaje, na které se vztahují určité odvětvové zákony na ochranu osobních údajů, včetně zákona Fair Credit Reporting Act (FRCA), zákona Gramm-Leach-Bliley Act (GLBA) nebo zákona California Financial Information Privacy Act (FIPA) a zákona Driver's Privacy Protection Act z roku 1994."
+        },
+        "sources": {
+          "title": "Zdroje osobních údajů",
+          "description": "Výše uvedené kategorie osobních údajů získáváme z následujících kategorií zdrojů:",
+          "directlyFromYou": "Přímo od Vás.",
+          "directlyDescription": "Například z formulářů, které vyplníte v rámci našich Služeb, preferencí, které vyjádříte nebo poskytnete prostřednictvím našich Služeb, nebo z vašich nákupů v rámci našich Služeb.",
+          "indirectlyFromYou": "Nepřímo od Tebe.",
+          "indirectlyDescription": "Například z pozorování Vaší aktivity na našich Službách.",
+          "automaticallyFromYou": "Automaticky od vás.",
+          "automaticallyDescription": "Například prostřednictvím souborů cookie, které my nebo naši poskytovatelé služeb ukládáme do vašeho zařízení při procházení našich služeb.",
+          "fromServiceProviders": "Od poskytovatelů služeb.",
+          "serviceProvidersDescription": "Například dodavatelé třetích stran pro sledování a analýzu používání naší Služby, dodavatelé třetích stran pro poskytování reklamy v rámci naší Služby, dodavatelé třetích stran pro poskytování cílené reklamy Vám, dodavatelé třetích stran pro zpracování plateb nebo jiní dodavatelé třetích stran, které využíváme k poskytování Služby Vám."
+        },
+        "usage": {
+          "title": "Použití osobních údajů",
+          "description": "Osobní údaje, které shromažďujeme, můžeme používat nebo zveřejňovat pro „obchodní účely“ nebo „komerční účely“ (jak je definováno v CCPA/CPRA), což může zahrnovat následující příklady:",
+          "operateService": "Abychom mohli provozovat naši Službu a poskytovat vám Naši Službu.",
+          "provideSupport": "Abychom vám mohli poskytovat podporu a reagovat na vaše dotazy, včetně prošetřování a řešení vašich obav a monitorování a vylepšování našich služeb.",
+          "fulfillReason": "Abychom splnili důvod, pro který jste nám poskytli informace. Pokud například sdílíte své kontaktní údaje s dotazem ohledně naší Služby, použijeme tyto osobní údaje k zodpovězení vašeho dotazu. Pokud poskytnete své osobní údaje za účelem zakoupení produktu nebo služby, použijeme tyto informace ke zpracování vaší platby a k usnadnění doručení.",
+          "lawEnforcement": "Za účelem vyřízení žádostí orgánů činných v trestním řízení a v souladu s platnými zákony, soudním příkazem nebo vládními nařízeními.",
+          "asDescribed": "Jak je Vám popsáno při shromažďování Vašich osobních údajů nebo jak je jinak stanoveno v CCPA/CPRA.",
+          "administrative": "Pro interní administrativní a auditní účely.",
+          "securityIncidents": "K odhalování bezpečnostních incidentů a ochraně před zlomyslnou, klamavou, podvodnou nebo nezákonnou činností, včetně případného stíhání osob odpovědných za takové činnosti.",
+          "otherUses": "Jiné jednorázové použití.",
+          "noteExamples": "Upozorňujeme, že výše uvedené příklady jsou ilustrativní a nejsou vyčerpávající. Více informací o tom, jak tyto informace používáme, naleznete v části „Použití vašich osobních údajů“.",
+          "additionalCategories": "Pokud se rozhodneme shromažďovat další kategorie osobních údajů nebo použít shromážděné osobní údaje pro podstatně odlišné, nesouvisející nebo nekompatibilní účely, aktualizujeme tyto Zásady ochrany osobních údajů."
+        },
+        "ccpaDisclosure": {
+          "title": "Zveřejnění osobních údajů",
+          "description": "Následující kategorie osobních údajů můžeme používat nebo zveřejňovat a v posledních dvanácti (12) měsících jsme mohli používat nebo zveřejňovat pro obchodní nebo komerční účely:",
+          "categoryA": "Kategorie A: Identifikátory",
+          "categoryB": "Kategorie B: Kategorie osobních údajů uvedené v kalifornském zákoně o zákaznických záznamech",
+          "categoryD": "Kategorie D: Obchodní informace",
+          "categoryF": "Kategorie F: Internetová nebo jiná podobná síťová aktivita",
+          "categoryG": "Kategorie G: Geolokační data",
+          "categoryL": "Kategorie L: Citlivé osobní údaje",
+          "noteCategories": "Vezměte prosím na vědomí, že výše uvedené kategorie jsou definovány v CCPA/CPRA. To neznamená, že všechny příklady osobních údajů v dané kategorii byly skutečně zveřejněny, ale odráží to naši dobrou víru, že dle našeho nejlepšího vědomí a svědomí některé z těchto informací z příslušné kategorie mohly být a mohly být zveřejněny.",
+          "contractRequirement": "Když sdělujeme osobní údaje pro obchodní nebo komerční účely, uzavíráme smlouvu, která popisuje účel a vyžaduje, aby příjemce zachovával mlčenlivost o těchto osobních údajích a nepoužíval je k žádnému jinému účelu než k plnění smlouvy."
+        },
+        "sharing": {
+          "title": "Sdílení osobních údajů",
+          "description": "Vaše osobní údaje uvedené ve výše uvedených kategoriích můžeme sdílet a v posledních dvanácti (12) měsících jsme sdíleli s následujícími kategoriemi třetích stran:",
+          "recipients": {
+            "serviceProviders": "Poskytovatelé služeb",
+            "paymentProcessors": "Zpracovatelé plateb",
+            "affiliates": "Naši partneři",
+            "businessPartners": "Naši obchodní partneři",
+            "authorizedVendors": "Dodavatelé třetích stran, kterým nás vy nebo vaši zástupci zmocníte ke sdělování vašich osobních údajů v souvislosti s produkty nebo službami, které vám poskytujeme"
+          }
+        },
+        "sale": {
+          "title": "Prodej osobních údajů",
+          "definition": "Jak je definováno v CCPA/CPRA, „prodej“ a „prodej“ znamená prodej, pronájem, uvolnění, zveřejnění, šíření, zpřístupnění, převod nebo jiné ústní, písemné nebo elektronickými či jinými prostředky sdělování osobních údajů Spotřebitele ze strany Společnosti třetí straně za protihodnotu. To znamená, že jsme za sdílení osobních údajů mohli získat nějaký druh výhody, nikoli však nutně peněžní výhodu.",
+          "doNotSell": "Neprodáváme osobní údaje ve smyslu běžného chápání termínu „prodej“. Poskytovatelům služeb však umožňujeme používat vaše osobní údaje pro obchodní účely popsané v našich Zásadách ochrany osobních údajů, pro činnosti, jako je reklama, marketing a analytika, a tyto činnosti mohou být podle CCPA/CPRA považovány za prodej.",
+          "description": "Můžeme prodávat a v posledních dvanácti (12) měsících jsme mohli prodat následující kategorie osobních údajů:",
+          "sharedCategories": {
+            "categoryA": "Kategorie A: Identifikátory",
+            "categoryB": "Kategorie B: Kategorie osobních údajů uvedené v kalifornském zákoně o zákaznických záznamech",
+            "categoryD": "Kategorie D: Obchodní informace",
+            "categoryF": "Kategorie F: Internetová nebo jiná podobná síťová aktivita",
+            "categoryG": "Kategorie G: Geolokační data",
+            "categoryL": "Kategorie L: Citlivé osobní údaje"
+          }
+        },
+        "userRights": {
+          "title": "Vaše práva podle CCPA/CPRA",
+          "description": "CCPA/CPRA poskytuje obyvatelům Kalifornie specifická práva týkající se jejich osobních údajů. Pokud jste obyvatelem Kalifornie, máte následující práva:",
+          "rightToNotice": "Právo na oznámení.",
+          "rightToNoticeDescription": "Máte právo být informováni o tom, jaké kategorie osobních údajů jsou shromažďovány a k jakým účelům jsou osobní údaje používány.",
+          "disclosureItems": {
+            "categoriesCollected": "Kategorie osobních údajů, které jsme o vás shromáždili",
+            "sources": "Kategorie zdrojů osobních údajů, které jsme o vás shromáždili",
+            "purposes": "Naše obchodní nebo komerční účely pro shromažďování nebo prodej těchto osobních údajů",
+            "thirdParties": "Kategorie třetích stran, se kterými sdílíme tyto osobní údaje",
+            "specificPieces": "Konkrétní osobní údaje, které jsme o vás shromáždili",
+            "soldDisclosed": "Pokud jsme vaše osobní údaje prodali nebo zveřejnili pro obchodní účely, sdělíme vám kategorie prodaných a zpřístupněných osobních údajů."
+          },
+          "rightToOptOut": "Právo odmítnout prodej nebo sdílení osobních údajů (odmítnutí).",
+          "rightToOptOutDescription": "Máte právo nás požádat, abychom neprodávali vaše osobní údaje. Chcete-li odeslat žádost o odhlášení, přečtěte si prosím část „Neprodávejte mé osobní údaje“ nebo nás kontaktujte.",
+          "doNotSellSection": "Neprodávejte mé osobní údaje",
+          "rightToCorrect": "Právo na opravu osobních údajů.",
+          "rightToCorrectDescription": "Máte právo opravit nebo doplnit jakékoli nepřesné osobní údaje, které o vás shromáždíme. Jakmile obdržíme a potvrdíme vaši žádost, vynaložíme komerčně přiměřené úsilí k opravě (a nařídíme našim poskytovatelům služeb, aby opravili) vašich osobních údajů, pokud se nevztahuje na výjimku.",
+          "rightToLimit": "Právo na omezení použití a zveřejnění citlivých osobních údajů.",
+          "rightToLimitDescription": "Máte právo požádat o omezení použití nebo zveřejnění určitých citlivých osobních údajů, které jsme o vás shromáždili, pokud se na vás nevztahuje výjimka. Chcete-li požádat o omezení použití nebo zveřejnění mých citlivých osobních údajů, přečtěte si prosím část „Omezení použití nebo zveřejnění mých citlivých osobních údajů“ nebo nás kontaktujte.",
+          "limitSensitiveSection": "Omezení použití nebo zveřejňování mých citlivých osobních údajů",
+          "rightToDelete": "Právo na výmaz osobních údajů.",
+          "rightToDeleteDescription": "Za určitých okolností, s výhradou určitých výjimek, máte právo požádat o smazání vašich osobních údajů. Jakmile vaši žádost obdržíme a potvrdíme, smažeme (a nařídíme našim poskytovatelům služeb, aby smazali) vaše osobní údaje z našich záznamů, pokud se na vás nevztahuje výjimka.",
+          "rightNonDiscrimination": "Právo nebýt diskriminován.",
+          "rightNonDiscriminationDescription": "Máte právo nebýt diskriminováni za uplatňování jakýchkoli svých spotřebitelských práv, včetně odepření zboží nebo služeb, účtování různých cen, poskytování různých úrovní služeb nebo navrhování různých cen nebo úrovní služeb."
+        },
+        "exercisingRights": {
+          "title": "Uplatnění vašich práv na ochranu osobních údajů podle CCPA/CPRA",
+          "intro": "Chcete-li uplatnit kterákoli ze svých práv podle CCPA/CPRA a pokud jste rezidentem Kalifornie, můžete nás kontaktovat pomocí níže uvedených informací.",
+          "authorization": "Ověřitelnou žádost týkající se vašich osobních údajů můžete podat pouze vy nebo osoba registrovaná u kalifornského ministra zahraničí, kterou zmocníte jednat vaším jménem.",
+          "requestRequirements": "Vaše žádost adresovaná nám musí:",
+          "requirements": {
+            "verify": "Poskytněte dostatečné informace, které nám umožní rozumně ověřit, zda jste osobou, o které jsme shromáždili osobní údaje, nebo jejím oprávněným zástupcem.",
+            "describe": "Popište svůj požadavek dostatečně podrobně, abychom mu mohli řádně porozumět, vyhodnotit ho a reagovat na něj."
+          },
+          "verification": "Nemůžeme na Vaši žádost odpovědět ani Vám poskytnout požadované informace, pokud nebudeme moci ověřit Vaši totožnost nebo oprávnění k podání žádosti a potvrdit, že se Vás osobní údaje týkají.",
+          "response": "Požadované informace zveřejníme a doručíme zdarma do 45 dnů od obdržení Vaší ověřitelné žádosti. Lhůta pro poskytnutí požadovaných informací může být v nezbytně nezbytných případech a po předchozím upozornění prodloužena o dalších 45 dnů.",
+          "dataPortability": "V případě žádostí o přenositelnost údajů zvolíme formát pro poskytnutí vašich osobních údajů, který bude snadno použitelný a měl by vám umožnit bezproblémový přenos informací z jednoho subjektu do druhého."
+        },
+        "doNotSell": {
+          "title": "Neprodávejte mé osobní údaje",
+          "definition": "Jak je definováno v CCPA/CPRA, „prodej“ a „prodej“ znamená prodej, pronájem, uvolnění, zveřejnění, šíření, zpřístupnění, převod nebo jiné ústní, písemné nebo elektronickými či jinými prostředky sdělování osobních údajů Spotřebitele ze strany Společnosti třetí straně za protihodnotu. To znamená, že jsme za sdílení osobních údajů mohli získat nějaký druh výhody, nikoli však nutně peněžní výhodu.",
+          "policy": "Neprodáváme osobní údaje ve smyslu běžného chápání termínu „prodej“. Poskytovatelům služeb však umožňujeme používat vaše osobní údaje pro obchodní účely popsané v našich Zásadách ochrany osobních údajů, pro činnosti, jako je reklama, marketing a analytika, a tyto činnosti mohou být podle CCPA/CPRA považovány za prodej.",
+          "optOutRight": "Máte právo odhlásit se z prodeje vašich osobních údajů. Jakmile od vás obdržíme a potvrdíme ověřitelnou žádost spotřebitele, přestaneme vaše osobní údaje prodávat. Chcete-li uplatnit své právo na odhlášení, kontaktujte nás.",
+          "serviceProviders": "Poskytovatelé služeb, se kterými spolupracujeme (například naši analytičtí nebo reklamní partneři), mohou ve Službě používat technologie, které prodávají osobní údaje ve smyslu zákona CCPA/CPRA. Pokud si přejete odhlásit se z používání Vašich osobních údajů pro účely reklamy založené na zájmech a z těchto potenciálních prodejů ve smyslu zákona CCPA/CPRA, můžete tak učinit podle níže uvedených pokynů.",
+          "browserNote": "Vezměte prosím na vědomí, že jakékoli odhlášení je specifické pro prohlížeč, který používáte. Možná budete muset provést odhlášení v každém prohlížeči, který používáte.",
+          "websiteTitle": "Webové stránky",
+          "websiteInstructions": "V případě potřeby klikněte na tlačítka „Nastavení ochrany osobních údajů“, „Aktualizovat nastavení ochrany osobních údajů“ nebo „Neprodávat mé osobní údaje“ uvedená ve Službě, abyste si zkontrolovali své nastavení ochrany osobních údajů a odhlásili se z používání souborů cookie a dalších technologií, které můžeme používat. Upozorňujeme, že se budete muset odhlásit v každém prohlížeči, který používáte pro přístup ke Službě."
+        },
+        "mobileOptOut": {
+          "title": "Mobilní zařízení",
+          "description": "Vaše mobilní zařízení vám může umožnit odhlásit se z používání informací o aplikacích, které používáte, za účelem zobrazování reklam cílených na vaše zájmy:",
+          "androidAds": "„Odhlášení z reklam založených na zájmech“ nebo „Odhlášení z personalizace reklam“ na zařízeních Android",
+          "iosTracking": "„Omezení sledování reklam“ na zařízeních iOS",
+          "locationNote": "Shromažďování informací o poloze z vašeho mobilního zařízení můžete také zastavit změnou předvoleb ve vašem mobilním zařízení."
+        },
+        "sensitiveInfo": {
+          "title": "Omezení použití nebo zveřejňování mých citlivých osobních údajů",
+          "description": "Pokud jste rezidentem Kalifornie, máte právo omezit použití a zveřejňování vašich citlivých osobních údajů na takové použití, které je nezbytné k poskytování služeb nebo zboží, jež průměrný spotřebitel, jenž si o takové služby nebo zboží žádá, rozumně očekává. Citlivé osobní údaje shromažďujeme, používáme a zveřejňujeme způsoby, které jsou nezbytné k poskytování služby. Další informace o tom, jak používáme vaše osobní údaje, naleznete v části „Použití vašich osobních údajů“ nebo nás kontaktujte."
+        },
+        "caloppaPolicy": {
+          "doNotTrackResponse": "Naše služba nereaguje na signály „Nesledovat“.",
+          "thirdPartyTracking": "Některé webové stránky třetích stran však sledují vaše aktivity při prohlížení. Pokud takové webové stránky navštěvujete, můžete si ve webovém prohlížeči nastavit předvolby tak, aby webové stránky informovaly, že si nepřejete být sledovány. DNT můžete povolit nebo zakázat na stránce předvoleb nebo nastavení vašeho webového prohlížeče."
+        },
+        "caloppa": {
+          "title": "Zásady „Nesledovat“ podle požadavků kalifornského zákona o ochraně soukromí online (CalOPPA)"
+        },
+        "saleNote": {
+          "categoriesListed": "Vezměte prosím na vědomí, že výše uvedené kategorie jsou definovány v CCPA/CPRA. To neznamená, že všechny příklady osobních údajů z dané kategorie byly skutečně prodány, ale odráží to naše nejlepší vědomí a svědomí, že některé z těchto informací z příslušné kategorie mohou být a mohly být sdíleny za protihodnotu."
+        },
+        "minorsUnder16": {
+          "title": "Prodej osobních údajů nezletilých osob mladších 16 let",
+          "description1": "Vědomě neshromažďujeme osobní údaje od nezletilých mladších 16 let prostřednictvím našich Služeb, ačkoli některé webové stránky třetích stran, na které odkazujeme, tak mohou činit. Tyto webové stránky třetích stran mají své vlastní podmínky použití a zásady ochrany osobních údajů a rodiče a zákonné zástupce vyzýváme, aby sledovali používání internetu svými dětmi a instruovali své děti, aby nikdy neposkytovaly informace na jiných webových stránkách bez jejich svolení.",
+          "description2": "Neprodáváme osobní údaje spotřebitelů, o kterých víme, že jsou mladší 16 let, pokud neobdržíme potvrzující souhlas („právo na souhlas“) buď od spotřebitele ve věku 13 až 16 let, nebo od rodiče či zákonného zástupce spotřebitele mladšího 13 let. Spotřebitelé, kteří souhlasí s prodejem osobních údajů, se mohou kdykoli odhlásit z budoucího prodeje. Chcete-li uplatnit právo na odhlášení, můžete nám (nebo váš oprávněný zástupce) podat žádost kontaktováním.",
+          "description3": "Pokud máte důvod se domnívat, že nám dítě mladší 13 (nebo 16) let poskytlo osobní údaje, kontaktujte nás prosím s dostatečnými podrobnostmi, abychom mohli tyto informace smazat."
+        },
+        "optOutPlatforms": {
+          "description": "Kromě toho se můžete odhlásit z odběru personalizovaných reklam zobrazovaných našimi poskytovateli služeb podle pokynů uvedených ve Službě:",
+          "nai": "Platforma NAI pro odhlášení:",
+          "edaa": "Platforma EDAA pro odhlášení:",
+          "daa": "Platforma DAA pro odhlášení:",
+          "cookieNote": "Odhlášením se do vašeho počítače uloží soubor cookie, který je jedinečný pro prohlížeč, který používáte k odhlášení. Pokud změníte prohlížeč nebo smažete soubory cookie uložené vaším prohlížečem, budete se muset znovu odhlásit."
+        },
+        "rights": {
+          "rightToKnowAccess": "Právo vědět/přístup.",
+          "rightToKnowAccessDescription": "Podle CCPA/CPRA máte právo požádat, abychom vám sdělili informace o našem shromažďování, používání, prodeji, zveřejňování pro obchodní účely a sdílení osobních údajů. Jakmile vaši žádost obdržíme a potvrdíme, sdělíme vám:"
+        }
+      },
+      "optOut": {
+        "androidAds": "„Odhlášení z reklam založených na zájmech“ nebo „Odhlášení z personalizace reklam“ na zařízeních Android",
+        "androidInterestBased": "Odhlásit se ze zájmově orientovaných reklam",
+        "androidPersonalization": "Odhlásit se z personalizace reklam",
+        "iosTracking": "„Omezení sledování reklam“ na zařízeních iOS",
+        "iosLimit": "Omezit sledování reklam"
+      },
+      "dataTypes": {
+        "email": "E-mailová adresa",
+        "name": "Jméno a příjmení",
+        "phone": "Telefonní číslo",
+        "address": "Adresa, stát, provincie, PSČ, město",
+        "usageData": "Údaje o užívání"
+      },
+      "socialMedia": {
+        "google": "Google",
+        "facebook": "Facebook",
+        "apple": "Jablko"
+      },
+      "appPermissions": {
+        "location": "Informace o vaší poloze (pro detekci blízkosti Bluetooth )",
+        "bluetooth": "Informace o zařízeních Bluetooth a skenování zařízení v okolí",
+        "camera": "Informace z fotoaparátu vašeho zařízení pro vytvoření avatara",
+        "contacts": "Kontakty na zařízení (volitelné, pro vyhledávání přátel)"
+      }
+    },
+    "termsOfUse": {
+      "title": "Podmínky použití",
+      "subtitle": "Pochopení vašich práv a povinností při používání služeb Ringdy .",
+      "lastUpdated": "Poslední aktualizace: leden 2025",
+      "introduction": "Před použitím naší služby si prosím pečlivě přečtěte tyto obchodní podmínky.",
+      "sections": {
+        "interpretationTitle": "Interpretace a definice",
+        "interpretationSubtitle": "Výklad",
+        "interpretationText": "Slova, jejichž počáteční písmeno je velké, mají význam definovaný za následujících podmínek. Následující definice mají stejný význam bez ohledu na to, zda se objevují v jednotném nebo množném čísle.",
+        "definitionsSubtitle": "Definice",
+        "definitionsText": "Pro účely těchto Obchodních podmínek:",
+        "definitions": {
+          "application": "Znamená softwarový program poskytovaný Společností, který si stáhnete na jakékoli elektronické zařízení s názvem Ringdy .",
+          "applicationStore": "Znamená službu digitální distribuce provozovanou a vyvinutou společností Apple Inc. (Apple App Store) nebo Google Inc. (Google Play Store), do které byla aplikace stažena.",
+          "affiliate": "Znamená subjekt, který ovládá stranu, je ovládán stranou nebo je pod společnou kontrolou se stranou, kde „kontrola“ znamená vlastnictví 50 % nebo více akcií, podílů na kapitálu nebo jiných cenných papírů s hlasovacím právem pro volbu ředitelů nebo jiného řídícího orgánu.",
+          "account": "Znamená jedinečný účet vytvořený pro Vás za účelem přístupu k naší Službě nebo jejím částem.",
+          "country": "Odkazuje na: Vietnam",
+          "company": "(v této Smlouvě dále jen „Společnost“, „My“, „Nás“ nebo „Naše“) označuje Ringdy .",
+          "content": "Označuje obsah, jako je text, obrázky nebo jiné informace, které můžete zveřejnit, nahrát, propojit s nimi nebo je jinak zpřístupnit vámi, bez ohledu na formu tohoto obsahu.",
+          "device": "Znamená jakékoli zařízení, které má přístup ke Službě, jako je počítač, chytrý telefon nebo digitální tablet.",
+          "feedback": "Znamená zpětnou vazbu, inovace nebo návrhy, které jste zaslali ohledně vlastností, výkonu nebo funkcí naší Služby.",
+          "freeTrial": "Označuje omezené časové období, které může být zdarma při zakoupení předplatného.",
+          "goods": "Podívejte se na položky nabízené k prodeji v rámci Služby.",
+          "inAppPurchase": "Vztahuje se na nákup produktu, položky, služby nebo předplatného provedený prostřednictvím Aplikace a podléhající těmto Smluvním podmínkám a/nebo vlastním smluvním podmínkám Obchodu s aplikacemi.",
+          "orders": "Znamená to Vaši žádost o zakoupení Zboží od nás.",
+          "promotions": "Odkazujte na soutěže, loterie nebo jiné propagační akce nabízené prostřednictvím Služby.",
+          "service": "Odkazuje na aplikaci.",
+          "subscriptions": "Odkazovat na služby nebo přístup ke Službě, které Vám Společnost nabízí na základě předplatného.",
+          "termsAndConditions": "(také označované jako „Podmínky“) znamenají tyto Obchodní podmínky, které tvoří úplnou dohodu mezi Vámi a Společností ohledně používání Služby.",
+          "thirdPartySocialMedia": "Znamená jakékoli služby nebo obsah (včetně dat, informací, produktů nebo služeb) poskytovaný třetí stranou, který může být zobrazen, zahrnut nebo zpřístupněn Službou.",
+          "you": "Znamená jednotlivce, který přistupuje ke Službě nebo ji používá, nebo společnost či jinou právnickou osobu, jejímž jménem takový jednotlivec přistupuje ke Službě nebo ji používá, dle potřeby."
+        },
+        "definitionLabels": {
+          "application": "Aplikace:",
+          "applicationStore": "Obchod s aplikacemi:",
+          "affiliate": "Partnerský program:",
+          "account": "Účet:",
+          "country": "Země:",
+          "company": "Společnost:",
+          "content": "Obsah:",
+          "device": "Zařízení:",
+          "feedback": "Zpětná vazba:",
+          "freeTrial": "Bezplatná zkušební verze:",
+          "goods": "Zboží:",
+          "inAppPurchase": "Nákup v aplikaci:",
+          "orders": "Objednávky:",
+          "promotions": "Propagace:",
+          "service": "Servis:",
+          "subscriptions": "Předplatné:",
+          "termsAndConditions": "Podmínky:",
+          "thirdPartySocialMedia": "Služby sociálních médií třetích stran:",
+          "you": "Vy:"
+        }
+      },
+      "acknowledgment": {
+        "title": "Potvrzení",
+        "description1": "Toto jsou Obchodní podmínky upravující používání této Služby a smlouva, která platí mezi Vámi a Společností. Tyto Obchodní podmínky stanoví práva a povinnosti všech uživatelů týkající se používání Služby.",
+        "description2": "Váš přístup ke Službě a její používání je podmíněno Vaším souhlasem s těmito Smluvními podmínkami a jejich dodržováním. Tyto Smluvní podmínky se vztahují na všechny návštěvníky, uživatele a další osoby, které přistupují ke Službě nebo ji používají.",
+        "description3": "Přístupem k Službě nebo jejím používáním souhlasíte s tím, že budete vázáni těmito Smluvními podmínkami. Pokud s jakoukoli částí těchto Smluvních podmínek nesouhlasíte, nemůžete ke Službě přistupovat.",
+        "description4": "Prohlašujete, že jste starší 18 let. Společnost nepovoluje osobám mladším 18 let používat Službu.",
+        "description5": "Váš přístup ke Službě a její používání je rovněž podmíněno Vaším souhlasem se Zásadami ochrany osobních údajů Společnosti a jejich dodržováním. Naše Zásady ochrany osobních údajů popisují naše zásady a postupy týkající se shromažďování, používání a zveřejňování Vašich osobních údajů při používání Aplikace a informují Vás o Vašich právech na ochranu soukromí a o tom, jak Vás chrání zákon. Před použitím Naší Služby si prosím pečlivě přečtěte naše Zásady ochrany osobních údajů.",
+        "bluetoothNotice": "Používáním naší Služby berete na vědomí, že Aplikace používá Bluetooth a lokalizační služby k vyhledávání a spojení s uživateli v okolí. Souhlasíte s naším používáním těchto technologií k poskytování funkcí založených na blízkosti.",
+        "bluetoothTitle": "Bluetooth a lokalizační služby"
+      },
+      "orders": {
+        "title": "Nákup digitálních položek",
+        "introduction": "Zakoupením Discovery Passu, Night Pass nebo Předplatného prostřednictvím Služby prohlašujete, že jste právně způsobilí uzavírat závazné smlouvy.",
+        "yourInformation": {
+          "title": "Vaše informace",
+          "description1": "Platba za Discovery Passy, Night Pass a Předplatné probíhá výhradně prostřednictvím obchodu s aplikacemi ve vašem zařízení (Google Play nebo App Store). Údaje o vaší platební kartě neshromažďujeme ani neukládáme.",
+          "description2": "Prohlašujete a zaručujete, že: (i) máte zákonné právo používat jakoukoli platební metodu registrovanou u Vašeho účtu v obchodě s aplikacemi; a (ii) informace, které poskytujete obchodu s aplikacemi, jsou pravdivé, správné a úplné.",
+          "description3": "Veškeré platební informace jsou odesílány přímo do obchodu Google Play nebo App Store, nikoli do společnosti."
+        },
+        "cancellation": {
+          "title": "Zrušení nákupu",
+          "description1": "Vyhrazujeme si právo kdykoli odmítnout nebo zrušit Váš nákup z určitých důvodů, mimo jiné včetně:",
+          "reasons": {
+            "availability": "Dostupnost položky",
+            "errors": "Chyby v popisu nebo ceně položky",
+            "orderErrors": "Chyby ve vašem nákupu"
+          },
+          "description2": "Vyhrazujeme si právo odmítnout nebo zrušit Váš nákup, pokud existuje podezření na podvod nebo neoprávněnou či nezákonnou transakci.",
+          "yourRights": {
+            "title": "Vaše práva na zrušení",
+            "description1": "Vstupenky Discovery Pass, Night Pass a další spotřební digitální předměty se spotřebují po uplatnění a obecně je nelze vrátit.",
+            "description2": "Naše postupy pro vrácení peněz za digitální nákupy jsou popsány v níže uvedených částech Nákupy v aplikaci a vrácení peněz.",
+            "description3": "Jakmile je Discovery Pass nebo Night Pass uplatněn k odemčení místa konání akce, nelze jej zrušit ani vrátit peníze.",
+            "description4": "Žádosti o vrácení peněz, které splňují podmínky, jsou vyřizovány v souladu se zásadami pro vrácení peněz v obchodě s aplikacemi, jak je popsáno v níže uvedené části Vrácení peněz.",
+            "description5": "U následujících položek nemáte právo zrušit nákup:",
+            "exceptions": {
+              "personalized": "Položky, které již byly použity na váš účet nebo spotřebovány, například Discovery Pass použitý k odemčení místa konání akce.",
+              "perishable": "Časově omezené permanentky, jako například Night Pass , po zahájení jejich aktivního období.",
+              "hygiene": "Období předplatného, po která Vám již byla Služba poskytnuta.",
+              "mixed": "Digitální položky kombinované s dalšími zakoupenými položkami jako součást balíčku.",
+              "digital": "Dodání digitálního obsahu, který není dodáván na hmotném nosiči, pokud jeho plnění začalo s Vaším předchozím výslovným souhlasem a Vy jste potvrdili ztrátu práva na odstoupení od smlouvy."
+            }
+          }
+        },
+        "availability": {
+          "title": "Dostupnost, chyby a nepřesnosti",
+          "description1": "Neustále aktualizujeme naši nabídku Discovery Pass, Night Pass a předplatných plánů ve Službě. Tyto permanentky mohou mít nesprávnou cenu, být nepřesně popsány nebo nedostupné a při aktualizaci těchto informací může docházet ke zpoždění.",
+          "description2": "Nemůžeme a neručíme za přesnost ani úplnost jakýchkoli informací, včetně cen a dostupnosti. Vyhrazujeme si právo kdykoli bez předchozího upozornění změnit nebo aktualizovat informace a opravit chyby, nepřesnosti nebo opomenutí."
+        },
+        "pricing": {
+          "title": "Cenová politika",
+          "description1": "Společnost si vyhrazuje právo kdykoli před přijetím nákupu upravit ceny vstupenek Discovery Pass, Night Pass a předplatného.",
+          "description2": "Ceny jsou stanoveny a zobrazeny prostřednictvím obchodu s aplikacemi ve vašem zařízení (Google Play nebo App Store) a mohou se lišit v závislosti na regionu a měně."
+        },
+        "payments": {
+          "title": "Platby",
+          "description1": "Veškeré nákupy jsou zpracovávány prostřednictvím obchodu s aplikacemi ve vašem zařízení (Google Play nebo App Store) s použitím platebních metod, které zařízení podporuje.",
+          "description2": "Platební metody podléhají ověřovacím kontrolám a autorizaci ze strany obchodu s aplikacemi a vydavatele vaší karty. Pokud autorizace není obdržena, společnost nenese odpovědnost za jakékoli zpoždění nebo nedoručení vašeho nákupu."
+        }
+      },
+      "subscriptions": {
+        "title": "Předplatné",
+        "period": {
+          "title": "Období předplatného",
+          "description1": "Služba nebo některé její části jsou k dispozici pouze s placeným Předplatným. Bude vám účtována předem opakovaná a pravidelná platba (například denně, týdně, měsíčně nebo ročně) v závislosti na typu plánu Předplatného, který si vyberete při nákupu Předplatného.",
+          "description2": "Na konci každého období se Vaše Předplatné automaticky obnoví za stejných podmínek, pokud jej nezrušíte Vy nebo Společnost."
+        },
+        "cancellations": {
+          "title": "Zrušení předplatného",
+          "description1": "Obnovení předplatného můžete zrušit buď prostřednictvím stránky nastavení účtu, nebo kontaktováním Společnosti. Poplatky, které jste již zaplatili za aktuální období předplatného, vám nebudou vráceny a ke Službě budete mít přístup až do konce aktuálního období předplatného.",
+          "description2": "Pokud bylo předplatné provedeno prostřednictvím nákupu v aplikaci, můžete obnovení předplatného zrušit v obchodě s aplikacemi."
+        },
+        "billing": {
+          "title": "Fakturace",
+          "description1": "Společnosti poskytnete přesné a úplné fakturační údaje, včetně celého jména, adresy, státu, PSČ, telefonního čísla a platných údajů o způsobu platby.",
+          "description2": "Pokud se z jakéhokoli důvodu automatická fakturace nezdaří, společnost vystaví elektronickou fakturu s uvedením, že musíte ručně, do určitého data, provést platbu v plné výši odpovídající fakturačnímu období uvedenému na faktuře.",
+          "description3": "Pokud bylo Předplatné provedeno prostřednictvím nákupu v aplikaci, veškeré fakturace probíhá v Obchodě s aplikacemi a řídí se vlastními podmínkami Obchodu s aplikacemi."
+        },
+        "feeChanges": {
+          "title": "Změny poplatků",
+          "description1": "Společnost si vyhrazuje právo kdykoli a dle vlastního uvážení upravit poplatky za předplatné. Jakákoli změna poplatku za předplatné nabude účinnosti na konci aktuálního období předplatného.",
+          "description2": "Společnost Vám poskytne přiměřené předběžné oznámení o jakékoli změně poplatků za Předplatné, abyste měli možnost Předplatné ukončit dříve, než taková změna nabude účinnosti.",
+          "description3": "Vaše další používání Služby po nabytí účinnosti změny poplatku za Předplatné představuje Váš souhlas s úhradou upravené výše poplatku za Předplatné."
+        },
+        "refunds": {
+          "title": "Vrácení peněz",
+          "description1": "S výjimkou případů, kdy to vyžaduje zákon, jsou zaplacené poplatky za předplatné nevratné.",
+          "description2": "Některé žádosti o vrácení peněz za Předplatné může Společnost posuzovat individuálně a schvalovat je dle vlastního uvážení.",
+          "description3": "Pokud bylo předplatné provedeno prostřednictvím nákupu v aplikaci, budou platit zásady pro vrácení peněz v obchodě s aplikacemi. Pokud si přejete požádat o vrácení peněz, můžete tak učinit přímo kontaktováním obchodu s aplikacemi."
+        },
+        "freeTrial": {
+          "title": "Bezplatná zkušební verze",
+          "description1": "Společnost může dle vlastního uvážení nabídnout Předplatné s bezplatnou zkušební dobou po omezenou dobu.",
+          "description2": "Pro registraci k bezplatné zkušební verzi budete možná požádáni o zadání fakturačních údajů.",
+          "description3": "Pokud při registraci k bezplatné zkušební verzi zadáte své fakturační údaje, nebude vám společnost účtovat poplatky, dokud bezplatná zkušební verze neuplyne. V poslední den bezplatné zkušební verze vám budou automaticky účtovány příslušné poplatky za předplatné pro vámi zvolený typ předplatného, pokud nezrušíte své předplatné.",
+          "description4": "Společnost si vyhrazuje právo kdykoli a bez předchozího upozornění (i) změnit podmínky nabídky Bezplatné zkušební verze nebo (ii) takovou nabídku Bezplatné zkušební verze zrušit."
+        }
+      },
+      "inAppPurchases": {
+        "title": "Nákupy v aplikaci",
+        "description1": "Aplikace může zahrnovat nákupy v aplikaci, které vám umožňují nakupovat produkty, služby nebo předplatné.",
+        "description2": "Více informací o tom, jak můžete spravovat nákupy v aplikaci pomocí svého zařízení, může být uvedeno v podmínkách obchodu s aplikacemi nebo v nastavení nápovědy vašeho zařízení.",
+        "description3": "Nákupy v aplikaci lze konzumovat pouze v aplikaci. Pokud provedete nákup v aplikaci, nelze jej po zahájení stahování zrušit. Nákupy v aplikaci nelze vyměnit za hotovost ani jinou protihodnotu ani jinak převést.",
+        "description4": "Berete na vědomí a souhlasíte s tím, že veškeré fakturační a transakční procesy jsou prováděny Obchodem s aplikacemi, ze kterého jste si Aplikaci stáhli, a řídí se vlastními podmínkami daného Obchodu s aplikacemi."
+      },
+      "promotions": {
+        "title": "Propagace",
+        "description1": "Veškeré propagační akce dostupné prostřednictvím Služby se mohou řídit pravidly, která jsou oddělená od těchto Podmínek.",
+        "description2": "Pokud se účastníte jakékoli propagační akce, prostudujte si prosím příslušná pravidla a také naše Zásady ochrany osobních údajů. Pokud jsou pravidla propagační akce v rozporu s těmito Podmínkami, budou platit pravidla propagační akce."
+      },
+      "userAccounts": {
+        "title": "Uživatelské účty",
+        "description1": "Když si u nás vytvoříte účet, musíte nám vždy poskytnout přesné, úplné a aktuální informace. Pokud tak neučiníte, budete porušovat Podmínky a vaše platnost může být okamžitě ukončena.",
+        "description2": "Jste zodpovědní za ochranu hesla, které používáte pro přístup ke Službě, a za veškeré aktivity nebo akce provedené pod Vaším heslem, ať už je Vaše heslo u Naší Služby nebo u Služby sociálních médií třetí strany.",
+        "description3": "Souhlasíte s tím, že své heslo nesdělíte žádné třetí straně. Musíte nás neprodleně informovat, jakmile se dozvíte o jakémkoli narušení bezpečnosti nebo neoprávněném použití vašeho účtu.",
+        "description4": "Jako uživatelské jméno nesmíte používat jméno jiné osoby nebo subjektu, ani jméno, které není zákonně dostupné k užívání, jméno nebo ochrannou známku, na kterou se vztahují jakákoli práva jiné osoby nebo subjektu než na vás, bez příslušného povolení, ani jméno, které je jinak urážlivé, vulgární nebo obscénní."
+      },
+      "userConduct": {
+        "title": "Chování a bezpečnost uživatelů",
+        "zeroTolerance": {
+          "title": "Politika nulové tolerance",
+          "description": "Souhlasíte s tím, že nebudete Službu používat k obtěžování, vyhrožování, pronásledování ani zastrašování ostatních. Společnost dodržuje politiku nulové tolerance vůči hrubému chování, obtěžování nebo porušování práv či bezpečnosti ostatních. Porušení může vést k okamžitému pozastavení nebo ukončení vašeho účtu."
+        },
+        "safetyDisclaimer": {
+          "title": "Bezpečnostní prohlášení",
+          "description": "Služba usnadňuje spojení a komunikaci mezi uživateli, kteří se mohou rozhodnout setkat se osobně. Neprovádíme prověrky ani neověřujeme totožnost uživatelů. Za své interakce s ostatními nesete výhradní odpovědnost vy. Při komunikaci nebo setkávání s ostatními uživateli offline buďte opatrní, používejte zdravý rozum a přijměte vhodná bezpečnostní opatření."
+        }
+      },
+      "content": {
+        "title": "Obsah",
+        "yourRight": {
+          "title": "Vaše právo zveřejňovat obsah",
+          "description1": "Naše Služba Vám umožňuje zveřejňovat Obsah. Nesete odpovědnost za Obsah, který do Služby zveřejňujete, včetně jeho zákonnosti, spolehlivosti a vhodnosti.",
+          "description2": "Zveřejněním Obsahu do Služby nám udělujete právo a licenci k používání, úpravě, veřejnému provádění, veřejnému zobrazování, reprodukci a distribuci takového Obsahu v rámci Služby a jejím prostřednictvím. Ponecháváte si veškerá svá práva k veškerému Obsahu, který v rámci Služby nebo jejím prostřednictvím odešlete, zveřejníte nebo zobrazíte, a jste zodpovědní za ochranu těchto práv.",
+          "description3": "Prohlašujete a zaručujete, že: (i) Obsah je Váš (vlastníte ho) nebo máte právo jej používat a udělit nám práva a licenci, jak je uvedeno v těchto Podmínkách, a (ii) zveřejnění Vašeho Obsahu na Službě nebo jejím prostřednictvím neporušuje práva na ochranu soukromí, práva na publicitu, autorská práva, smluvní práva ani žádná jiná práva žádné osoby."
+        },
+        "restrictions": {
+          "title": "Omezení obsahu",
+          "description1": "Společnost nenese odpovědnost za obsah uživatelů Služby. Výslovně berete na vědomí a souhlasíte s tím, že nesete výhradní odpovědnost za Obsah a za veškerou aktivitu, která probíhá pod vaším účtem, ať už ji provádíte vy nebo jakákoli třetí osoba používající váš účet.",
+          "description2": "Nesmíte šířit žádný Obsah, který je nezákonný, urážlivý, znepokojivý, má za cíl vyvolat znechucení, výhružný, hanlivý, pomlouvačný, obscénní nebo jinak nevhodný. Mezi příklady takového nevhodného Obsahu patří mimo jiné následující:",
+          "prohibitedContent": {
+            "unlawful": "Nezákonná nebo propagující nezákonnou činnost.",
+            "discriminatory": "Hanlivý, diskriminační nebo zlomyslný obsah, včetně zmínek nebo komentářů o náboženství, rase, sexuální orientaci, pohlaví, národním/etnickém původu nebo jiných cílových skupinách.",
+            "spam": "Spam, generovaný strojově – nebo náhodně – představující neoprávněnou nebo nevyžádanou reklamu, řetězové dopisy, jakoukoli jinou formu neoprávněného nabízení nebo jakoukoli formu loterie či hazardu.",
+            "malware": "Obsahování nebo instalace virů, červů, malwaru, trojských koní nebo jiného obsahu, který je navržen nebo zamýšlen k narušení, poškození nebo omezení fungování jakéhokoli softwaru, hardwaru nebo telekomunikačního zařízení.",
+            "infringing": "Porušení jakýchkoli vlastnických práv kterékoli strany, včetně patentů, ochranných známek, obchodního tajemství, autorských práv, práva na publicitu nebo jiných práv.",
+            "impersonating": "Vydávání se za jakoukoli osobu nebo subjekt, včetně Společnosti a jejích zaměstnanců nebo zástupců.",
+            "privacy": "Porušení soukromí jakékoli třetí osoby.",
+            "false": "Nepravdivé informace a funkce."
+          },
+          "description3": "Společnost si vyhrazuje právo, nikoli však povinnost, dle vlastního uvážení určit, zda je jakýkoli Obsah vhodný a splňuje tyto Podmínky. Můžeme odmítnout zobrazení nebo Obsah odstranit a vyhrazujeme si právo pozastavit nebo ukončit účty, které porušují tyto Podmínky nebo standardy naší komunity."
+        },
+        "backups": {
+          "title": "Zálohy obsahu",
+          "description1": "Přestože se provádí pravidelné zálohování obsahu, společnost nezaručuje, že nedojde ke ztrátě nebo poškození dat.",
+          "description2": "Poškozené nebo neplatné zálohovací body mohou být způsobeny mimo jiné obsahem, který je poškozen před zálohováním nebo se během zálohování změní.",
+          "description3": "Společnost poskytne podporu a pokusí se vyřešit veškeré známé nebo zjištěné problémy, které by mohly ovlivnit zálohy Obsahu. Berete však na vědomí, že Společnost nenese žádnou odpovědnost za integritu Obsahu ani za neúspěšné obnovení Obsahu do použitelného stavu.",
+          "description4": "Souhlasíte s tím, že budete uchovávat úplnou a přesnou kopii veškerého Obsahu na místě nezávislém na Službě."
+        }
+      },
+      "copyright": {
+        "title": "Zásady autorských práv",
+        "intellectualProperty": {
+          "title": "Porušení duševního vlastnictví",
+          "description1": "Respektujeme práva duševního vlastnictví ostatních. Naší politikou je reagovat na jakékoli tvrzení, že obsah zveřejněný na Službě porušuje autorská práva nebo jiné porušení duševního vlastnictví jakékoli osoby.",
+          "description2": "Pokud jste vlastníkem autorských práv nebo jste k tomu oprávněni jménem vlastníka autorských práv a domníváte se, že dílo chráněné autorským právem bylo zkopírováno způsobem, který představuje porušení autorských práv, k němuž dochází prostřednictvím Služby, musíte své oznámení písemně podat našemu zástupci pro autorská práva e-mailem na adresu support@ringdy.com a v oznámení uvést podrobný popis údajného porušení.",
+          "description3": "Za nepravdivé prohlášení, že jakýkoli obsah porušuje vaše autorská práva, můžete nést odpovědnost za škody (včetně nákladů a poplatků za právní zastoupení)."
+        },
+        "dmca": {
+          "title": "Oznámení DMCA a postup DMCA pro nároky z porušení autorských práv",
+          "description": "Oznámení můžete podat v souladu se zákonem Digital Millennium Copyright Act (DMCA) tak, že našemu zástupci pro autorská práva písemně poskytnete následující informace:",
+          "requirements": {
+            "signature": "Elektronický nebo fyzický podpis osoby oprávněné jednat jménem vlastníka autorských práv.",
+            "description": "Popis díla chráněného autorským právem, u kterého tvrdíte, že bylo porušeno, včetně adresy URL (tj. adresy webové stránky) místa, kde se dílo chráněné autorským právem nachází, nebo kopie díla chráněného autorským právem.",
+            "identification": "Identifikace adresy URL nebo jiného konkrétního umístění ve Službě, kde se nachází materiál, o kterém tvrdíte, že porušuje autorská práva.",
+            "contact": "Vaše adresa, telefonní číslo a e-mailová adresa.",
+            "goodFaith": "Vaše prohlášení, že se v dobré víře domníváte, že sporné použití není povoleno vlastníkem autorských práv, jeho zástupcem ani zákonem.",
+            "accuracy": "Vaše prohlášení, učiněné pod trestem křivé přísahy, že výše uvedené informace ve Vašem oznámení jsou přesné a že jste vlastníkem autorských práv nebo jste oprávněni jednat jménem vlastníka autorských práv."
+          },
+          "contact": "Můžete kontaktovat našeho zástupce pro autorská práva e-mailem na adrese support@ringdy.com. Po obdržení oznámení společnost podnikne veškeré kroky, které dle vlastního uvážení považuje za vhodné, včetně odstranění napadeného obsahu ze Služby."
+        }
+      },
+      "intellectualProperty": {
+        "title": "Duševní vlastnictví",
+        "description1": "Služba a její původní obsah (s výjimkou obsahu poskytnutého vámi nebo jinými uživateli), funkce a funkcionalita jsou a zůstanou výhradním vlastnictvím Společnosti a jejích poskytovatelů licencí.",
+        "description2": "Služba je chráněna autorským právem, ochrannými známkami a dalšími zákony v dané zemi i v zahraničí.",
+        "description3": "Naše ochranné známky a obchodní úprava nesmí být použity v souvislosti s žádným produktem nebo službou bez předchozího písemného souhlasu Společnosti."
+      },
+      "feedback": {
+        "title": "Vaše zpětná vazba pro nás",
+        "description": "Postupujete veškerá práva, nároky a podíly na jakékoli zpětné vazbě, kterou Společnosti poskytnete. Pokud je z jakéhokoli důvodu takové postoupení neúčinné, souhlasíte s tím, že Společnosti udělíte nevýhradní, trvalé, neodvolatelné, bezplatně platné, celosvětové právo a licenci k používání, reprodukci, zveřejňování, sublicencování, distribuci, úpravě a využívání takové zpětné vazby bez omezení."
+      },
+      "links": {
+        "title": "Odkazy na jiné webové stránky",
+        "description1": "Naše Služba může obsahovat odkazy na webové stránky nebo služby třetích stran, které Společnost nevlastní ani nekontroluje.",
+        "description2": "Společnost nemá žádnou kontrolu nad obsahem, zásadami ochrany osobních údajů ani postupy webových stránek nebo služeb třetích stran a nepřebírá za ně žádnou odpovědnost. Dále berete na vědomí a souhlasíte s tím, že Společnost nenese odpovědnost, přímo ani nepřímo, za žádné škody nebo ztráty způsobené nebo údajně způsobené v souvislosti s používáním nebo spoléháním se na jakýkoli takový obsah, zboží nebo služby dostupné na takových webových stránkách nebo službách nebo jejich prostřednictvím.",
+        "description3": "Důrazně vám doporučujeme, abyste si přečetli smluvní podmínky a zásady ochrany osobních údajů všech webových stránek nebo služeb třetích stran, které navštěvujete."
+      },
+      "termination": {
+        "title": "Ukončení",
+        "description1": "Váš účet můžeme okamžitě ukončit nebo pozastavit bez předchozího upozornění nebo odpovědnosti z jakéhokoli důvodu, mimo jiné i v případě, že porušíte tyto Smluvní podmínky.",
+        "description2": "Po ukončení Vaše právo používat Službu okamžitě zanikne. Pokud si přejete ukončit svůj účet, můžete jednoduše přestat Službu používat.",
+        "dataDeletion": {
+          "title": "Smazání dat a ukončení účtu",
+          "description": "O smazání svého účtu a osobních údajů můžete kdykoli požádat kontaktováním na adrese support@ringdy.com nebo pomocí jakékoli funkce pro smazání účtu v aplikaci. Po ukončení nebo smazání odstraníme nebo anonymizujeme vaše osobní údaje v souladu s platnými právními předpisy, s výjimkou případů, kdy jsme povinni uchovávat určité údaje z právních, bezpečnostních nebo provozních důvodů."
+        }
+      },
+      "liability": {
+        "title": "Omezení odpovědnosti",
+        "importantNotice": "Důležité právní upozornění",
+        "notice": "Bez ohledu na jakékoli škody, které Vám mohou vzniknout, je celková odpovědnost Společnosti a všech jejích dodavatelů podle jakéhokoli ustanovení těchto Podmínek a Váš výhradní nárok na nápravu za všechny výše uvedené omezena na částku, kterou jste prostřednictvím Služby skutečně zaplatili, nebo na 100 USD, pokud jste prostřednictvím Služby nic nezakoupili.",
+        "description1": "V maximálním rozsahu povoleném platnými právními předpisy nenese Společnost ani její dodavatelé v žádném případě odpovědnost za jakékoli zvláštní, náhodné, nepřímé ani následné škody (včetně, ale nikoli výhradně, škod za ušlý zisk, ztrátu dat nebo jiných informací, za přerušení podnikání, za újmu na zdraví, ztrátu soukromí vyplývající z používání nebo nemožnosti používat Službu, softwaru třetích stran a/nebo hardwaru třetích stran používaného se Službou nebo jinak v souvislosti s jakýmkoli ustanovením těchto Podmínek), a to i v případě, že Společnost nebo jakýkoli dodavatel byli o možnosti vzniku takových škod informováni a i v případě, že náprava nesplní svůj základní účel.",
+        "description2": "Některé státy neumožňují vyloučení implicitních záruk ani omezení odpovědnosti za náhodné nebo následné škody, což znamená, že některá z výše uvedených omezení nemusí platit. V těchto státech bude odpovědnost každé strany omezena v největším rozsahu povoleném zákonem."
+      },
+      "disclaimer": {
+        "title": "Prohlášení o vyloučení odpovědnosti „TAK, JAK JE“ a „JAK K BLE “",
+        "description1": "Služba je Vám poskytována „TAK, JAK JE“ a „ BLE , JAK JE K DISPOZICI“ a se všemi vadami a nedostatky bez jakékoli záruky. V maximálním rozsahu povoleném platnými právními předpisy Společnost svým jménem a jménem svých Přidružených společností a svých a jejich příslušných poskytovatelů licencí a služeb výslovně odmítá veškeré záruky, ať už výslovné, implicitní, zákonné či jiné, týkající se Služby, včetně všech implicitních záruk prodejnosti, vhodnosti pro konkrétní účel, vlastnického práva a neporušení práv a záruk, které mohou vzniknout v důsledku obchodování, plnění, užívání nebo obchodní praxe.",
+        "description2": "Bez omezení výše uvedeného Společnost neposkytuje žádnou záruku ani se nezavazuje a nečiní žádné prohlášení jakéhokoli druhu, že Služba bude splňovat Vaše požadavky, dosáhne zamýšlených výsledků, bude kompatibilní nebo fungovat s jakýmkoli jiným softwarem, aplikacemi, systémy nebo službami, bude fungovat bez přerušení, splňovat jakékoli standardy výkonu nebo spolehlivosti nebo bude bezchybná, nebo že jakékoli chyby nebo vady lze nebo budou opraveny.",
+        "description3": "Bez omezení výše uvedeného, ani Společnost, ani žádný z jejích poskytovatelů neposkytuje žádná prohlášení ani záruky jakéhokoli druhu, výslovné ani implicitní: (i) ohledně provozu nebo dostupnosti Služby nebo informací, obsahu a materiálů či produktů v ní obsažených; (ii) že Služba bude nepřerušovaná nebo bezchybná; (iii) ohledně přesnosti, spolehlivosti nebo aktuálnosti jakýchkoli informací nebo obsahu poskytovaného prostřednictvím Služby; nebo (iv) že Služba, její servery, obsah nebo e-maily odeslané ze Společnosti nebo jejím jménem neobsahují viry, skripty, trojské koně, červy, malware, časované bomby nebo jiné škodlivé komponenty.",
+        "description4": "Některé jurisdikce neumožňují vyloučení určitých typů záruk nebo omezení platných zákonných práv spotřebitele, takže se na vás některá nebo všechna výše uvedená vyloučení a omezení nemusí vztahovat. V takovém případě se však vyloučení a omezení uvedená v této části uplatní v co největším rozsahu vymahatelném podle platných právních předpisů."
+      },
+      "governingLaw": {
+        "title": "Rozhodné právo",
+        "description": "Tyto Podmínky a Vaše používání Služby se řídí zákony dané Země, s výjimkou kolizních norem. Vaše používání Aplikace může podléhat také jiným místním, státním, národním nebo mezinárodním zákonům."
+      },
+      "disputes": {
+        "title": "Řešení sporů",
+        "description": "Pokud máte jakékoli obavy nebo spory ohledně Služby, souhlasíte s tím, že se nejprve pokusíte spor vyřešit neformálně kontaktováním Společnosti."
+      },
+      "euUsers": {
+        "title": "Pro uživatele z Evropské unie (EU)",
+        "description": "Pokud jste spotřebitelem z Evropské unie, budete mít prospěch ze všech závazných ustanovení práva země, ve které máte bydliště."
+      },
+      "usLegal": {
+        "title": "Dodržování právních předpisů Spojených států",
+        "description": "Prohlašujete a zaručujete, že (i) se nenacházíte v zemi, na kterou se vztahuje embargo vlády Spojených států, nebo která byla vládou Spojených států označena za zemi „podporující terorismus“, a (ii) nejste uvedeni na žádném seznamu zakázaných nebo omezených stran vedeném vládou Spojených států."
+      },
+      "severability": {
+        "title": "Oddělitelnost a vzdání se práv",
+        "severabilityTitle": "Oddělitelnost",
+        "severabilityDescription": "Pokud se jakékoli ustanovení těchto Podmínek ukáže jako nevymahatelné nebo neplatné, bude takové ustanovení změněno a vykládáno tak, aby bylo v co největší míře dosaženo cílů daného ustanovení podle platných právních předpisů, a zbývající ustanovení zůstanou v plné platnosti a účinnosti.",
+        "waiverTitle": "Zřeknutí se práva",
+        "waiverDescription": "S výjimkou případů uvedených v tomto dokumentu nemá neuplatnění práva nebo nevyžadování plnění povinnosti podle těchto Podmínek vliv na schopnost strany uplatnit toto právo nebo požadovat takové plnění kdykoli poté, ani vzdání se porušení nepředstavuje vzdání se jakéhokoli následného porušení."
+      },
+      "translation": {
+        "title": "Překlad Tlumočení",
+        "description": "Tyto Obchodní podmínky mohly být přeloženy, pokud jsme vám je zpřístupnili v rámci našich Služeb. Souhlasíte s tím, že v případě sporu má přednost původní anglický text."
+      },
+      "changes": {
+        "title": "Změny těchto obchodních podmínek",
+        "description1": "Vyhrazujeme si právo kdykoli dle vlastního uvážení změnit nebo nahradit tyto Podmínky. Pokud je revize podstatná, vynaložíme přiměřené úsilí, abychom vám poskytli oznámení alespoň 30 dní před nabytím účinnosti jakýchkoli nových podmínek. Co představuje podstatnou změnu, určíme dle vlastního uvážení.",
+        "description2": "Pokračováním v přístupu k naší službě nebo jejím používání po nabytí účinnosti těchto revizí souhlasíte s tím, že budete vázáni revidovanými podmínkami. Pokud s novými podmínkami, ať už zcela nebo zčásti, nesouhlasíte, přestaňte prosím webové stránky a službu používat."
+      },
+      "contact": {
+        "title": "Kontaktujte nás",
+        "description": "Pokud máte jakékoli dotazy ohledně těchto Obchodních podmínek, můžete nás kontaktovat:",
+        "email": "E-mailem: support@ringdy.com",
+        "support": "Prostřednictvím našeho systému podpory v aplikaci",
+        "website": "Návštěvou našich webových stránek: www.ringdy.com"
+      },
+      "backToHome": "Zpět na domovskou stránku",
+      "privacyPolicy": "Zásady ochrany osobních údajů"
+    }
+  },
+  "safety": {
+    "title": "Bezpečnostní tipy a triky",
+    "subtitle": "Vaše bezpečnost je naší prioritou. Seznamte se se základními tipy pro bezpečné používání sítí a bezpečné připojení.",
+    "lastUpdated": "Poslední aktualizace: leden 2025",
+    "commitment": {
+      "title": "Náš závazek k vaší bezpečnosti",
+      "items": {
+        "privacy": "Sami se rozhodnete, kolik toho chcete sdílet – kdykoli si můžete přepnout na avatara a my nikdy nesdílíme vaše telefonní číslo ani přesnou adresu s ostatními uživateli.",
+        "noStorage": "Vaše soukromé kontaktní údaje nesdělujeme ostatním uživatelům, pokud se je sami nerozhodnete sdílet.",
+        "tools": "Nabízíme nástroje, jako je blokování a hlášení, abychom vám zajistili kontrolu nad každou interakcí.",
+        "ageLimit": "Ringdy je určen pouze pro uživatele starší 18 let."
+      }
+    },
+    "respectfulBehavior": {
+      "title": "Je vyžadováno uctivé chování",
+      "expectation": "Očekáváme, že:",
+      "items": {
+        "kind": "Buďte laskaví, uctiví a čestní",
+        "language": "Používejte čistý a vhodný jazyk",
+        "laws": "Dodržujte místní zákony a normy komunity",
+        "genuine": "Aplikaci používejte pouze pro upřímnou a zdvořilou interakci."
+      }
+    },
+    "prohibitedConduct": {
+      "title": "Zakázané chování",
+      "warning": "Aby byla zajištěna bezpečnost všech, nesmíte:",
+      "items": {
+        "harassment": "Obtěžovat, pronásledovat nebo šikanovat kohokoli",
+        "hateful": "Sdílet nenávistný, násilný nebo diskriminační obsah",
+        "impersonation": "Vydávání se za jiné osoby nebo vytváření falešných relací",
+        "personalData": "Požádejte o osobní údaje, jako je adresa, telefonní číslo nebo sociální přezdívky",
+        "explicit": "Odesílejte explicitní, pornografické nebo urážlivé zprávy",
+        "scamming": "Zapojovat se do podvodů, phishingu nebo žádostí o peníze",
+        "offPlatform": "Snažte se přesunout chaty do externích aplikací pro zasílání zpráv za klamavými účely",
+        "tracking": "Pokus o sledování nebo lokalizaci uživatelů nad rámec toho, co poskytuje Bluetooth"
+      },
+      "consequence": "Kterýkoli z těchto kroků může vést k pozastavení nebo trvalému zablokování."
+    },
+    "commonSense": {
+      "title": "Používejte zdravý rozum a opatrnost",
+      "intro": "Vy sami znáte svou bezpečnost nejlépe. Tyto tipy vám pomohou:",
+      "chatting": {
+        "title": "🗣 Při chatování:",
+        "items": {
+          "noPersonalInfo": "Nesdílejte své celé jméno, adresu, telefonní číslo ani finanční informace",
+          "cautious": "Dávejte si pozor na lidi, kteří rychle žádají o přesunutí chatu jinam.",
+          "noPressure": "Necítíte se pod tlakem, abyste odpověděli nebo pokračovali v konverzaci"
+        }
+      },
+      "redFlags": {
+        "title": "🛑 Dávejte si pozor na varovné signály:",
+        "items": {
+          "quickLove": "Někdo tvrdí, že je zamilovaný už po pár zprávách",
+          "moneyRequests": "Žádosti o zaslání peněz nebo osobních údajů",
+          "strangeLinks": "Podivné odkazy nebo žádosti o chaty mimo platformu",
+          "emergencyStories": "Příběhy týkající se nouzových cest, nemocničních účtů nebo problémů s vízy"
+        },
+        "advice": "Pokud se vám něco zdá divné, zablokujte to a nahlaste."
+      }
+    },
+    "reportBlock": {
+      "title": "Nástroje pro hlášení a blokování",
+      "intro": "Pokud někdo:",
+      "reasons": {
+        "uncomfortable": "Je ti to nepříjemné",
+        "violates": "Porušuje naše pokyny",
+        "suspicious": "Odesílá podezřelé nebo škodlivé zprávy"
+      },
+      "instruction": "Funkce blokování a hlášení použijte okamžitě. Všechna hlášení vážně posuzujeme a opakované porušení může vést k trvalému pozastavení.",
+      "anonymity": "Při nahlašování ostatních zůstanete anonymní. Osoba nebude informována, kdo ji nahlásil."
+    },
+    "meetingInPerson": {
+      "title": "Setkání v reálném životě (pokud je to relevantní)",
+      "disclaimer": "Ringdy je navržen tak, aby vám pomohl objevovat a spojit se s lidmi v okolí prostřednictvím Bluetooth skenování nebo místních míst. Mnoho uživatelů se po nalezení partnera rozhodne setkat se osobně. Dodržujte prosím tato opatření:",
+      "safetyTips": {
+        "publicPlaces": "Scházejte se pouze na veřejných místech",
+        "tellFriend": "Řekni kamarádovi/kamarádce o svých plánech",
+        "shareLocation": "Sdílejte svou polohu s někým, komu důvěřujete",
+        "noRides": "Nepřijímejte odvoz od lidí, které jste právě potkali",
+        "staySober": "Zůstaňte střízliví a bdělí",
+        "chargePhone": "Nabijte si telefon a mějte ho po ruce",
+        "ownTransport": "Zajistěte si vlastní dopravu v obou směrech"
+      },
+      "reminder": "Pokud se cítíte nepříjemně, můžete kdykoli odejít. Zablokujte uživatele a poté nám ho nahlaste."
+    },
+    "enforcement": {
+      "title": "Vynucovací a bezpečnostní opatření",
+      "intro": "Ringdy může v případě porušení podniknout následující kroky:",
+      "actions": {
+        "suspend": "Dočasně pozastavit účty",
+        "ban": "Trvale zablokovat zneužívající uživatele",
+        "lawEnforcement": "Nahlásit vážné hrozby orgánům činným v trestním řízení",
+        "verification": "Vyžadovat ověření v případě podezření na vydávání se za jinou osobu"
+      }
+    },
+    "appeals": {
+      "title": "Odvolání a podpora",
+      "intro": "Pokud máte pocit, že jste byli nespravedlivě zablokováni, nebo chcete nahlásit vážný problém:",
+      "contact": {
+        "email": "📧 E-mail: support@ringdy.com",
+        "website": "🌐 Navštivte: Bezpečnostní centrum Ringdy (Již brzy)"
+      }
+    },
+    "finalThoughts": {
+      "title": "Závěrečné myšlenky",
+      "message": "Ringdy je tu proto, aby pomohl lidem navazovat bezpečný a smysluplný kontakt, aniž by se odhalovala jejich identita. Vždy máte kontrolu nad tím, s kým si povídáte, a my jsme tu, abychom vás podpořili."
+    },
+    "navigation": {
+      "backToHome": "Zpět na domovskou stránku",
+      "downloadApp": "Stáhnout aplikaci"
+    }
+  },
+  "profile": {
+    "connectViaBLE": "Připojení přes BLE",
+    "stats": {
+      "connections": "Připojení",
+      "messages": "Zprávy",
+      "filesShared": "Sdílené soubory"
+    },
+    "location": "San Francisco, Kalifornie",
+    "onlineViaBLE": "Online přes BLE",
+    "occupation": "Softwarový vývojář - Technologický startup",
+    "education": "Stanfordská univerzita - Počítačové vědy",
+    "interests": "Zájmy: IoT, Bluetooth technologie, vývoj mobilních aplikací",
+    "bio": "S nadšením vytvářím bezproblémové spojení prostřednictvím technologií. Rád zkoumám možnosti Bluetooth Low Energy a vytvářím aplikace, které spojují lidi. Vždycky se těším na setkání s kolegy vývojáři a technickými nadšenci v mém okolí. Neváhejte se na mě obrátit ohledně spolupráce nebo jen dobré technické diskuze!",
+    "showMore": "Zobrazit více"
+  },
+  "auth": {
+    "agreeWith": "Souhlasím s"
+  }
+}

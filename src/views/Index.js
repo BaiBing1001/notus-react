@@ -1,12 +1,14 @@
 /*eslint-disable*/
 import React from "react";
 import { Link } from "react-router-dom";
+import { useTranslation } from 'react-i18next';
 
 import IndexNavbar from "components/Navbars/IndexNavbar.js";
 import Footer from "components/Footers/Footer.js";
 
 // Import images
 import patternReact from "assets/img/pattern_react.png";
+import connectDot from "assets/img/connect-2.png";
 import componentBtn from "assets/img/component-btn.png";
 import componentProfileCard from "assets/img/component-profile-card.png";
 import componentInfoCard from "assets/img/component-info-card.png";
@@ -24,57 +26,79 @@ import profile from "assets/img/profile.jpg";
 import landing from "assets/img/landing.jpg";
 
 export default function Index() {
+  const { t } = useTranslation();
+  
+  // Hide hero image on iPad and mobile
+  const hideImageOnMobile = `
+    @media (max-width: 1023px) {
+      .hero-connect-image {
+        display: none !important;
+      }
+    }
+  `;
+  
   return (
     <>
+      <style>{hideImageOnMobile}</style>
       <IndexNavbar fixed />
       <section className="header relative pt-16 items-center flex h-screen max-h-860-px">
         <div className="container mx-auto items-center flex flex-wrap">
           <div className="w-full md:w-8/12 lg:w-6/12 xl:w-6/12 px-4">
             <div className="pt-32 sm:pt-0">
-              <h2 className="font-semibold text-4xl text-blueGray-600">
-                Notus React - A beautiful extension for Tailwind CSS.
-              </h2>
-              <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
-                Notus React is Free and Open Source. It does not change any of
-                the CSS from{" "}
-                <a
-                  href="https://tailwindcss.com/?ref=creativetim"
-                  className="text-blueGray-600"
-                  target="_blank"
-                >
-                  Tailwind CSS
-                </a>
-                . It features multiple HTML elements and it comes with dynamic
-                components for ReactJS, Vue and Angular.
+              <h1 className="font-bold text-5xl text-blueGray-600 mb-4">
+                {t('hero.title').split('\n').map((line, index) => (
+                  <React.Fragment key={index}>
+                    {line}
+                    {index === 0 && <br />}
+                  </React.Fragment>
+                ))}
+              </h1>
+              <p className="mt-4 text-xl leading-relaxed text-blueGray-500">
+                {t('hero.subtitle')}
               </p>
               <div className="mt-12">
-                <a
-                  href="https://www.creative-tim.com/learning-lab/tailwind/react/overview/notus?ref=nr-index"
-                  target="_blank"
-                  className="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-lightBlue-500 active:bg-lightBlue-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
+                <Link
+                  to="/features"
+                  className="attention-action get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-lightBlue-500 active:bg-lightBlue-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
                 >
-                  Get started
-                </a>
-                <a
-                  href="https://github.com/creativetimofficial/notus-react?ref=nr-index"
-                  className="github-star ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
-                  target="_blank"
+                  <i className="fas fa-rocket mr-2"></i>
+                  {t('hero.discoverFeatures')}
+                </Link>
+                <Link
+                  to="/download"
+                  className="attention-action download-app ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
                 >
-                  Github Star
-                </a>
+                  <i className="fas fa-download mr-2"></i>
+                  {t('hero.downloadApp')}
+                </Link>
+              </div>
+              <div className="mt-8 flex items-center gap-6 text-blueGray-400">
+                <div className="flex items-center p-2">
+                  <i className="fas fa-user-secret text-2xl mr-2 text-lightBlue-500"></i>
+                  <span className="text-sm font-semibold">{t('hero.anonymousAvatars')}</span>
+                </div>
+                <div className="flex items-center p-2">
+                  <i className="fas fa-clock text-2xl mr-2 text-green-500"></i>
+                  <span className="text-sm font-semibold">{t('hero.autoExpiry')}</span>
+                </div>
+                <div className="flex items-center p-2">
+                  <i className="fas fa-shield-alt text-2xl mr-2 text-purple-500"></i>
+                  <span className="text-sm font-semibold">{t('hero.privacyFirst')}</span>
+                </div>
               </div>
             </div>
           </div>
         </div>
 
         <img
-          className="absolute top-0 b-auto right-0 pt-16 sm:w-6/12 -mt-48 sm:mt-0 w-10/12 max-h-860px"
-          src={patternReact}
-          alt="..."
+          className="absolute top-0 b-auto right-0 pt-16 sm:w-6/12 -mt-48 sm:mt-0 w-10/12 max-h-860px hero-connect-image"
+          src={connectDot}
+          // src={patternReact}
+          alt="Network connectivity pattern with interconnected nodes showing multi-point connections"
         />
       </section>
 
-      <section className="mt-48 md:mt-40 pb-40 relative bg-blueGray-100">
+      <section id="features" className="mt-48 md:mt-40 pb-40 relative bg-blueGray-100">
         <div
           className="-mt-20 top-0 bottom-auto left-0 right-0 w-full absolute h-20"
           style={{ transform: "translateZ(0)" }}
@@ -97,10 +121,10 @@ export default function Index() {
         <div className="container mx-auto">
           <div className="flex flex-wrap items-center">
             <div className="w-10/12 md:w-6/12 lg:w-4/12 px-12 md:px-4 mr-auto ml-auto -mt-32">
-              <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-lightBlue-500">
+              <div className="attention-card relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-lightBlue-500">
                 <img
-                  alt="..."
-                  src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80"
+                  alt="Young people socializing and connecting with phones at a vibrant gathering"
+                  src="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80"
                   className="w-full align-middle rounded-t-lg"
                 />
                 <blockquote className="relative p-8 mb-4">
@@ -116,13 +140,10 @@ export default function Index() {
                     ></polygon>
                   </svg>
                   <h4 className="text-xl font-bold text-white">
-                    Great for your awesome project
+                    {t('features.proximityTitle')}
                   </h4>
                   <p className="text-md font-light mt-2 text-white">
-                    Putting together a page has never been easier than matching
-                    together pre-made components. From landing pages
-                    presentation to login areas, you can easily customise and
-                    built your pages.
+                    {t('features.proximityDescription')}
                   </p>
                 </blockquote>
               </div>
@@ -134,28 +155,26 @@ export default function Index() {
                   <div className="relative flex flex-col mt-4">
                     <div className="px-4 py-5 flex-auto">
                       <div className="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
-                        <i className="fas fa-sitemap"></i>
+                        <i className="fas fa-user-secret"></i>
                       </div>
                       <h6 className="text-xl mb-1 font-semibold">
-                        CSS Components
+                        {t('features.avatarsTitle')}
                       </h6>
                       <p className="mb-4 text-blueGray-500">
-                        Notus React comes with a huge number of Fully Coded CSS
-                        components.
+                        {t('features.avatarsDescription')}
                       </p>
                     </div>
                   </div>
                   <div className="relative flex flex-col min-w-0">
                     <div className="px-4 py-5 flex-auto">
                       <div className="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
-                        <i className="fas fa-drafting-compass"></i>
+                        <i className="fas fa-clock"></i>
                       </div>
                       <h6 className="text-xl mb-1 font-semibold">
-                        JavaScript Components
+                        {t('features.expiringTitle')}
                       </h6>
                       <p className="mb-4 text-blueGray-500">
-                        We also feature many dynamic components for React,
-                        NextJS, Vue and Angular.
+                        {t('features.expiringDescription')}
                       </p>
                     </div>
                   </div>
@@ -164,26 +183,24 @@ export default function Index() {
                   <div className="relative flex flex-col min-w-0 mt-4">
                     <div className="px-4 py-5 flex-auto">
                       <div className="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
-                        <i className="fas fa-newspaper"></i>
+                        <i className="fas fa-eye-slash"></i>
                       </div>
-                      <h6 className="text-xl mb-1 font-semibold">Pages</h6>
+                      <h6 className="text-xl mb-1 font-semibold">{t('features.revealTitle')}</h6>
                       <p className="mb-4 text-blueGray-500">
-                        This extension also comes with 3 sample pages. They are
-                        fully coded so you can start working instantly.
+                        {t('features.revealDescription')}
                       </p>
                     </div>
                   </div>
                   <div className="relative flex flex-col min-w-0">
                     <div className="px-4 py-5 flex-auto">
                       <div className="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
-                        <i className="fas fa-file-alt"></i>
+                        <i className="fas fa-bluetooth-b"></i>
                       </div>
                       <h6 className="text-xl mb-1 font-semibold">
-                        Documentation
+                        {t('features.bluetoothTitle')}
                       </h6>
                       <p className="mb-4 text-blueGray-500">
-                        Built by developers for developers. You will love how
-                        easy is to to work with Notus React.
+                        {t('features.bluetoothDescription')}
                       </p>
                     </div>
                   </div>
@@ -197,84 +214,75 @@ export default function Index() {
           <div className="flex flex-wrap items-center">
             <div className="w-full md:w-4/12 px-12 md:px-4 ml-auto mr-auto mt-48">
               <div className="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white">
-                <i className="fas fa-sitemap text-xl"></i>
+                <i className="fas fa-mobile-alt text-xl"></i>
               </div>
               <h3 className="text-3xl mb-2 font-semibold leading-normal">
-                CSS Components
+                {t('features.keyFeaturesTitle')}
               </h3>
               <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
-                Every element that you need in a product comes built in as a
-                component. All components fit perfectly with each other and can
-                have different colours.
+                {t('features.keyFeaturesDescription')}
               </p>
               <div className="block pb-6">
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Buttons
+                  {t('features.tags.autoDiscovery')}
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Inputs
+                  {t('features.tags.chatMessaging')}
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Labels
+                  {t('features.tags.fileSharing')}
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Menus
+                  {t('features.tags.profiles')}
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Navbars
+                  {t('features.tags.privacyControls')}
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Pagination
+                  {t('features.tags.offlineMode')}
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Progressbars
+                  {t('features.tags.crossPlatform')}
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Typography
+                  {t('features.tags.lowPower')}
                 </span>
               </div>
-              <a
-                href="https://www.creative-tim.com/learning-lab/tailwind/react/alerts/notus?ref=nr-index"
-                target="_blank"
-                className="font-bold text-blueGray-700 hover:text-blueGray-500 ease-linear transition-all duration-150"
+              <Link
+                to="/download"
+                className="attention-action font-bold text-blueGray-700 hover:text-blueGray-500 ease-linear transition-all duration-150"
               >
-                View All{" "}
+                {t('features.downloadNow')}{" "}
                 <i className="fa fa-angle-double-right ml-1 leading-relaxed"></i>
-              </a>
+              </Link>
             </div>
 
             <div className="w-full md:w-5/12 px-4 mr-auto ml-auto mt-32">
-              <div className="relative flex flex-col min-w-0 w-full mb-6 mt-48 md:mt-0">
+              <div className="attention-card relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-lightBlue-500 mt-48 md:mt-0">
                 <img
-                  alt="..."
-                  src={componentBtn}
-                  className="w-full align-middle rounded absolute shadow-lg max-w-100-px z-3 left-145-px -top-29-px"
+                  alt="People using Ringdy for auto-discovery at a social event"
+                  src="https://images.unsplash.com/photo-1556656793-08538906a9f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80"
+                  className="w-full align-middle rounded-t-lg"
                 />
-                <img
-                  alt="..."
-                  src={componentProfileCard}
-                  className="w-full align-middle rounded-lg absolute shadow-lg -top-160-px left-260-px max-w-210-px"
-                />
-                <img
-                  alt="..."
-                  src={componentInfoCard}
-                  className="w-full align-middle rounded-lg absolute shadow-lg max-w-180-px -top-225-px left-40-px z-2"
-                />
-                <img
-                  alt="..."
-                  src={componentInfo2}
-                  className="w-full align-middle rounded-lg absolute shadow-2xl max-w-200-px -left-50-px top-25-px"
-                />
-                <img
-                  alt="..."
-                  src={componentMenu}
-                  className="w-full align-middle rounded absolute shadow-lg max-w-580-px -left-20-px top-210-px"
-                />
-                <img
-                  alt="..."
-                  src={componentBtnPink}
-                  className="w-full align-middle rounded absolute shadow-xl max-w-120-px left-195-px top-95-px"
-                />
+                <blockquote className="relative p-8 mb-4">
+                  <svg
+                    preserveAspectRatio="none"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 583 95"
+                    className="absolute left-0 w-full block h-95-px -top-94-px"
+                  >
+                    <polygon
+                      points="-30,95 583,95 583,65"
+                      className="text-lightBlue-500 fill-current"
+                    ></polygon>
+                  </svg>
+                  <h4 className="text-xl font-bold text-white">
+                    {t('useCases.actionTitle')}
+                  </h4>
+                  <p className="text-md font-light mt-2 text-white">
+                    {t('useCases.actionDescription')}
+                  </p>
+                </blockquote>
               </div>
             </div>
           </div>
@@ -283,152 +291,125 @@ export default function Index() {
             <div className="w-full md:w-6/12 px-4 mr-auto ml-auto mt-32">
               <div className="justify-center flex flex-wrap relative">
                 <div className="my-4 w-full lg:w-6/12 px-4">
-                  <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/svelte/alerts/notus?ref=vtw-index"
-                    target="_blank"
-                  >
-                    <div className="bg-red-600 shadow-lg rounded-lg text-center p-8">
-                      <img
-                        alt="..."
-                        className="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
-                        src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/svelte.jpg"
-                      />
-                      <p className="text-lg text-white mt-4 font-semibold">
-                        Svelte
-                      </p>
+                  <div className="attention-card bg-lightBlue-500 shadow-lg rounded-lg text-center p-8">
+                    <div className="text-white text-4xl mb-4">
+                      <i className="fas fa-graduation-cap"></i>
                     </div>
-                  </a>
-                  <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/react/alerts/notus?ref=vtw-index"
-                    target="_blank"
-                  >
-                    <div className="bg-lightBlue-500 shadow-lg rounded-lg text-center p-8 mt-8">
-                      <img
-                        alt="..."
-                        className="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
-                        src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react.jpg"
-                      />
-                      <p className="text-lg text-white mt-4 font-semibold">
-                        ReactJS
-                      </p>
+                    <p className="text-lg text-white mt-4 font-semibold">
+                      {t('useCases.campusTitle')}
+                    </p>
+                    <p className="text-sm text-lightBlue-200 mt-2">
+                      {t('useCases.campusDescription')}
+                    </p>
+                  </div>
+                  <div className="attention-card bg-blueGray-800 shadow-lg rounded-lg text-center p-8 mt-8">
+                    <div className="text-white text-4xl mb-4">
+                      <i className="fas fa-users"></i>
                     </div>
-                  </a>
-                  <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/nextjs/alerts/notus?ref=vtw-index"
-                    target="_blank"
-                  >
-                    <div className="bg-blueGray-700 shadow-lg rounded-lg text-center p-8 mt-8">
-                      <img
-                        alt="..."
-                        className="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
-                        src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nextjs.jpg"
-                      />
-                      <p className="text-lg text-white mt-4 font-semibold">
-                        NextJS
-                      </p>
+                    <p className="text-lg text-white mt-4 font-semibold">
+                      {t('useCases.eventTitle')}
+                    </p>
+                    <p className="text-sm text-white-800 mt-2">
+                      {t('useCases.eventDescription')}
+                    </p>
+                  </div>
+                  <div className="attention-card bg-purple-500 shadow-lg rounded-lg text-center p-8 mt-8">
+                    <div className="text-white text-4xl mb-4">
+                      <i className="fas fa-handshake"></i>
                     </div>
-                  </a>
+                    <p className="text-lg text-white mt-4 font-semibold">
+                      {t('useCases.businessTitle')}
+                    </p>
+                    <p className="text-sm text-purple-200 mt-2">
+                      {t('useCases.businessDescription')}
+                    </p>
+                  </div>
                 </div>
                 <div className="my-4 w-full lg:w-6/12 px-4 lg:mt-16">
-                  <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/js/alerts/notus?ref=vtw-index"
-                    target="_blank"
-                  >
-                    <div className="bg-yellow-500 shadow-lg rounded-lg text-center p-8">
-                      <img
-                        alt="..."
-                        className="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
-                        src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/js.png"
-                      />
-                      <p className="text-lg text-white mt-4 font-semibold">
-                        JavaScript
-                      </p>
+                  <div className="attention-card bg-orange-500 shadow-lg rounded-lg text-center p-8">
+                    <div className="text-white text-4xl mb-4">
+                      <i className="fas fa-coffee"></i>
                     </div>
-                  </a>
-                  <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/angular/alerts/notus?ref=vtw-index"
-                    target="_blank"
-                  >
-                    <div className="bg-red-700 shadow-lg rounded-lg text-center p-8 mt-8">
-                      <img
-                        alt="..."
-                        className="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
-                        src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/angular.jpg"
-                      />
-                      <p className="text-lg text-white mt-4 font-semibold">
-                        Angular
-                      </p>
+                    <p className="text-lg text-white mt-4 font-semibold">
+                      {t('useCases.cafeTitle')}
+                    </p>
+                    <p className="text-sm text-orange-200 mt-2">
+                      {t('useCases.cafeDescription')}
+                    </p>
+                  </div>
+                  <div className="attention-card bg-red-500 shadow-lg rounded-lg text-center p-8 mt-8">
+                    <div className="text-white text-4xl mb-4">
+                      <i className="fas fa-map-marker-alt"></i>
                     </div>
-                  </a>
-                  <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/vue/alerts/notus?ref=vtw-index"
-                    target="_blank"
-                  >
-                    <div className="bg-emerald-500 shadow-lg rounded-lg text-center p-8 mt-8">
-                      <img
-                        alt="..."
-                        className="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
-                        src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vue.jpg"
-                      />
-                      <p className="text-lg text-white mt-4 font-semibold">
-                        Vue.js
-                      </p>
+                    <p className="text-lg text-white mt-4 font-semibold">
+                      {t('useCases.localTitle')}
+                    </p>
+                    <p className="text-sm text-red-200 mt-2">
+                      {t('useCases.localDescription')}
+                    </p>
+                  </div>
+                  <div className="attention-card bg-indigo-500 shadow-lg rounded-lg text-center p-8 mt-8">
+                    <div className="text-white text-4xl mb-4">
+                      <i className="fas fa-gamepad"></i>
                     </div>
-                  </a>
+                    <p className="text-lg text-white mt-4 font-semibold">
+                      {t('useCases.gamingTitle')}
+                    </p>
+                    <p className="text-sm text-indigo-200 mt-2">
+                      {t('useCases.gamingDescription')}
+                    </p>
+                  </div>
                 </div>
               </div>
             </div>
 
             <div className="w-full md:w-4/12 px-12 md:px-4 ml-auto mr-auto mt-48">
               <div className="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white">
-                <i className="fas fa-drafting-compass text-xl"></i>
+                <i className="fas fa-bluetooth-b text-xl"></i>
               </div>
               <h3 className="text-3xl mb-2 font-semibold leading-normal">
-                Javascript Components
+                {t('useCases.perfectTitle')}
               </h3>
               <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
-                In order to create a great User Experience some components
-                require JavaScript. In this way you can manipulate the elements
-                on the page and give more options to your users.
+                {t('useCases.perfectDescription')}
+                {t('useCases.perfectDescriptionContinued')}
               </p>
               <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
-                We created a set of Components that are dynamic and come to help
-                you.
+                {t('useCases.approachDescription')}
               </p>
               <div className="block pb-6">
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Alerts
+                  {t('useCases.tags.studyGroups')}
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Dropdowns
+                  {t('useCases.tags.events')}
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Menus
+                  {t('useCases.tags.coworking')}
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Modals
+                  {t('useCases.tags.gaming')}
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Navbars
+                  {t('useCases.tags.travel')}
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Popovers
+                  {t('useCases.tags.shopping')}
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Tabs
+                  {t('useCases.tags.fitness')}
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Tooltips
+                  {t('useCases.tags.social')}
                 </span>
               </div>
-              <a
-                href="https://www.creative-tim.com/learning-lab/tailwind/react/alerts/notus?ref=nr-index"
-                target="_blank"
-                className="font-bold text-blueGray-700 hover:text-blueGray-500 ease-linear transition-all duration-150"
+              <Link
+                to="/download"
+                className="attention-action font-bold text-blueGray-700 hover:text-blueGray-500 ease-linear transition-all duration-150"
               >
-                View all{" "}
+                {t('useCases.tryItNow')}{" "}
                 <i className="fa fa-angle-double-right ml-1 leading-relaxed"></i>
-              </a>
+              </Link>
             </div>
           </div>
         </div>
@@ -438,28 +419,25 @@ export default function Index() {
             <div className="w-full md:w-5/12 ml-auto px-12 md:px-4">
               <div className="md:pr-12">
                 <div className="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white">
-                  <i className="fas fa-file-alt text-xl"></i>
+                  <i className="fas fa-heart text-xl"></i>
                 </div>
                 <h3 className="text-3xl font-semibold">
-                  Complex Documentation
+                  {t('community.whyLoveTitle')}
                 </h3>
                 <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
-                  This extension comes a lot of fully coded examples that help
-                  you get started faster. You can adjust the colors and also the
-                  programming language. You can change the text and images and
-                  you're good to go.
+                  {t('community.whyLoveDescription')}
                 </p>
                 <ul className="list-none mt-6">
                   <li className="py-2">
                     <div className="flex items-center">
                       <div>
                         <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-blueGray-50 mr-3">
-                          <i className="fas fa-fingerprint"></i>
+                          <i className="fas fa-lock"></i>
                         </span>
                       </div>
                       <div>
                         <h4 className="text-blueGray-500">
-                          Built by Developers for Developers
+                          {t('community.privacyProtection')}
                         </h4>
                       </div>
                     </div>
@@ -468,12 +446,12 @@ export default function Index() {
                     <div className="flex items-center">
                       <div>
                         <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-blueGray-50 mr-3">
-                          <i className="fab fa-html5"></i>
+                          <i className="fas fa-bolt"></i>
                         </span>
                       </div>
                       <div>
                         <h4 className="text-blueGray-500">
-                          Carefully crafted code for Components
+                          {t('community.instantConnection')}
                         </h4>
                       </div>
                     </div>
@@ -482,12 +460,12 @@ export default function Index() {
                     <div className="flex items-center">
                       <div>
                         <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-blueGray-50 mr-3">
-                          <i className="far fa-paper-plane"></i>
+                          <i className="fas fa-battery-full"></i>
                         </span>
                       </div>
                       <div>
                         <h4 className="text-blueGray-500">
-                          Dynamic Javascript Components
+                          {t('community.lowPowerConsumption')}
                         </h4>
                       </div>
                     </div>
@@ -498,13 +476,13 @@ export default function Index() {
 
             <div className="w-full md:w-6/12 mr-auto px-4 pt-24 md:pt-0">
               <img
-                alt="..."
+                alt="Group of friends socializing and networking with phones at a vibrant social gathering"
                 className="max-w-full rounded-lg shadow-xl"
                 style={{
                   transform:
                     "scale(1) perspective(1040px) rotateY(-11deg) rotateX(2deg) rotate(2deg)",
                 }}
-                src={documentation}
+                src="https://images.unsplash.com/photo-1511632765486-a01980e01a18?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=755&q=80"
               />
             </div>
           </div>
@@ -512,11 +490,10 @@ export default function Index() {
 
         <div className="justify-center text-center flex flex-wrap mt-24">
           <div className="w-full md:w-6/12 px-12 md:px-4">
-            <h2 className="font-semibold text-4xl">Beautiful Example Pages</h2>
+            <h2 className="font-semibold text-4xl">{t('community.experienceTitle')}</h2>
             <p className="text-lg leading-relaxed mt-4 mb-4 text-blueGray-500">
-              Notus React is a completly new product built using our past
-              experience in web templates. Take the examples we made for you and
-              start playing with them.
+              {t('community.experienceDescription')}
+              {t('community.experienceDescriptionContinued')}
             </p>
           </div>
         </div>
@@ -528,45 +505,45 @@ export default function Index() {
             <div className="w-full lg:w-12/12 px-4  -mt-24">
               <div className="flex flex-wrap">
                 <div className="w-full lg:w-4/12 px-4">
-                  <h5 className="text-xl font-semibold pb-4 text-center">
-                    Login Page
+                  <h5 className="text-xl font-semibold pb-4 text-center text-white">
+                    {t('community.anonymousProfiles')}
                   </h5>
                   <Link to="/auth/login">
                     <div className="hover:-mt-4 relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg ease-linear transition-all duration-150">
                       <img
-                        alt="..."
+                        alt="People creating anonymous profiles and connecting socially with phones"
                         className="align-middle border-none max-w-full h-auto rounded-lg"
-                        src={login}
+                        src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80"
                       />
                     </div>
                   </Link>
                 </div>
 
                 <div className="w-full lg:w-4/12 px-4">
-                  <h5 className="text-xl font-semibold pb-4 text-center">
-                    Profile Page
+                  <h5 className="text-xl font-semibold pb-4 text-center text-white">
+                    {t('community.chatInterface')}
                   </h5>
                   <Link to="/profile">
                     <div className="hover:-mt-4 relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg ease-linear transition-all duration-150">
                       <img
-                        alt="..."
+                        alt="Friends actively chatting and socializing with phones in a lively setting"
                         className="align-middle border-none max-w-full h-auto rounded-lg"
-                        src={profile}
+                        src="https://images.unsplash.com/photo-1543269664-7eef42226a21?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80"
                       />
                     </div>
                   </Link>
                 </div>
 
                 <div className="w-full lg:w-4/12 px-4">
-                  <h5 className="text-xl font-semibold pb-4 text-center">
-                    Landing Page
+                  <h5 className="text-xl font-semibold pb-4 text-center text-white">
+                    {t('community.nearbyDiscovery')}
                   </h5>
                   <Link to="/landing">
                     <div className="hover:-mt-4 relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg ease-linear transition-all duration-150">
                       <img
-                        alt="..."
+                        alt="Young people discovering and connecting at an energetic social event with phones"
                         className="align-middle border-none max-w-full h-auto rounded-lg"
-                        src={landing}
+                        src="https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80"
                       />
                     </div>
                   </Link>
@@ -582,45 +559,34 @@ export default function Index() {
           <div className="flex flex-wrap justify-center">
             <div className="w-full md:w-5/12 px-12 md:px-4 ml-auto mr-auto md:mt-64">
               <div className="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white">
-                <i className="fas fa-code-branch text-xl"></i>
+                <i className="fas fa-users text-xl"></i>
               </div>
               <h3 className="text-3xl mb-2 font-semibold leading-normal text-white">
-                Open Source
+                {t('community.joinTitle')}
               </h3>
               <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-400">
-                Since{" "}
-                <a
-                  href="https://tailwindcss.com/?ref=creativetim"
-                  className="text-blueGray-300"
-                  target="_blank"
-                >
-                  Tailwind CSS
-                </a>{" "}
-                is an open source project we wanted to continue this movement
-                too. You can give this version a try to feel the design and also
-                test the quality of the code!
+                {t('community.joinDescription1')}
               </p>
               <p className="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-400">
-                Get it free on Github and please help us spread the news with a
-                Star!
+                {t('community.joinDescription2')}
               </p>
-              <a
-                href="https://github.com/creativetimofficial/notus-react?ref=nr-index"
-                target="_blank"
-                className="github-star mt-4 inline-block text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg"
+              <Link
+                to="/download"
+                className="attention-action github-star mt-4 inline-block text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-lightBlue-600 active:bg-lightBlue-700 uppercase text-sm shadow hover:shadow-lg"
               >
-                Github Star
-              </a>
+                <i className="fas fa-download mr-2"></i>
+                {t('community.downloadNow')}
+              </Link>
             </div>
 
             <div className="w-full md:w-4/12 px-4 mr-auto ml-auto mt-32 relative">
-              <i className="fab fa-github text-blueGray-700 absolute -top-150-px -right-100 left-auto opacity-80 text-55"></i>
+              <i className="fas fa-podcast text-blueGray-700 absolute -top-150-px -right-100 left-auto opacity-80 text-55"></i>
             </div>
           </div>
         </div>
       </section>
 
-      <section className="pb-16 bg-blueGray-200 relative pt-32">
+      {/* <section className="pb-16 bg-blueGray-200 relative pt-32">
         <div
           className="-mt-20 top-0 bottom-auto left-0 right-0 w-full absolute h-20"
           style={{ transform: "translateZ(0)" }}
@@ -645,40 +611,34 @@ export default function Index() {
           <div className="flex flex-wrap justify-center bg-white shadow-xl rounded-lg -mt-64 py-16 px-12 relative z-10">
             <div className="w-full text-center lg:w-8/12">
               <p className="text-4xl text-center">
-                <span role="img" aria-label="love">
-                  😍
-                </span>
               </p>
               <h3 className="font-semibold text-3xl">
-                Do you love this Starter Kit?
+                {t('featurePage.cta.title')}
               </h3>
               <p className="text-blueGray-500 text-lg leading-relaxed mt-4 mb-4">
-                Cause if you do, it can be yours now. Hit the buttons below to
-                navigate to get the Free version for your next project. Build a
-                new web app or give an old project a new look!
+                {t('featurePage.cta.description')}
               </p>
-              <div className="sm:block flex flex-col mt-10">
-                <a
-                  href="https://www.creative-tim.com/learning-lab/tailwind/react/overview/notus?ref=nr-index"
-                  target="_blank"
-                  className="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-2 bg-lightBlue-500 active:bg-lightBlue-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
+              <div className="sm:flex sm:justify-center flex flex-col sm:flex-row gap-4 mt-10">
+                <Link
+                  to="/download"
+                  className="bg-blueGray-800 text-white font-bold px-8 py-4 rounded-lg outline-none focus:outline-none shadow-lg hover:shadow-xl ease-linear transition-all duration-150 text-center"
                 >
-                  Get started
-                </a>
-                <a
-                  href="https://github.com/creativetimofficial/notus-react?ref=nr-index"
-                  target="_blank"
-                  className="github-star sm:ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg"
+                  <i className="fab fa-apple text-lg mr-2"></i>
+                  Download for iOS
+                </Link>
+                <Link
+                  to="/download"
+                  className="bg-blueGray-800 text-white font-bold px-8 py-4 mt-4 rounded-lg outline-none focus:outline-none shadow-lg hover:shadow-xl ease-linear transition-all duration-150 text-center"
                 >
-                  <i className="fab fa-github text-lg mr-1"></i>
-                  <span>Help With a Star</span>
-                </a>
+                  <i className="fab fa-google-play text-lg mr-2"></i>
+                  Download for Android
+                </Link>
               </div>
               <div className="text-center mt-16"></div>
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
       <Footer />
     </>
   );

@@ -1,0 +1,1434 @@
+{
+  "navbar": {
+    "features": "Caracteristici",
+    "subscription": "Abonament",
+    "download": "Descărcare",
+    "legal": "Juridic",
+    "privacyPolicy": "Politica de confidențialitate",
+    "termsOfUse": "Termeni de utilizare",
+    "safetyTips": "Sfaturi și trucuri de siguranță"
+  },
+  "hero": {
+    "title": "Găsește oameni în apropiere.\n Conectează-te în viața reală.",
+    "subtitle": "Scutură pentru a descoperi persoane din jurul tău prin Bluetooth sau alătură-te unui loc din apropiere pentru a vedea cine este acolo. Trimite o cerere de prietenie, potrivește-te și începe să discuți - cu confidențialitate opțională pentru avatar până când ești gata să împărtășești mai multe.",
+    "discoverFeatures": "Descoperiți caracteristicile",
+    "downloadApp": "Descărcați aplicația",
+    "anonymousAvatars": "Avatare opționale",
+    "autoExpiry": "Bluetooth + Locații",
+    "privacyFirst": "Confidențialitatea pe primul loc"
+  },
+  "features": {
+    "proximityTitle": "Descoperire bazată pe proximitate",
+    "proximityDescription": "Găsește persoane din apropiere scanând prin Bluetooth sau alăturându-te unui loc de pe hartă. Trimite o cerere de prietenie și începe să discuți odată ce amândoi vă potriviți.",
+    "avatarsTitle": "Confidențialitate opțională pentru avatar",
+    "avatarsDescription": "Păstrează-ți avatarul activat cât timp cunoști pe cineva și treci la fotografiile reale oricând ești pregătit/ă.",
+    "expiringTitle": "Descoperire la locație",
+    "expiringDescription": "Răsfoiește locurile sugerate în apropiere și vezi cine s-a înregistrat pe o rază - nu este nevoie să scanezi constant.",
+    "revealTitle": "Legături",
+    "revealDescription": "Marchează o conexiune exclusivă ca fiind strâns legată odată ce ai găsit pe cineva cu care vrei să rămâi.",
+    "bluetoothTitle": "Tehnologie Bluetooth LE",
+    "bluetoothDescription": "Conectați-vă fără internet utilizând tehnologia avansată Bluetooth Low Energy pentru o rețea locală eficientă.",
+    "keyFeaturesTitle": "Caracteristici cheie",
+    "keyFeaturesDescription": "Ringdy vine la pachet cu funcții puternice, concepute pentru a îmbunătăți experiența ta de conectivitate locală oriunde te-ai afla.",
+    "downloadNow": "Descarcă acum",
+    "tags": {
+      "autoDiscovery": "Descoperire automată",
+      "chatMessaging": "Mesagerie prin chat",
+      "fileSharing": "Partajarea fișierelor",
+      "profiles": "Profiluri",
+      "privacyControls": "Controale de confidențialitate",
+      "offlineMode": "Mod offline",
+      "crossPlatform": "Multi-platformă",
+      "lowPower": "Consum redus de energie"
+    }
+  },
+  "useCases": {
+    "actionTitle": "Ringdy în acțiune",
+    "actionDescription": "Descoperire automată, mesagerie prin chat și partajare de profiluri în medii sociale reale. Experimentați conectivitate perfectă cu tehnologia avansată Bluetooth Low Energy oriunde ați merge.",
+    "campusTitle": "Campus Connect",
+    "campusDescription": "Găsește instantaneu parteneri de studiu",
+    "eventTitle": "Networking pentru evenimente",
+    "eventDescription": "Conectați-vă la conferințe",
+    "businessTitle": "Întâlnire de afaceri",
+    "businessDescription": "Conexiuni profesionale",
+    "cafeTitle": "Conexiuni la cafenea",
+    "cafeDescription": "Întâlnește iubitori de cafea din apropiere",
+    "localTitle": "Descoperire locală",
+    "localDescription": "Explorează-ți cartierul",
+    "gamingTitle": "Grupuri de jocuri",
+    "gamingDescription": "Găsește parteneri de jocuri",
+    "perfectTitle": "Cazuri de utilizare perfecte",
+    "perfectDescription": "Ringdy transformă orice locație într-o oportunitate de networking. Fie că ești la universitate, la o conferință sau la cafeneaua ta locală, ",
+    "perfectDescriptionContinued": "descoperiți instantaneu conexiuni semnificative.",
+    "approachDescription": "De la grupuri de studiu la networking profesional, abordarea noastră bazată pe proximitate face ca conectarea să fie naturală și fără efort.",
+    "tryItNow": "Încearcă acum",
+    "tags": {
+      "studyGroups": "Grupuri de studiu",
+      "events": "Evenimente",
+      "coworking": "Coworking",
+      "gaming": "Jocuri",
+      "travel": "Voiaj",
+      "shopping": "Cumpărături",
+      "fitness": "Fitness",
+      "social": "Social"
+    }
+  },
+  "community": {
+    "whyLoveTitle": "De ce oamenii iubesc Ringdy",
+    "whyLoveDescription": "Utilizatorii noștri ne spun în mod constant cum Ringdy le-a transformat experiența de networking. De la întâlniri cu oameni la cafenele până la interacțiunea la evenimente, aplicația creează conexiuni autentice în apropiere.",
+    "privacyProtection": "Design care respectă confidențialitatea",
+    "instantConnection": "Conexiune instantanee fără internet",
+    "lowPowerConsumption": "Consum ultra-redus de energie",
+    "experienceTitle": "Experimentați Ringdy",
+    "experienceDescription": "Explorează aplicația noastră prin diferite interfețe utilizator. De la profiluri de utilizator ",
+    "experienceDescriptionContinued": "la fluxurile de conectare, vedeți cum Ringdy face ca rețelele bazate pe proximitate să fie intuitive și captivante.",
+    "anonymousProfiles": "Profiluri de avatar",
+    "chatInterface": "Interfață de chat",
+    "nearbyDiscovery": "Descoperire în apropiere",
+    "joinTitle": "Alătură-te comunității noastre",
+    "joinDescription1": "Ringdy este mai mult decât o simplă aplicație - este o modalitate de a întâlni oameni reali din apropiere, fie prin scanare Bluetooth , fie prin locurile tale locale preferate.",
+    "joinDescription2": "Urmăriți-ne pentru a fi la curent cu noile funcții, poveștile utilizatorilor și evenimentele comunității din zona dvs.!",
+    "downloadNow": "Descarcă acum"
+  },
+  "download": {
+    "title": "Descărcați Ringdy",
+    "subtitle": "Instalează Ringdy pe dispozitivul tău mobil și începe să te conectezi cu oamenii din apropiere. Disponibil acum atât pe platformele Android, cât și pe cele iOS.",
+    "googlePlay": "Google Play",
+    "appStore": "Magazin de aplicații",
+    "getItOn": "Ia-l pe tine",
+    "downloadOn": "Descărcați pe",
+    "comingSoon": "În curând",
+    "whatYouGet": "Ce primești",
+    "instantConnections": "Conexiuni instantanee",
+    "instantConnectionsDesc": "Conectează-te instantaneu cu persoanele din apropiere folosind tehnologia Bluetooth Low Energy sau alăturându-te unui eveniment local.",
+    "anonymousProfiles": "Confidențialitatea avatarului",
+    "anonymousProfilesDesc": "Păstrează un profil de avatar pentru confidențialitate și distribuie fotografiile tale reale oricând ești pregătit/ă.",
+    "privacyFirst": "Confidențialitatea pe primul loc",
+    "privacyFirstDesc": "Tu controlezi ce distribui și când. Instrumentele de blocare și raportare mențin comunitatea în siguranță.",
+    "crossPlatform": "Multiplatformă",
+    "crossPlatformDesc": "Funcționează perfect pe dispozitive iOS și Android.",
+    "requirements": "Cerințe de sistem",
+    "androidReq": "Android 6.0 sau o versiune ulterioară",
+    "iosReq": "iOS 12.0 sau o versiune ulterioară",
+    "bluetoothReq": "Suport Bluetooth 4.0 ( BLE )",
+    "storageReq": "50 MB de spațiu de stocare gratuit",
+    "systemDescription": "Ringdy necesită dispozitive cu suport Bluetooth Low Energy ( BLE ). Majoritatea smartphone-urilor și tabletelor moderne acceptă tehnologia BLE .",
+    "androidRequirements": "Cerințe Android:",
+    "androidReq1": "Android 5.0 (API nivel 21) sau o versiune ulterioară",
+    "androidReq2": "Suport Bluetooth 4.0 LE",
+    "androidReq3": "Permisiuni de locație (pentru scanarea BLE )",
+    "androidReq4": "Minim 2 GB de RAM recomandat",
+    "iosRequirements": "Cerințe iOS:",
+    "iosReq1": "iOS 12.0 sau o versiune ulterioară",
+    "iosReq2": "iPhone 5s sau mai nou, iPad Air sau mai nou",
+    "iosReq3": "Dispozitiv compatibil Bluetooth 4.0 LE",
+    "iosReq4": "Actualizarea aplicației în fundal este activată",
+    "learnMoreFeatures": "Află mai multe despre funcțiile Ringdy !",
+    "crossPlatformTitle": "Compatibilitate între platforme",
+    "crossPlatformCompatibilityDesc": "Conectează-te cu utilizatori de pe diferite platforme. Utilizatorii de Android și iOS se pot descoperi și pot discuta între ei fără probleme.",
+    "android": {
+      "title": "Android",
+      "description": "Experiența completă Ringdy este disponibilă pe dispozitivele Android care rulează Android 5.0 (nivelul API 21) și versiuni ulterioare.",
+      "featuresTitle": "Caracteristici:",
+      "features": {
+        "bluetooth": "Scanare și publicitate Bluetooth LE",
+        "background": "Operațiune în fundal",
+        "notifications": "Notificări push",
+        "offline": "Suport pentru modul offline"
+      },
+      "downloadButton": "Descarcă de pe Google Play"
+    },
+    "ios": {
+      "title": "iOS",
+      "description": "Aplicație iOS nativă optimizată pentru iPhone și iPad, compatibilă cu iOS 12.0 și versiunile ulterioare.",
+      "featuresTitle": "Caracteristici:",
+      "features": {
+        "bluetooth": "Integrare Bluetooth de bază",
+        "background": "Reîmprospătarea aplicației în fundal",
+        "privacy": "Design axat pe confidențialitate",
+        "universal": "Suport universal pentru aplicații"
+      },
+      "downloadButton": "Descarcă din App Store"
+    },
+    "qrCode": {
+      "title": "Descărcare rapidă",
+      "description": "Scanați codul QR cu camera telefonului pentru a descărca Ringdy",
+      "placeholder": "Cod QR",
+      "instruction": "Îndreptați camera spre codul QR pentru a descărca"
+    },
+    "installation": {
+      "title": "Instalare ușoară",
+      "description": "Începeți să utilizați Ringdy este simplu. Descarcă aplicația, acordă permisiunile necesare și începe să descoperiți persoane din apropiere.",
+      "step1": "Descarcă din magazinul de aplicații al platformei tale",
+      "step2": "Acordați permisiuni Bluetooth și locație",
+      "step3": "Creează-ți profilul și începe să te conectezi!"
+    },
+    "callToAction": {
+      "title": "Alătură-te comunității Ringdy",
+      "description": "Începe să te conectezi cu oamenii din apropiere într-un mod sigur și privat. Descarcă Ringdy astăzi și descoperă viitorul rețelelor de proximitate.",
+      "googlePlay": "Google Play",
+      "appStore": "Magazin de aplicații"
+    }
+  },
+  "featurePage": {
+    "title": "Descoperă locuri din apropiere.\n Conectează-te cu oameni reali.",
+    "subtitle": "Răsfoiește locații sugerate în apropiere, descoperă persoane din jurul tău prin Bluetooth și trimite cereri de prietenie care duc la conversații reale.",
+    "exploreFeatures": "Explorează funcțiile",
+    "downloadApp": "Descărcați aplicația",
+    "heroTitle": "Descoperă conexiuni reale în apropiere",
+    "heroSubtitle": "Alătură-te unei locații sugerate sau scanează împrejurimile, vezi cine este în apropiere și conectează-te cu oameni interesanți prin tehnologia Bluetooth Low Energy.",
+    "discoverCrowdedPlaces": "Descoperiți locații din apropiere",
+    "discoverCrowdedPlacesDesc": "Obține sugestii pentru locații populare din apropiere, unde poți întâlni oameni cu aceleași interese și poți forma conexiuni semnificative.",
+    "scanThroughAvatars": "Vezi cine este în apropiere",
+    "scanThroughAvatarsDesc": "Răsfoiește fișele de profil ale persoanelor din apropiere, cu opțiunea de a-ți păstra avatarul activ până când ești gata să distribui mai multe.",
+    "revealAndMeet": "Potrivire și chat",
+    "revealAndMeetDesc": "Trimite o cerere de prietenie și, odată ce este acceptată, te potrivești și poți începe să discuți în aplicație.",
+    "proximityBasedConnections": "Conexiuni reale bazate pe proximitate",
+    "proximityBasedConnectionsDesc": "Aplicația noastră sugerează locații din apropiere unde puteți descoperi persoane cu interese similare. După ce amândoi sunteți în raza de acțiune, răsfoiți profilurile din apropiere pentru a găsi potențiale conexiuni.",
+    "bleProximityTech": "Tehnologia Bluetooth Low Energy vă asigură că vă puteți conecta doar cu persoane aflate în apropiere, făcând fiecare conexiune autentică și reală.",
+    "downloadNow": "Descarcă Ringdy acum!",
+    "realTimeProximity": "Detectarea proximității în timp real",
+    "realTimeProximityDesc": "Conectează-te doar cu persoane care sunt în apropiere sau în același loc cu tine, asigurând conexiuni autentice.",
+    "howItWorks": "Cum funcționează",
+    "howItWorksDesc": "Trei pași simpli pentru a descoperi locații din apropiere, a te conecta cu oameni reali și a începe să discuți.",
+    "step1Title": "Scanează sau alătură-te unei locații",
+    "step1Desc": "Scutură pentru a scana prin Bluetooth sau răsfoiește locațiile sugerate în apropiere și alătură-te uneia care te interesează.",
+    "step2Title": "Răsfoiți profilurile din apropiere",
+    "step2Desc": "Vedeți fișele de profil ale persoanelor din apropiere, cu opțiunea de confidențialitate a avatarului până când sunteți gata să distribuiți mai multe.",
+    "step3Title": "Trimite o solicitare și discută",
+    "step3Desc": "Trimite o cerere de prietenie și, odată acceptată, te potrivești și poți începe să discuți direct în aplicație.",
+    "coreFeatures": "Caracteristici principale",
+    "proximityNetworking": "Rețele de proximitate",
+    "proximityDesc": "Conectează-te cu persoanele din imediata ta apropiere utilizând tehnologia avansată Bluetooth Low Energy.",
+    "anonymousChat": "Potrivirea cererilor de prietenie",
+    "anonymousChatDesc": "Trimite o cerere de prietenie și începe să discuți imediat ce este acceptată — fără presiune, fără spam.",
+    "autoExpiry": "Descoperirea locației",
+    "autoExpiryDesc": "Alătură-te locațiilor sugerate în apropiere pentru a vedea cine s-a înregistrat într-o anumită rază.",
+    "gradualReveal": "Dezvăluirea treptată a identității",
+    "gradualRevealDesc": "Alege când să treci de la avatarul tău la fotografiile tale reale, pe măsură ce conexiunile se dezvoltă în mod natural.",
+    "keyPrivacyFeatures": "Caracteristici cheie de confidențialitate",
+    "keyPrivacyFeaturesDesc": "Fiecare funcție este concepută pentru o rețea sigură - de la avatare opționale la potrivirea prin cereri de prietenie care vă protejează confidențialitatea.",
+    "avatarBasedProfiles": "Profiluri opționale bazate pe avatar",
+    "autoExpiringChats": "Descoperirea locației cu o rază stabilită",
+    "progressiveIdentity": "Revelația progresivă a identității",
+    "ourTeam": "Echipa noastră",
+    "ourTeamDesc": "Experți pasionați, dedicați conectării oamenilor prin intermediul unei tehnologii inovatoare, care pune pe primul loc confidențialitatea.",
+    "team": {
+      "alex": {
+        "name": "Alex Chen",
+        "role": "Inginer de protocol BLE"
+      },
+      "sarah": {
+        "name": "Sarah Johnson",
+        "role": "Dezvoltator de aplicații mobile"
+      },
+      "maria": {
+        "name": "Maria Rodriguez",
+        "role": "Lider de confidențialitate și securitate"
+      },
+      "david": {
+        "name": "David Kim",
+        "role": "Fondator și CEO"
+      },
+      "title": "Echipa noastră",
+      "description": "Oameni pasionați, dedicați conectării oamenilor prin intermediul unei tehnologii inovatoare, care pune pe primul loc confidențialitatea.",
+      "roles": {
+        "engineer": "Inginer de protocol BLE",
+        "developer": "Dezvoltator de aplicații mobile",
+        "security": "Lider de confidențialitate și securitate",
+        "ceo": "Fondator și CEO"
+      }
+    },
+    "readyToConnect": "Gata să te conectezi?",
+    "readyToConnectDesc": "Alătură-te oamenilor care își desfășoară activitatea în siguranță prin Bluetooth și prin descoperirea locațiilor. Potrivește, discută și dezvăluie-ți identitatea doar atunci când găsești o conexiune reală.",
+    "finalFeatures": {
+      "anonymousAvatars": "Avatare opționale",
+      "anonymousAvatarsDesc": "Păstrează-ți avatarul activ cât timp cunoști pe cineva, fără a fi obligat să-l dezvălui imediat.",
+      "autoExpire": "Locație și descoperire Bluetooth",
+      "autoExpireDesc": "Găsește persoane scanând în apropiere prin Bluetooth sau alăturându-te unui loc local sugerat.",
+      "friendRequests": "Cereri de prietenie",
+      "friendRequestsDesc": "Trimiteți cereri către persoane interesante și începeți conversații doar cu interes reciproc."
+    },
+    "eventNetworking": "Networking pentru evenimente",
+    "eventNetworkingDesc": "Descoperă oamenii din jurul tău la conferințe, întâlniri și evenimente folosind funcția de proximitate Bluetooth .",
+    "studyGroups": "Grupuri de studiu",
+    "studyGroupsDesc": "Găsește parteneri de studiu în apropiere, pe campus, fără a fi nevoie să-i cunoști deja.",
+    "workplace": "Loc de muncă și cafenele",
+    "workplaceDesc": "Întâlnește-te cu colegi și alți profesioniști în spațiile de coworking și cafenelele din apropiere.",
+    "anonymousNetworking": "Confidențialitate bazată pe avatar",
+    "anonymousNetworkingDesc": "Păstrează un avatar activ cât timp te obișnuiești, apoi distribuie fotografiile tale reale oricând dorești.",
+    "privacyProtection": "Tu deții întotdeauna controlul asupra a ceea ce împărtășești și cu cine.",
+    "privacyFeatures": {
+      "title": "Confidențialitatea pe care o controlezi",
+      "description": "Ringdy este conceput astfel încât să decizi ce și când să distribui - de la cum descoperi oamenii până la cât de mult dezvălui din tine.",
+      "avatarProfiles": "Profiluri opționale bazate pe avatar",
+      "autoExpiring": "Descoperirea locației cu o rază stabilită",
+      "progressiveReveal": "Dezvăluie-ți fotografiile reale în ritmul tău propriu"
+    },
+    "cta": {
+      "title": "Gata să te conectezi?",
+      "description": "Alătură-te oamenilor care descoperă conexiuni autentice în apropiere - prin Bluetooth sau registrându-te la o locație locală.",
+      "features": {
+        "anonymousAvatars": "Avatare opționale",
+        "anonymousAvatarsDesc": "Păstrează-ți avatarul activ cât timp cunoști pe cineva, fără a fi obligat să-l dezvălui imediat.",
+        "autoExpire": "Locație și descoperire Bluetooth",
+        "autoExpireDesc": "Găsește persoane scanând în apropiere sau alăturându-te unui loc local sugerat.",
+        "friendRequests": "Cereri de prietenie",
+        "friendRequestsDesc": "Trimiteți cereri către persoane interesante și începeți conversații doar cu interes reciproc."
+      }
+    }
+  },
+  "subscription": {
+    "title": "Ringdy Premium",
+    "subtitle": "Deblochează funcții avansate pentru conexiuni mai bune. Alege planul care se potrivește nevoilor tale de rețea.",
+    "weeklyTitle": "Premium Săptămânal",
+    "weeklyPrice": "$1.99",
+    "weeklyPeriod": "/săptămână",
+    "weeklyDescription": "Perfect pentru a încerca funcționalitățile premium",
+    "chooseWeekly": "Alege Săptămânal",
+    "monthlyTitle": "Lunar",
+    "monthlyPrice": "Vezi prețurile",
+    "monthlyPeriod": "pe lună",
+    "monthlyDescription": "Flexibil, anulare oricând",
+    "mostPopular": "Cele mai populare",
+    "chooseMonthly": "Alegeți lunar",
+    "sixMonthTitle": "Șase luni",
+    "sixMonthPrice": "Vezi prețurile",
+    "sixMonthPeriod": "la 6 luni",
+    "sixMonthDescription": "Economisiți mai mult pe parcursul a șase luni",
+    "chooseSixMonth": "Alegeți șase luni",
+    "featuresTitle": "Caracteristici Premium Explicate",
+    "featuresDescription": "Ringdy Premium oferă funcții puternice concepute pentru a îmbunătăți experiența ta de networking și a te ajuta să creezi conexiuni mai semnificative.",
+    "enhancedNetworking": "Rețea îmbunătățită",
+    "enhancedNetworkingDesc": "Funcțiile Premium te ajută să te conectezi mai eficient, fără limite zilnice.",
+    "features": {
+      "unlimitedRequests": "Cereri de prietenie nelimitate",
+      "advancedFilters": "Filtre avansate",
+      "meetingPlaces": "Sugestii inteligente de locuri de întâlnire",
+      "rematch": "Reconectare cu utilizatori anteriori",
+      "unlimitedRequestsDesc": "Trimite cereri de prietenie nelimitate zilnic. Utilizatorii gratuiți limitați la 20/zi.",
+      "advancedFiltersDesc": "Filtrează după interese, personalitate și statut verificat pentru conexiuni autentice.",
+      "meetingPlacesDesc": "Obține sugestii de locație personalizate bazate pe zona ta exactă.",
+      "rematchDesc": "Reconectează-te cu utilizatori anteriori când vă întâlniți din nou.",
+      "unlimitedConnections": "Conexiuni nelimitate",
+      "unlimitedAreaAccess": "Acces nelimitat la zonă",
+      "unlimitedUndo": "Anulare nelimitată",
+      "profilePriority": "Prioritate profil",
+      "premiumAvatars": "Avatare Premium",
+      "customAvatar": "Avatar personalizat",
+      "unlimitedConnectionsDesc": "Adaugă prieteni și acceptă invitații fără limite zilnice.",
+      "unlimitedAreaAccessDesc": "Alătură-te la câte locații dorești, fără restricții.",
+      "unlimitedUndoDesc": "Anulează oricând orice cerere de prietenie.",
+      "profilePriorityDesc": "Profilul tău este întotdeauna afișat în partea de sus a listei puse la dispoziția celorlalți utilizatori.",
+      "premiumAvatarsDesc": "Accesează o colecție exclusivă de designuri premium pentru avatare.",
+      "customAvatarDesc": "Creează-ți un avatar personalizat pe baza propriilor fotografii."
+    },
+    "faqTitle": "Întrebări frecvente",
+    "faqDescription": "Ai întrebări despre Ringdy Premium ? Avem răspunsuri.",
+    "faq": {
+      "cancelTitle": "Îmi pot anula abonamentul oricând?",
+      "cancelAnswer": "Da, vă puteți anula abonamentul în orice moment prin setările contului sau din magazinul de aplicații al dispozitivului. Funcțiile premium rămân active până la sfârșitul perioadei de facturare curente.",
+      "unlimitedTitle": "Ce înseamnă „Conexiuni nelimitate”?",
+      "unlimitedAnswer": "Cu Premium , poți adăuga prieteni și accepta invitații fără limitele zilnice care se aplică conturilor gratuite.",
+      "filtersTitle": "Ce sunt exact filtrele avansate?",
+      "filtersAnswer": "Filtrele avansate îți permit să cauți după interese, intervalul de vârstă, profesie, raza de distanță și starea activității. Poți filtra și după utilizatori care sunt online în prezent sau au fost activi recent pentru șanse mai bune de conexiune.",
+      "meetingTitle": "Cum funcționează sugestia de loc de întâlnire?",
+      "meetingAnswer": "AI-ul nostru sugerează locuri sigure și publice de întâlnire precum cafenele, biblioteci sau spații de co-working la distanță de mers pe jos de ambii utilizatori. Consideră preferințele tale, locația curentă și ora zilei pentru a recomanda cele mai bune locuri de întâlnire.",
+      "rematchTitle": "Ce înseamnă \"reconectare cu utilizatori anteriori\"?",
+      "rematchAnswer": "Dacă ai avut o conversație care a expirat (30 de minute) fără să dezvălui identități, utilizatorii premium se pot reconecta cu acea persoană din nou dacă vă întâlniți în apropiere. Aceasta îți oferă o a doua șansă să faci o conexiune.",
+      "trialTitle": "Este disponibilă o perioadă de probă gratuită?",
+      "trialAnswer": "Da! Utilizatorii noi primesc o perioadă de probă gratuită de 7 zile pentru toate funcționalitățile premium. Poți explora cereri de prietenie nelimitate, filtre avansate și sugestii de întâlnire înainte să decizi ce plan funcționează cel mai bine pentru tine.",
+      "offlineTitle": "Funcționează funcționalitățile premium fără internet?",
+      "offlineAnswer": "Detectarea proximității BLE funcționează offline, dar funcționalitățile premium precum sugestiile de locație, cererile nelimitate și filtrele avansate necesită conectivitate la internet pentru funcționalitatea completă.",
+      "paymentTitle": "Ce metode de plată acceptați?",
+      "paymentAnswer": "Acceptăm plăți prin magazinul de aplicații al dispozitivului dvs. (Google Play sau App Store), inclusiv toate metodele de plată acceptate acolo.",
+      "areaTitle": "Ce înseamnă „Acces nelimitat în zonă”?",
+      "areaAnswer": "Membrii Premium se pot alătura la oricâte locații din apropiere doresc, fără restricții privind numărul de zone pe care le pot descoperi pe zi.",
+      "ticketsTitle": "Ce sunt permisele Discovery?",
+      "ticketsAnswer": "Abonamentele Discovery reprezintă o alternativă la abonament, cu plată pe măsură ce utilizezi - fiecare abonament îți permite să te alături și să explorezi o locație din apropiere fără a te angaja la un abonament recurent.",
+      "nightPassTitle": "Ce este Night Pass ?",
+      "nightPassAnswer": "Night Pass este un permis de 24 de ore care deblochează descoperirea locațiilor pentru o zi sau o noapte întreagă fără a utiliza un Discovery Pass."
+    },
+    "priceDisclaimer": "Prețurile sunt conversii aproximative din USD, în funcție de regiunea browserului dvs. Dacă tarifele nu sunt disponibile, prețurile apar în USD. Prețurile finale din aplicație sunt stabilite de magazinul dvs. de aplicații și pot diferi.",
+    "yearlyTitle": "Anual",
+    "yearlyPrice": "Vezi prețurile",
+    "yearlyPeriod": "pe an",
+    "yearlyDescription": "Cea mai bună valoare pentru utilizatorii obișnuiți",
+    "bestValue": "Cea mai bună valoare",
+    "chooseYearly": "Alegeți anual",
+    "tickets": {
+      "title": "Bilete Discovery",
+      "subtitle": "Folosește funcția Descoperiri pentru a explora persoane din locuri apropiate fără a avea un abonament complet.",
+      "single": "Descoperire unică",
+      "singleDesc": "Folosește un singur permis pentru a te alătura unei locații și a vedea cine este acolo.",
+      "venueAccessFeature": "Fiecare permis deblochează accesul la o locație.",
+      "pack3": "3 descoperiri",
+      "pack3Desc": "Trei permise Discovery. Fiecare permis deblochează o locație.",
+      "pack5": "5 descoperiri",
+      "pack5Desc": "Cinci permise Discovery. Fiecare permis deblochează o locație.",
+      "bestValue": "Cea mai bună valoare",
+      "specialTicket": "Night Pass",
+      "specialTicketDesc": "Acces nelimitat la locații timp de 24 de ore, fără a utiliza abonamente Discovery."
+    }
+  },
+  "footer": {
+    "keepInTouch": "Să ținem legătura!",
+    "findUsOn": "Găsiți-ne pe oricare dintre aceste platforme, răspundem în 1-2 zile lucrătoare.",
+    "usefulLinks": "Linkuri utile",
+    "aboutUs": "Despre noi",
+    "blog": "Blog",
+    "github": "Github",
+    "freeProducts": "Produse gratuite",
+    "otherResources": "Alte resurse",
+    "mitLicense": "Licență MIT",
+    "termsConditions": "Termeni și condiții",
+    "privacyPolicy": "Politica de confidențialitate",
+    "contactUs": "Contactaţi-ne",
+    "copyright": "Drepturi de autor © {{year}} Ringdy . Toate drepturile rezervate."
+  },
+  "legal": {
+    "privacyPolicy": {
+      "title": "Politica de confidențialitate",
+      "subtitle": "Confidențialitatea ta este prioritatea noastră. Află cum îți protejăm datele și îți oferim control deplin asupra a ceea ce partajezi.",
+      "lastUpdated": "Ultima actualizare: ianuarie 2025",
+      "introduction": "Această Politică de confidențialitate descrie politicile și procedurile noastre privind colectarea, utilizarea și divulgarea informațiilor dvs. atunci când utilizați Serviciul și vă informează despre drepturile dvs. la confidențialitate și despre modul în care legea vă protejează.",
+      "agreement": "Folosim datele dumneavoastră personale pentru a furniza și îmbunătăți Serviciul. Prin utilizarea Serviciului, sunteți de acord cu colectarea și utilizarea informațiilor în conformitate cu această Politică de confidențialitate.",
+      "sections": {
+        "interpretationTitle": "Interpretare și definiții",
+        "interpretationSubtitle": "Interpretare",
+        "definitionsSubtitle": "Definiții",
+        "interpretationText": "Cuvintele a căror inițială este scrisă cu majusculă au înțelesuri definite în următoarele condiții. Următoarele definiții vor avea același înțeles indiferent dacă apar la singular sau la plural.",
+        "definitionsText": "În sensul prezentei Politici de confidențialitate:",
+        "definitionLabels": {
+          "account": "Cont:",
+          "affiliate": "Afiliat:",
+          "application": "Aplicație:",
+          "business": "Afaceri:",
+          "ccpaCpra": "CCPA și/sau CPRA:",
+          "company": "Companie:",
+          "consumer": "Consumator:",
+          "country": "Ţară:",
+          "dataController": "Operator de date:",
+          "device": "Dispozitiv:",
+          "doNotTrack": "Nu urmăriți (DNT):",
+          "gdpr": "RGPD:",
+          "personalData": "Date personale:",
+          "service": "Serviciu:",
+          "serviceProvider": "Furnizor de servicii:",
+          "thirdPartySocialMedia": "Serviciu de socializare terță parte:",
+          "usageData": "Date de utilizare:",
+          "you": "Tu:"
+        },
+        "definitions": {
+          "account": "Un cont unic creat pentru ca dumneavoastră să accesați Serviciul nostru sau părți ale Serviciului nostru.",
+          "affiliate": "O entitate care controlează, este controlată de sau se află sub control comun cu o parte, unde „control” înseamnă deținerea a 50% sau mai mult din acțiuni, participații la capital sau alte valori mobiliare care dau dreptul la vot pentru alegerea directorilor sau a altei autorități de conducere.",
+          "application": "Se referă la Ringdy , programul software furnizat de Companie.",
+          "business": "În sensul CCPA/CPRA, se referă la Companie ca entitate juridică care colectează informațiile personale ale Consumatorilor și stabilește scopurile și mijloacele de prelucrare a informațiilor personale ale Consumatorilor.",
+          "ccpaCpra": "Se referă la Legea privind confidențialitatea consumatorilor din California („CCPA”), astfel cum a fost modificată prin Legea privind drepturile de confidențialitate din California din 2020 („CPRA”).",
+          "company": "Denumită „Compania”, „Noi”, „Nouă” sau „Al nostru/a noastră/ai noștri/ale noastre” în prezentul Acord se referă la Ringdy . În sensul GDPR, Compania este Operatorul de date.",
+          "consumer": "În sensul CCPA/CPRA, înseamnă o persoană fizică rezidentă în California.",
+          "country": "Se referă la: Statele Unite",
+          "dataController": "În sensul GDPR (Regulamentul general privind protecția datelor), Societatea este persoana juridică care, singură sau împreună cu alte persoane, stabilește scopurile și mijloacele de prelucrare a Datelor cu caracter personal.",
+          "device": "Orice dispozitiv care poate accesa Serviciul, cum ar fi un smartphone, o tabletă sau un computer.",
+          "doNotTrack": "Un concept promovat de autoritățile de reglementare din SUA pentru industria internetului, cu scopul de a dezvolta și implementa un mecanism care să permită utilizatorilor de internet să controleze urmărirea activităților lor online pe site-uri web.",
+          "gdpr": "Se referă la Regulamentul general privind protecția datelor al UE.",
+          "personalData": "Orice informație care se referă la o persoană fizică identificată sau identificabilă. În sensul GDPR, Datele cu caracter personal înseamnă orice informație referitoare la dumneavoastră, cum ar fi un nume, un număr de identificare, date de localizare, un identificator online sau unul sau mai mulți factori specifici identității fizice, fiziologice, genetice, mentale, economice, culturale sau sociale.",
+          "service": "Se referă la Aplicație.",
+          "serviceProvider": "Orice persoană fizică sau juridică care prelucrează datele în numele Companiei. Se referă la companii terțe sau persoane angajate de Companie pentru a facilita Serviciul, pentru a furniza Serviciul în numele Companiei, pentru a efectua servicii legate de Serviciu sau pentru a asista Compania în analiza modului în care este utilizat Serviciul.",
+          "thirdPartySocialMedia": "Orice site web sau orice rețea de socializare prin intermediul căreia un Utilizator se poate conecta sau crea un cont pentru a utiliza Serviciul.",
+          "usageData": "Date colectate automat, fie generate prin utilizarea Serviciului, fie din infrastructura Serviciului în sine (de exemplu, durata unei vizite pe pagină).",
+          "you": "Persoana fizică care accesează sau utilizează Serviciul sau compania sau altă entitate juridică în numele căreia respectiva persoană accesează sau utilizează Serviciul, după caz."
+        },
+        "dataCollectionTitle": "Colectarea și utilizarea datelor dumneavoastră cu caracter personal",
+        "dataTypesTitle": "Tipuri de date colectate",
+        "personalDataTitle": "Date personale",
+        "personalDataDescription": "În timpul utilizării Serviciului nostru, este posibil să vă solicităm să ne furnizați anumite informații de identificare personală care pot fi utilizate pentru a vă contacta sau identifica. Informațiile de identificare personală pot include, dar fără a se limita la:",
+        "usageDataTitle": "Date de utilizare",
+        "usageDataDescription1": "Datele de utilizare sunt colectate automat la utilizarea Serviciului.",
+        "usageDataDescription2": "Datele de utilizare pot include informații precum adresa IP a dispozitivului dvs. (de exemplu, adresa IP), tipul de browser, versiunea browserului, paginile Serviciului nostru pe care le vizitați, ora și data vizitei dvs., timpul petrecut pe acele pagini, identificatori unici ai dispozitivului și alte date de diagnosticare.",
+        "usageDataDescription3": "Când accesați Serviciul prin intermediul unui dispozitiv mobil, este posibil să colectăm anumite informații automat, inclusiv, dar fără a se limita la, tipul de dispozitiv mobil pe care îl utilizați, ID-ul unic al dispozitivului dvs. mobil, adresa IP a dispozitivului dvs. mobil, sistemul de operare mobil, tipul de browser de internet mobil pe care îl utilizați, identificatori unici ai dispozitivului și alte date de diagnosticare.",
+        "thirdPartyTitle": "Informații de la servicii de socializare terțe",
+        "thirdPartyDescription1": "Compania vă permite să creați un cont și să vă conectați pentru a utiliza Serviciul prin intermediul următoarelor Servicii de Socializare Terță Parte:",
+        "thirdPartyDescription2": "Dacă decideți să vă înregistrați prin intermediul unui Serviciu de Socializare Terță Parte sau să ne acordați acces la un Serviciu de Socializare Terță Parte, este posibil să colectăm Date cu caracter personal care sunt deja asociate cu contul Serviciului dvs. de Socializare Terță Parte, cum ar fi numele dvs., adresa dvs. de e-mail, activitățile dvs. sau lista dvs. de contacte asociată cu contul respectiv.",
+        "appDataTitle": "Informații colectate în timpul utilizării aplicației",
+        "appDataDescription1": "În timpul utilizării Aplicației noastre, pentru a oferi funcții ale Aplicației noastre, este posibil să colectăm, cu permisiunea dumneavoastră prealabilă:",
+        "appDataDescription2": "Folosim aceste informații pentru a oferi funcții ale Serviciului nostru, pentru a îmbunătăți și personaliza Serviciul nostru. Informațiile pot fi stocate local pe dispozitivul dvs. sau încărcate pe servere criptate. Puteți activa sau dezactiva accesul la aceste informații în orice moment, prin intermediul setărilor Dispozitivului dvs.",
+        "dataUseTitle": "Utilizarea datelor dumneavoastră personale",
+        "dataUseDescription": "Compania poate utiliza Datele cu Caracter Personal în următoarele scopuri:",
+        "sharingTitle": "Partajarea informațiilor personale",
+        "sharingDescription": "Este posibil să vă împărtășim informațiile personale în următoarele situații:",
+        "retentionTitle": "Păstrarea datelor dumneavoastră cu caracter personal"
+      },
+      "dataUses": {
+        "provide": "Pentru a furniza și a întreține Serviciul nostru: Inclusiv pentru a monitoriza utilizarea Serviciului nostru și a permite descoperirea persoanelor din apropiere prin Bluetooth și pe baza locației.",
+        "account": "Pentru a vă gestiona Contul: Pentru a vă gestiona înregistrarea ca utilizator al Serviciului. Datele personale pe care le furnizați vă pot oferi acces la diferite funcționalități ale Serviciului care vă sunt disponibile în calitate de utilizator înregistrat.",
+        "contract": "Pentru executarea unui contract: Dezvoltarea, conformitatea și prestarea serviciilor pe care le-ați solicitat sau a oricărui alt contract încheiat cu Noi prin intermediul Serviciului.",
+        "contact": "Pentru a vă contacta: Pentru a vă contacta prin e-mail, notificări push sau alte forme echivalente de comunicare electronică cu privire la actualizări, notificări de securitate sau comunicări informative legate de funcționalități.",
+        "offers": "Pentru a vă oferi noutăți și oferte speciale: Despre alte bunuri, servicii și evenimente pe care le oferim și care sunt similare cu cele pe care le-ați utilizat deja sau despre care ați solicitat informații, cu excepția cazului în care ați optat să nu primiți astfel de informații.",
+        "requests": "Pentru a gestiona solicitările dumneavoastră: Pentru a răspunde și a gestiona solicitările dumneavoastră adresate nouă.",
+        "content": "Pentru a livra conținut personalizat: Este posibil să folosim informațiile dvs. pentru a dezvolta și afișa conținut adaptat intereselor și locației dvs. (pentru descoperirea utilizatorilor din apropiere) și pentru a măsura eficacitatea acestuia.",
+        "business": "Pentru transferuri de afaceri: Este posibil să folosim informațiile dumneavoastră pentru a evalua sau a efectua o fuziune, cesionare, restructurare, reorganizare, dizolvare sau altă vânzare sau transfer al unora sau al tuturor activelor noastre.",
+        "other": "În alte scopuri: Este posibil să utilizăm informațiile dumneavoastră în alte scopuri, cum ar fi analiza datelor, identificarea tendințelor de utilizare, determinarea eficacității campaniilor noastre promoționale și pentru a evalua și îmbunătăți Serviciul, produsele, serviciile, marketingul și experiența dumneavoastră."
+      },
+      "sharingTypes": {
+        "providers": "Cu Furnizorii de Servicii: Este posibil să partajăm informațiile dumneavoastră personale cu Furnizorii de Servicii pentru a monitoriza și analiza utilizarea Serviciului nostru, pentru procesarea plăților, pentru a vă contacta.",
+        "transfers": "Pentru transferuri de afaceri: Este posibil să partajăm sau să transferăm informațiile dumneavoastră personale în legătură cu sau în timpul negocierilor privind orice fuziune, vânzare de active ale Companiei, finanțare sau achiziție a întregii noastre afaceri sau a unei părți din aceasta către o altă companie.",
+        "affiliates": "Cu afiliații: Este posibil să partajăm informațiile dumneavoastră cu afiliații noștri, caz în care vom solicita acelor afiliați să respecte această Politică de confidențialitate.",
+        "partners": "Cu partenerii de afaceri: Este posibil să partajăm informațiile dumneavoastră cu partenerii noștri de afaceri pentru a vă oferi anumite produse, servicii sau promoții.",
+        "users": "Cu alți utilizatori: Când descoperiți și vă conectați cu alți utilizatori din apropiere, informațiile profilului dvs. (inclusiv numele și fotografiile dvs. sau avatarul dvs. dacă ați ales să utilizați unul în schimb) sunt partajate ca parte a procesului de descoperire, solicitare de prietenie și potrivire. Dvs. controlați oricând dacă afișați un avatar sau fotografiile dvs. reale.",
+        "consent": "Cu consimțământul dumneavoastră: Putem divulga informațiile dumneavoastră personale în orice alt scop, cu consimțământul dumneavoastră."
+      },
+      "security": {
+        "title": "Securitatea datelor dumneavoastră personale",
+        "description": "Securitatea Datelor dumneavoastră cu caracter personal este importantă pentru noi, dar rețineți că nicio metodă de transmitere prin internet sau metodă de stocare electronică nu este 100% sigură. Deși ne străduim să folosim mijloace acceptabile din punct de vedere comercial pentru a vă proteja Datele cu caracter personal, inclusiv criptarea end-to-end pentru mesajele de chat și protocoalele Bluetooth securizate, nu putem garanta securitatea lor absolută."
+      },
+      "contact": {
+        "title": "Contactaţi-ne",
+        "description": "Dacă aveți întrebări despre această Politică de confidențialitate, ne puteți contacta:",
+        "email": "Prin e-mail: privacy@ringdy.com",
+        "website": "Pe această pagină a site-ului nostru web: https://ringdy.com/contact",
+        "mail": "Prin poștă: Echipa de confidențialitate Ringdy , 123 Tech Street, San Francisco, CA 94105, Statele Unite"
+      },
+      "shineTheLight": {
+        "title": "Drepturile dumneavoastră la confidențialitate în California (legea „Shine the Light” din California)",
+        "description1": "Conform Secțiunii 1798 din Codul Civil din California (legea „Shine the Light” din California), rezidenții din California care au o relație de afaceri stabilită cu noi pot solicita informații o dată pe an despre partajarea Datelor lor Personale cu terțe părți în scopuri de marketing direct ale acestor terțe părți.",
+        "description2": "Dacă doriți să solicitați mai multe informații în temeiul legii „Shine the Light” din California și dacă sunteți rezident în California, ne puteți contacta folosind informațiile de contact furnizate mai jos."
+      },
+      "minorUsers": {
+        "title": "Drepturile de confidențialitate din California pentru utilizatorii minori (Codul de afaceri și profesii din California, secțiunea 22581)",
+        "description1": "Secțiunea 22581 din Codul Afacerilor și Profesiilor din California permite rezidenților din California cu vârsta sub 18 ani care sunt utilizatori înregistrați ai site-urilor, serviciilor sau aplicațiilor online să solicite și să obțină eliminarea conținutului sau a informațiilor pe care le-au postat public.",
+        "description2": "Pentru a solicita eliminarea acestor date și dacă sunteți rezident în California, ne puteți contacta utilizând informațiile de contact furnizate mai jos și includeți adresa de e-mail asociată contului dumneavoastră.",
+        "description3": "Rețineți că solicitarea dumneavoastră nu garantează eliminarea completă sau exhaustivă a conținutului sau informațiilor postate online și că legea poate să nu permită sau să impună eliminarea în anumite circumstanțe."
+      },
+      "childrenPrivacy": {
+        "title": "Confidențialitatea copiilor",
+        "description1": "Serviciul nostru nu se adresează persoanelor sub 13 ani. Nu colectăm cu bună știință informații de identificare personală de la persoane sub 13 ani. Dacă sunteți părinte sau tutore și știți că fiul/fiica dumneavoastră ne-a furnizat Date cu caracter personal, vă rugăm să ne contactați.",
+        "description2": "Dacă aflăm că am colectat Date cu caracter personal de la o persoană sub vârsta de 13 ani fără verificarea consimțământului părinților, luăm măsuri pentru a elimina aceste informații de pe serverele noastre.",
+        "description3": "Dacă trebuie să ne bazăm pe consimțământ ca temei legal pentru prelucrarea informațiilor dumneavoastră și țara dumneavoastră necesită consimțământul unui părinte, este posibil să solicităm consimțământul părintelui dumneavoastră înainte de a colecta și utiliza aceste informații."
+      },
+      "linksToOtherWebsites": {
+        "title": "Linkuri către alte site-uri web",
+        "description": "Serviciul nostru poate conține linkuri către alte site-uri web care nu sunt operate de noi. Dacă faceți clic pe un link al unei terțe părți, veți fi direcționat către site-ul acelei terțe părți. Vă recomandăm insistent să consultați Politica de confidențialitate a fiecărui site pe care îl vizitați. Nu avem control asupra și nu ne asumăm nicio responsabilitate pentru conținutul, politicile de confidențialitate sau practicile site-urilor sau serviciilor terțe."
+      },
+      "changes": {
+        "title": "Modificări ale acestei Politici de confidențialitate",
+        "description1": "Este posibil să actualizăm periodic Politica noastră de confidențialitate. Vă vom notifica despre orice modificări prin publicarea noii Politici de confidențialitate pe această pagină.",
+        "description2": "Vă vom anunța prin e-mail și/sau printr-o notificare vizibilă pe Serviciul nostru, înainte ca modificarea să intre în vigoare și vom actualiza data „Ultimei actualizări” din partea de sus a acestei Politici de confidențialitate.",
+        "description3": "Vă recomandăm să revizuiți periodic această Politică de confidențialitate pentru a vedea dacă există modificări. Modificările aduse acestei Politici de confidențialitate intră în vigoare din momentul publicării pe această pagină."
+      },
+      "backToHome": "Înapoi la pagina principală",
+      "retention": {
+        "description1": "Compania va păstra Datele dumneavoastră cu caracter personal numai atât timp cât este necesar în scopurile stabilite în această Politică de confidențialitate. Vom păstra și utiliza Datele dumneavoastră cu caracter personal în măsura necesară pentru a ne respecta obligațiile legale, a rezolva litigiile și a aplica acordurile și politicile noastre legale.",
+        "description2": "Compania va păstra, de asemenea, Datele de Utilizare în scopuri de analiză internă. Datele de Utilizare sunt, în general, păstrate pentru o perioadă mai scurtă de timp, cu excepția cazului în care aceste date sunt utilizate pentru a consolida securitatea sau pentru a îmbunătăți funcționalitatea Serviciului nostru sau suntem obligați prin lege să păstrăm aceste date pentru perioade mai lungi de timp."
+      },
+      "transfer": {
+        "title": "Transferul datelor dumneavoastră personale",
+        "description1": "Informațiile dumneavoastră, inclusiv Datele cu caracter personal, sunt prelucrate la sediile operaționale ale Companiei și în orice alte locuri unde se află părțile implicate în prelucrare. Aceasta înseamnă că aceste informații pot fi transferate către – și păstrate pe – computere situate în afara statului, provinciei, țării sau altei jurisdicții guvernamentale a dumneavoastră, unde legile privind protecția datelor pot diferi de cele din jurisdicția dumneavoastră.",
+        "description2": "Consimțământul dumneavoastră cu privire la această Politică de confidențialitate, urmat de transmiterea acestor informații, reprezintă acordul dumneavoastră cu privire la transferul respectiv. Compania va lua toate măsurile rezonabil necesare pentru a se asigura că datele dumneavoastră sunt tratate în siguranță și în conformitate cu această Politică de confidențialitate și niciun transfer al Datelor dumneavoastră cu caracter personal nu va avea loc către o organizație sau o țară decât dacă există controale adecvate, inclusiv securitatea datelor dumneavoastră și a altor informații personale."
+      },
+      "deletion": {
+        "title": "Ștergeți datele dumneavoastră personale",
+        "description1": "Aveți dreptul să ștergeți sau să solicitați asistență în ștergerea Datelor cu Caracter Personal pe care le-am colectat despre dumneavoastră.",
+        "description2": "Serviciul nostru vă poate oferi posibilitatea de a șterge anumite informații despre dvs. din cadrul Serviciului.",
+        "description3": "Puteți actualiza, modifica sau șterge informațiile dvs. în orice moment, conectându-vă la Contul dvs., dacă aveți unul, și accesând secțiunea de setări a contului, care vă permite să gestionați informațiile dvs. personale. De asemenea, ne puteți contacta pentru a solicita accesul, corecta sau șterge orice informații personale pe care ni le-ați furnizat."
+      },
+      "disclosure": {
+        "title": "Divulgarea datelor dumneavoastră personale",
+        "businessTitle": "Tranzacții comerciale",
+        "businessDescription": "Dacă Societatea este implicată într-o fuziune, achiziție sau vânzare de active, Datele dumneavoastră cu caracter personal pot fi transferate. Vă vom notifica înainte ca Datele dumneavoastră cu caracter personal să fie transferate și să devină supuse unei Politici de confidențialitate diferite.",
+        "lawTitle": "Aplicarea legii",
+        "lawDescription": "În anumite circumstanțe, Compania poate fi obligată să divulge Datele dumneavoastră cu caracter personal dacă acest lucru este impus de lege sau ca răspuns la solicitări valide din partea autorităților publice (de exemplu, o instanță judecătorească sau o agenție guvernamentală).",
+        "legalTitle": "Alte cerințe legale",
+        "legalDescription": "Compania poate divulga Datele dumneavoastră cu caracter personal în bună-credință, considerând că o astfel de acțiune este necesară pentru:",
+        "legalReasons": {
+          "comply": "Respectarea unei obligații legale",
+          "protect": "Protejarea și apărarea drepturilor sau a proprietății Companiei",
+          "prevent": "Prevenirea sau investigarea posibilelor abateri în legătură cu Serviciul",
+          "safety": "Protejarea siguranței personale a Utilizatorilor Serviciului sau a publicului",
+          "liability": "Protejați-vă împotriva răspunderii legale"
+        },
+        "detailedInfo": {
+          "title": "Informații detaliate privind prelucrarea datelor dumneavoastră cu caracter personal",
+          "description": "Furnizorii de servicii pe care îi folosim pot avea acces la Datele dumneavoastră cu caracter personal. Acești furnizori terți colectează, stochează, utilizează, prelucrează și transferă informații despre activitatea dumneavoastră în cadrul Serviciului nostru în conformitate cu Politicile lor de confidențialitate.",
+          "analyticsTitle": "Analiză",
+          "analyticsDescription": "Este posibil să folosim furnizori de servicii terți pentru a monitoriza și analiza utilizarea Serviciului nostru."
+        },
+        "analytics": {
+          "title": "Remarketing comportamental",
+          "description": "Compania utilizează servicii de remarketing pentru a vă afișa reclame pe site-uri web terțe după ce ați vizitat Serviciul nostru. Noi și furnizorii noștri terți folosim cookie-uri pentru a informa, optimiza și difuza reclame pe baza vizitelor dvs. anterioare pe Serviciul nostru.",
+          "googleAnalytics": {
+            "title": "Google Analytics",
+            "description1": "Google Analytics este un serviciu de analiză web oferit de Google care urmărește și raportează traficul site-ului web. Google utilizează datele colectate pentru a urmări și monitoriza utilizarea Serviciului nostru. Aceste date sunt partajate cu alte servicii Google. Google poate utiliza datele colectate pentru a contextualiza și personaliza anunțurile propriei rețele de publicitate.",
+            "description2": "Puteți renunța la anumite funcții Google Analytics prin setările dispozitivului mobil, cum ar fi setările de publicitate ale dispozitivului sau urmând instrucțiunile furnizate de Google în Politica lor de confidențialitate:",
+            "description3": "Pentru mai multe informații despre practicile de confidențialitate ale Google, vă rugăm să accesați pagina web Confidențialitate și termeni Google:"
+          },
+          "firebase": {
+            "title": "Firebase",
+            "description1": "Firebase este un serviciu de analiză furnizat de Google Inc.",
+            "description2": "Puteți renunța la anumite funcții Firebase prin setările dispozitivului mobil, cum ar fi setările de publicitate ale dispozitivului sau urmând instrucțiunile furnizate de Google în Politica lor de confidențialitate:",
+            "description3": "De asemenea, vă încurajăm să consultați politica Google privind protejarea datelor dvs.:",
+            "description4": "Pentru mai multe informații despre tipul de informații colectate de Firebase, consultați pagina web Cum utilizează Google datele atunci când utilizați site-urile sau aplicațiile partenerilor noștri:"
+          }
+        },
+        "advertising": {
+          "title": "Publicitate",
+          "description": "Este posibil să folosim Furnizori de Servicii pentru a vă afișa reclame care să ajute la susținerea și întreținerea Serviciului nostru.",
+          "googleAdSense": {
+            "title": "Cookie-uri Google AdSense și DoubleClick",
+            "description1": "Google, în calitate de furnizor terț, utilizează cookie-uri pentru a difuza reclame pe Serviciul nostru. Utilizarea cookie-ului DoubleClick de către Google permite companiei și partenerilor săi să difuzeze reclame utilizatorilor noștri pe baza vizitei acestora pe Serviciul nostru sau pe alte site-uri web de pe internet.",
+            "description2": "Puteți renunța la utilizarea cookie-ului DoubleClick pentru publicitatea bazată pe interese accesând pagina web Setări Google Ads:"
+          },
+          "adMob": {
+            "title": "AdMob de la Google",
+            "description1": "AdMob de la Google este furnizat de Google Inc.",
+            "description2": "Vă puteți dezabona de la serviciul AdMob de la Google urmând instrucțiunile descrise de Google:",
+            "description3": "Pentru mai multe informații despre modul în care Google utilizează informațiile colectate, vă rugăm să accesați pagina „Cum utilizează Google datele atunci când utilizați site-urile sau aplicațiile partenerilor noștri”: sau consultați Politica de confidențialitate Google:"
+          }
+        },
+        "payments": {
+          "title": "Plăți",
+          "description1": "Este posibil să oferim produse și/sau servicii plătite în cadrul Serviciului. În acest caz, este posibil să folosim servicii terțe pentru procesarea plăților (de exemplu, procesatori de plăți).",
+          "description2": "Nu vom stoca sau colecta detaliile cardului dumneavoastră de plată. Aceste informații sunt furnizate direct procesatorilor noștri de plăți terți, a căror utilizare a informațiilor dumneavoastră personale este guvernată de Politica lor de confidențialitate. Acești procesatori de plăți respectă standardele stabilite de PCI-DSS, așa cum sunt gestionate de Consiliul pentru Standarde de Securitate PCI, care este un efort comun al unor mărci precum Visa, Mastercard, American Express și Discover. Cerințele PCI-DSS ajută la asigurarea gestionării în siguranță a informațiilor de plată.",
+          "appleStore": {
+            "title": "Plăți în aplicație în Apple Store",
+            "description": "Politica lor de confidențialitate poate fi vizualizată la"
+          },
+          "googlePlay": {
+            "title": "Plăți în aplicație Google Play",
+            "description": "Politica lor de confidențialitate poate fi vizualizată la"
+          },
+          "stripe": {
+            "title": "Dunga",
+            "description": "Politica lor de confidențialitate poate fi vizualizată la"
+          },
+          "payPal": {
+            "title": "PayPal sau Braintree",
+            "description": "Politica lor de confidențialitate poate fi vizualizată la"
+          }
+        }
+      },
+      "behavioralRemarketing": {
+        "title": "Remarketing comportamental",
+        "description": "Compania utilizează servicii de remarketing pentru a vă afișa reclame pe site-uri web terțe după ce ați vizitat Serviciul nostru. Noi și furnizorii noștri terți folosim cookie-uri pentru a informa, optimiza și difuza reclame pe baza vizitelor dvs. anterioare pe Serviciul nostru.",
+        "vendorsDescription1": "Acești furnizori terți colectează, stochează, utilizează, prelucrează și transferă informații despre activitatea dvs. pe Serviciul nostru în conformitate cu Politicile lor de confidențialitate și pentru a ne permite să:",
+        "purposes": {
+          "measure": "Măsurarea și analizarea traficului și a activității de navigare pe Serviciul nostru",
+          "show": "Afișarea de reclame pentru produsele și/sau serviciile noastre către dvs. pe site-uri web sau aplicații terțe",
+          "analyze": "Măsurarea și analizarea performanței campaniilor noastre publicitare"
+        },
+        "vendorsDescription2": "Unii dintre acești furnizori terți pot utiliza tehnologii non-cookie care pot să nu fie afectate de setările browserului care blochează cookie-urile. Este posibil ca browserul dvs. să nu vă permită să blocați astfel de tehnologii. Puteți utiliza următoarele instrumente terțe pentru a refuza colectarea și utilizarea informațiilor în scopul de a vă oferi publicitate bazată pe interese:",
+        "optOutTools": {
+          "nai": "Platforma de dezabonare a NAI:",
+          "edaa": "Platforma de dezabonare a EDAA:",
+          "daa": "Platforma de renunțare a DAA:"
+        },
+        "mobileOptOut": "Puteți renunța la toate reclamele personalizate activând funcțiile de confidențialitate pe dispozitivul dvs. mobil, cum ar fi Limitarea urmăririi reclamelor (iOS) și Renunțarea la personalizarea reclamelor (Android). Consultați sistemul de ajutor al dispozitivului dvs. mobil pentru mai multe informații.",
+        "dataSharing": "Este posibil să partajăm informații, cum ar fi adrese de e-mail codificate prin hashing (dacă sunt disponibile) sau alți identificatori online colectați prin intermediul Serviciului nostru, cu acești furnizori terți. Acest lucru permite furnizorilor noștri terți să vă recunoască și să vă afișeze reclame pe diferite dispozitive și browsere. Pentru a citi mai multe despre tehnologiile utilizate de acești furnizori terți și despre capacitățile lor cross-device, vă rugăm să consultați Politica de confidențialitate a fiecărui furnizor enumerat mai jos.",
+        "vendorsIntro": "Furnizorii terți pe care îi folosim sunt:",
+        "googleAds": {
+          "title": "Google Ads (AdWords)",
+          "description1": "Serviciul de remarketing Google Ads (AdWords) este furnizat de Google Inc.",
+          "description2": "Puteți renunța la Google Analytics pentru publicitate display și puteți personaliza anunțurile din Rețeaua de display Google accesând pagina Setări anunțuri Google:",
+          "description3": "Google recomandă, de asemenea, instalarea extensiei de browser pentru dezactivarea Google Analytics pentru browserul dvs. web. Extensia de browser pentru dezactivarea Google Analytics oferă vizitatorilor posibilitatea de a împiedica colectarea și utilizarea datelor lor de către Google Analytics.",
+          "description4": "Pentru mai multe informații despre practicile de confidențialitate ale Google, vă rugăm să accesați pagina web Confidențialitate și termeni Google:"
+        },
+        "facebook": {
+          "title": "Facebook",
+          "description1": "Serviciul de remarketing Facebook este furnizat de Facebook Inc.",
+          "description2": "Puteți afla mai multe despre publicitatea bazată pe interese de pe Facebook vizitând această pagină:",
+          "description3": "Pentru a renunța la reclamele bazate pe interese de pe Facebook, urmați aceste instrucțiuni de la Facebook:",
+          "description4": "Facebook aderă la Principiile de autoreglementare pentru publicitatea comportamentală online stabilite de Digital Advertising Alliance. De asemenea, puteți renunța la Facebook și la alte companii participante prin intermediul Digital Advertising Alliance din SUA, Digital Advertising Alliance of Canada din Canada sau European Interactive Digital Advertising Alliance din Europa sau puteți renunța utilizând setările dispozitivului mobil.",
+          "description5": "Pentru mai multe informații despre practicile de confidențialitate ale Facebook, vă rugăm să consultați Politica de date a Facebook:"
+        }
+      },
+      "detailedInfo": {
+        "title": "Informații detaliate privind prelucrarea datelor dumneavoastră cu caracter personal",
+        "description": "Furnizorii de servicii pe care îi folosim pot avea acces la Datele dumneavoastră cu caracter personal. Acești furnizori terți colectează, stochează, utilizează, procesează și transferă informații despre activitatea dumneavoastră în cadrul Serviciului nostru în conformitate cu Politicile lor de confidențialitate.",
+        "analyticsTitle": "Analiză",
+        "analyticsDescription": "Este posibil să folosim furnizori de servicii terți pentru a monitoriza și analiza utilizarea Serviciului nostru."
+      },
+      "analytics": {
+        "firebase": {
+          "title": "Firebase",
+          "description1": "Firebase este un serviciu de analiză furnizat de Google Inc.",
+          "description2": "Puteți renunța la anumite funcții Firebase prin setările dispozitivului mobil, cum ar fi setările de publicitate ale dispozitivului sau urmând instrucțiunile furnizate de Google în Politica lor de confidențialitate:",
+          "description3": "De asemenea, vă încurajăm să consultați politica Google privind protejarea datelor dvs.:",
+          "description4": "Pentru mai multe informații despre tipul de informații colectate de Firebase, consultați pagina web Cum utilizează Google datele atunci când utilizați site-urile sau aplicațiile partenerilor noștri:"
+        },
+        "googleAnalytics": {
+          "title": "Google Analytics",
+          "description1": "Google Analytics este un serviciu de analiză web oferit de Google care urmărește și raportează traficul site-ului web. Google utilizează datele colectate pentru a urmări și monitoriza utilizarea Serviciului nostru. Aceste date sunt partajate cu alte servicii Google. Google poate utiliza datele colectate pentru a contextualiza și personaliza anunțurile propriei rețele de publicitate.",
+          "description2": "Puteți renunța la punerea la dispoziție a activității dvs. în cadrul Serviciului către Google Analytics instalând extensia de browser pentru dezactivarea Google Analytics. Extensia împiedică JavaScript-ul Google Analytics (ga.js, analytics.js și gtag.js) să partajeze informații cu Google Analytics despre activitatea de vizitare. Pentru mai multe informații despre practicile de confidențialitate Google, vă rugăm să accesați pagina web Confidențialitate și Termeni Google:",
+          "description3": "De asemenea, Google recomandă instalarea suplimentului de browser pentru dezactivarea Google Analytics pentru browserul dvs. web. Suplimentul de browser pentru dezactivarea Google Analytics oferă vizitatorilor posibilitatea de a împiedica colectarea și utilizarea datelor lor de către Google Analytics. Pentru mai multe informații despre instalarea și utilizarea suplimentului de browser pentru dezactivarea Google Analytics, vă rugăm să accesați următoarea pagină de dezactivare a Google Analytics:"
+        }
+      },
+      "advertising": {
+        "title": "Publicitate",
+        "description": "Este posibil să folosim Furnizori de Servicii pentru a vă afișa reclame care să ajute la susținerea și întreținerea Serviciului nostru.",
+        "googleAdSense": {
+          "title": "Cookie-uri Google AdSense și DoubleClick",
+          "description1": "Google, în calitate de furnizor terț, utilizează cookie-uri pentru a difuza reclame pe Serviciul nostru. Utilizarea cookie-ului DoubleClick de către Google permite companiei și partenerilor săi să difuzeze reclame utilizatorilor noștri pe baza vizitei acestora pe Serviciul nostru sau pe alte site-uri web de pe internet.",
+          "description2": "Puteți renunța la utilizarea cookie-ului DoubleClick pentru publicitatea bazată pe interese accesând pagina web Setări Google Ads:"
+        },
+        "adMob": {
+          "title": "AdMob de la Google",
+          "description1": "AdMob de la Google este furnizat de Google Inc.",
+          "description2": "Vă puteți dezabona de la serviciul AdMob de la Google urmând instrucțiunile descrise de Google:",
+          "description3": "Pentru mai multe informații despre modul în care Google utilizează informațiile colectate, vă rugăm să accesați pagina „Cum utilizează Google datele atunci când utilizați site-urile sau aplicațiile partenerilor noștri”: sau consultați Politica de confidențialitate Google:"
+        }
+      },
+      "payments": {
+        "title": "Plăți",
+        "description1": "Este posibil să oferim produse și/sau servicii plătite în cadrul Serviciului. În acest caz, este posibil să folosim servicii terțe pentru procesarea plăților (de exemplu, procesatori de plăți).",
+        "description2": "Nu vom stoca sau colecta detaliile cardului dumneavoastră de plată. Aceste informații sunt furnizate direct procesatorilor noștri de plăți terți, a căror utilizare a informațiilor dumneavoastră personale este guvernată de Politica lor de confidențialitate. Acești procesatori de plăți respectă standardele stabilite de PCI-DSS, așa cum sunt gestionate de Consiliul pentru Standarde de Securitate PCI, care este un efort comun al unor mărci precum Visa, Mastercard, American Express și Discover. Cerințele PCI-DSS ajută la asigurarea gestionării în siguranță a informațiilor de plată.",
+        "appleStore": {
+          "title": "Plăți în aplicație în Apple Store",
+          "description": "Politica lor de confidențialitate poate fi vizualizată la"
+        },
+        "googlePlay": {
+          "title": "Plăți în aplicație Google Play",
+          "description": "Politica lor de confidențialitate poate fi vizualizată la"
+        },
+        "stripe": {
+          "title": "Dunga",
+          "description": "Politica lor de confidențialitate poate fi vizualizată la"
+        },
+        "payPal": {
+          "title": "PayPal sau Braintree",
+          "description": "Politica lor de confidențialitate poate fi vizualizată la"
+        }
+      },
+      "gdpr": {
+        "title": "RGPD privind confidențialitatea",
+        "legalBasis": {
+          "title": "Temeiul juridic pentru prelucrarea datelor cu caracter personal în conformitate cu GDPR",
+          "description": "Putem prelucra Date cu Caracter Personal în următoarele condiții:",
+          "consent": "Consimțământ: V-ați dat consimțământul pentru prelucrarea Datelor cu Caracter Personal pentru unul sau mai multe scopuri specifice.",
+          "contract": "Executarea unui contract: Furnizarea Datelor cu Caracter Personal este necesară pentru executarea unui acord cu Dumneavoastră și/sau pentru orice obligații precontractuale aferente acestuia.",
+          "legal": "Obligații legale: Prelucrarea Datelor cu Caracter Personal este necesară pentru respectarea unei obligații legale căreia îi este supusă Societatea.",
+          "vital": "Interese vitale: Prelucrarea Datelor cu Caracter Personal este necesară pentru a proteja interesele vitale ale dumneavoastră sau ale unei alte persoane fizice.",
+          "public": "Interese publice: Prelucrarea Datelor cu Caracter Personal este legată de o sarcină îndeplinită în interes public sau în exercitarea autorității publice cu care este învestită Societatea.",
+          "legitimate": "Interese legitime: Prelucrarea Datelor cu Caracter Personal este necesară în scopul intereselor legitime urmărite de Societate."
+        },
+        "rights": {
+          "title": "Drepturile dumneavoastră în temeiul GDPR",
+          "description": "Compania se angajează să respecte confidențialitatea Datelor dumneavoastră cu Caracter Personal și să garanteze că vă puteți exercita drepturile. Aveți dreptul, în temeiul prezentei Politici de Confidențialitate și prin lege, dacă vă aflați în UE, să:",
+          "access": "Solicitați accesul la Datele dumneavoastră cu Caracter Personal: Dreptul de a accesa, actualiza sau șterge informațiile pe care le deținem despre dumneavoastră.",
+          "correction": "Solicitarea corectării Datelor cu Caracter Personal: Aveți dreptul de a solicita corectarea oricăror informații incomplete sau inexacte pe care le deținem despre dumneavoastră.",
+          "object": "Obiect la prelucrări: Acest drept există atunci când ne bazăm pe un interes legitim ca temei juridic pentru prelucrarea noastră.",
+          "erasure": "Solicitați ștergerea: Aveți dreptul să ne solicitați să ștergem sau să eliminăm Datele cu caracter personal atunci când nu există motive întemeiate pentru ca noi să continuăm prelucrarea acestora.",
+          "transfer": "Solicitarea transferului: Vă vom furniza dumneavoastră sau unei terțe părți alese de dumneavoastră Datele dumneavoastră cu caracter personal într-un format structurat, utilizat în mod obișnuit și care poate fi citit automat.",
+          "withdraw": "Retragerea consimțământului: Aveți dreptul de a vă retrage consimțământul privind utilizarea Datelor dumneavoastră cu caracter personal."
+        },
+        "exercising": {
+          "title": "Exercitarea drepturilor dumneavoastră privind protecția datelor în temeiul GDPR",
+          "description1": "Vă puteți exercita drepturile de acces, rectificare, anulare și opoziție contactându-ne. Vă rugăm să rețineți că este posibil să vă solicităm să vă verificați identitatea înainte de a răspunde la astfel de solicitări. Dacă faceți o solicitare, vom face tot posibilul să vă răspundem cât mai curând posibil.",
+          "description2": "Aveți dreptul să depuneți o plângere la o Autoritate pentru Protecția Datelor cu privire la colectarea și utilizarea Datelor dumneavoastră cu Caracter Personal. Pentru mai multe informații, dacă vă aflați în Spațiul Economic European (SEE), vă rugăm să contactați autoritatea locală pentru protecția datelor din SEE."
+        }
+      },
+      "ccpa": {
+        "title": "Notificare privind confidențialitatea CCPA/CPRA",
+        "introduction": "Această secțiune privind notificarea privind confidențialitatea pentru rezidenții din California completează informațiile conținute în Politica noastră de confidențialitate și se aplică exclusiv tuturor vizitatorilor, utilizatorilor și altor persoane care locuiesc în statul California.",
+        "categoriesTitle": "Categorii de informații personale colectate",
+        "categoriesDescription1": "Colectăm informații care identifică, se referă la, descriu, fac referire la, pot fi asociate cu sau ar putea fi legate în mod rezonabil, direct sau indirect, de un anumit Consumator sau Dispozitiv. Următoarea este o listă de categorii de informații personale pe care le putem colecta sau pe care le-am putea colecta de la rezidenții din California în ultimele doisprezece (12) luni.",
+        "categoriesDescription2": "Vă rugăm să rețineți că categoriile și exemplele furnizate în lista de mai jos sunt cele definite în CCPA/CPRA. Aceasta nu înseamnă că toate exemplele din acea categorie de informații personale au fost de fapt colectate de Noi, ci reflectă convingerea noastră de bună-credință, din câte știm, că o parte din acele informații din categoria aplicabilă pot fi și ar fi putut fi colectate. De exemplu, anumite categorii de informații personale ar fi colectate numai dacă ne-ați furniza direct aceste informații personale.",
+        "categoryLabels": {
+          "examples": "Exemple:",
+          "collected": "Colectate:"
+        },
+        "categories": {
+          "identifiers": {
+            "title": "Categoria A: Identificatori",
+            "examples": "Un nume real, un alias, o adresă poștală, un identificator personal unic, un identificator online, o adresă de protocol Internet, o adresă de e-mail, un nume de cont, numărul permisului de conducere, numărul pașaportului sau alți identificatori similari.",
+            "collected": "Da"
+          },
+          "personalInfo": {
+            "title": "Categoria B: Categoriile de informații personale enumerate în statutul California Customer Records",
+            "examples": "Un nume, o semnătură, un număr de asigurări sociale, caracteristici fizice sau o descriere, o adresă, un număr de telefon, un număr de pașaport, un număr de permis de conducere sau de carte de identitate, un număr de poliță de asigurare, educație, angajare, istoric profesional, număr de cont bancar, număr de card de credit, număr de card de debit sau orice alte informații financiare, informații medicale sau informații despre asigurarea de sănătate. Unele informații personale incluse în această categorie se pot suprapune cu alte categorii.",
+            "collected": "Da"
+          },
+          "protected": {
+            "title": "Categoria C: Caracteristici de clasificare protejate conform legislației din California sau federale",
+            "examples": "Vârstă (40 de ani sau peste), rasă, culoare, strămoși, origine națională, cetățenie, religie sau crez, stare civilă, afecțiune medicală, dizabilitate fizică sau mentală, sex (inclusiv gen, identitate de gen, exprimare de gen, sarcină sau naștere și afecțiuni medicale conexe), orientare sexuală, statut de veteran sau militar, informații genetice (inclusiv informații genetice familiale).",
+            "collected": "Nu"
+          },
+          "commercial": {
+            "title": "Categoria D: Informații comerciale",
+            "examples": "Înregistrări și istoricul produselor sau serviciilor achiziționate sau luate în considerare.",
+            "collected": "Da"
+          },
+          "biometric": {
+            "title": "Categoria E: Informații biometrice",
+            "examples": "Caracteristici genetice, fiziologice, comportamentale și biologice sau modele de activitate utilizate pentru a extrage un șablon sau alt identificator sau informații de identificare, cum ar fi amprente digitale, amprente faciale și amprente vocale, scanări ale irisului sau retinei, apăsări de taste, mers sau alte modele fizice și date despre somn, sănătate sau exerciții fizice.",
+            "collected": "Nu"
+          },
+          "internet": {
+            "title": "Categoria F: Activitate pe internet sau altă rețea similară",
+            "examples": "Interacțiunea cu Serviciul sau reclama noastră.",
+            "collected": "Da"
+          },
+          "geolocation": {
+            "title": "Categoria G: Date de geolocalizare",
+            "examples": "Locație fizică aproximativă.",
+            "collected": "Da"
+          },
+          "sensory": {
+            "title": "Categoria H: Date senzoriale",
+            "examples": "Informații audio, electronice, vizuale, termice, olfactive sau similare.",
+            "collected": "Nu"
+          },
+          "professional": {
+            "title": "Categoria I: Informații profesionale sau legate de angajare",
+            "examples": "Istoricul locurilor de muncă actuale sau anterioare sau evaluările performanței.",
+            "collected": "Nu"
+          },
+          "education": {
+            "title": "Categoria J: Informații educaționale private",
+            "examples": "Dosare educaționale legate direct de un elev, păstrate de o instituție de învățământ sau de o parte care acționează în numele acesteia, cum ar fi notele, foile matricole, listele de cursuri, orarele elevilor, codurile de identificare ale elevilor, informațiile financiare ale elevilor sau dosarele disciplinare ale elevilor.",
+            "collected": "Nu"
+          },
+          "inferences": {
+            "title": "Categoria K: Deducții trase din alte informații personale",
+            "examples": "Profil care reflectă preferințele, caracteristicile, tendințele psihologice, predispozițiile, comportamentul, atitudinile, inteligența, abilitățile și aptitudinile unei persoane.",
+            "collected": "Nu"
+          },
+          "sensitive": {
+            "title": "Categoria L: Informații personale sensibile",
+            "examples": "Informații de conectare și parolă pentru cont, date de geolocalizare.",
+            "collected": "Da"
+          }
+        },
+        "exclusions": {
+          "description": "Conform CCPA/CPRA, informațiile personale nu includ:",
+          "publicRecords": "Informații disponibile publicului din înregistrările guvernamentale",
+          "deidentified": "Informații anonimizate sau agregate despre consumatori",
+          "excludedScope": "Informații excluse din domeniul de aplicare al CCPA/CPRA, cum ar fi:",
+          "hipaa": "Informații medicale sau de sănătate acoperite de Legea privind portabilitatea și responsabilitatea asigurărilor de sănătate din 1996 (HIPAA) și de Legea privind confidențialitatea informațiilor medicale din California (CMIA) sau de datele studiilor clinice",
+          "sectorSpecific": "Informații personale acoperite de anumite legi privind confidențialitatea specifice sectorului, inclusiv Legea privind raportarea corectă a creditului (FRCA), Legea Gramm-Leach-Bliley (GLBA) sau Legea privind confidențialitatea informațiilor financiare din California (FIPA) și Legea privind protecția vieții private a șoferilor din 1994"
+        },
+        "sources": {
+          "title": "Surse de informații personale",
+          "description": "Obținem categoriile de informații personale enumerate mai sus din următoarele categorii de surse:",
+          "directlyFromYou": "Direct de la Tine.",
+          "directlyDescription": "De exemplu, din formularele pe care le completați în cadrul Serviciului nostru, preferințele pe care le exprimați sau le furnizați prin intermediul Serviciului nostru sau din achizițiile dvs. în cadrul Serviciului nostru.",
+          "indirectlyFromYou": "Indirect de la Tine.",
+          "indirectlyDescription": "De exemplu, din observarea activității dumneavoastră în cadrul Serviciului nostru.",
+          "automaticallyFromYou": "Automat de la Tine.",
+          "automaticallyDescription": "De exemplu, prin intermediul cookie-urilor pe care noi sau furnizorii noștri de servicii le setăm pe dispozitivul dvs. în timp ce navigați prin intermediul Serviciului nostru.",
+          "fromServiceProviders": "De la furnizorii de servicii.",
+          "serviceProvidersDescription": "De exemplu, furnizori terți pentru a monitoriza și analiza utilizarea Serviciului nostru, furnizori terți pentru a oferi publicitate pe Serviciul nostru, furnizori terți pentru a vă livra publicitate direcționată, furnizori terți pentru procesarea plăților sau alți furnizori terți pe care îi folosim pentru a vă furniza Serviciul."
+        },
+        "usage": {
+          "title": "Utilizarea informațiilor personale",
+          "description": "Este posibil să utilizăm sau să divulgăm informațiile personale pe care le colectăm în „scopuri comerciale” sau „scopuri comerciale” (conform definiției din CCPA/CPRA), care pot include următoarele exemple:",
+          "operateService": "Pentru a opera Serviciul nostru și a vă oferi Serviciul nostru.",
+          "provideSupport": "Pentru a vă oferi asistență și pentru a răspunde la solicitările dumneavoastră, inclusiv pentru a investiga și a aborda preocupările dumneavoastră și pentru a monitoriza și îmbunătăți Serviciul nostru.",
+          "fulfillReason": "Pentru a îndeplini sau a îndeplini motivul pentru care ați furnizat informațiile. De exemplu, dacă partajați informațiile dvs. de contact pentru a adresa o întrebare despre Serviciul nostru, vom folosi aceste informații personale pentru a răspunde solicitării dvs. Dacă furnizați informațiile dvs. personale pentru a achiziționa un produs sau un serviciu, vom folosi aceste informații pentru a procesa plata dvs. și a facilita livrarea.",
+          "lawEnforcement": "Pentru a răspunde solicitărilor organelor de aplicare a legii și în conformitate cu legea aplicabilă, hotărârea judecătorească sau reglementările guvernamentale.",
+          "asDescribed": "Așa cum v-a fost descris la colectarea informațiilor dumneavoastră personale sau așa cum este prevăzut în CCPA/CPRA.",
+          "administrative": "În scopuri administrative și de audit intern.",
+          "securityIncidents": "Pentru a detecta incidentele de securitate și a proteja împotriva activităților rău intenționate, înșelătoare, frauduloase sau ilegale, inclusiv, atunci când este necesar, pentru a urmări penal persoanele responsabile de astfel de activități.",
+          "otherUses": "Alte utilizări unice.",
+          "noteExamples": "Vă rugăm să rețineți că exemplele furnizate mai sus sunt ilustrative și nu au scopul de a fi exhaustive. Pentru mai multe detalii despre modul în care utilizăm aceste informații, vă rugăm să consultați secțiunea „Utilizarea datelor dumneavoastră cu caracter personal”.",
+          "additionalCategories": "Dacă decidem să colectăm categorii suplimentare de informații personale sau să utilizăm informațiile personale pe care le-am colectat în scopuri semnificativ diferite, fără legătură sau incompatibile, vom actualiza această Politică de confidențialitate."
+        },
+        "ccpaDisclosure": {
+          "title": "Divulgarea informațiilor personale",
+          "description": "Este posibil să utilizăm sau să divulgăm și este posibil să fi utilizat sau divulgat în ultimele douăsprezece (12) luni următoarele categorii de informații personale în scopuri de afaceri sau comerciale:",
+          "categoryA": "Categoria A: Identificatori",
+          "categoryB": "Categoria B: Categoriile de informații personale enumerate în statutul California Customer Records",
+          "categoryD": "Categoria D: Informații comerciale",
+          "categoryF": "Categoria F: Activitate pe internet sau altă rețea similară",
+          "categoryG": "Categoria G: Date de geolocalizare",
+          "categoryL": "Categoria L: Informații personale sensibile",
+          "noteCategories": "Vă rugăm să rețineți că categoriile enumerate mai sus sunt cele definite în CCPA/CPRA. Aceasta nu înseamnă că toate exemplele din acea categorie de informații personale au fost de fapt divulgate, ci reflectă convingerea noastră de bună-credință, din câte știm, că o parte din acele informații din categoria aplicabilă pot fi și ar fi putut fi divulgate.",
+          "contractRequirement": "Atunci când divulgăm informații personale în scop comercial sau de afaceri, încheiem un contract care descrie scopul și impune destinatarului atât să păstreze confidențialitatea informațiilor personale respective, cât și să nu le utilizeze în niciun alt scop decât executarea contractului."
+        },
+        "sharing": {
+          "title": "Partajarea informațiilor personale",
+          "description": "Este posibil să partajăm, și am partajat în ultimele douăsprezece (12) luni, informațiile dumneavoastră personale identificate în categoriile de mai sus cu următoarele categorii de terți:",
+          "recipients": {
+            "serviceProviders": "Furnizori de servicii",
+            "paymentProcessors": "Procesoare de plăți",
+            "affiliates": "Afiliații noștri",
+            "businessPartners": "Partenerii noștri de afaceri",
+            "authorizedVendors": "Furnizori terți cărora dumneavoastră sau agenții dumneavoastră ne autorizați să vă divulgăm informațiile personale în legătură cu produsele sau serviciile pe care vi le oferim"
+          }
+        },
+        "sale": {
+          "title": "Vânzarea de informații personale",
+          "definition": "Conform definiției din CCPA/CPRA, „vânzare” și „vânzare” înseamnă vânzarea, închirierea, eliberarea, divulgarea, diseminarea, punerea la dispoziție, transferul sau comunicarea orală, în scris, electronică sau de altă natură, a informațiilor personale ale unui Consumator de către Companie către o terță parte, contra cost. Aceasta înseamnă că este posibil să fi primit un anumit tip de beneficiu în schimbul partajării informațiilor personale, dar nu neapărat un beneficiu monetar.",
+          "doNotSell": "Nu vindem informații personale în sensul în care este înțeles în mod obișnuit termenul „vânzare”. Permitem Furnizorilor de Servicii să utilizeze informațiile dumneavoastră personale în scopurile comerciale descrise în Politica noastră de confidențialitate, pentru activități precum publicitate, marketing și analiză, iar acestea pot fi considerate vânzări în conformitate cu CCPA/CPRA.",
+          "description": "Este posibil să vindem și este posibil să fi vândut în ultimele douăsprezece (12) luni următoarele categorii de informații personale:",
+          "sharedCategories": {
+            "categoryA": "Categoria A: Identificatori",
+            "categoryB": "Categoria B: Categoriile de informații personale enumerate în statutul California Customer Records",
+            "categoryD": "Categoria D: Informații comerciale",
+            "categoryF": "Categoria F: Activitate pe internet sau altă rețea similară",
+            "categoryG": "Categoria G: Date de geolocalizare",
+            "categoryL": "Categoria L: Informații personale sensibile"
+          }
+        },
+        "userRights": {
+          "title": "Drepturile dumneavoastră în temeiul CCPA/CPRA",
+          "description": "CCPA/CPRA oferă rezidenților din California drepturi specifice cu privire la informațiile lor personale. Dacă sunteți rezident al Californiei, aveți următoarele drepturi:",
+          "rightToNotice": "Dreptul la notificare.",
+          "rightToNoticeDescription": "Aveți dreptul de a fi notificat cu privire la categoriile de Date cu Caracter Personal care sunt colectate și scopurile în care sunt utilizate Datele cu Caracter Personal.",
+          "disclosureItems": {
+            "categoriesCollected": "Categoriile de informații personale pe care le-am colectat despre dvs.",
+            "sources": "Categoriile de surse pentru informațiile personale pe care le-am colectat despre dvs.",
+            "purposes": "Scopurile noastre comerciale sau de afaceri pentru colectarea sau vânzarea acelor informații personale",
+            "thirdParties": "Categoriile de terțe părți cu care partajăm aceste informații personale",
+            "specificPieces": "Informațiile personale specifice pe care le-am colectat despre dvs.",
+            "soldDisclosed": "Dacă am vândut informațiile dumneavoastră personale sau am divulgat informațiile dumneavoastră personale în scopuri comerciale, vă vom divulga categoriile de informații personale vândute și divulgate."
+          },
+          "rightToOptOut": "Dreptul de a refuza vânzarea sau partajarea Datelor cu caracter personal (opt-out).",
+          "rightToOptOutDescription": "Aveți dreptul să ne solicitați să nu vindem informațiile dumneavoastră personale. Pentru a trimite o cerere de dezabonare, vă rugăm să consultați secțiunea „Nu vindeți informațiile mele personale” sau să ne contactați.",
+          "doNotSellSection": "Nu vindeți informațiile mele personale",
+          "rightToCorrect": "Dreptul de a corecta Datele cu Caracter Personal.",
+          "rightToCorrectDescription": "Aveți dreptul de a corecta sau rectifica orice informații personale inexacte despre dumneavoastră pe care le-am colectat. După ce primim și confirmăm solicitarea dumneavoastră, vom depune eforturi rezonabile din punct de vedere comercial pentru a corecta (și a instrui Furnizorii noștri de Servicii să corecteze) informațiile dumneavoastră personale, cu excepția cazului în care se aplică o excepție.",
+          "rightToLimit": "Dreptul de a limita utilizarea și divulgarea Datelor cu Caracter Personal sensibile.",
+          "rightToLimitDescription": "Aveți dreptul de a solicita limitarea utilizării sau divulgării anumitor informații personale sensibile pe care le-am colectat despre dvs., cu excepția cazului în care se aplică o excepție. Pentru a solicita acest lucru, vă rugăm să consultați secțiunea „Limitarea utilizării sau divulgării informațiilor mele personale sensibile” sau să ne contactați.",
+          "limitSensitiveSection": "Limitarea utilizării sau divulgării informațiilor mele personale sensibile",
+          "rightToDelete": "Dreptul de a șterge Datele cu Caracter Personal.",
+          "rightToDeleteDescription": "Aveți dreptul de a solicita ștergerea Datelor dumneavoastră cu caracter personal în anumite circumstanțe, sub rezerva anumitor excepții. După ce primim și confirmăm solicitarea dumneavoastră, vom șterge (și vom solicita Furnizorilor noștri de Servicii să șteargă) informațiile dumneavoastră cu caracter personal din evidențele noastre, cu excepția cazului în care se aplică o excepție.",
+          "rightNonDiscrimination": "Dreptul de a nu fi discriminat.",
+          "rightNonDiscriminationDescription": "Aveți dreptul de a nu fi discriminat pentru exercitarea oricăror drepturi ale dumneavoastră de consumator, inclusiv prin refuzarea bunurilor sau serviciilor, perceperea de prețuri diferite, furnizarea de niveluri diferite de servicii sau sugerarea de prețuri sau niveluri de servicii diferite."
+        },
+        "exercisingRights": {
+          "title": "Exercitarea drepturilor dumneavoastră privind protecția datelor în temeiul CCPA/CPRA",
+          "intro": "Pentru a vă exercita oricare dintre drepturile în temeiul CCPA/CPRA și dacă sunteți rezident în California, ne puteți contacta folosind informațiile furnizate mai jos.",
+          "authorization": "Numai dumneavoastră sau o persoană înregistrată la Secretarul de Stat din California pe care o autorizați să acționeze în numele dumneavoastră puteți face o solicitare verificabilă referitoare la informațiile dumneavoastră personale.",
+          "requestRequirements": "Cererea dumneavoastră către noi trebuie:",
+          "requirements": {
+            "verify": "Furnizați suficiente informații care să ne permită să verificăm în mod rezonabil că sunteți persoana despre care am colectat informații personale sau un reprezentant autorizat.",
+            "describe": "Descrieți solicitarea dumneavoastră cu suficiente detalii care să ne permită să o înțelegem, să o evaluăm și să o răspundem în mod corespunzător."
+          },
+          "verification": "Nu putem răspunde solicitării dumneavoastră sau nu vă putem furniza informațiile solicitate dacă nu putem verifica identitatea sau autoritatea dumneavoastră de a face solicitarea și confirma că informațiile personale se referă la dumneavoastră.",
+          "response": "Vom divulga și furniza informațiile solicitate gratuit, în termen de 45 de zile de la primirea solicitării dumneavoastră verificabile. Perioada de furnizare a informațiilor solicitate poate fi prelungită o dată cu încă 45 de zile, atunci când este necesar în mod rezonabil și cu o notificare prealabilă.",
+          "dataPortability": "Pentru solicitările de portabilitate a datelor, vom selecta un format pentru a furniza informațiile dumneavoastră personale care să fie ușor de utilizat și care să vă permită să transmiteți informațiile de la o entitate la alta fără impedimente."
+        },
+        "doNotSell": {
+          "title": "Nu vindeți informațiile mele personale",
+          "definition": "Conform definiției din CCPA/CPRA, „vânzare” și „vânzare” înseamnă vânzarea, închirierea, eliberarea, divulgarea, diseminarea, punerea la dispoziție, transferul sau comunicarea orală, în scris, electronică sau de altă natură, a informațiilor personale ale unui Consumator de către Companie către o terță parte, contra cost. Aceasta înseamnă că este posibil să fi primit un anumit tip de beneficiu în schimbul partajării informațiilor personale, dar nu neapărat un beneficiu monetar.",
+          "policy": "Nu vindem informații personale în sensul în care este înțeles în mod obișnuit termenul „vânzare”. Permitem Furnizorilor de Servicii să utilizeze informațiile dumneavoastră personale în scopurile comerciale descrise în Politica noastră de confidențialitate, pentru activități precum publicitate, marketing și analiză, iar acestea pot fi considerate vânzări în conformitate cu CCPA/CPRA.",
+          "optOutRight": "Aveți dreptul de a renunța la vânzarea informațiilor dumneavoastră personale. După ce primim și confirmăm o solicitare verificabilă din partea dumneavoastră, vom înceta vânzarea informațiilor dumneavoastră personale. Pentru a vă exercita dreptul de a renunța, vă rugăm să ne contactați.",
+          "serviceProviders": "Furnizorii de servicii cu care colaborăm (de exemplu, partenerii noștri de analiză sau publicitate) pot utiliza în cadrul Serviciului tehnologie care vinde informații personale, așa cum sunt definite de legea CCPA/CPRA. Dacă doriți să renunțați la utilizarea informațiilor dvs. personale în scopuri publicitare bazate pe interese și la aceste vânzări potențiale, așa cum sunt definite de legea CCPA/CPRA, puteți face acest lucru urmând instrucțiunile de mai jos.",
+          "browserNote": "Rețineți că orice opțiune de dezabonare este specifică browserului pe care îl utilizați. Este posibil să fie nevoie să faceți dezabonare pe fiecare browser pe care îl utilizați.",
+          "websiteTitle": "Site web",
+          "websiteInstructions": "Dacă este cazul, faceți clic pe butoanele „Preferințe de confidențialitate”, „Actualizați preferințele de confidențialitate” sau „Nu-mi vindeți informațiile personale” listate în cadrul Serviciului pentru a vă revizui preferințele de confidențialitate și a renunța la cookie-uri și alte tehnologii pe care le putem utiliza. Rețineți că va trebui să renunțați din fiecare browser pe care îl utilizați pentru a accesa Serviciul."
+        },
+        "mobileOptOut": {
+          "title": "Dispozitive mobile",
+          "description": "Dispozitivul dvs. mobil vă poate oferi posibilitatea de a renunța la utilizarea informațiilor despre aplicațiile pe care le utilizați pentru a vă afișa reclame direcționate către interesele dvs.:",
+          "androidAds": "„Renunțați la anunțurile bazate pe interese” sau „Renunțați la personalizarea anunțurilor” pe dispozitivele Android",
+          "iosTracking": "„Limitați urmărirea reclamelor” pe dispozitivele iOS",
+          "locationNote": "De asemenea, puteți opri colectarea informațiilor despre locație de pe dispozitivul dvs. mobil modificând preferințele de pe dispozitivul dvs. mobil."
+        },
+        "sensitiveInfo": {
+          "title": "Limitarea utilizării sau divulgării informațiilor mele personale sensibile",
+          "description": "Dacă sunteți rezident în California, aveți dreptul de a limita utilizarea și divulgarea informațiilor dumneavoastră personale sensibile la utilizarea necesară pentru prestarea serviciilor sau furnizarea bunurilor așteptate în mod rezonabil de un Consumator obișnuit care solicită astfel de servicii sau bunuri. Colectăm, utilizăm și divulgăm informații personale sensibile în moduri necesare pentru furnizarea Serviciului. Pentru mai multe informații despre modul în care utilizăm informațiile dumneavoastră personale, vă rugăm să consultați secțiunea „Utilizarea datelor dumneavoastră personale” sau să ne contactați."
+        },
+        "caloppaPolicy": {
+          "doNotTrackResponse": "Serviciul nostru nu răspunde la semnalele „Do Not Track”.",
+          "thirdPartyTracking": "Cu toate acestea, unele site-uri web terțe urmăresc activitățile dvs. de navigare. Dacă vizitați astfel de site-uri web, puteți seta preferințele în browserul dvs. web pentru a informa site-urile web că nu doriți să fiți urmărit. Puteți activa sau dezactiva DNT accesând pagina de preferințe sau setări a browserului dvs. web."
+        },
+        "caloppa": {
+          "title": "Politica „Nu urmăriți”, conform cerințelor Legii californiene privind protecția confidențialității online (CalOPPA)"
+        },
+        "saleNote": {
+          "categoriesListed": "Vă rugăm să rețineți că categoriile enumerate mai sus sunt cele definite în CCPA/CPRA. Aceasta nu înseamnă că toate exemplele din acea categorie de informații personale au fost de fapt vândute, ci reflectă convingerea noastră de bună-credință, din câte știm, că o parte din informațiile respective din categoria aplicabilă pot fi și ar fi putut fi partajate în schimbul unei valori."
+        },
+        "minorsUnder16": {
+          "title": "Vânzarea informațiilor personale ale minorilor sub 16 ani",
+          "description1": "Nu colectăm în mod conștient informații personale de la minori sub vârsta de 16 ani prin intermediul Serviciului nostru, deși anumite site-uri web terțe la care facem trimitere pot face acest lucru. Aceste site-uri web terțe au propriii termeni de utilizare și politici de confidențialitate și încurajăm părinții și tutorii legali să monitorizeze utilizarea internetului de către copiii lor și să le instruiască pe acestea să nu furnizeze niciodată informații pe alte site-uri web fără permisiunea lor.",
+          "description2": "Nu vindem informațiile personale ale Consumatorilor despre care știm că au sub 16 ani, cu excepția cazului în care primim o autorizație afirmativă („dreptul de a opta”) fie de la Consumatorul care are între 13 și 16 ani, fie de la părintele sau tutorele unui Consumator cu vârsta sub 13 ani. Consumatorii care optează pentru vânzarea informațiilor personale se pot dezabona de la vânzările viitoare în orice moment. Pentru a vă exercita dreptul de a opta pentru dezabonare, dumneavoastră (sau reprezentantul dumneavoastră autorizat) ne puteți trimite o solicitare contactându-ne.",
+          "description3": "Dacă aveți motive să credeți că un copil cu vârsta sub 13 (sau 16) ani ne-a furnizat informații personale, vă rugăm să ne contactați cu suficiente detalii pentru a ne permite să ștergem informațiile respective."
+        },
+        "optOutPlatforms": {
+          "description": "În plus, puteți renunța la primirea de reclame personalizate, așa cum sunt difuzate de Furnizorii noștri de Servicii, urmând instrucțiunile noastre prezentate în cadrul Serviciului:",
+          "nai": "Platforma de dezabonare a NAI:",
+          "edaa": "Platforma de dezabonare a EDAA:",
+          "daa": "Platforma de renunțare a DAA:",
+          "cookieNote": "Dezabonarea va plasa pe computerul dvs. un cookie unic pentru browserul pe care îl utilizați pentru dezabonare. Dacă schimbați browserele sau ștergeți cookie-urile salvate de browserul dvs., va trebui să vă dezabonați din nou."
+        },
+        "rights": {
+          "rightToKnowAccess": "Dreptul de a cunoaște/accesa informațiile.",
+          "rightToKnowAccessDescription": "Conform CCPA/CPRA, aveți dreptul să ne solicitați să vă divulgăm informații despre colectarea, utilizarea, vânzarea, divulgarea în scopuri comerciale și partajarea informațiilor personale de către noi. După ce primim și confirmăm solicitarea dumneavoastră, vă vom divulga:"
+        }
+      },
+      "optOut": {
+        "androidAds": "„Renunțați la anunțurile bazate pe interese” sau „Renunțați la personalizarea anunțurilor” pe dispozitivele Android",
+        "androidInterestBased": "Renunțați la anunțurile bazate pe interese",
+        "androidPersonalization": "Renunțați la personalizarea anunțurilor",
+        "iosTracking": "„Limitați urmărirea reclamelor” pe dispozitivele iOS",
+        "iosLimit": "Limitați urmărirea anunțurilor"
+      },
+      "dataTypes": {
+        "email": "Adresa de e-mail",
+        "name": "Prenume și nume de familie",
+        "phone": "Număr de telefon",
+        "address": "Adresă, Stat, Județ, Cod poștal, Oraș",
+        "usageData": "Date de utilizare"
+      },
+      "socialMedia": {
+        "google": "Google",
+        "facebook": "Facebook",
+        "apple": "Măr"
+      },
+      "appPermissions": {
+        "location": "Informații privind locația dvs. (pentru detectarea proximității Bluetooth )",
+        "bluetooth": "Informații despre dispozitivele Bluetooth și scanarea dispozitivelor din apropiere",
+        "camera": "Informații de la camera dispozitivului dvs. pentru crearea avatarului",
+        "contacts": "Contacte de pe dispozitiv (opțional, pentru găsirea prietenilor)"
+      }
+    },
+    "termsOfUse": {
+      "title": "Termeni de utilizare",
+      "subtitle": "Înțelegerea drepturilor și responsabilităților dumneavoastră atunci când utilizați serviciile Ringdy .",
+      "lastUpdated": "Ultima actualizare: ianuarie 2025",
+      "introduction": "Vă rugăm să citiți cu atenție acești termeni și condiții înainte de a utiliza Serviciul nostru.",
+      "sections": {
+        "interpretationTitle": "Interpretare și definiții",
+        "interpretationSubtitle": "Interpretare",
+        "interpretationText": "Cuvintele a căror literă inițială este scrisă cu majusculă au înțelesuri definite în următoarele condiții. Următoarele definiții vor avea același înțeles indiferent dacă apar la singular sau la plural.",
+        "definitionsSubtitle": "Definiții",
+        "definitionsText": "În sensul acestor Termeni și Condiții:",
+        "definitions": {
+          "application": "Înseamnă programul software furnizat de Companie, descărcat de dumneavoastră pe orice dispozitiv electronic, denumit Ringdy .",
+          "applicationStore": "Înseamnă serviciul de distribuție digitală operat și dezvoltat de Apple Inc. (Apple App Store) sau Google Inc. (Google Play Store) în care a fost descărcată Aplicația.",
+          "affiliate": "Înseamnă o entitate care controlează, este controlată de sau se află sub control comun cu o parte, unde „control” înseamnă deținerea a 50% sau mai mult din acțiuni, participații la capital sau alte valori mobiliare care dau dreptul la vot pentru alegerea directorilor sau a altei autorități de conducere.",
+          "account": "Înseamnă un cont unic creat pentru ca dumneavoastră să accesați Serviciul nostru sau părți ale Serviciului nostru.",
+          "country": "Se referă la: Vietnam",
+          "company": "(denumită în prezentul Acord fie „Compania”, „Noi”, „Nouă” sau „Al nostru/a noastră/ai noștri/ale noastre”) se referă la Ringdy .",
+          "content": "Se referă la conținut precum text, imagini sau alte informații care pot fi postate, încărcate, la care se poate face trimitere sau puse la dispoziție în alt mod de către dvs., indiferent de forma conținutului respectiv.",
+          "device": "Înseamnă orice dispozitiv care poate accesa Serviciul, cum ar fi un computer, un smartphone sau o tabletă digitală.",
+          "feedback": "Înseamnă feedback, inovații sau sugestii trimise de dvs. cu privire la atributele, performanța sau caracteristicile Serviciului nostru.",
+          "freeTrial": "Se referă la o perioadă limitată de timp care poate fi gratuită la achiziționarea unui Abonament.",
+          "goods": "Consultați articolele oferite spre vânzare prin intermediul Serviciului.",
+          "inAppPurchase": "Se referă la achiziționarea unui produs, articol, serviciu sau Abonament efectuată prin intermediul Aplicației și supusă acestor Termeni și Condiții și/sau termenilor și condițiilor proprii ale Magazinului de Aplicații.",
+          "orders": "Înseamnă o solicitare din partea dumneavoastră de a achiziționa Bunuri de la noi.",
+          "promotions": "Consultați concursuri, tombole sau alte promoții oferite prin intermediul Serviciului.",
+          "service": "Se referă la Aplicație.",
+          "subscriptions": "Consultați serviciile sau accesul la Serviciu oferite de către Companie către dumneavoastră pe bază de abonament.",
+          "termsAndConditions": "(denumite și „Termeni”) înseamnă acești Termeni și Condiții care formează întregul acord dintre Dumneavoastră și Companie cu privire la utilizarea Serviciului.",
+          "thirdPartySocialMedia": "Înseamnă orice servicii sau conținut (inclusiv date, informații, produse sau servicii) furnizate de o terță parte care pot fi afișate, incluse sau puse la dispoziție prin intermediul Serviciului.",
+          "you": "Înseamnă persoana care accesează sau utilizează Serviciul sau compania sau altă entitate juridică în numele căreia respectiva persoană accesează sau utilizează Serviciul, după caz."
+        },
+        "definitionLabels": {
+          "application": "Aplicație:",
+          "applicationStore": "Magazin de aplicații:",
+          "affiliate": "Afiliat:",
+          "account": "Cont:",
+          "country": "Ţară:",
+          "company": "Companie:",
+          "content": "Conţinut:",
+          "device": "Dispozitiv:",
+          "feedback": "Feedback:",
+          "freeTrial": "Perioadă de încercare gratuită:",
+          "goods": "Bunuri:",
+          "inAppPurchase": "Achiziție în aplicație:",
+          "orders": "Comenzi:",
+          "promotions": "Promoții:",
+          "service": "Serviciu:",
+          "subscriptions": "Abonamente:",
+          "termsAndConditions": "Termeni și condiții:",
+          "thirdPartySocialMedia": "Serviciu de socializare terță parte:",
+          "you": "Tu:"
+        }
+      },
+      "acknowledgment": {
+        "title": "Confirmare",
+        "description1": "Acestea sunt Termenii și Condițiile care guvernează utilizarea acestui Serviciu și acordul care operează între Dumneavoastră și Companie. Acești Termeni și Condiții stabilesc drepturile și obligațiile tuturor utilizatorilor cu privire la utilizarea Serviciului.",
+        "description2": "Accesul și utilizarea Serviciului de către dumneavoastră sunt condiționate de acceptarea și respectarea acestor Termeni și Condiții. Acești Termeni și Condiții se aplică tuturor vizitatorilor, utilizatorilor și altor persoane care accesează sau utilizează Serviciul.",
+        "description3": "Prin accesarea sau utilizarea Serviciului, sunteți de acord să respectați acești Termeni și Condiții. Dacă nu sunteți de acord cu orice parte a acestor Termeni și Condiții, nu aveți dreptul să accesați Serviciul.",
+        "description4": "Declarați că aveți peste 18 ani. Compania nu permite persoanelor sub 18 ani să utilizeze Serviciul.",
+        "description5": "Accesul și utilizarea Serviciului de către dumneavoastră sunt, de asemenea, condiționate de acceptarea și respectarea Politicii de confidențialitate a Companiei. Politica noastră de confidențialitate descrie politicile și procedurile noastre privind colectarea, utilizarea și divulgarea informațiilor dumneavoastră personale atunci când utilizați Aplicația și vă informează despre drepturile dumneavoastră la confidențialitate și despre modul în care legea vă protejează. Vă rugăm să citiți cu atenție Politica noastră de confidențialitate înainte de a utiliza Serviciul nostru.",
+        "bluetoothNotice": "Prin utilizarea Serviciului nostru, recunoașteți că Aplicația utilizează Bluetooth și servicii de localizare pentru a descoperi și a se conecta cu utilizatorii din apropiere. Sunteți de acord cu utilizarea acestor tehnologii pentru a oferi funcții bazate pe proximitate.",
+        "bluetoothTitle": "Bluetooth și servicii de localizare"
+      },
+      "orders": {
+        "title": "Achiziționarea de articole digitale",
+        "introduction": "Prin achiziționarea unui Abonament Discovery, Night Pass sau a unui Abonament prin intermediul Serviciului, garantați că aveți capacitatea legală de a încheia contracte obligatorii.",
+        "yourInformation": {
+          "title": "Informațiile dumneavoastră",
+          "description1": "Plata pentru Abonamentele Discovery, Abonamentele Night Pass și Abonamentele se face în întregime prin intermediul magazinului de aplicații al dispozitivului dvs. (Google Play sau App Store). Nu colectăm și nu stocăm datele cardului dvs. de plată.",
+          "description2": "Declarați și garantați că: (i) aveți dreptul legal de a utiliza orice metodă de plată înregistrată în contul dvs. din magazinul de aplicații; și (ii) informațiile pe care le furnizați magazinului de aplicații sunt adevărate, corecte și complete.",
+          "description3": "Toate informațiile de plată sunt trimise direct către Google Play sau App Store, nu către Companie."
+        },
+        "cancellation": {
+          "title": "Anularea achiziției",
+          "description1": "Ne rezervăm dreptul de a refuza sau anula achiziția dumneavoastră în orice moment, din anumite motive, inclusiv, dar fără a se limita la:",
+          "reasons": {
+            "availability": "Disponibilitatea articolului",
+            "errors": "Erori în descrierea sau prețul unui articol",
+            "orderErrors": "Erori în achiziția dvs."
+          },
+          "description2": "Ne rezervăm dreptul de a refuza sau anula achiziția dumneavoastră dacă suspectăm o fraudă sau o tranzacție neautorizată sau ilegală.",
+          "yourRights": {
+            "title": "Drepturile dumneavoastră de anulare",
+            "description1": "Abonamentele Discovery, Night Pass și alte articole digitale consumabile sunt consumabile odată ce sunt valorificate și, în general, nu pot fi returnate.",
+            "description2": "Practicile noastre de rambursare pentru achizițiile digitale sunt descrise în secțiunile Achiziții în aplicație și Rambursări de mai jos.",
+            "description3": "Odată ce un Discovery Pass sau Night Pass a fost utilizat pentru a debloca o locație, acesta nu poate fi anulat sau rambursat.",
+            "description4": "Cererile de rambursare eligibile sunt gestionate conform politicii de rambursare a Magazinului de aplicații, așa cum este descris în secțiunea Rambursări de mai jos.",
+            "description5": "Nu veți avea niciun drept de a anula o achiziție pentru următoarele articole:",
+            "exceptions": {
+              "personalized": "Articole care au fost deja aplicate în contul dvs. sau consumate, cum ar fi un Discovery Pass folosit pentru a debloca o locație.",
+              "perishable": "Abonamente cu perioadă limitată de timp, cum ar fi Night Pass , odată ce perioada lor activă a început.",
+              "hygiene": "Perioadele de abonament pentru care Serviciul v-a fost deja furnizat.",
+              "mixed": "Articole digitale combinate cu alte articole achiziționate ca parte a unui pachet.",
+              "digital": "Furnizarea de conținut digital care nu este furnizat pe un suport tangibil, dacă executarea a început cu consimțământul dumneavoastră expres prealabil și ați recunoscut pierderea dreptului de anulare."
+            }
+          }
+        },
+        "availability": {
+          "title": "Disponibilitate, erori și inexactități",
+          "description1": "Actualizăm constant ofertele noastre de Abonamente Discovery, Night Pass și Abonamente din cadrul Serviciului. Acestea pot avea prețuri greșite, pot fi descrise inexact sau pot fi indisponibile și este posibil să întâmpinăm întârzieri în actualizarea acestor informații.",
+          "description2": "Nu putem garanta și nu garantăm exactitatea sau caracterul complet al niciunei informații, inclusiv prețurile și disponibilitatea. Ne rezervăm dreptul de a modifica sau actualiza informațiile și de a corecta erori, inexactități sau omisiuni în orice moment, fără notificare prealabilă."
+        },
+        "pricing": {
+          "title": "Politica de prețuri",
+          "description1": "Compania își rezervă dreptul de a revizui prețurile pentru Abonamentele Discovery, Abonamentele Night Pass și Abonamentele în orice moment înainte de a accepta o achiziție.",
+          "description2": "Prețurile sunt stabilite și afișate prin intermediul magazinului de aplicații al dispozitivului dvs. (Google Play sau App Store) și pot varia în funcție de regiune și monedă."
+        },
+        "payments": {
+          "title": "Plăți",
+          "description1": "Toate achizițiile sunt procesate prin intermediul magazinului de aplicații al dispozitivului dvs. (Google Play sau App Store) folosind metodele de plată acceptate de acesta.",
+          "description2": "Metodele de plată sunt supuse verificărilor de validare și autorizării de către magazinul de aplicații și emitentul cardului dvs. Dacă nu se primește autorizarea, Compania nu este răspunzătoare pentru nicio întârziere sau nelivrare a achiziției dvs."
+        }
+      },
+      "subscriptions": {
+        "title": "Abonamente",
+        "period": {
+          "title": "Perioada de abonament",
+          "description1": "Serviciul sau anumite părți ale Serviciului sunt disponibile numai cu un Abonament plătit. Veți fi facturat în avans, în mod recurent și periodic (cum ar fi zilnic, săptămânal, lunar sau anual), în funcție de tipul de abonament pe care îl selectați la achiziționarea Abonamentului.",
+          "description2": "La sfârșitul fiecărei perioade, Abonamentul dumneavoastră se va reînnoi automat în aceleași condiții, cu excepția cazului în care îl anulați dumneavoastră sau de către Companie."
+        },
+        "cancellations": {
+          "title": "Anulări de abonamente",
+          "description1": "Puteți anula reînnoirea Abonamentului fie prin pagina de setări a Contului dvs., fie contactând Compania. Nu veți primi o rambursare pentru taxele pe care le-ați plătit deja pentru perioada curentă de Abonament și veți putea accesa Serviciul până la sfârșitul perioadei curente de Abonament.",
+          "description2": "Dacă Abonamentul a fost efectuat printr-o Achiziție în Aplicație, puteți anula reînnoirea Abonamentului dvs. prin intermediul Magazinului de Aplicații."
+        },
+        "billing": {
+          "title": "Facturare",
+          "description1": "Trebuie să furnizați Companiei informații de facturare corecte și complete, inclusiv numele complet, adresa, statul, codul poștal, numărul de telefon și informațiile despre o metodă de plată validă.",
+          "description2": "În cazul în care facturarea automată nu are loc din orice motiv, Compania va emite o factură electronică indicând faptul că trebuie să procedați manual, într-un anumit termen limită, cu plata integrală corespunzătoare perioadei de facturare indicate pe factură.",
+          "description3": "Dacă Abonamentul a fost efectuat printr-o Achiziție în Aplicație, toată facturarea este gestionată de Magazinul de Aplicații și este guvernată de termenii și condițiile proprii ale Magazinului de Aplicații."
+        },
+        "feeChanges": {
+          "title": "Modificări ale taxelor",
+          "description1": "Compania, la discreția sa exclusivă și în orice moment, poate modifica taxele de abonament. Orice modificare a taxei de abonament va intra în vigoare la sfârșitul perioadei de abonament curente.",
+          "description2": "Compania vă va oferi o notificare prealabilă rezonabilă cu privire la orice modificare a taxelor de abonament, pentru a vă oferi posibilitatea de a vă rezilia abonamentul înainte ca respectiva modificare să intre în vigoare.",
+          "description3": "Utilizarea în continuare a Serviciului după intrarea în vigoare a modificării taxei de abonament constituie acordul dumneavoastră de a plăti suma modificată a taxei de abonament."
+        },
+        "refunds": {
+          "title": "Rambursări",
+          "description1": "Cu excepția cazurilor în care acest lucru este impus de lege, taxele de abonament plătite nu sunt rambursabile.",
+          "description2": "Anumite cereri de rambursare pentru Abonamente pot fi luate în considerare de către Companie de la caz la caz și aprobate la discreția exclusivă a Companiei.",
+          "description3": "Dacă Abonamentul a fost realizat printr-o achiziție în aplicație, se va aplica politica de rambursare a Magazinului de aplicații. Dacă doriți să solicitați o rambursare, puteți face acest lucru contactând direct Magazinul de aplicații."
+        },
+        "freeTrial": {
+          "title": "Perioadă de încercare gratuită",
+          "description1": "Compania poate, la discreția sa exclusivă, să ofere un Abonament cu o perioadă de încercare gratuită pentru o perioadă limitată de timp.",
+          "description2": "Este posibil să vi se solicite să introduceți informațiile dvs. de facturare pentru a vă înscrie pentru perioada de probă gratuită.",
+          "description3": "Dacă introduceți informațiile dvs. de facturare atunci când vă înscrieți pentru o perioadă de probă gratuită, Compania nu vă va factura taxele până la expirarea perioadei de probă gratuită. În ultima zi a perioadei de probă gratuită, cu excepția cazului în care v-ați anulat abonamentul, vi se vor factura automat taxele de abonament aplicabile pentru tipul de abonament selectat.",
+          "description4": "În orice moment și fără notificare prealabilă, Compania își rezervă dreptul de a (i) modifica termenii și condițiile ofertei de încercare gratuită sau (ii) anula respectiva ofertă de încercare gratuită."
+        }
+      },
+      "inAppPurchases": {
+        "title": "Achiziții în aplicație",
+        "description1": "Aplicația poate include Achiziții în aplicație care vă permit să cumpărați produse, servicii sau Abonamente.",
+        "description2": "Mai multe informații despre cum puteți gestiona achizițiile în aplicație folosind Dispozitivul dvs. pot fi găsite în termenii și condițiile Magazinului de aplicații sau în setările de ajutor ale Dispozitivul dvs.",
+        "description3": "Achizițiile în aplicație pot fi consumate doar în cadrul Aplicației. Dacă efectuați o achiziție în aplicație, aceasta nu poate fi anulată după ce ați inițiat descărcarea acesteia. Achizițiile în aplicație nu pot fi răscumpărate în numerar sau în alte contraprestații și nici transferate în alt mod.",
+        "description4": "Recunoașteți și sunteți de acord că toate procesele de facturare și tranzacții sunt gestionate de Magazinul de aplicații de unde ați descărcat Aplicația și sunt guvernate de termenii și condițiile proprii ale Magazinului de aplicații respectiv."
+      },
+      "promotions": {
+        "title": "Promoții",
+        "description1": "Orice Promoții puse la dispoziție prin intermediul Serviciului pot fi guvernate de reguli separate de acești Termeni.",
+        "description2": "Dacă participați la orice Promoții, vă rugăm să consultați regulile aplicabile, precum și Politica noastră de confidențialitate. Dacă regulile unei Promoții intră în conflict cu acești Termeni, se vor aplica regulile Promoției."
+      },
+      "userAccounts": {
+        "title": "Conturi de utilizator",
+        "description1": "Când vă creați un cont la noi, trebuie să ne furnizați informații corecte, complete și actuale în orice moment. Nerespectarea acestei prevederi constituie o încălcare a Termenilor și Condițiilor, ceea ce poate duce la închiderea imediată a contului dumneavoastră în cadrul Serviciului nostru.",
+        "description2": "Sunteți responsabil pentru protejarea parolei pe care o utilizați pentru a accesa Serviciul și pentru orice activități sau acțiuni sub parola dvs., indiferent dacă parola dvs. este cu Serviciul nostru sau cu un Serviciu de socializare terț.",
+        "description3": "Sunteți de acord să nu divulgați parola dvs. niciunei terțe părți. Trebuie să ne anunțați imediat ce luați cunoștință de orice încălcare a securității sau utilizare neautorizată a contului dvs.",
+        "description4": "Nu aveți dreptul să utilizați ca nume de utilizator numele altei persoane sau entități sau numele care nu este disponibil legal pentru utilizare, un nume sau o marcă comercială care este supusă oricăror drepturi ale unei alte persoane sau entități, alta decât dumneavoastră, fără autorizația corespunzătoare sau un nume care este altfel ofensator, vulgar sau obscen."
+      },
+      "userConduct": {
+        "title": "Conduita și siguranța utilizatorilor",
+        "zeroTolerance": {
+          "title": "Politica de toleranță zero",
+          "description": "Sunteți de acord să nu utilizați Serviciul pentru a hărțui, a amenința, a urmări sau a intimida alte persoane. Compania menține o politică de toleranță zero pentru comportamentul abuziv, hărțuirea sau încălcarea drepturilor sau a siguranței altora. Încălcările pot duce la suspendarea sau închiderea imediată a contului dumneavoastră."
+        },
+        "safetyDisclaimer": {
+          "title": "Declinare de responsabilitate privind siguranța",
+          "description": "Serviciul facilitează conexiunile și comunicările între utilizatorii care pot alege să se întâlnească în persoană. Nu efectuăm verificări ale antecedentelor și nici nu verificăm identitatea utilizatorilor. Sunteți singurul responsabil pentru interacțiunile dvs. cu ceilalți. Fiți precauți, folosiți bunul simț și luați măsurile de siguranță adecvate atunci când comunicați sau vă întâlniți cu alți utilizatori offline."
+        }
+      },
+      "content": {
+        "title": "Conţinut",
+        "yourRight": {
+          "title": "Dreptul dumneavoastră de a posta conținut",
+          "description1": "Serviciul nostru vă permite să postați Conținut. Sunteți responsabil pentru Conținutul pe care îl postați pe Serviciu, inclusiv legalitatea, fiabilitatea și caracterul adecvat al acestuia.",
+          "description2": "Prin postarea Conținutului pe Serviciu, ne acordați dreptul și licența de a utiliza, modifica, executa public, afișa public, reproduce și distribui respectivul Conținut pe și prin intermediul Serviciului. Vă păstrați toate drepturile asupra oricărui Conținut pe care îl trimiteți, postați sau afișați pe sau prin intermediul Serviciului și sunteți responsabil pentru protejarea acestor drepturi.",
+          "description3": "Declarați și garantați că: (i) Conținutul este al dumneavoastră (îl dețineți) sau aveți dreptul să îl utilizați și să ne acordați drepturile și licența așa cum sunt prevăzute în acești Termeni și (ii) postarea Conținutului dumneavoastră pe sau prin intermediul Serviciului nu încalcă drepturile la confidențialitate, drepturile de publicitate, drepturile de autor, drepturile contractuale sau orice alte drepturi ale vreunei persoane."
+        },
+        "restrictions": {
+          "title": "Restricții de conținut",
+          "description1": "Compania nu este responsabilă pentru conținutul utilizatorilor Serviciului. Înțelegeți și sunteți de acord în mod expres că sunteți singurul responsabil pentru Conținut și pentru toată activitatea care are loc în contul dvs., indiferent dacă este efectuată de dvs. sau de orice terță persoană care utilizează contul dvs.",
+          "description2": "Nu aveți dreptul să transmiteți niciun Conținut ilegal, ofensator, supărător, menit să dezguste, să fie amenințător, calomnios, defăimător, obscen sau inacceptabil în alt mod. Exemple de astfel de Conținut inacceptabil includ, dar fără a se limita la, următoarele:",
+          "prohibitedContent": {
+            "unlawful": "Activități ilegale sau care promovează activități ilegale.",
+            "discriminatory": "Conținut defăimător, discriminatoriu sau rău intenționat, inclusiv referințe sau comentarii despre religie, rasă, orientare sexuală, gen, origine națională/etnică sau alte grupuri vizate.",
+            "spam": "Spam, generat automat – sau aleatoriu – care constituie publicitate neautorizată sau nesolicitată, scrisori în lanț, orice altă formă de solicitare neautorizată sau orice formă de loterie sau jocuri de noroc.",
+            "malware": "Conținerea sau instalarea oricăror viruși, viermi, programe malware, cai troieni sau alt conținut conceput sau destinat să perturbe, să deterioreze sau să limiteze funcționarea oricărui software, hardware sau echipament de telecomunicații.",
+            "infringing": "Încălcarea oricăror drepturi de proprietate ale oricărei părți, inclusiv brevete, mărci comerciale, secrete comerciale, drepturi de autor, drept de publicitate sau alte drepturi.",
+            "impersonating": "Uzurparea identității oricărei persoane sau entități, inclusiv a Companiei și a angajaților sau reprezentanților acesteia.",
+            "privacy": "Încălcarea vieții private a oricărei terțe persoane.",
+            "false": "Informații și caracteristici false."
+          },
+          "description3": "Compania își rezervă dreptul, dar nu și obligația, de a determina, la discreția sa exclusivă, dacă orice Conținut este adecvat și respectă acești Termeni. Putem refuza afișarea sau putem elimina Conținutul și ne rezervăm dreptul de a suspenda sau închide conturile care încalcă acești Termeni sau standardele comunității noastre."
+        },
+        "backups": {
+          "title": "Copii de rezervă ale conținutului",
+          "description1": "Deși se efectuează periodic copii de rezervă ale Conținutului, Compania nu garantează că nu vor exista pierderi sau coruperi de date.",
+          "description2": "Punctele de backup corupte sau nevalide pot fi cauzate, fără limitare, de Conținut corupt înainte de copierea de rezervă sau care se modifică în timpul efectuării unei copii de rezervă.",
+          "description3": "Compania va oferi asistență și va încerca să depaneze orice probleme cunoscute sau descoperite care ar putea afecta copiile de rezervă ale Conținutului. Însă recunoașteți că Compania nu are nicio răspundere în legătură cu integritatea Conținutului sau cu eșecul restaurării cu succes a Conținutului la o stare utilizabilă.",
+          "description4": "Sunteți de acord să păstrați o copie completă și exactă a oricărui Conținut într-o locație independentă de Serviciu."
+        }
+      },
+      "copyright": {
+        "title": "Politica privind drepturile de autor",
+        "intellectualProperty": {
+          "title": "Încălcarea proprietății intelectuale",
+          "description1": "Respectăm drepturile de proprietate intelectuală ale altor persoane. Politica noastră este să răspundem oricărei reclamații conform căreia Conținutul postat pe Serviciu încalcă drepturile de autor sau alte încălcări ale proprietății intelectuale a oricărei persoane.",
+          "description2": "Dacă sunteți deținător de drepturi de autor sau sunteți autorizat în numele unuia și considerați că opera protejată de drepturi de autor a fost copiată într-un mod care constituie o încălcare a drepturilor de autor ce are loc prin intermediul Serviciului, trebuie să trimiteți notificarea dumneavoastră în scris în atenția agentului nostru pentru drepturi de autor prin e-mail la adresa support@ringdy.com și să includeți în notificare o descriere detaliată a presupusei încălcări.",
+          "description3": "Este posibil să fiți tras la răspundere pentru daune (inclusiv costuri și onorarii avocațiale) pentru declarațiile eronate conform cărora orice Conținut vă încalcă drepturile de autor."
+        },
+        "dmca": {
+          "title": "Notificare DMCA și procedură DMCA pentru reclamațiile privind încălcarea drepturilor de autor",
+          "description": "Puteți trimite o notificare în conformitate cu Legea privind drepturile de autor în era digitală (DMCA), furnizând agentului nostru pentru drepturi de autor următoarele informații în scris:",
+          "requirements": {
+            "signature": "O semnătură electronică sau fizică a persoanei autorizate să acționeze în numele titularului dreptului de autor.",
+            "description": "O descriere a operei protejate prin drepturi de autor despre care susțineți că a fost încălcată, inclusiv adresa URL (adică adresa paginii web) a locației în care există opera protejată prin drepturi de autor sau o copie a operei protejate prin drepturi de autor.",
+            "identification": "Identificarea adresei URL sau a altei locații specifice din Serviciu unde se află materialul despre care susțineți că încalcă drepturile de autor.",
+            "contact": "Adresa, numărul de telefon și adresa de e-mail.",
+            "goodFaith": "O declarație din partea dumneavoastră că aveți convingerea, cu bună-credință, că utilizarea contestată nu este autorizată de deținătorul drepturilor de autor, de agentul acestuia sau de lege.",
+            "accuracy": "O declarație din partea dumneavoastră, făcută sub sancțiunea pedepsei pentru mărturie mincinoasă, că informațiile de mai sus din notificarea dumneavoastră sunt corecte și că sunteți titularul drepturilor de autor sau sunteți autorizat să acționați în numele titularului drepturilor de autor."
+          },
+          "contact": "Puteți contacta agentul nostru pentru drepturi de autor prin e-mail la adresa support@ringdy.com. La primirea unei notificări, Compania va lua orice măsură, la discreția sa exclusivă, pe care o consideră adecvată, inclusiv eliminarea conținutului contestat din Serviciu."
+        }
+      },
+      "intellectualProperty": {
+        "title": "Proprietate intelectuală",
+        "description1": "Serviciul și conținutul său original (cu excepția Conținutului furnizat de dvs. sau de alți utilizatori), caracteristicile și funcționalitățile sunt și vor rămâne proprietatea exclusivă a Companiei și a licențiatorilor acesteia.",
+        "description2": "Serviciul este protejat de drepturi de autor, mărci comerciale și alte legi atât ale țării, cât și ale țărilor străine.",
+        "description3": "Mărcile noastre comerciale și imaginea comercială nu pot fi utilizate în legătură cu niciun produs sau serviciu fără acordul prealabil scris al Companiei."
+      },
+      "feedback": {
+        "title": "Feedback-ul dumneavoastră pentru noi",
+        "description": "Cesionați toate drepturile, titlurile și interesele asupra oricărui Feedback pe care îl furnizați Companiei. Dacă, din orice motiv, o astfel de cesiune este ineficientă, sunteți de acord să acordați Companiei un drept și o licență neexclusive, perpetue, irevocabile, fără redevențe și la nivel mondial de a utiliza, reproduce, divulga, sublicenția, distribui, modifica și exploata respectivul Feedback fără restricții."
+      },
+      "links": {
+        "title": "Linkuri către alte site-uri web",
+        "description1": "Serviciul nostru poate conține link-uri către site-uri web sau servicii ale unor terțe părți care nu sunt deținute sau controlate de Companie.",
+        "description2": "Compania nu are control asupra și nu își asumă nicio responsabilitate pentru conținutul, politicile de confidențialitate sau practicile oricăror site-uri web sau servicii ale unor terțe părți. De asemenea, recunoașteți și sunteți de acord că Compania nu va fi responsabilă sau răspunzătoare, direct sau indirect, pentru nicio daună sau pierdere cauzată sau presupusă a fi cauzată de sau în legătură cu utilizarea sau încrederea în orice astfel de conținut, bunuri sau servicii disponibile pe sau prin intermediul oricăror astfel de site-uri web sau servicii.",
+        "description3": "Vă recomandăm insistent să citiți termenii și condițiile și politicile de confidențialitate ale oricăror site-uri web sau servicii terțe pe care le vizitați."
+      },
+      "termination": {
+        "title": "Terminare",
+        "description1": "Putem rezilia sau suspenda Contul dumneavoastră imediat, fără notificare prealabilă sau răspundere, din orice motiv, inclusiv, dar fără a se limita la, dacă încălcați acești Termeni și Condiții.",
+        "description2": "La încetarea contractului, dreptul dumneavoastră de a utiliza Serviciul va înceta imediat. Dacă doriți să vă închideți contul, puteți pur și simplu să întrerupeți utilizarea Serviciului.",
+        "dataDeletion": {
+          "title": "Ștergerea datelor și închiderea contului",
+          "description": "Puteți solicita ștergerea contului și a datelor dvs. personale în orice moment, contactându-ne la support@ringdy.com sau utilizând orice funcție de ștergere a contului din aplicație. La reziliere sau ștergere, vom elimina sau anonimiza datele dvs. personale în conformitate cu legislația aplicabilă, cu excepția cazului în care suntem obligați să păstrăm anumite date în scopuri legale, de securitate sau operaționale."
+        }
+      },
+      "liability": {
+        "title": "Limitarea răspunderii",
+        "importantNotice": "Notificare legală importantă",
+        "notice": "Fără a aduce atingere oricăror daune pe care le-ați putea suferi, întreaga răspundere a Companiei și a oricăruia dintre furnizorii acesteia în temeiul oricărei prevederi a acestor Termeni și unicul dumneavoastră remediu pentru toate cele menționate anterior se va limita la suma plătită efectiv de dumneavoastră prin intermediul Serviciului sau la 100 USD dacă nu ați achiziționat nimic prin intermediul Serviciului.",
+        "description1": "În măsura maximă permisă de legea aplicabilă, în nicio circumstanță, Compania sau furnizorii săi nu vor fi răspunzători pentru daune speciale, incidentale, indirecte sau consecutive (inclusiv, dar fără a se limita la, daune pentru pierderea profiturilor, pierderea datelor sau a altor informații, pentru întreruperea activității, pentru vătămări corporale, pierderea confidențialității care decurg din sau sunt legate în vreun fel de utilizarea sau incapacitatea de a utiliza Serviciul, software-ul terț și/sau hardware-ul terț utilizat împreună cu Serviciul sau în alt mod în legătură cu orice prevedere a acestor Termeni), chiar dacă Compania sau orice furnizor a fost informat despre posibilitatea unor astfel de daune și chiar dacă remediul nu își îndeplinește scopul esențial.",
+        "description2": "Unele state nu permit excluderea garanțiilor implicite sau limitarea răspunderii pentru daune incidentale sau indirecte, ceea ce înseamnă că este posibil ca unele dintre limitările de mai sus să nu se aplice. În aceste state, răspunderea fiecărei părți va fi limitată în cea mai mare măsură permisă de lege."
+      },
+      "disclaimer": {
+        "title": "Declinare de responsabilitate „CA ATARE” și „AȘA CUM ESTE BLE ”",
+        "description1": "Serviciul vă este furnizat „CA ATARE” și „AȘA CUM ESTE BLE ” și cu toate defectele și defectele, fără niciun fel de garanție. În măsura maximă permisă de legislația aplicabilă, Compania, în nume propriu și în numele Afiliaților săi și al licențiatorilor și furnizorilor de servicii respectivi ai acestora, declină în mod expres toate garanțiile, fie ele exprese, implicite, legale sau de altă natură, cu privire la Serviciu, inclusiv toate garanțiile implicite de vandabilitate, adecvare pentru un anumit scop, titlu și neîncălcare a drepturilor de proprietate intelectuală, precum și garanțiile care pot decurge din cursul tranzacțiilor, al executării, al utilizării sau al practicilor comerciale.",
+        "description2": "Fără a se limita la cele de mai sus, Compania nu oferă nicio garanție sau angajament și nu face nicio declarație de niciun fel că Serviciul va îndeplini cerințele Dumneavoastră, va obține rezultatele dorite, va fi compatibil sau va funcționa cu orice alt software, aplicații, sisteme sau servicii, va funcționa fără întrerupere, va îndeplini orice standarde de performanță sau fiabilitate sau va fi lipsit de erori sau că orice erori sau defecte pot sau vor fi corectate.",
+        "description3": "Fără a limita cele de mai sus, nici Compania, nici vreunul dintre furnizorii companiei nu face nicio declarație sau garanție de niciun fel, expresă sau implicită: (i) cu privire la funcționarea sau disponibilitatea Serviciului sau a informațiilor, conținutului și materialelor sau produselor incluse în acesta; (ii) că Serviciul va fi neîntrerupt sau fără erori; (iii) cu privire la exactitatea, fiabilitatea sau actualitatea oricăror informații sau conținut furnizat prin intermediul Serviciului; sau (iv) că Serviciul, serverele sale, conținutul sau e-mailurile trimise de sau în numele Companiei nu conțin viruși, scripturi, cai troieni, viermi, programe malware, bombe cu ceas sau alte componente dăunătoare.",
+        "description4": "Unele jurisdicții nu permit excluderea anumitor tipuri de garanții sau limitări ale drepturilor legale aplicabile ale unui consumator, astfel încât este posibil ca unele sau toate excluderile și limitările de mai sus să nu vi se aplice. Însă, într-un astfel de caz, excluderile și limitările prevăzute în această secțiune se vor aplica în cea mai mare măsură posibilă conform legislației aplicabile."
+      },
+      "governingLaw": {
+        "title": "Legea aplicabilă",
+        "description": "Legile țării, excluzând normele sale privind conflictul de legi, vor guverna acești Termeni și utilizarea Serviciului de către dvs. Utilizarea Aplicației poate fi, de asemenea, supusă altor legi locale, statale, naționale sau internaționale."
+      },
+      "disputes": {
+        "title": "Rezolvarea litigiilor",
+        "description": "Dacă aveți vreo nelămurire sau dispută cu privire la Serviciu, sunteți de acord să încercați mai întâi să rezolvați disputa informal, contactând Compania."
+      },
+      "euUsers": {
+        "title": "Pentru utilizatorii din Uniunea Europeană (UE)",
+        "description": "Dacă sunteți consumator din Uniunea Europeană, veți beneficia de orice prevederi obligatorii ale legislației țării în care aveți reședința."
+      },
+      "usLegal": {
+        "title": "Conformitate juridică a Statelor Unite",
+        "description": "Declarați și garantați că (i) Nu vă aflați într-o țară supusă embargoului guvernului Statelor Unite sau care a fost desemnată de guvernul Statelor Unite drept țară care „susține terorismul” și (ii) Nu figurați pe nicio listă guvernamentală a Statelor Unite cu părți interzise sau restricționate."
+      },
+      "severability": {
+        "title": "Divizibilitate și renunțare",
+        "severabilityTitle": "Divizibilitate",
+        "severabilityDescription": "Dacă vreo prevedere a acestor Termeni este considerată inaplicabilă sau invalidă, respectiva prevedere va fi modificată și interpretată pentru a îndeplini obiectivele respectivei prevederi în cea mai mare măsură posibilă, în conformitate cu legislația aplicabilă, iar celelalte prevederi vor continua să fie în vigoare și să producă efecte depline.",
+        "waiverTitle": "Renunțare",
+        "waiverDescription": "Cu excepția prevederilor din prezentul document, neexercitarea unui drept sau nesolicitarea îndeplinirii unei obligații în temeiul acestor Termeni nu va afecta capacitatea unei părți de a exercita un astfel de drept sau de a solicita o astfel de îndeplinire în orice moment ulterior și nici renunțarea la o încălcare nu va constitui o renunțare la orice încălcare ulterioară."
+      },
+      "translation": {
+        "title": "Traducere Interpretare",
+        "description": "Este posibil ca acești Termeni și Condiții să fi fost traduși dacă vi le-am pus la dispoziție prin intermediul Serviciului nostru. Sunteți de acord că textul original în limba engleză va prevala în caz de litigiu."
+      },
+      "changes": {
+        "title": "Modificări ale acestor Termeni și Condiții",
+        "description1": "Ne rezervăm dreptul, la discreția noastră exclusivă, de a modifica sau înlocui acești Termeni în orice moment. Dacă o revizuire este semnificativă, vom depune eforturi rezonabile pentru a oferi o notificare cu cel puțin 30 de zile înainte de intrarea în vigoare a oricăror noi termeni. Ceea ce constituie o modificare semnificativă va fi stabilit la discreția noastră exclusivă.",
+        "description2": "Prin continuarea accesării sau utilizării Serviciului nostru după intrarea în vigoare a acestor revizuiri, sunteți de acord să respectați termenii revizuiți. Dacă nu sunteți de acord cu noile condiții, în totalitate sau parțial, vă rugăm să încetați utilizarea site-ului web și a Serviciului."
+      },
+      "contact": {
+        "title": "Contactaţi-ne",
+        "description": "Dacă aveți întrebări despre acești Termeni și Condiții, ne puteți contacta:",
+        "email": "Prin e-mail: support@ringdy.com",
+        "support": "Prin intermediul sistemului nostru de asistență din aplicație",
+        "website": "Vizitând site-ul nostru web: www.ringdy.com"
+      },
+      "backToHome": "Înapoi la pagina principală",
+      "privacyPolicy": "Politica de confidențialitate"
+    }
+  },
+  "safety": {
+    "title": "Sfaturi și trucuri de siguranță",
+    "subtitle": "Siguranța dumneavoastră este prioritatea noastră. Învățați sfaturi esențiale pentru o rețea securizată și conexiuni sigure.",
+    "lastUpdated": "Ultima actualizare: ianuarie 2025",
+    "commitment": {
+      "title": "Angajamentul nostru față de siguranța dumneavoastră",
+      "items": {
+        "privacy": "Tu decizi cât să distribui — schimbă oricând la un avatar și nu distribuim niciodată numărul tău de telefon sau adresa exactă altor utilizatori.",
+        "noStorage": "Nu dezvăluim informațiile dvs. private de contact altor utilizatori, cu excepția cazului în care alegeți să le partajați dvs.",
+        "tools": "Oferim instrumente precum blocarea și raportarea pentru a vă asigura controlul asupra fiecărei interacțiuni.",
+        "ageLimit": "Ringdy este destinat exclusiv utilizatorilor cu vârsta de 18 ani și peste."
+      }
+    },
+    "respectfulBehavior": {
+      "title": "Este necesar un comportament respectuos",
+      "expectation": "Ne așteptăm să:",
+      "items": {
+        "kind": "Fii amabil, respectuos și sincer",
+        "language": "Folosește un limbaj curat și adecvat",
+        "laws": "Respectați legile locale și standardele comunității",
+        "genuine": "Folosește aplicația doar pentru interacțiune autentică și respectuoasă"
+      }
+    },
+    "prohibitedConduct": {
+      "title": "Conduită interzisă",
+      "warning": "Pentru a asigura siguranța tuturor, nu trebuie să:",
+      "items": {
+        "harassment": "A hărțui, urmări sau intimida pe cineva",
+        "hateful": "Distribuiți conținut instigator la ură, violent sau discriminatoriu",
+        "impersonation": "Dă-te drept altcineva sau creează sesiuni false",
+        "personalData": "Solicitați date personale precum adresa, numărul de telefon sau conturile de socializare",
+        "explicit": "Trimiteți mesaje explicite, pornografice sau jignitoare",
+        "scamming": "Implicarea în escrocherii, phishing sau solicitări de bani",
+        "offPlatform": "Încercați să mutați chat-urile către aplicații de mesagerie externe în scopuri înșelătoare",
+        "tracking": "Încercarea de a urmări sau localiza utilizatorii dincolo de ceea ce oferă Bluetooth"
+      },
+      "consequence": "Oricare dintre aceste acțiuni poate duce la suspendare sau interdicție permanentă."
+    },
+    "commonSense": {
+      "title": "Folosiți bunul simț și precauția",
+      "intro": "Tu știi cel mai bine care este siguranța ta. Aceste sfaturi sunt aici pentru a te ajuta:",
+      "chatting": {
+        "title": "🗣 Când discutați:",
+        "items": {
+          "noPersonalInfo": "Nu distribuiți numele complet, adresa, numărul de telefon sau informațiile financiare",
+          "cautious": "Fiți precauți cu persoanele care cer repede să mute chatul în altă parte.",
+          "noPressure": "Nu te simți presat să răspunzi sau să continui o conversație"
+        }
+      },
+      "redFlags": {
+        "title": "🛑 Fiți atenți la semnalele de alarmă:",
+        "items": {
+          "quickLove": "Cineva pretinde că este îndrăgostit după doar câteva mesaje",
+          "moneyRequests": "Cereri de trimitere a banilor sau a datelor personale",
+          "strangeLinks": "Linkuri ciudate sau solicitări pentru chat-uri în afara platformei",
+          "emergencyStories": "Povești care implică călătorii de urgență, facturi de spital sau probleme legate de vize"
+        },
+        "advice": "Dacă ți se pare ceva în neregulă, blochează și raportează."
+      }
+    },
+    "reportBlock": {
+      "title": "Instrumente de raportare și blocare",
+      "intro": "Dacă cineva:",
+      "reasons": {
+        "uncomfortable": "Te face să te simți inconfortabil",
+        "violates": "Încalcă regulile noastre",
+        "suspicious": "Trimite mesaje suspecte sau dăunătoare"
+      },
+      "instruction": "Folosește imediat funcțiile de blocare și raportare. Examinăm toate raportările cu seriozitate, iar încălcările repetate pot duce la suspendarea permanentă.",
+      "anonymity": "Vei rămâne anonim atunci când raportezi alte persoane. Persoana nu va fi notificată cine a raportat-o."
+    },
+    "meetingInPerson": {
+      "title": "Întâlnire în viața reală (dacă este cazul)",
+      "disclaimer": "Ringdy este conceput pentru a te ajuta să descoperi și să te conectezi cu persoane din apropiere prin scanare Bluetooth sau locații locale, iar mulți utilizatori aleg să se întâlnească personal după ce au găsit potrivirea. Te rugăm să urmezi aceste precauții:",
+      "safetyTips": {
+        "publicPlaces": "Întâlniri doar în locuri publice",
+        "tellFriend": "Spune-i unui prieten planurile tale",
+        "shareLocation": "Distribuie locația ta cu cineva în care ai încredere",
+        "noRides": "Nu accepta transport de la persoane pe care tocmai le-ai cunoscut",
+        "staySober": "Rămâi treaz și alert",
+        "chargePhone": "Încarcă-ți telefonul și ține-l la îndemână",
+        "ownTransport": "Aranjează-ți propriul transport în ambele direcții"
+      },
+      "reminder": "Dacă te simți inconfortabil, poți pleca oricând. Blochează utilizatorul și raportează-l ulterior."
+    },
+    "enforcement": {
+      "title": "Măsuri de aplicare a legii și de siguranță",
+      "intro": "Ringdy poate lua următoarele măsuri atunci când apar încălcări:",
+      "actions": {
+        "suspend": "Suspendați temporar conturile",
+        "ban": "Interziceți permanent utilizatorii abuzivi",
+        "lawEnforcement": "Raportați amenințări grave la adresa forțelor de ordine",
+        "verification": "Solicitați verificarea pentru suspiciunea de uzurpare a identității"
+      }
+    },
+    "appeals": {
+      "title": "Apeluri și sprijin",
+      "intro": "Dacă simți că ai fost interzis pe nedrept sau vrei să raportezi o problemă serioasă:",
+      "contact": {
+        "email": "📧 E-mail: support@ringdy.com",
+        "website": "🌐 Vizitați: Centrul de siguranță Ringdy (În curând)"
+      }
+    },
+    "finalThoughts": {
+      "title": "Gânduri finale",
+      "message": "Ringdy este aici pentru a ajuta oamenii să se conecteze în moduri sigure și semnificative, fără a expune identitățile personale. Tu deții întotdeauna controlul cu cine vorbești, iar noi suntem aici să te susținem."
+    },
+    "navigation": {
+      "backToHome": "Înapoi la pagina principală",
+      "downloadApp": "Descărcați aplicația"
+    }
+  },
+  "profile": {
+    "connectViaBLE": "Conectați-vă prin BLE",
+    "stats": {
+      "connections": "Conexiuni",
+      "messages": "Mesaje",
+      "filesShared": "Fișiere partajate"
+    },
+    "location": "San Francisco, California",
+    "onlineViaBLE": "Online prin BLE",
+    "occupation": "Dezvoltator Software - Startup Tehnologic",
+    "education": "Universitatea Stanford - Informatică",
+    "interests": "Interese: IoT, Tehnologie Bluetooth , Dezvoltare mobilă",
+    "bio": "Pasionat de crearea de conexiuni perfecte prin tehnologie. Îmi place să explorez posibilitățile Bluetooth Low Energy și să construiesc aplicații care să aducă oamenii împreună. Sunt mereu încântat să mă conectez cu alți dezvoltatori și pasionați de tehnologie din zona mea. Nu ezitați să mă contactați pentru o colaborare sau pur și simplu pentru o discuție interesantă despre tehnologie!",
+    "showMore": "Afișează mai multe"
+  },
+  "auth": {
+    "agreeWith": "Sunt de acord cu"
+  }
+}

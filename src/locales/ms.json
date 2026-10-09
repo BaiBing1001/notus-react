@@ -1,0 +1,1434 @@
+{
+  "navbar": {
+    "features": "Ciri-ciri",
+    "subscription": "Langganan",
+    "download": "Muat turun",
+    "legal": "Undang-undang",
+    "privacyPolicy": "Dasar Privasi",
+    "termsOfUse": "Syarat Penggunaan",
+    "safetyTips": "Petua & Cara Keselamatan"
+  },
+  "hero": {
+    "title": "Cari Orang Berdekatan.\n Berhubung dalam Kehidupan Nyata.",
+    "subtitle": "Goncang untuk menemui orang di sekeliling anda melalui Bluetooth , atau sertai tempat berdekatan untuk melihat siapa yang berada di sana. Hantar permintaan rakan, padankan dan mula bersembang - dengan privasi avatar pilihan sehingga anda bersedia untuk berkongsi lebih banyak lagi.",
+    "discoverFeatures": "Temui Ciri-ciri",
+    "downloadApp": "Muat Turun Aplikasi",
+    "anonymousAvatars": "Avatar Pilihan",
+    "autoExpiry": "Bluetooth + Tempat",
+    "privacyFirst": "Privasi Diutamakan"
+  },
+  "features": {
+    "proximityTitle": "Penemuan Berasaskan Jarak",
+    "proximityDescription": "Cari orang berdekatan dengan mengimbas melalui Bluetooth atau dengan menyertai tempat pada peta. Hantar permintaan rakan dan mula bersembang sebaik sahaja anda berdua sepadan.",
+    "avatarsTitle": "Privasi Avatar Pilihan",
+    "avatarsDescription": "Kekalkan avatar anda semasa anda mengenali seseorang dan tukar kepada foto sebenar anda apabila anda bersedia.",
+    "expiringTitle": "Penemuan Berasaskan Tempat",
+    "expiringDescription": "Layari tempat berdekatan yang dicadangkan dan lihat siapa yang telah mendaftar masuk dalam radius - tidak perlu sentiasa mengimbas.",
+    "revealTitle": "Ikatan",
+    "revealDescription": "Tandakan hubungan eksklusif sebagai terikat setelah anda menemui seseorang yang anda ingin kekal bersama.",
+    "bluetoothTitle": "Teknologi Bluetooth LE",
+    "bluetoothDescription": "Sambung tanpa internet menggunakan teknologi Bluetooth Rendah Tenaga termaju untuk rangkaian tempatan yang cekap.",
+    "keyFeaturesTitle": "Ciri-ciri Utama",
+    "keyFeaturesDescription": "Ringdy dilengkapi dengan ciri-ciri hebat yang direka untuk mempertingkatkan pengalaman sambungan tempatan anda di mana sahaja anda berada.",
+    "downloadNow": "Muat Turun Sekarang",
+    "tags": {
+      "autoDiscovery": "Penemuan Automatik",
+      "chatMessaging": "Pemesejan Sembang",
+      "fileSharing": "Perkongsian Fail",
+      "profiles": "Profil",
+      "privacyControls": "Kawalan Privasi",
+      "offlineMode": "Mod Luar Talian",
+      "crossPlatform": "Merentas Platform",
+      "lowPower": "Kuasa Rendah"
+    }
+  },
+  "useCases": {
+    "actionTitle": "Ringdy dalam Tindakan",
+    "actionDescription": "Penemuan automatik, pemesejan sembang dan perkongsian profil dalam persekitaran sosial dunia sebenar. Alami sambungan lancar dengan teknologi Bluetooth Rendah Tenaga termaju di mana sahaja anda pergi.",
+    "campusTitle": "Kampus Connect",
+    "campusDescription": "Cari rakan kongsi belajar serta-merta",
+    "eventTitle": "Rangkaian Acara",
+    "eventDescription": "Berhubung di persidangan",
+    "businessTitle": "Pertemuan Perniagaan",
+    "businessDescription": "Sambungan profesional",
+    "cafeTitle": "Sambungan Kafe",
+    "cafeDescription": "Temui penggemar kopi berdekatan",
+    "localTitle": "Penemuan Tempatan",
+    "localDescription": "Terokai kawasan kejiranan anda",
+    "gamingTitle": "Kumpulan Permainan",
+    "gamingDescription": "Cari rakan kongsi permainan",
+    "perfectTitle": "Kes Penggunaan Sempurna",
+    "perfectDescription": "Ringdy mengubah mana-mana lokasi menjadi peluang rangkaian. Sama ada anda berada di universiti, persidangan atau kafe tempatan anda, ",
+    "perfectDescriptionContinued": "temui hubungan yang bermakna serta-merta.",
+    "approachDescription": "Daripada kumpulan belajar hinggalah rangkaian profesional, pendekatan berasaskan jarak dekat kami menjadikan hubungan lebih semula jadi dan mudah.",
+    "tryItNow": "Cubalah sekarang",
+    "tags": {
+      "studyGroups": "Kumpulan Belajar",
+      "events": "Acara",
+      "coworking": "Kerjasama",
+      "gaming": "Permainan",
+      "travel": "Perjalanan",
+      "shopping": "Membeli-belah",
+      "fitness": "Kecergasan",
+      "social": "Sosial"
+    }
+  },
+  "community": {
+    "whyLoveTitle": "Mengapa Orang Suka Ringdy",
+    "whyLoveDescription": "Pengguna kami secara konsisten memberitahu kami bagaimana Ringdy telah mengubah pengalaman rangkaian mereka. Daripada bertemu orang ramai di kafe hinggalah berhubung di acara-acara, aplikasi ini mewujudkan hubungan tulen berdekatan.",
+    "privacyProtection": "Reka Bentuk Menghormati Privasi",
+    "instantConnection": "Sambungan segera tanpa internet",
+    "lowPowerConsumption": "Penggunaan kuasa ultra rendah",
+    "experienceTitle": "Pengalaman Ringdy",
+    "experienceDescription": "Terokai aplikasi kami melalui antara muka pengguna yang berbeza. Daripada profil pengguna ",
+    "experienceDescriptionContinued": "untuk aliran sambungan, lihat bagaimana Ringdy menjadikan perangkaian berasaskan jarak dekat intuitif dan menarik.",
+    "anonymousProfiles": "Profil Avatar",
+    "chatInterface": "Antara Muka Sembang",
+    "nearbyDiscovery": "Penemuan Berdekatan",
+    "joinTitle": "Sertai Komuniti Kami",
+    "joinDescription1": "Ringdy bukan sekadar aplikasi - ia merupakan cara untuk bertemu orang sebenar berdekatan, sama ada melalui pengimbasan Bluetooth atau tempat kegemaran anda.",
+    "joinDescription2": "Ikuti kami untuk mendapatkan maklumat terkini tentang ciri baharu, kisah pengguna dan acara komuniti di kawasan anda!",
+    "downloadNow": "Muat Turun Sekarang"
+  },
+  "download": {
+    "title": "Muat turun Ringdy",
+    "subtitle": "Dapatkan Ringdy pada peranti mudah alih anda dan mula berhubung dengan orang berdekatan. Kini tersedia di platform Android dan iOS.",
+    "googlePlay": "Google Play",
+    "appStore": "Gedung Aplikasi",
+    "getItOn": "Dapatkannya",
+    "downloadOn": "Muat turun pada",
+    "comingSoon": "Akan datang tidak lama lagi",
+    "whatYouGet": "Apa yang Anda Dapat",
+    "instantConnections": "Sambungan Segera",
+    "instantConnectionsDesc": "Berhubung dengan orang berdekatan serta-merta menggunakan teknologi Bluetooth Low Energy atau dengan menyertai tempat tempatan.",
+    "anonymousProfiles": "Privasi Avatar",
+    "anonymousProfilesDesc": "Simpan profil avatar untuk privasi dan kongsikan foto sebenar anda bila-bila masa anda bersedia.",
+    "privacyFirst": "Privasi Diutamakan",
+    "privacyFirstDesc": "Anda mengawal apa yang anda kongsikan dan bila. Alatan sekat dan laporkan memastikan komuniti selamat.",
+    "crossPlatform": "Merentas Platform",
+    "crossPlatformDesc": "Berfungsi dengan lancar merentasi peranti iOS dan Android.",
+    "requirements": "Keperluan Sistem",
+    "androidReq": "Android 6.0 atau lebih baharu",
+    "iosReq": "iOS 12.0 atau lebih baharu",
+    "bluetoothReq": "Sokongan Bluetooth 4.0 ( BLE )",
+    "storageReq": "Storan percuma 50MB",
+    "systemDescription": "Ringdy memerlukan peranti dengan sokongan Bluetooth Tenaga Rendah ( BLE ). Kebanyakan telefon pintar dan tablet moden menyokong teknologi BLE .",
+    "androidRequirements": "Keperluan Android:",
+    "androidReq1": "Android 5.0 (tahap API 21) atau lebih tinggi",
+    "androidReq2": "Sokongan Bluetooth 4.0 LE",
+    "androidReq3": "Kebenaran lokasi (untuk pengimbasan BLE )",
+    "androidReq4": "RAM minimum 2GB disyorkan",
+    "iosRequirements": "Keperluan iOS:",
+    "iosReq1": "iOS 12.0 atau lebih baharu",
+    "iosReq2": "iPhone 5s atau lebih baharu, iPad Air atau lebih baharu",
+    "iosReq3": "Peranti berkemampuan Bluetooth 4.0 LE",
+    "iosReq4": "Muat Semula Apl Latar Belakang diaktifkan",
+    "learnMoreFeatures": "Ketahui lebih lanjut tentang ciri-ciri Ringdy !",
+    "crossPlatformTitle": "Keserasian Merentas Platform",
+    "crossPlatformCompatibilityDesc": "Berhubung dengan pengguna merentasi platform yang berbeza. Pengguna Android dan iOS boleh menemui dan bersembang antara satu sama lain dengan lancar.",
+    "android": {
+      "title": "Android",
+      "description": "Pengalaman Ringdy penuh tersedia pada peranti Android yang menjalankan Android 5.0 (API tahap 21) dan ke atas.",
+      "featuresTitle": "Ciri-ciri:",
+      "features": {
+        "bluetooth": "Pengimbasan & pengiklanan Bluetooth LE",
+        "background": "Operasi latar belakang",
+        "notifications": "Pemberitahuan tolak",
+        "offline": "Sokongan mod luar talian"
+      },
+      "downloadButton": "Muat turun di Google Play"
+    },
+    "ios": {
+      "title": "iOS",
+      "description": "Aplikasi iOS asli yang dioptimumkan untuk iPhone dan iPad, serasi dengan iOS 12.0 dan versi yang lebih baharu.",
+      "featuresTitle": "Ciri-ciri:",
+      "features": {
+        "bluetooth": "Integrasi Bluetooth Teras",
+        "background": "Muat semula aplikasi latar belakang",
+        "privacy": "Reka bentuk yang berfokus pada privasi",
+        "universal": "Sokongan aplikasi universal"
+      },
+      "downloadButton": "Muat turun di App Store"
+    },
+    "qrCode": {
+      "title": "Muat Turun Pantas",
+      "description": "Imbas kod QR dengan kamera telefon anda untuk memuat turun Ringdy",
+      "placeholder": "Kod QR",
+      "instruction": "Halakan kamera anda ke arah kod QR untuk memuat turun"
+    },
+    "installation": {
+      "title": "Pemasangan Mudah",
+      "description": "Bermula dengan Ringdy adalah mudah. Muat turun aplikasi, berikan kebenaran yang diperlukan dan mula temui orang berdekatan.",
+      "step1": "Muat turun dari gedung aplikasi platform anda",
+      "step2": "Berikan kebenaran Bluetooth dan lokasi",
+      "step3": "Cipta profil anda dan mula berhubung!"
+    },
+    "callToAction": {
+      "title": "Sertai Komuniti Ringdy",
+      "description": "Mula berhubung dengan orang berdekatan dengan cara yang selamat dan peribadi. Muat turun Ringdy hari ini dan temui masa depan rangkaian jarak dekat.",
+      "googlePlay": "Google Play",
+      "appStore": "Gedung Aplikasi"
+    }
+  },
+  "featurePage": {
+    "title": "Terokai Tempat Berdekatan.\n Berhubung Dengan Orang Sebenar.",
+    "subtitle": "Layari tempat berdekatan yang dicadangkan, temui orang di sekeliling anda melalui Bluetooth dan hantar permintaan rakan yang membawa kepada perbualan sebenar.",
+    "exploreFeatures": "Terokai Ciri-ciri",
+    "downloadApp": "Muat Turun Aplikasi",
+    "heroTitle": "Temui Sambungan Sebenar Berdekatan",
+    "heroSubtitle": "Sertai tempat yang dicadangkan atau imbas di sekeliling anda, lihat siapa yang berdekatan dan berhubung dengan orang yang menarik melalui teknologi Bluetooth Tenaga Rendah.",
+    "discoverCrowdedPlaces": "Temui Tempat Berdekatan",
+    "discoverCrowdedPlacesDesc": "Dapatkan cadangan untuk tempat-tempat popular berdekatan di mana anda boleh bertemu orang yang berfikiran sama dan menjalin hubungan yang bermakna.",
+    "scanThroughAvatars": "Lihat Siapa yang Berdekatan",
+    "scanThroughAvatarsDesc": "Layari kad profil orang berdekatan, dengan pilihan untuk mengekalkan avatar anda sehingga anda bersedia untuk berkongsi lebih banyak lagi.",
+    "revealAndMeet": "Padan & Sembang",
+    "revealAndMeetDesc": "Hantar permintaan menjadi rakan, dan setelah ia diterima, anda akan sepadan dan boleh mula bersembang dalam aplikasi.",
+    "proximityBasedConnections": "Sambungan Sebenar Berasaskan Jarak",
+    "proximityBasedConnectionsDesc": "Aplikasi kami mencadangkan tempat berdekatan di mana anda boleh menemui orang yang mempunyai minat yang sama. Sebaik sahaja anda berdua berada dalam lingkungan, layari profil berdekatan untuk mencari kenalan yang berpotensi.",
+    "bleProximityTech": "Teknologi Bluetooth Tenaga Rendah memastikan anda hanya boleh berhubung dengan orang yang benar-benar berdekatan, menjadikan setiap sambungan tulen dan nyata.",
+    "downloadNow": "Muat turun Ringdy Sekarang!",
+    "realTimeProximity": "Pengesanan Jarak Masa Nyata",
+    "realTimeProximityDesc": "Hanya berhubung dengan orang yang benar-benar berdekatan atau di tempat yang sama dengan anda, bagi memastikan hubungan yang tulen.",
+    "howItWorks": "Cara Ia Berfungsi",
+    "howItWorksDesc": "Tiga langkah mudah untuk menemui tempat berdekatan, berhubung dengan orang sebenar dan mula bersembang.",
+    "step1Title": "Imbas atau Sertai Tempat",
+    "step1Desc": "Goncang untuk mengimbas melalui Bluetooth , atau layari tempat berdekatan yang kami cadangkan dan sertai tempat yang menarik minat anda.",
+    "step2Title": "Layari Profil Berdekatan",
+    "step2Desc": "Lihat kad profil orang berdekatan, dengan privasi avatar pilihan sehingga anda bersedia untuk berkongsi lebih banyak lagi.",
+    "step3Title": "Hantar Permintaan & Sembang",
+    "step3Desc": "Hantar permintaan rakan, dan setelah diterima, anda akan sepadan dan boleh mula bersembang terus dalam aplikasi.",
+    "coreFeatures": "Ciri-ciri Teras",
+    "proximityNetworking": "Rangkaian Jarak Dekat",
+    "proximityDesc": "Berhubung dengan orang di sekitar kawasan anda menggunakan teknologi Bluetooth Rendah Tenaga yang canggih.",
+    "anonymousChat": "Padanan Permintaan Rakan",
+    "anonymousChatDesc": "Hantar permintaan rakan dan mula bersembang sebaik sahaja ia diterima — tiada tekanan, tiada spam.",
+    "autoExpiry": "Penemuan Tempat",
+    "autoExpiryDesc": "Sertai tempat berdekatan yang dicadangkan untuk melihat siapa yang telah mendaftar masuk dalam radius yang ditetapkan.",
+    "gradualReveal": "Pendedahan Identiti Secara Beransur-ansur",
+    "gradualRevealDesc": "Pilih bila hendak bertukar daripada avatar anda kepada foto sebenar anda kerana hubungan berkembang secara semula jadi.",
+    "keyPrivacyFeatures": "Ciri Privasi Utama",
+    "keyPrivacyFeaturesDesc": "Setiap ciri direka bentuk untuk rangkaian yang selamat - daripada avatar pilihan hingga padanan permintaan rakan yang melindungi privasi anda.",
+    "avatarBasedProfiles": "Profil berasaskan avatar pilihan",
+    "autoExpiringChats": "Penemuan tempat dengan jejari yang ditetapkan",
+    "progressiveIdentity": "Pendedahan identiti progresif",
+    "ourTeam": "Pasukan Kami",
+    "ourTeamDesc": "Pakar yang bersemangat yang berdedikasi untuk menghubungkan orang ramai melalui teknologi inovatif yang mengutamakan privasi.",
+    "team": {
+      "alex": {
+        "name": "Alex Chen",
+        "role": "Jurutera Protokol BLE"
+      },
+      "sarah": {
+        "name": "Sarah Johnson",
+        "role": "Pembangun Aplikasi Mudah Alih"
+      },
+      "maria": {
+        "name": "Maria Rodriguez",
+        "role": "Ketua Privasi & Keselamatan"
+      },
+      "david": {
+        "name": "David Kim",
+        "role": "Pengasas dan Ketua Pegawai Eksekutif"
+      },
+      "title": "Pasukan Kami",
+      "description": "Individu yang bersemangat yang berdedikasi untuk menghubungkan orang ramai melalui teknologi inovatif yang mengutamakan privasi.",
+      "roles": {
+        "engineer": "Jurutera Protokol BLE",
+        "developer": "Pembangun Aplikasi Mudah Alih",
+        "security": "Ketua Privasi & Keselamatan",
+        "ceo": "Pengasas dan Ketua Pegawai Eksekutif"
+      }
+    },
+    "readyToConnect": "Bersedia untuk Berhubung?",
+    "readyToConnectDesc": "Sertai orang ramai berangkaian dengan selamat melalui Bluetooth dan penemuan tempat. Padankan, bersembang dan dedahkan identiti anda hanya apabila anda menemui sambungan yang tulen.",
+    "finalFeatures": {
+      "anonymousAvatars": "Avatar Pilihan",
+      "anonymousAvatarsDesc": "Kekalkan avatar anda semasa anda mengenali seseorang, tiada tekanan untuk mendedahkan diri serta-merta.",
+      "autoExpire": "Penemuan Tempat & Bluetooth",
+      "autoExpireDesc": "Cari orang dengan mengimbas berdekatan melalui Bluetooth atau menyertai tempat tempatan yang dicadangkan.",
+      "friendRequests": "Permintaan Rakan",
+      "friendRequestsDesc": "Hantar permintaan kepada orang yang menarik dan mulakan perbualan hanya dengan minat bersama."
+    },
+    "eventNetworking": "Rangkaian Acara",
+    "eventNetworkingDesc": "Temui orang di sekeliling anda di persidangan, pertemuan dan acara menggunakan jarak Bluetooth .",
+    "studyGroups": "Kumpulan Belajar",
+    "studyGroupsDesc": "Cari rakan kongsi belajar berdekatan di kampus tanpa perlu mengenali mereka terlebih dahulu.",
+    "workplace": "Tempat Kerja & Kafe",
+    "workplaceDesc": "Temui rakan sekerja dan profesional lain di ruang kerja bersama dan kafe berdekatan.",
+    "anonymousNetworking": "Privasi Berasaskan Avatar",
+    "anonymousNetworkingDesc": "Teruskan menggunakan avatar semasa anda selesa, kemudian kongsikan foto sebenar anda bila-bila masa yang anda mahu.",
+    "privacyProtection": "Anda sentiasa mengawal apa yang anda kongsikan, dan dengan siapa.",
+    "privacyFeatures": {
+      "title": "Privasi yang Anda Kawal",
+      "description": "Ringdy dibina supaya anda memutuskan apa yang hendak dikongsi dan bila - daripada cara anda menemui orang ramai hinggalah berapa banyak diri anda yang anda dedahkan.",
+      "avatarProfiles": "Profil berasaskan avatar pilihan",
+      "autoExpiring": "Penemuan tempat dengan jejari yang ditetapkan",
+      "progressiveReveal": "Dedahkan gambar sebenar anda mengikut kadar anda sendiri"
+    },
+    "cta": {
+      "title": "Bersedia untuk Berhubung?",
+      "description": "Sertai orang ramai yang menemui sambungan tulen berdekatan - melalui Bluetooth atau dengan mendaftar masuk ke tempat tempatan.",
+      "features": {
+        "anonymousAvatars": "Avatar Pilihan",
+        "anonymousAvatarsDesc": "Kekalkan avatar anda semasa anda mengenali seseorang, tiada tekanan untuk mendedahkan diri serta-merta.",
+        "autoExpire": "Penemuan Tempat & Bluetooth",
+        "autoExpireDesc": "Cari orang dengan mengimbas berdekatan atau menyertai tempat tempatan yang dicadangkan.",
+        "friendRequests": "Permintaan Rakan",
+        "friendRequestsDesc": "Hantar permintaan kepada orang yang menarik dan mulakan perbualan hanya dengan minat bersama."
+      }
+    }
+  },
+  "subscription": {
+    "title": "Ringdy Premium",
+    "subtitle": "Buka kunci ciri lanjutan untuk sambungan yang lebih baik. Pilih pelan yang sesuai dengan keperluan rangkaian anda.",
+    "weeklyTitle": "Premium Mingguan",
+    "weeklyPrice": "$1.99",
+    "weeklyPeriod": "/minggu",
+    "weeklyDescription": "Sempurna untuk mencuba ciri-ciri premium",
+    "chooseWeekly": "Pilih Mingguan",
+    "monthlyTitle": "Bulanan",
+    "monthlyPrice": "Lihat harga",
+    "monthlyPeriod": "setiap bulan",
+    "monthlyDescription": "Fleksibel, batalkan bila-bila masa",
+    "mostPopular": "Paling Popular",
+    "chooseMonthly": "Pilih Bulanan",
+    "sixMonthTitle": "Enam Bulan",
+    "sixMonthPrice": "Lihat harga",
+    "sixMonthPeriod": "setiap 6 bulan",
+    "sixMonthDescription": "Jimat lebih banyak dalam tempoh enam bulan",
+    "chooseSixMonth": "Pilih Enam Bulan",
+    "featuresTitle": "Ciri Premium Dijelaskan",
+    "featuresDescription": "Ringdy Premium membuka ciri-ciri hebat yang direka untuk mempertingkatkan pengalaman rangkaian anda dan membantu anda menjalin hubungan yang lebih bermakna.",
+    "enhancedNetworking": "Rangkaian yang Dipertingkatkan",
+    "enhancedNetworkingDesc": "Ciri Premium membantu anda berhubung dengan lebih cekap tanpa had harian.",
+    "features": {
+      "unlimitedRequests": "Permintaan kawan tanpa had",
+      "advancedFilters": "Penapis canggih",
+      "meetingPlaces": "Cadangan tempat pertemuan pintar",
+      "rematch": "Padankan semula dengan pengguna sebelumnya",
+      "unlimitedRequestsDesc": "Hantar permintaan kawan tanpa had harian. Pengguna percuma dihadkan kepada 20/hari.",
+      "advancedFiltersDesc": "Tapis mengikut minat, personaliti dan status disahkan untuk sambungan autentik.",
+      "meetingPlacesDesc": "Dapatkan cadangan lokasi peribadi berdasarkan kawasan tepat anda.",
+      "rematchDesc": "Sambung semula dengan pengguna sebelumnya apabila anda bertemu lagi.",
+      "unlimitedConnections": "Sambungan Tanpa Had",
+      "unlimitedAreaAccess": "Akses Kawasan Tanpa Had",
+      "unlimitedUndo": "Buat Asal Tanpa Had",
+      "profilePriority": "Keutamaan Profil",
+      "premiumAvatars": "Avatar Premium",
+      "customAvatar": "Avatar Tersuai",
+      "unlimitedConnectionsDesc": "Tambah rakan dan terima jemputan tanpa had harian.",
+      "unlimitedAreaAccessDesc": "Sertai seberapa banyak tempat yang anda mahu tanpa sebarang sekatan.",
+      "unlimitedUndoDesc": "Buat asal sebarang permintaan tambah rakan pada bila-bila masa.",
+      "profilePriorityDesc": "Profil anda sentiasa dipaparkan di bahagian atas senarai yang diberikan kepada pengguna lain.",
+      "premiumAvatarsDesc": "Akses koleksi eksklusif reka bentuk avatar premium.",
+      "customAvatarDesc": "Cipta avatar peribadi berdasarkan foto anda sendiri."
+    },
+    "faqTitle": "Soalan Lazim",
+    "faqDescription": "Ada soalan tentang Ringdy Premium ? Kami ada jawapannya.",
+    "faq": {
+      "cancelTitle": "Bolehkah saya membatalkan langganan saya pada bila-bila masa?",
+      "cancelAnswer": "Ya, anda boleh membatalkan langganan anda pada bila-bila masa melalui tetapan akaun anda atau gedung aplikasi peranti anda. Ciri premium anda kekal aktif sehingga akhir tempoh pengebilan semasa anda.",
+      "unlimitedTitle": "Apakah maksud \"Sambungan Tanpa Had\"?",
+      "unlimitedAnswer": "Dengan Premium , anda boleh menambah rakan dan menerima jemputan tanpa had harian yang dikenakan pada akaun percuma.",
+      "filtersTitle": "Apakah sebenarnya penapis canggih?",
+      "filtersAnswer": "Penapis canggih membolehkan anda cari mengikut minat, julat umur, profesion, radius jarak, dan status aktiviti. Anda juga boleh tapis mengikut pengguna yang sedang dalam talian atau telah aktif baru-baru ini untuk peluang sambungan yang lebih baik.",
+      "meetingTitle": "Bagaimana cadangan tempat pertemuan berfungsi?",
+      "meetingAnswer": "AI kami mencadangkan tempat pertemuan awam yang selamat seperti kafe, perpustakaan, atau ruang kerja bersama dalam jarak berjalan kaki kedua-dua pengguna. Ia mempertimbangkan pilihan anda, lokasi semasa, dan masa hari untuk mencadangkan tempat terbaik untuk bertemu.",
+      "rematchTitle": "Apakah maksud \"padankan semula dengan pengguna sebelumnya\"?",
+      "rematchAnswer": "Jika anda mempunyai perbualan yang tamat tempoh (30 minit) tanpa mendedahkan identiti, pengguna premium boleh bersambung semula dengan orang itu jika anda bersilang jalan berdekatan. Ini memberi anda peluang kedua untuk membuat sambungan.",
+      "trialTitle": "Adakah percubaan percuma tersedia?",
+      "trialAnswer": "Ya! Pengguna baru mendapat percubaan percuma 7 hari untuk semua ciri premium. Anda boleh terokai permintaan kawan tanpa had, penapis canggih, dan cadangan pertemuan sebelum memutuskan pelan mana yang paling sesuai untuk anda.",
+      "offlineTitle": "Adakah ciri-ciri premium berfungsi tanpa internet?",
+      "offlineAnswer": "Pengesanan jarak BLE berfungsi luar talian, tetapi ciri premium seperti cadangan lokasi, permintaan tanpa had, dan penapis canggih memerlukan sambungan internet untuk fungsi penuh.",
+      "paymentTitle": "Apakah kaedah pembayaran yang anda terima?",
+      "paymentAnswer": "Kami menerima pembayaran melalui gedung aplikasi peranti anda (Google Play atau App Store), termasuk semua kaedah pembayaran yang disokong di sana.",
+      "areaTitle": "Apakah itu \"Akses Kawasan Tanpa Had\"?",
+      "areaAnswer": "Ahli Premium boleh menyertai seberapa banyak tempat berdekatan yang mereka mahu, tanpa sekatan ke atas berapa banyak kawasan yang boleh mereka temui setiap hari.",
+      "ticketsTitle": "Apakah itu Pas Penemuan?",
+      "ticketsAnswer": "Pas Discovery ialah alternatif bayar-sambil-guna kepada langganan - setiap pas membolehkan anda menyertai dan meneroka satu tempat berdekatan tanpa perlu membuat pelan berulang.",
+      "nightPassTitle": "Apakah Night Pass itu?",
+      "nightPassAnswer": "Night Pass ialah pas 24 jam yang membolehkan anda meneroka tempat untuk sehari penuh atau malam tanpa menggunakan Pas Penemuan."
+    },
+    "priceDisclaimer": "Harga adalah anggaran penukaran daripada USD berdasarkan rantau pelayar anda. Jika kadar tidak tersedia, harga dipaparkan dalam USD. Harga akhir dalam apl ditetapkan oleh gedung apl anda dan mungkin berbeza.",
+    "yearlyTitle": "Tahunan",
+    "yearlyPrice": "Lihat harga",
+    "yearlyPeriod": "setiap tahun",
+    "yearlyDescription": "Nilai terbaik untuk pengguna tetap",
+    "bestValue": "Nilai Terbaik",
+    "chooseYearly": "Pilih Setiap Tahun",
+    "tickets": {
+      "title": "Pas Penemuan",
+      "subtitle": "Gunakan penemuan untuk meneroka orang di tempat berdekatan tanpa langganan penuh.",
+      "single": "Penemuan Tunggal",
+      "singleDesc": "Gunakan satu pas untuk menyertai satu tempat dan lihat siapa yang berada di sana.",
+      "venueAccessFeature": "Setiap pas membuka akses ke satu tempat.",
+      "pack3": "3 Penemuan",
+      "pack3Desc": "Tiga Pas Penemuan. Setiap pas membuka satu tempat.",
+      "pack5": "5 Penemuan",
+      "pack5Desc": "Lima Pas Penemuan. Setiap pas membuka satu tempat.",
+      "bestValue": "Nilai Terbaik",
+      "specialTicket": "Night Pass",
+      "specialTicketDesc": "Penyertaan tempat tanpa had selama 24 jam tanpa menggunakan Pas Discovery."
+    }
+  },
+  "footer": {
+    "keepInTouch": "Jom kekal berhubung!",
+    "findUsOn": "Cari kami di mana-mana platform ini, kami akan membalas dalam masa 1-2 hari bekerja.",
+    "usefulLinks": "Pautan Berguna",
+    "aboutUs": "Tentang Kami",
+    "blog": "Blog",
+    "github": "Github",
+    "freeProducts": "Produk Percuma",
+    "otherResources": "Sumber Lain",
+    "mitLicense": "Lesen MIT",
+    "termsConditions": "Terma & Syarat",
+    "privacyPolicy": "Dasar Privasi",
+    "contactUs": "Hubungi Kami",
+    "copyright": "Hak Cipta © {{year}} Ringdy . Semua hak cipta terpelihara."
+  },
+  "legal": {
+    "privacyPolicy": {
+      "title": "Dasar Privasi",
+      "subtitle": "Privasi anda adalah keutamaan kami. Ketahui cara kami melindungi data anda dan memberi anda kawalan penuh ke atas apa yang anda kongsikan.",
+      "lastUpdated": "Kemas kini terakhir: Januari 2025",
+      "introduction": "Dasar Privasi ini menerangkan dasar dan prosedur Kami mengenai pengumpulan, penggunaan dan pendedahan maklumat Anda apabila Anda menggunakan Perkhidmatan ini dan memberitahu Anda tentang hak privasi Anda dan bagaimana undang-undang melindungi Anda.",
+      "agreement": "Kami menggunakan Data Peribadi Anda untuk menyediakan dan menambah baik Perkhidmatan. Dengan menggunakan Perkhidmatan ini, Anda bersetuju dengan pengumpulan dan penggunaan maklumat mengikut Dasar Privasi ini.",
+      "sections": {
+        "interpretationTitle": "Tafsiran dan Definisi",
+        "interpretationSubtitle": "Tafsiran",
+        "definitionsSubtitle": "Definisi",
+        "interpretationText": "Perkataan yang huruf awalnya ditulis dengan huruf besar mempunyai makna yang ditakrifkan di bawah syarat-syarat berikut. Takrifan berikut hendaklah mempunyai makna yang sama tanpa mengira sama ada ia muncul dalam bentuk tunggal atau jamak.",
+        "definitionsText": "Untuk tujuan Dasar Privasi ini:",
+        "definitionLabels": {
+          "account": "Akaun:",
+          "affiliate": "Ahli Gabungan:",
+          "application": "Permohonan:",
+          "business": "Perniagaan:",
+          "ccpaCpra": "CCPA dan/atau CPRA:",
+          "company": "Syarikat:",
+          "consumer": "Pengguna:",
+          "country": "Negara:",
+          "dataController": "Pengawal Data:",
+          "device": "Peranti:",
+          "doNotTrack": "Jangan Jejaki (DNT):",
+          "gdpr": "GDPR:",
+          "personalData": "Data Peribadi:",
+          "service": "Perkhidmatan:",
+          "serviceProvider": "Pembekal Perkhidmatan:",
+          "thirdPartySocialMedia": "Perkhidmatan Media Sosial Pihak Ketiga:",
+          "usageData": "Data Penggunaan:",
+          "you": "Anda:"
+        },
+        "definitions": {
+          "account": "Akaun unik yang dibuat untuk Anda mengakses Perkhidmatan kami atau sebahagian daripada Perkhidmatan kami.",
+          "affiliate": "Entiti yang mengawal, dikawal oleh atau berada di bawah kawalan bersama dengan sesuatu pihak, yang mana \"kawalan\" bermaksud pemilikan 50% atau lebih saham, kepentingan ekuiti atau sekuriti lain yang berhak untuk mengundi bagi pemilihan pengarah atau pihak berkuasa pengurusan yang lain.",
+          "application": "Merujuk kepada Ringdy , program perisian yang disediakan oleh Syarikat.",
+          "business": "Untuk tujuan CCPA/CPRA, merujuk kepada Syarikat sebagai entiti sah yang mengumpul maklumat peribadi Pengguna dan menentukan tujuan dan cara pemprosesan maklumat peribadi Pengguna.",
+          "ccpaCpra": "Merujuk kepada Akta Privasi Pengguna California (\"CCPA\") seperti yang dipinda oleh Akta Hak Privasi California 2020 (\"CPRA\").",
+          "company": "Dirujuk sebagai \"Syarikat\", \"Kami\" atau \"Kami\" dalam Perjanjian ini merujuk kepada Ringdy . Bagi tujuan GDPR, Syarikat ialah Pengawal Data.",
+          "consumer": "Untuk tujuan CCPA/CPRA, bermaksud orang sebenar yang merupakan penduduk California.",
+          "country": "Merujuk kepada: Amerika Syarikat",
+          "dataController": "Bagi tujuan GDPR (Peraturan Perlindungan Data Umum), merujuk kepada Syarikat sebagai orang sah yang secara bersendirian atau bersama-sama dengan orang lain menentukan tujuan dan cara pemprosesan Data Peribadi.",
+          "device": "Mana-mana peranti yang boleh mengakses Perkhidmatan seperti telefon pintar, tablet atau komputer.",
+          "doNotTrack": "Satu konsep yang telah dipromosikan oleh pihak berkuasa kawal selia AS untuk industri Internet bagi membangun dan melaksanakan mekanisme bagi membolehkan pengguna internet mengawal penjejakan aktiviti dalam talian mereka merentasi laman web.",
+          "gdpr": "Merujuk kepada Peraturan Perlindungan Data Umum EU.",
+          "personalData": "Sebarang maklumat yang berkaitan dengan individu yang dikenal pasti atau boleh dikenal pasti. Bagi tujuan GDPR, Data Peribadi bermaksud sebarang maklumat yang berkaitan dengan Anda seperti nama, nombor pengenalan, data lokasi, pengecam dalam talian atau kepada satu atau lebih faktor khusus kepada identiti fizikal, fisiologi, genetik, mental, ekonomi, budaya atau sosial.",
+          "service": "Merujuk kepada Permohonan.",
+          "serviceProvider": "Mana-mana orang asli atau sah yang memproses data bagi pihak Syarikat. Ia merujuk kepada syarikat atau individu pihak ketiga yang diambil bekerja oleh Syarikat untuk memudahkan Perkhidmatan, menyediakan Perkhidmatan bagi pihak Syarikat, melaksanakan perkhidmatan yang berkaitan dengan Perkhidmatan atau membantu Syarikat dalam menganalisis cara Perkhidmatan digunakan.",
+          "thirdPartySocialMedia": "Mana-mana laman web atau mana-mana laman web rangkaian sosial yang boleh digunakan oleh Pengguna untuk log masuk atau membuat akaun untuk menggunakan Perkhidmatan.",
+          "usageData": "Data yang dikumpul secara automatik, sama ada dijana oleh penggunaan Perkhidmatan atau daripada infrastruktur Perkhidmatan itu sendiri (contohnya, tempoh lawatan halaman).",
+          "you": "Individu yang mengakses atau menggunakan Perkhidmatan, atau syarikat, atau entiti undang-undang lain yang bagi pihak individu tersebut mengakses atau menggunakan Perkhidmatan, sebagaimana yang berkenaan."
+        },
+        "dataCollectionTitle": "Mengumpul dan Menggunakan Data Peribadi Anda",
+        "dataTypesTitle": "Jenis Data yang Dikumpul",
+        "personalDataTitle": "Data Peribadi",
+        "personalDataDescription": "Semasa menggunakan Perkhidmatan Kami, Kami mungkin meminta Anda untuk memberikan Kami maklumat peribadi tertentu yang boleh digunakan untuk menghubungi atau mengenal pasti Anda. Maklumat peribadi mungkin termasuk, tetapi tidak terhad kepada:",
+        "usageDataTitle": "Data Penggunaan",
+        "usageDataDescription1": "Data Penggunaan dikumpul secara automatik semasa menggunakan Perkhidmatan.",
+        "usageDataDescription2": "Data Penggunaan mungkin termasuk maklumat seperti alamat Protokol Internet Peranti Anda (cth. alamat IP), jenis pelayar, versi pelayar, halaman Perkhidmatan kami yang Anda lawati, masa dan tarikh lawatan Anda, masa yang dihabiskan di halaman tersebut, pengecam peranti unik dan data diagnostik lain.",
+        "usageDataDescription3": "Apabila Anda mengakses Perkhidmatan melalui atau melalui peranti mudah alih, Kami mungkin mengumpul maklumat tertentu secara automatik, termasuk, tetapi tidak terhad kepada, jenis peranti mudah alih yang Anda gunakan, ID unik peranti mudah alih Anda, alamat IP peranti mudah alih Anda, sistem pengendalian mudah alih Anda, jenis pelayar Internet mudah alih yang Anda gunakan, pengecam peranti unik dan data diagnostik lain.",
+        "thirdPartyTitle": "Maklumat daripada Perkhidmatan Media Sosial Pihak Ketiga",
+        "thirdPartyDescription1": "Syarikat membenarkan Anda membuat akaun dan log masuk untuk menggunakan Perkhidmatan melalui Perkhidmatan Media Sosial Pihak Ketiga berikut:",
+        "thirdPartyDescription2": "Jika Anda memutuskan untuk mendaftar melalui atau memberikan kami akses kepada Perkhidmatan Media Sosial Pihak Ketiga, Kami mungkin mengumpul data Peribadi yang telah dikaitkan dengan akaun Perkhidmatan Media Sosial Pihak Ketiga Anda, seperti nama Anda, alamat e-mel Anda, aktiviti Anda atau senarai kenalan Anda yang dikaitkan dengan akaun tersebut.",
+        "appDataTitle": "Maklumat yang Dikumpul semasa Menggunakan Aplikasi",
+        "appDataDescription1": "Semasa menggunakan Aplikasi Kami, untuk menyediakan ciri-ciri Aplikasi Kami, Kami mungkin mengumpul, dengan kebenaran Anda terlebih dahulu:",
+        "appDataDescription2": "Kami menggunakan maklumat ini untuk menyediakan ciri-ciri Perkhidmatan Kami, untuk menambah baik dan menyesuaikan Perkhidmatan Kami. Maklumat tersebut mungkin disimpan secara setempat pada peranti Anda atau dimuat naik ke pelayan yang disulitkan. Anda boleh mendayakan atau melumpuhkan akses kepada maklumat ini pada bila-bila masa, melalui tetapan Peranti Anda.",
+        "dataUseTitle": "Penggunaan Data Peribadi Anda",
+        "dataUseDescription": "Syarikat boleh menggunakan Data Peribadi untuk tujuan berikut:",
+        "sharingTitle": "Perkongsian Maklumat Peribadi",
+        "sharingDescription": "Kami mungkin berkongsi maklumat peribadi Anda dalam situasi berikut:",
+        "retentionTitle": "Pengekalan Data Peribadi Anda"
+      },
+      "dataUses": {
+        "provide": "Untuk menyediakan dan menyelenggara Perkhidmatan kami: Termasuk untuk memantau penggunaan Perkhidmatan kami dan mendayakan penemuan orang berdekatan berasaskan Bluetooth dan berasaskan tempat.",
+        "account": "Untuk mengurus Akaun Anda: Untuk mengurus pendaftaran Anda sebagai pengguna Perkhidmatan. Data Peribadi yang Anda berikan boleh memberi Anda akses kepada pelbagai fungsi Perkhidmatan yang tersedia untuk Anda sebagai pengguna berdaftar.",
+        "contract": "Untuk pelaksanaan kontrak: Pembangunan, pematuhan dan pelaksanaan perkhidmatan yang Anda minta atau sebarang kontrak lain dengan Kami melalui Perkhidmatan.",
+        "contact": "Untuk menghubungi Anda: Untuk menghubungi Anda melalui e-mel, pemberitahuan tolak atau bentuk komunikasi elektronik lain yang setara mengenai kemas kini, pemberitahuan keselamatan atau komunikasi bermaklumat yang berkaitan dengan fungsi.",
+        "offers": "Untuk menyediakan berita dan tawaran istimewa kepada Anda: Mengenai barangan, perkhidmatan dan acara lain yang kami tawarkan yang serupa dengan yang telah anda gunakan atau tanyakan melainkan Anda memilih untuk tidak menerima maklumat tersebut.",
+        "requests": "Untuk mengurus permintaan Anda: Untuk menghadiri dan mengurus permintaan Anda kepada Kami.",
+        "content": "Untuk menyampaikan kandungan yang disasarkan: Kami mungkin menggunakan maklumat Anda untuk membangunkan dan memaparkan kandungan yang disesuaikan dengan minat dan lokasi Anda (untuk penemuan pengguna berdekatan) dan untuk mengukur keberkesanannya.",
+        "business": "Untuk pemindahan perniagaan: Kami mungkin menggunakan maklumat Anda untuk menilai atau menjalankan penggabungan, pelupusan, penstrukturan semula, penyusunan semula, pembubaran atau penjualan atau pemindahan lain bagi sebahagian atau semua aset Kami.",
+        "other": "Untuk tujuan lain: Kami mungkin menggunakan maklumat Anda untuk tujuan lain, seperti analisis data, mengenal pasti trend penggunaan, menentukan keberkesanan kempen promosi kami dan untuk menilai dan menambah baik Perkhidmatan, produk, perkhidmatan, pemasaran dan pengalaman anda."
+      },
+      "sharingTypes": {
+        "providers": "Dengan Pembekal Perkhidmatan: Kami mungkin berkongsi maklumat peribadi Anda dengan Pembekal Perkhidmatan untuk memantau dan menganalisis penggunaan Perkhidmatan kami, untuk pemprosesan pembayaran, dan untuk menghubungi Anda.",
+        "transfers": "Untuk pemindahan perniagaan: Kami mungkin berkongsi atau memindahkan maklumat peribadi Anda berkaitan dengan, atau semasa rundingan, sebarang penggabungan, penjualan aset Syarikat, pembiayaan atau pemerolehan semua atau sebahagian daripada perniagaan Kami kepada syarikat lain.",
+        "affiliates": "Dengan Ahli Gabungan: Kami mungkin berkongsi maklumat Anda dengan ahli gabungan Kami, yang mana kami akan meminta ahli gabungan tersebut untuk mematuhi Dasar Privasi ini.",
+        "partners": "Dengan rakan niaga: Kami mungkin berkongsi maklumat Anda dengan rakan niaga Kami untuk menawarkan produk, perkhidmatan atau promosi tertentu kepada Anda.",
+        "users": "Dengan pengguna lain: Apabila Anda menemui dan berhubung dengan pengguna lain yang berdekatan, maklumat profil Anda (termasuk nama dan foto Anda, atau avatar Anda jika Anda memilih untuk menggunakannya) dikongsi sebagai sebahagian daripada proses penemuan, permintaan rakan dan pemadanan. Anda mengawal sama ada untuk memaparkan avatar atau foto sebenar Anda pada bila-bila masa.",
+        "consent": "Dengan persetujuan Anda: Kami mungkin mendedahkan maklumat peribadi Anda untuk sebarang tujuan lain dengan persetujuan Anda."
+      },
+      "security": {
+        "title": "Keselamatan Data Peribadi Anda",
+        "description": "Keselamatan Data Peribadi Anda adalah penting bagi Kami, tetapi ingat bahawa tiada kaedah penghantaran melalui Internet, atau kaedah penyimpanan elektronik yang 100% selamat. Walaupun Kami berusaha untuk menggunakan cara yang boleh diterima secara komersial untuk melindungi Data Peribadi Anda, termasuk penyulitan hujung ke hujung untuk mesej sembang dan protokol Bluetooth yang selamat, Kami tidak dapat menjamin keselamatan mutlaknya."
+      },
+      "contact": {
+        "title": "Hubungi Kami",
+        "description": "Jika anda mempunyai sebarang pertanyaan mengenai Dasar Privasi ini, anda boleh menghubungi kami:",
+        "email": "Melalui emel: privacy@ringdy.com",
+        "website": "Di halaman ini di laman web kami: https://ringdy.com/contact",
+        "mail": "Melalui pos: Pasukan Privasi Ringdy , 123 Tech Street, San Francisco, CA 94105, Amerika Syarikat"
+      },
+      "shineTheLight": {
+        "title": "Hak Privasi California Anda (undang-undang Shine the Light California)",
+        "description1": "Di bawah Seksyen 1798 Kanun Sivil California (undang-undang Shine the Light California), penduduk California yang mempunyai hubungan perniagaan yang mantap dengan kami boleh meminta maklumat setahun sekali tentang perkongsian Data Peribadi mereka dengan pihak ketiga untuk tujuan pemasaran langsung pihak ketiga.",
+        "description2": "Jika anda ingin meminta maklumat lanjut di bawah undang-undang California Shine the Light, dan jika Anda seorang penduduk California, Anda boleh menghubungi Kami menggunakan maklumat hubungan yang diberikan di bawah."
+      },
+      "minorUsers": {
+        "title": "Hak Privasi California untuk Pengguna Bawah Umur (Seksyen Kod Perniagaan dan Profesion California 22581)",
+        "description1": "Seksyen 22581 Kod Perniagaan dan Profesion California membenarkan penduduk California di bawah umur 18 tahun yang merupakan pengguna berdaftar laman web, perkhidmatan atau aplikasi dalam talian untuk meminta dan mendapatkan penyingkiran kandungan atau maklumat yang telah mereka siarkan secara terbuka.",
+        "description2": "Untuk meminta penyingkiran data tersebut, dan jika Anda seorang penduduk California, Anda boleh menghubungi Kami menggunakan maklumat hubungan yang diberikan di bawah, dan sertakan alamat e-mel yang berkaitan dengan akaun Anda.",
+        "description3": "Harap maklum bahawa permintaan anda tidak menjamin penyingkiran kandungan atau maklumat yang disiarkan dalam talian secara lengkap atau menyeluruh dan undang-undang mungkin tidak membenarkan atau mewajibkan penyingkiran dalam keadaan tertentu."
+      },
+      "childrenPrivacy": {
+        "title": "Privasi Kanak-kanak",
+        "description1": "Perkhidmatan kami tidak ditujukan kepada sesiapa yang berumur di bawah 13 tahun. Kami tidak sengaja mengumpul maklumat peribadi daripada sesiapa yang berumur di bawah 13 tahun. Jika Anda seorang ibu bapa atau penjaga dan Anda sedar bahawa anak Anda telah memberikan Kami Data Peribadi, sila hubungi Kami.",
+        "description2": "Jika Kami menyedari bahawa Kami telah mengumpul Data Peribadi daripada sesiapa sahaja yang berumur di bawah 13 tahun tanpa pengesahan persetujuan ibu bapa, Kami akan mengambil langkah untuk mengalih keluar maklumat tersebut daripada pelayan Kami.",
+        "description3": "Jika Kami perlu bergantung pada persetujuan sebagai asas undang-undang untuk memproses maklumat Anda dan negara Anda memerlukan persetujuan daripada ibu bapa, Kami mungkin memerlukan persetujuan ibu bapa Anda sebelum Kami mengumpul dan menggunakan maklumat tersebut."
+      },
+      "linksToOtherWebsites": {
+        "title": "Pautan ke Laman Web Lain",
+        "description": "Perkhidmatan Kami mungkin mengandungi pautan ke laman web lain yang tidak dikendalikan oleh Kami. Jika Anda mengklik pautan pihak ketiga, Anda akan diarahkan ke laman web pihak ketiga tersebut. Kami menasihatkan Anda untuk menyemak Dasar Privasi setiap laman web yang Anda lawati. Kami tidak mempunyai kawalan ke atas dan tidak bertanggungjawab terhadap kandungan, dasar privasi atau amalan mana-mana laman web atau perkhidmatan pihak ketiga."
+      },
+      "changes": {
+        "title": "Perubahan pada Dasar Privasi ini",
+        "description1": "Kami mungkin mengemas kini Dasar Privasi Kami dari semasa ke semasa. Kami akan memaklumkan Anda tentang sebarang perubahan dengan menyiarkan Dasar Privasi baharu di halaman ini.",
+        "description2": "Kami akan memaklumkan Anda melalui e-mel dan/atau notis yang jelas pada Perkhidmatan Kami, sebelum perubahan berkuat kuasa dan mengemas kini tarikh \"Kemas kini terakhir\" di bahagian atas Dasar Privasi ini.",
+        "description3": "Anda dinasihatkan untuk menyemak Dasar Privasi ini secara berkala untuk sebarang perubahan. Perubahan pada Dasar Privasi ini berkuat kuasa apabila ia dipaparkan di halaman ini."
+      },
+      "backToHome": "Kembali ke Rumah",
+      "retention": {
+        "description1": "Syarikat akan menyimpan Data Peribadi Anda hanya selama yang diperlukan untuk tujuan yang dinyatakan dalam Dasar Privasi ini. Kami akan menyimpan dan menggunakan Data Peribadi Anda setakat yang diperlukan untuk mematuhi kewajipan undang-undang kami, menyelesaikan pertikaian dan menguatkuasakan perjanjian dan dasar undang-undang kami.",
+        "description2": "Syarikat juga akan menyimpan Data Penggunaan untuk tujuan analisis dalaman. Data Penggunaan biasanya disimpan untuk tempoh masa yang lebih singkat, kecuali apabila data ini digunakan untuk mengukuhkan keselamatan atau untuk menambah baik fungsi Perkhidmatan Kami, atau Kami diwajibkan secara sah untuk menyimpan data ini untuk tempoh masa yang lebih lama."
+      },
+      "transfer": {
+        "title": "Pemindahan Data Peribadi Anda",
+        "description1": "Maklumat anda, termasuk Data Peribadi, diproses di pejabat operasi Syarikat dan di mana-mana tempat lain di mana pihak-pihak yang terlibat dalam pemprosesan berada. Ini bermakna maklumat ini mungkin dipindahkan ke — dan diselenggarakan pada — komputer yang terletak di luar negeri, wilayah, negara atau bidang kuasa kerajaan anda yang mana undang-undang perlindungan data mungkin berbeza daripada undang-undang dari bidang kuasa Anda.",
+        "description2": "Persetujuan anda terhadap Dasar Privasi ini diikuti dengan penyerahan maklumat tersebut oleh anda mewakili persetujuan Anda terhadap pemindahan tersebut. Syarikat akan mengambil semua langkah yang sewajarnya untuk memastikan data Anda diuruskan dengan selamat dan mengikut Dasar Privasi ini dan tiada pemindahan Data Peribadi Anda akan berlaku kepada mana-mana organisasi atau negara melainkan terdapat kawalan yang mencukupi termasuk keselamatan data Anda dan maklumat peribadi lain."
+      },
+      "deletion": {
+        "title": "Padam Data Peribadi Anda",
+        "description1": "Anda berhak untuk memadam atau meminta Kami membantu dalam memadam Data Peribadi yang telah Kami kumpulkan tentang Anda.",
+        "description2": "Perkhidmatan kami mungkin memberi Anda keupayaan untuk memadam maklumat tertentu tentang Anda dari dalam Perkhidmatan.",
+        "description3": "Anda boleh mengemas kini, meminda atau memadam maklumat Anda pada bila-bila masa dengan log masuk ke Akaun Anda, jika ada, dan melawati bahagian tetapan akaun yang membolehkan anda mengurus maklumat peribadi Anda. Anda juga boleh menghubungi Kami untuk meminta akses, membetulkan atau memadam sebarang maklumat peribadi yang telah Anda berikan kepada Kami."
+      },
+      "disclosure": {
+        "title": "Pendedahan Data Peribadi Anda",
+        "businessTitle": "Transaksi Perniagaan",
+        "businessDescription": "Jika Syarikat terlibat dalam penggabungan, pengambilalihan atau penjualan aset, Data Peribadi Anda mungkin akan dipindahkan. Kami akan memberikan notis sebelum Data Peribadi Anda dipindahkan dan tertakluk kepada Dasar Privasi yang berbeza.",
+        "lawTitle": "Penguatkuasaan Undang-undang",
+        "lawDescription": "Dalam keadaan tertentu, Syarikat mungkin dikehendaki untuk mendedahkan Data Peribadi Anda jika dikehendaki berbuat demikian oleh undang-undang atau sebagai tindak balas kepada permintaan yang sah oleh pihak berkuasa awam (contohnya mahkamah atau agensi kerajaan).",
+        "legalTitle": "Keperluan Undang-undang Lain",
+        "legalDescription": "Syarikat boleh mendedahkan Data Peribadi Anda dengan kepercayaan yang baik bahawa tindakan sedemikian adalah perlu untuk:",
+        "legalReasons": {
+          "comply": "Mematuhi kewajipan undang-undang",
+          "protect": "Melindungi dan mempertahankan hak atau harta Syarikat",
+          "prevent": "Mencegah atau menyiasat kemungkinan salah laku berkaitan dengan Perkhidmatan",
+          "safety": "Melindungi keselamatan peribadi Pengguna Perkhidmatan atau orang awam",
+          "liability": "Lindungi daripada liabiliti undang-undang"
+        },
+        "detailedInfo": {
+          "title": "Maklumat Terperinci tentang Pemprosesan Data Peribadi Anda",
+          "description": "Pembekal Perkhidmatan yang Kami gunakan mungkin mempunyai akses kepada Data Peribadi Anda. Vendor pihak ketiga ini mengumpul, menyimpan, menggunakan, memproses dan memindahkan maklumat tentang aktiviti Anda pada Perkhidmatan Kami mengikut Dasar Privasi mereka.",
+          "analyticsTitle": "Analisis",
+          "analyticsDescription": "Kami mungkin menggunakan penyedia Perkhidmatan pihak ketiga untuk memantau dan menganalisis penggunaan Perkhidmatan kami."
+        },
+        "analytics": {
+          "title": "Pemasaran Semula Tingkah Laku",
+          "description": "Syarikat menggunakan perkhidmatan pemasaran semula untuk mengiklankan di laman web pihak ketiga kepada Anda selepas Anda melawati Perkhidmatan kami. Kami dan vendor pihak ketiga Kami menggunakan kuki untuk memaklumkan, mengoptimumkan dan menayangkan iklan berdasarkan lawatan Anda yang lalu ke Perkhidmatan kami.",
+          "googleAnalytics": {
+            "title": "Google Analytics",
+            "description1": "Google Analytics ialah perkhidmatan analitik web yang ditawarkan oleh Google yang menjejaki dan melaporkan trafik laman web. Google menggunakan data yang dikumpul untuk menjejaki dan memantau penggunaan Perkhidmatan kami. Data ini dikongsi dengan perkhidmatan Google yang lain. Google mungkin menggunakan data yang dikumpul untuk mengkontekstualisasikan dan memperibadikan iklan rangkaian pengiklanannya sendiri.",
+            "description2": "Anda boleh memilih untuk tidak menggunakan ciri Google Analytics tertentu melalui tetapan peranti mudah alih anda, seperti tetapan pengiklanan peranti anda atau dengan mengikuti arahan yang diberikan oleh Google dalam Dasar Privasi mereka:",
+            "description3": "Untuk maklumat lanjut tentang amalan privasi Google, sila lawati halaman web Privasi & Terma Google:"
+          },
+          "firebase": {
+            "title": "Pangkalan Api",
+            "description1": "Firebase ialah perkhidmatan analitik yang disediakan oleh Google Inc.",
+            "description2": "Anda boleh memilih untuk tidak menggunakan ciri Firebase tertentu melalui tetapan peranti mudah alih anda, seperti tetapan pengiklanan peranti anda atau dengan mengikuti arahan yang diberikan oleh Google dalam Dasar Privasi mereka:",
+            "description3": "Kami juga menggalakkan anda untuk menyemak dasar Google bagi melindungi data anda:",
+            "description4": "Untuk maklumat lanjut tentang jenis maklumat yang dikumpul oleh Firebase, sila lawati halaman web Cara Google menggunakan data apabila anda menggunakan tapak atau aplikasi rakan kongsi kami:"
+          }
+        },
+        "advertising": {
+          "title": "Pengiklanan",
+          "description": "Kami mungkin menggunakan Penyedia Perkhidmatan untuk memaparkan iklan kepada Anda bagi membantu menyokong dan menyelenggara Perkhidmatan Kami.",
+          "googleAdSense": {
+            "title": "Google AdSense & Kuki DoubleClick",
+            "description1": "Google, sebagai vendor pihak ketiga, menggunakan kuki untuk menayangkan iklan pada Perkhidmatan kami. Penggunaan kuki DoubleClick oleh Google membolehkannya dan rakan kongsinya menayangkan iklan kepada pengguna kami berdasarkan lawatan mereka ke Perkhidmatan kami atau laman web lain di Internet.",
+            "description2": "Anda boleh memilih untuk tidak menggunakan Kuki DoubleClick untuk pengiklanan berasaskan minat dengan melayari halaman web Tetapan Iklan Google:"
+          },
+          "adMob": {
+            "title": "AdMob oleh Google",
+            "description1": "AdMob oleh Google disediakan oleh Google Inc.",
+            "description2": "Anda boleh memilih untuk tidak menggunakan perkhidmatan AdMob by Google dengan mengikuti arahan yang diterangkan oleh Google:",
+            "description3": "Untuk maklumat lanjut tentang cara Google menggunakan maklumat yang dikumpul, sila lawati halaman \"Cara Google menggunakan data apabila anda menggunakan tapak atau aplikasi rakan kongsi kami\": atau lawati Dasar Privasi Google:"
+          }
+        },
+        "payments": {
+          "title": "Pembayaran",
+          "description1": "Kami mungkin menyediakan produk dan/atau perkhidmatan berbayar dalam Perkhidmatan ini. Dalam kes itu, kami mungkin menggunakan perkhidmatan pihak ketiga untuk pemprosesan pembayaran (cth. pemproses pembayaran).",
+          "description2": "Kami tidak akan menyimpan atau mengumpul butiran kad pembayaran Anda. Maklumat tersebut diberikan terus kepada pemproses pembayaran pihak ketiga Kami yang penggunaan maklumat peribadi Anda dikawal oleh Dasar Privasi mereka. Pemproses pembayaran ini mematuhi piawaian yang ditetapkan oleh PCI-DSS seperti yang diuruskan oleh Majlis Piawaian Keselamatan PCI, yang merupakan usaha sama jenama seperti Visa, Mastercard, American Express dan Discover. Keperluan PCI-DSS membantu memastikan pengendalian maklumat pembayaran yang selamat.",
+          "appleStore": {
+            "title": "Pembayaran Dalam Aplikasi Apple Store",
+            "description": "Dasar Privasi mereka boleh dilihat di"
+          },
+          "googlePlay": {
+            "title": "Pembayaran Dalam Apl Google Play",
+            "description": "Dasar Privasi mereka boleh dilihat di"
+          },
+          "stripe": {
+            "title": "Jalur",
+            "description": "Dasar Privasi mereka boleh dilihat di"
+          },
+          "payPal": {
+            "title": "PayPal atau Braintree",
+            "description": "Dasar Privasi mereka boleh dilihat di"
+          }
+        }
+      },
+      "behavioralRemarketing": {
+        "title": "Pemasaran Semula Tingkah Laku",
+        "description": "Syarikat menggunakan perkhidmatan pemasaran semula untuk mengiklankan di laman web pihak ketiga kepada Anda selepas Anda melawati Perkhidmatan kami. Kami dan vendor pihak ketiga Kami menggunakan kuki untuk memaklumkan, mengoptimumkan dan menayangkan iklan berdasarkan lawatan Anda yang lalu ke Perkhidmatan kami.",
+        "vendorsDescription1": "Vendor pihak ketiga ini mengumpul, menyimpan, menggunakan, memproses dan memindahkan maklumat tentang aktiviti Anda pada Perkhidmatan Kami mengikut Dasar Privasi mereka dan untuk membolehkan Kami:",
+        "purposes": {
+          "measure": "Ukur dan analisis trafik dan aktiviti pelayaran pada Perkhidmatan Kami",
+          "show": "Paparkan iklan untuk produk dan/atau perkhidmatan kami kepada Anda di laman web atau aplikasi pihak ketiga",
+          "analyze": "Ukur dan analisis prestasi kempen pengiklanan kami"
+        },
+        "vendorsDescription2": "Sebahagian daripada vendor pihak ketiga ini mungkin menggunakan teknologi bukan kuki yang mungkin tidak terjejas oleh tetapan pelayar yang menyekat kuki. Pelayar anda mungkin tidak membenarkan Anda menyekat teknologi tersebut. Anda boleh menggunakan alat pihak ketiga berikut untuk menolak pengumpulan dan penggunaan maklumat bagi tujuan menyediakan pengiklanan berasaskan minat kepada Anda:",
+        "optOutTools": {
+          "nai": "Platform pilihan keluar NAI:",
+          "edaa": "Platform pilihan keluar EDAA:",
+          "daa": "Platform pilihan keluar DAA:"
+        },
+        "mobileOptOut": "Anda boleh memilih untuk tidak menerima semua pengiklanan yang diperibadikan dengan mendayakan ciri privasi pada peranti mudah alih anda seperti Hadkan Penjejakan Iklan (iOS) dan Pilih untuk Tidak Mempeibadikan Iklan (Android). Lihat sistem Bantuan peranti mudah alih anda untuk maklumat lanjut.",
+        "dataSharing": "Kami mungkin berkongsi maklumat, seperti alamat e-mel yang di-hash (jika ada) atau pengecam dalam talian lain yang dikumpulkan pada Perkhidmatan Kami dengan vendor pihak ketiga ini. Ini membolehkan vendor pihak ketiga Kami mengenali dan menyampaikan iklan kepada Anda merentasi peranti dan pelayar. Untuk membaca lebih lanjut tentang teknologi yang digunakan oleh vendor pihak ketiga ini dan keupayaan merentas peranti mereka, sila rujuk Dasar Privasi setiap vendor yang disenaraikan di bawah.",
+        "vendorsIntro": "Vendor pihak ketiga yang kami gunakan ialah:",
+        "googleAds": {
+          "title": "Iklan Google (AdWords)",
+          "description1": "Perkhidmatan pemasaran semula Google Ads (AdWords) disediakan oleh Google Inc.",
+          "description2": "Anda boleh memilih untuk tidak menggunakan Google Analytics untuk Pengiklanan Paparan dan menyesuaikan iklan Rangkaian Paparan Google dengan melayari halaman Tetapan Iklan Google:",
+          "description3": "Google juga mengesyorkan memasang Alat Tambahan Pelayar Pilih Keluar Google Analytics - untuk pelayar web anda. Alat Tambahan Pelayar Pilih Keluar Google Analytics menyediakan pelawat dengan keupayaan untuk menghalang data mereka daripada dikumpul dan digunakan oleh Google Analytics.",
+          "description4": "Untuk maklumat lanjut tentang amalan privasi Google, sila lawati halaman web Privasi & Terma Google:"
+        },
+        "facebook": {
+          "title": "Facebook",
+          "description1": "Perkhidmatan pemasaran semula Facebook disediakan oleh Facebook Inc.",
+          "description2": "Anda boleh mengetahui lebih lanjut tentang pengiklanan berasaskan minat daripada Facebook dengan melayari halaman ini:",
+          "description3": "Untuk menarik diri daripada iklan berasaskan minat Facebook, ikut arahan ini daripada Facebook:",
+          "description4": "Facebook mematuhi Prinsip Kawal Selia Kendiri untuk Pengiklanan Tingkah Laku Dalam Talian yang ditubuhkan oleh Digital Advertising Alliance. Anda juga boleh memilih untuk tidak menyertai Facebook dan syarikat lain yang mengambil bahagian melalui Digital Advertising Alliance di Amerika Syarikat, Digital Advertising Alliance of Canada di Kanada atau European Interactive Digital Advertising Alliance di Eropah, atau memilih untuk tidak menyertai menggunakan tetapan peranti mudah alih anda.",
+          "description5": "Untuk maklumat lanjut tentang amalan privasi Facebook, sila lawati Dasar Data Facebook:"
+        }
+      },
+      "detailedInfo": {
+        "title": "Maklumat Terperinci tentang Pemprosesan Data Peribadi Anda",
+        "description": "Pembekal Perkhidmatan yang Kami gunakan mungkin mempunyai akses kepada Data Peribadi Anda. Vendor pihak ketiga ini mengumpul, menyimpan, menggunakan, memproses dan memindahkan maklumat tentang aktiviti Anda pada Perkhidmatan Kami mengikut Dasar Privasi mereka.",
+        "analyticsTitle": "Analisis",
+        "analyticsDescription": "Kami mungkin menggunakan penyedia Perkhidmatan pihak ketiga untuk memantau dan menganalisis penggunaan Perkhidmatan kami."
+      },
+      "analytics": {
+        "firebase": {
+          "title": "Pangkalan Api",
+          "description1": "Firebase ialah perkhidmatan analitik yang disediakan oleh Google Inc.",
+          "description2": "Anda boleh memilih untuk tidak menggunakan ciri Firebase tertentu melalui tetapan peranti mudah alih anda, seperti tetapan pengiklanan peranti anda atau dengan mengikuti arahan yang diberikan oleh Google dalam Dasar Privasi mereka:",
+          "description3": "Kami juga menggalakkan anda untuk menyemak dasar Google bagi melindungi data anda:",
+          "description4": "Untuk maklumat lanjut tentang jenis maklumat yang dikumpul oleh Firebase, sila lawati halaman web Cara Google menggunakan data apabila anda menggunakan tapak atau aplikasi rakan kongsi kami:"
+        },
+        "googleAnalytics": {
+          "title": "Google Analytics",
+          "description1": "Google Analytics ialah perkhidmatan analitik web yang ditawarkan oleh Google yang menjejaki dan melaporkan trafik laman web. Google menggunakan data yang dikumpul untuk menjejaki dan memantau penggunaan Perkhidmatan kami. Data ini dikongsi dengan perkhidmatan Google yang lain. Google mungkin menggunakan data yang dikumpul untuk mengkontekstualisasikan dan memperibadikan iklan rangkaian pengiklanannya sendiri.",
+          "description2": "Anda boleh memilih untuk tidak menyediakan aktiviti anda pada Perkhidmatan kepada Google Analytics dengan memasang alat tambah pelayar pilih keluar Google Analytics. Alat tambah ini menghalang JavaScript Google Analytics (ga.js, analytics.js dan gtag.js) daripada berkongsi maklumat dengan Google Analytics tentang aktiviti lawatan. Untuk maklumat lanjut tentang amalan privasi Google, sila lawati halaman web Privasi & Terma Google:",
+          "description3": "Google juga mengesyorkan memasang Alat Tambah Pelayar Opt-out Google Analytics untuk pelayar web anda. Alat Tambah Pelayar Opt-out Google Analytics memberikan pelawat keupayaan untuk menghalang data mereka daripada dikumpul dan digunakan oleh Google Analytics. Untuk maklumat lanjut tentang pemasangan dan penggunaan Alat Tambah Pelayar Opt-out Google Analytics, sila lawati halaman opt-out Google Analytics berikut:"
+        }
+      },
+      "advertising": {
+        "title": "Pengiklanan",
+        "description": "Kami mungkin menggunakan Penyedia Perkhidmatan untuk memaparkan iklan kepada Anda bagi membantu menyokong dan menyelenggara Perkhidmatan Kami.",
+        "googleAdSense": {
+          "title": "Google AdSense & Kuki DoubleClick",
+          "description1": "Google, sebagai vendor pihak ketiga, menggunakan kuki untuk menayangkan iklan pada Perkhidmatan kami. Penggunaan kuki DoubleClick oleh Google membolehkannya dan rakan kongsinya menayangkan iklan kepada pengguna kami berdasarkan lawatan mereka ke Perkhidmatan kami atau laman web lain di Internet.",
+          "description2": "Anda boleh memilih untuk tidak menggunakan Kuki DoubleClick untuk pengiklanan berasaskan minat dengan melayari halaman web Tetapan Iklan Google:"
+        },
+        "adMob": {
+          "title": "AdMob oleh Google",
+          "description1": "AdMob oleh Google disediakan oleh Google Inc.",
+          "description2": "Anda boleh memilih untuk tidak menggunakan perkhidmatan AdMob by Google dengan mengikuti arahan yang diterangkan oleh Google:",
+          "description3": "Untuk maklumat lanjut tentang cara Google menggunakan maklumat yang dikumpul, sila lawati halaman \"Cara Google menggunakan data apabila anda menggunakan tapak atau aplikasi rakan kongsi kami\": atau lawati Dasar Privasi Google:"
+        }
+      },
+      "payments": {
+        "title": "Pembayaran",
+        "description1": "Kami mungkin menyediakan produk dan/atau perkhidmatan berbayar dalam Perkhidmatan ini. Dalam kes itu, kami mungkin menggunakan perkhidmatan pihak ketiga untuk pemprosesan pembayaran (cth. pemproses pembayaran).",
+        "description2": "Kami tidak akan menyimpan atau mengumpul butiran kad pembayaran Anda. Maklumat tersebut diberikan terus kepada pemproses pembayaran pihak ketiga Kami yang penggunaan maklumat peribadi Anda dikawal oleh Dasar Privasi mereka. Pemproses pembayaran ini mematuhi piawaian yang ditetapkan oleh PCI-DSS seperti yang diuruskan oleh Majlis Piawaian Keselamatan PCI, yang merupakan usaha sama jenama seperti Visa, Mastercard, American Express dan Discover. Keperluan PCI-DSS membantu memastikan pengendalian maklumat pembayaran yang selamat.",
+        "appleStore": {
+          "title": "Pembayaran Dalam Aplikasi Apple Store",
+          "description": "Dasar Privasi mereka boleh dilihat di"
+        },
+        "googlePlay": {
+          "title": "Pembayaran Dalam Apl Google Play",
+          "description": "Dasar Privasi mereka boleh dilihat di"
+        },
+        "stripe": {
+          "title": "Jalur",
+          "description": "Dasar Privasi mereka boleh dilihat di"
+        },
+        "payPal": {
+          "title": "PayPal atau Braintree",
+          "description": "Dasar Privasi mereka boleh dilihat di"
+        }
+      },
+      "gdpr": {
+        "title": "Privasi GDPR",
+        "legalBasis": {
+          "title": "Asas Perundangan untuk Memproses Data Peribadi di bawah GDPR",
+          "description": "Kami mungkin memproses Data Peribadi di bawah syarat-syarat berikut:",
+          "consent": "Persetujuan: Anda telah memberikan persetujuan Anda untuk memproses Data Peribadi bagi satu atau lebih tujuan tertentu.",
+          "contract": "Pelaksanaan kontrak: Penyediaan Data Peribadi adalah perlu untuk pelaksanaan perjanjian dengan Anda dan/atau untuk sebarang obligasi pra-kontraknya.",
+          "legal": "Kewajipan undang-undang: Pemprosesan Data Peribadi adalah perlu bagi pematuhan dengan kewajipan undang-undang yang Syarikat tertakluk kepadanya.",
+          "vital": "Kepentingan penting: Pemprosesan Data Peribadi adalah perlu untuk melindungi kepentingan penting Anda atau orang sebenar yang lain.",
+          "public": "Kepentingan awam: Pemprosesan Data Peribadi berkaitan dengan tugas yang dijalankan demi kepentingan awam atau dalam pelaksanaan kuasa rasmi yang diberikan kepada Syarikat.",
+          "legitimate": "Kepentingan sah: Pemprosesan Data Peribadi adalah perlu untuk tujuan kepentingan sah yang dijalankan oleh Syarikat."
+        },
+        "rights": {
+          "title": "Hak Anda di bawah GDPR",
+          "description": "Syarikat berjanji untuk menghormati kerahsiaan Data Peribadi Anda dan menjamin Anda boleh melaksanakan hak Anda. Anda mempunyai hak di bawah Dasar Privasi ini, dan mengikut undang-undang jika Anda berada dalam EU, untuk:",
+          "access": "Meminta akses kepada Data Peribadi Anda: Hak untuk mengakses, mengemas kini atau memadam maklumat yang Kami ada tentang Anda.",
+          "correction": "Meminta pembetulan Data Peribadi: Anda berhak untuk membetulkan sebarang maklumat yang tidak lengkap atau tidak tepat yang Kami simpan tentang Anda.",
+          "object": "Objektif pemprosesan: Hak ini wujud apabila Kami bergantung pada kepentingan yang sah sebagai asas undang-undang untuk pemprosesan Kami.",
+          "erasure": "Minta pemadaman: Anda berhak meminta Kami memadam atau mengalih keluar Data Peribadi apabila tiada sebab yang kukuh untuk Kami terus memprosesnya.",
+          "transfer": "Minta pemindahan: Kami akan memberikan kepada Anda, atau kepada pihak ketiga yang telah Anda pilih, Data Peribadi Anda dalam format berstruktur, biasa digunakan dan boleh dibaca mesin.",
+          "withdraw": "Menarik balik persetujuan Anda: Anda berhak untuk menarik balik persetujuan Anda untuk menggunakan Data Peribadi anda."
+        },
+        "exercising": {
+          "title": "Melaksanakan Hak Perlindungan Data GDPR Anda",
+          "description1": "Anda boleh menggunakan hak akses, pembetulan, pembatalan dan bantahan Anda dengan menghubungi Kami. Sila ambil perhatian bahawa kami mungkin meminta Anda untuk mengesahkan identiti Anda sebelum menjawab permintaan tersebut. Jika Anda membuat permintaan, Kami akan cuba sedaya upaya untuk menjawab Anda secepat mungkin.",
+          "description2": "Anda berhak untuk mengadu kepada Pihak Berkuasa Perlindungan Data tentang pengumpulan dan penggunaan Data Peribadi Anda oleh Kami. Untuk maklumat lanjut, jika Anda berada di Kawasan Ekonomi Eropah (EEA), sila hubungi pihak berkuasa perlindungan data tempatan anda di EEA."
+        }
+      },
+      "ccpa": {
+        "title": "Notis Privasi CCPA/CPRA",
+        "introduction": "Bahagian notis privasi untuk penduduk California ini melengkapi maklumat yang terkandung dalam Dasar Privasi Kami dan ia terpakai semata-mata kepada semua pelawat, pengguna dan orang lain yang tinggal di Negeri California.",
+        "categoriesTitle": "Kategori Maklumat Peribadi yang Dikumpul",
+        "categoriesDescription1": "Kami mengumpul maklumat yang mengenal pasti, berkaitan dengan, menerangkan, merujuk, boleh dikaitkan dengan, atau boleh dikaitkan secara munasabah, secara langsung atau tidak langsung, dengan Pengguna atau Peranti tertentu. Berikut ialah senarai kategori maklumat peribadi yang mungkin kami kumpulkan atau mungkin telah dikumpulkan daripada penduduk California dalam tempoh dua belas (12) bulan yang lalu.",
+        "categoriesDescription2": "Sila ambil perhatian bahawa kategori dan contoh yang disediakan dalam senarai di bawah adalah yang ditakrifkan dalam CCPA/CPRA. Ini tidak bermakna semua contoh kategori maklumat peribadi tersebut sebenarnya dikumpulkan oleh Kami, tetapi mencerminkan kepercayaan ikhlas kami sepanjang pengetahuan Kami bahawa sebahagian daripada maklumat tersebut daripada kategori yang berkenaan mungkin dan mungkin telah dikumpulkan. Contohnya, kategori maklumat peribadi tertentu hanya akan dikumpulkan jika Anda memberikan maklumat peribadi tersebut secara langsung kepada Kami.",
+        "categoryLabels": {
+          "examples": "Contoh:",
+          "collected": "Dikumpul:"
+        },
+        "categories": {
+          "identifiers": {
+            "title": "Kategori A: Pengenal pasti",
+            "examples": "Nama sebenar, alias, alamat pos, pengecam peribadi unik, pengecam dalam talian, alamat Protokol Internet, alamat e-mel, nama akaun, nombor lesen memandu, nombor pasport atau pengecam serupa yang lain.",
+            "collected": "Ya"
+          },
+          "personalInfo": {
+            "title": "Kategori B: Kategori maklumat peribadi yang disenaraikan dalam statut Rekod Pelanggan California",
+            "examples": "Nama, tandatangan, Nombor Keselamatan Sosial, ciri atau perihalan fizikal, alamat, nombor telefon, nombor pasport, lesen memandu atau nombor kad pengenalan negeri, nombor polisi insurans, pendidikan, pekerjaan, sejarah pekerjaan, nombor akaun bank, nombor kad kredit, nombor kad debit atau sebarang maklumat kewangan, maklumat perubatan atau maklumat insurans kesihatan yang lain. Sesetengah maklumat peribadi yang termasuk dalam kategori ini mungkin bertindih dengan kategori lain.",
+            "collected": "Ya"
+          },
+          "protected": {
+            "title": "Kategori C: Ciri-ciri pengelasan yang dilindungi di bawah undang-undang California atau persekutuan",
+            "examples": "Umur (40 tahun atau lebih), bangsa, warna kulit, keturunan, asal usul negara, kewarganegaraan, agama atau kepercayaan, status perkahwinan, keadaan perubatan, kecacatan fizikal atau mental, jantina (termasuk jantina, identiti jantina, ekspresi jantina, kehamilan atau kelahiran anak dan keadaan perubatan yang berkaitan), orientasi seksual, status veteran atau tentera, maklumat genetik (termasuk maklumat genetik keluarga).",
+            "collected": "Tidak"
+          },
+          "commercial": {
+            "title": "Kategori D: Maklumat komersial",
+            "examples": "Rekod dan sejarah produk atau perkhidmatan yang dibeli atau dipertimbangkan.",
+            "collected": "Ya"
+          },
+          "biometric": {
+            "title": "Kategori E: Maklumat biometrik",
+            "examples": "Ciri-ciri genetik, fisiologi, tingkah laku dan biologi, atau corak aktiviti yang digunakan untuk mengekstrak templat atau pengecam atau maklumat pengenalan lain, seperti cap jari, cap muka dan cap suara, imbasan iris atau retina, ketukan kekunci, gaya berjalan atau corak fizikal lain dan data tidur, kesihatan atau senaman.",
+            "collected": "Tidak"
+          },
+          "internet": {
+            "title": "Kategori F: Internet atau aktiviti rangkaian lain yang serupa",
+            "examples": "Interaksi dengan Perkhidmatan atau iklan kami.",
+            "collected": "Ya"
+          },
+          "geolocation": {
+            "title": "Kategori G: Data geolokasi",
+            "examples": "Anggaran lokasi fizikal.",
+            "collected": "Ya"
+          },
+          "sensory": {
+            "title": "Kategori H: Data deria",
+            "examples": "Maklumat audio, elektronik, visual, terma, olfaktori atau maklumat yang serupa.",
+            "collected": "Tidak"
+          },
+          "professional": {
+            "title": "Kategori I: Maklumat profesional atau berkaitan pekerjaan",
+            "examples": "Sejarah pekerjaan atau penilaian prestasi semasa atau lepas.",
+            "collected": "Tidak"
+          },
+          "education": {
+            "title": "Kategori J: Maklumat pendidikan bukan awam",
+            "examples": "Rekod pendidikan yang berkaitan secara langsung dengan pelajar yang diselenggarakan oleh institusi pendidikan atau pihak yang bertindak bagi pihaknya, seperti gred, transkrip, senarai kelas, jadual pelajar, kod pengenalan pelajar, maklumat kewangan pelajar atau rekod disiplin pelajar.",
+            "collected": "Tidak"
+          },
+          "inferences": {
+            "title": "Kategori K: Inferens yang diambil daripada maklumat peribadi lain",
+            "examples": "Profil yang mencerminkan pilihan, ciri, trend psikologi, kecenderungan, tingkah laku, sikap, kecerdasan, kebolehan dan bakat seseorang.",
+            "collected": "Tidak"
+          },
+          "sensitive": {
+            "title": "Kategori L: Maklumat peribadi sensitif",
+            "examples": "Maklumat log masuk dan kata laluan akaun, data geolokasi.",
+            "collected": "Ya"
+          }
+        },
+        "exclusions": {
+          "description": "Di bawah CCPA/CPRA, maklumat peribadi tidak termasuk:",
+          "publicRecords": "Maklumat yang tersedia secara umum daripada rekod kerajaan",
+          "deidentified": "Maklumat pengguna yang dinyahkenal pasti atau diagregatkan",
+          "excludedScope": "Maklumat yang dikecualikan daripada skop CCPA/CPRA, seperti:",
+          "hipaa": "Maklumat kesihatan atau perubatan yang dilindungi oleh Akta Kebolehgunaan dan Akauntabiliti Insurans Kesihatan 1996 (HIPAA) dan Akta Kerahsiaan Maklumat Perubatan California (CMIA) atau data percubaan klinikal",
+          "sectorSpecific": "Maklumat Peribadi yang dilindungi oleh undang-undang privasi khusus sektor tertentu, termasuk Akta Pelaporan Kredit Saksama (FRCA), Akta Gramm-Leach-Bliley (GLBA) atau Akta Privasi Maklumat Kewangan California (FIPA) dan Akta Perlindungan Privasi Pemandu 1994"
+        },
+        "sources": {
+          "title": "Sumber Maklumat Peribadi",
+          "description": "Kami memperoleh kategori maklumat peribadi yang disenaraikan di atas daripada kategori sumber berikut:",
+          "directlyFromYou": "Terus daripada Anda.",
+          "directlyDescription": "Contohnya, daripada borang yang Anda lengkapkan pada Perkhidmatan kami, pilihan yang Anda nyatakan atau berikan melalui Perkhidmatan kami, atau daripada pembelian Anda pada Perkhidmatan kami.",
+          "indirectlyFromYou": "Secara tidak langsung daripada Anda.",
+          "indirectlyDescription": "Contohnya, daripada memerhatikan aktiviti Anda di Perkhidmatan kami.",
+          "automaticallyFromYou": "Secara automatik daripada Anda.",
+          "automaticallyDescription": "Contohnya, melalui kuki yang Kami atau Penyedia Perkhidmatan kami tetapkan pada Peranti Anda semasa Anda menavigasi Perkhidmatan kami.",
+          "fromServiceProviders": "Daripada Penyedia Perkhidmatan.",
+          "serviceProvidersDescription": "Contohnya, vendor pihak ketiga untuk memantau dan menganalisis penggunaan Perkhidmatan kami, vendor pihak ketiga untuk menyediakan pengiklanan pada Perkhidmatan kami, vendor pihak ketiga untuk menyampaikan pengiklanan yang disasarkan kepada Anda, vendor pihak ketiga untuk pemprosesan pembayaran atau vendor pihak ketiga lain yang Kami gunakan untuk menyediakan Perkhidmatan kepada Anda."
+        },
+        "usage": {
+          "title": "Penggunaan Maklumat Peribadi",
+          "description": "Kami mungkin menggunakan atau mendedahkan maklumat peribadi yang Kami kumpulkan untuk \"tujuan perniagaan\" atau \"tujuan komersial\" (seperti yang ditakrifkan di bawah CCPA/CPRA), yang mungkin termasuk contoh berikut:",
+          "operateService": "Untuk mengendalikan Perkhidmatan kami dan menyediakan Perkhidmatan Kami kepada Anda.",
+          "provideSupport": "Untuk memberi anda sokongan dan menjawab pertanyaan anda, termasuk untuk menyiasat dan menangani kebimbangan anda serta memantau dan menambah baik Perkhidmatan kami.",
+          "fulfillReason": "Untuk memenuhi atau memenuhi sebab anda memberikan maklumat tersebut. Contohnya, jika Anda berkongsi maklumat hubungan Anda untuk bertanya soalan tentang Perkhidmatan kami, Kami akan menggunakan maklumat peribadi tersebut untuk menjawab pertanyaan Anda. Jika Anda memberikan maklumat peribadi Anda untuk membeli produk atau perkhidmatan, Kami akan menggunakan maklumat tersebut untuk memproses pembayaran Anda dan memudahkan penghantaran.",
+          "lawEnforcement": "Untuk menjawab permintaan penguatkuasaan undang-undang dan seperti yang dikehendaki oleh undang-undang, perintah mahkamah atau peraturan kerajaan yang terpakai.",
+          "asDescribed": "Seperti yang diterangkan kepada Anda semasa mengumpul maklumat peribadi Anda atau seperti yang dinyatakan dalam CCPA/CPRA.",
+          "administrative": "Untuk tujuan pentadbiran dan pengauditan dalaman.",
+          "securityIncidents": "Untuk mengesan insiden keselamatan dan melindungi daripada aktiviti berniat jahat, mengelirukan, penipuan atau menyalahi undang-undang, termasuk, apabila perlu, untuk mendakwa mereka yang bertanggungjawab atas aktiviti tersebut.",
+          "otherUses": "Kegunaan sekali sahaja yang lain.",
+          "noteExamples": "Sila ambil perhatian bahawa contoh yang diberikan di atas adalah ilustrasi dan tidak bertujuan untuk menjadi menyeluruh. Untuk maklumat lanjut tentang cara kami menggunakan maklumat ini, sila rujuk bahagian \"Penggunaan Data Peribadi Anda\".",
+          "additionalCategories": "Jika Kami memutuskan untuk mengumpul kategori maklumat peribadi tambahan atau menggunakan maklumat peribadi yang Kami kumpulkan untuk tujuan yang berbeza secara material, tidak berkaitan atau tidak serasi, Kami akan mengemas kini Dasar Privasi ini."
+        },
+        "ccpaDisclosure": {
+          "title": "Pendedahan Maklumat Peribadi",
+          "description": "Kami mungkin menggunakan atau mendedahkan dan mungkin telah menggunakan atau mendedahkan dalam tempoh dua belas (12) bulan yang lalu kategori maklumat peribadi berikut untuk tujuan perniagaan atau komersial:",
+          "categoryA": "Kategori A: Pengenal pasti",
+          "categoryB": "Kategori B: Kategori maklumat peribadi yang disenaraikan dalam statut Rekod Pelanggan California",
+          "categoryD": "Kategori D: Maklumat komersial",
+          "categoryF": "Kategori F: Internet atau aktiviti rangkaian lain yang serupa",
+          "categoryG": "Kategori G: Data geolokasi",
+          "categoryL": "Kategori L: Maklumat peribadi sensitif",
+          "noteCategories": "Sila ambil perhatian bahawa kategori yang disenaraikan di atas adalah kategori yang ditakrifkan dalam CCPA/CPRA. Ini tidak bermakna semua contoh kategori maklumat peribadi tersebut sebenarnya telah didedahkan, tetapi mencerminkan kepercayaan kami yang baik setahu kami bahawa sebahagian daripada maklumat tersebut daripada kategori yang berkenaan mungkin telah dan mungkin telah didedahkan.",
+          "contractRequirement": "Apabila Kami mendedahkan maklumat peribadi untuk tujuan perniagaan atau tujuan komersial, Kami memeterai kontrak yang menerangkan tujuan tersebut dan menghendaki penerima merahsiakan maklumat peribadi tersebut dan tidak menggunakannya untuk sebarang tujuan kecuali melaksanakan kontrak."
+        },
+        "sharing": {
+          "title": "Bahagian Maklumat Peribadi",
+          "description": "Kami mungkin berkongsi, dan telah berkongsi dalam dua belas (12) bulan terakhir, maklumat peribadi anda yang dikenal pasti dalam kategori di atas dengan kategori pihak ketiga berikut:",
+          "recipients": {
+            "serviceProviders": "Pembekal Perkhidmatan",
+            "paymentProcessors": "Pemproses pembayaran",
+            "affiliates": "Ahli gabungan kami",
+            "businessPartners": "Rakan niaga kami",
+            "authorizedVendors": "Vendor pihak ketiga yang Anda atau ejen Anda benarkan Kami untuk mendedahkan maklumat peribadi Anda berkaitan dengan produk atau perkhidmatan yang Kami sediakan kepada Anda"
+          }
+        },
+        "sale": {
+          "title": "Penjualan Maklumat Peribadi",
+          "definition": "Seperti yang ditakrifkan dalam CCPA/CPRA, \"menjual\" dan \"menjual\" bermaksud menjual, menyewa, melepaskan, mendedahkan, menyebarkan, menyediakan, memindahkan atau menyampaikan maklumat peribadi Pengguna secara lisan, bertulis atau melalui elektronik atau cara lain kepada pihak ketiga untuk pertimbangan yang berharga. Ini bermakna Kami mungkin telah menerima beberapa jenis faedah sebagai balasan untuk berkongsi maklumat peribadi, tetapi tidak semestinya faedah kewangan.",
+          "doNotSell": "Kami tidak menjual maklumat peribadi seperti yang difahami secara umum tentang istilah menjual. Kami membenarkan Penyedia Perkhidmatan menggunakan maklumat peribadi Anda untuk tujuan perniagaan yang diterangkan dalam Dasar Privasi Kami, untuk aktiviti seperti pengiklanan, pemasaran dan analitik, dan ini boleh dianggap sebagai penjualan di bawah CCPA/CPRA.",
+          "description": "Kami mungkin menjual dan mungkin telah menjual dalam tempoh dua belas (12) bulan yang lalu kategori maklumat peribadi berikut:",
+          "sharedCategories": {
+            "categoryA": "Kategori A: Pengenal pasti",
+            "categoryB": "Kategori B: Kategori maklumat peribadi yang disenaraikan dalam statut Rekod Pelanggan California",
+            "categoryD": "Kategori D: Maklumat komersial",
+            "categoryF": "Kategori F: Internet atau aktiviti rangkaian lain yang serupa",
+            "categoryG": "Kategori G: Data geolokasi",
+            "categoryL": "Kategori L: Maklumat peribadi sensitif"
+          }
+        },
+        "userRights": {
+          "title": "Hak Anda di bawah CCPA/CPRA",
+          "description": "CCPA/CPRA memberikan penduduk California hak khusus mengenai maklumat peribadi mereka. Jika Anda seorang penduduk California, Anda mempunyai hak berikut:",
+          "rightToNotice": "Hak untuk perasan.",
+          "rightToNoticeDescription": "Anda berhak untuk dimaklumkan tentang kategori Data Peribadi yang dikumpul dan tujuan Data Peribadi tersebut digunakan.",
+          "disclosureItems": {
+            "categoriesCollected": "Kategori maklumat peribadi yang Kami kumpulkan tentang Anda",
+            "sources": "Kategori sumber untuk maklumat peribadi yang Kami kumpulkan tentang Anda",
+            "purposes": "Tujuan perniagaan atau komersial kami untuk mengumpul atau menjual maklumat peribadi tersebut",
+            "thirdParties": "Kategori pihak ketiga yang Kami kongsikan maklumat peribadi tersebut",
+            "specificPieces": "Maklumat peribadi khusus yang Kami kumpulkan tentang Anda",
+            "soldDisclosed": "Jika kami menjual maklumat peribadi Anda atau mendedahkan maklumat peribadi Anda untuk tujuan perniagaan, Kami akan mendedahkan kepada Anda kategori maklumat peribadi yang dijual dan didedahkan."
+          },
+          "rightToOptOut": "Hak untuk mengatakan tidak kepada penjualan atau perkongsian Data Peribadi (pilihan keluar).",
+          "rightToOptOutDescription": "Anda berhak untuk mengarahkan Kami supaya tidak menjual maklumat peribadi Anda. Untuk mengemukakan permintaan untuk tidak menyertai, sila lihat bahagian \"Jangan Jual Maklumat Peribadi Saya\" atau hubungi Kami.",
+          "doNotSellSection": "Jangan Jual Maklumat Peribadi Saya",
+          "rightToCorrect": "Hak untuk membetulkan Data Peribadi.",
+          "rightToCorrectDescription": "Anda berhak untuk membetulkan atau memperbetulkan sebarang maklumat peribadi yang tidak tepat tentang Anda yang Kami kumpulkan. Sebaik sahaja Kami menerima dan mengesahkan permintaan Anda, Kami akan menggunakan usaha yang munasabah secara komersial untuk membetulkan (dan mengarahkan Penyedia Perkhidmatan kami untuk membetulkan) maklumat peribadi Anda, melainkan terdapat pengecualian.",
+          "rightToLimit": "Hak untuk mengehadkan penggunaan dan pendedahan Data Peribadi yang sensitif.",
+          "rightToLimitDescription": "Anda berhak untuk meminta untuk mengehadkan penggunaan atau pendedahan maklumat peribadi sensitif tertentu yang Kami kumpulkan tentang Anda, melainkan terdapat pengecualian. Untuk mengemukakannya, sila lihat bahagian \"Hadkan Penggunaan atau Pendedahan Maklumat Peribadi Sensitif Saya\" atau hubungi Kami.",
+          "limitSensitiveSection": "Hadkan Penggunaan atau Pendedahan Maklumat Peribadi Sensitif Saya",
+          "rightToDelete": "Hak untuk memadam Data Peribadi.",
+          "rightToDeleteDescription": "Anda berhak untuk meminta pemadaman Data Peribadi Anda dalam keadaan tertentu, tertakluk kepada pengecualian tertentu. Sebaik sahaja Kami menerima dan mengesahkan permintaan Anda, Kami akan memadam (dan mengarahkan Penyedia Perkhidmatan Kami untuk memadam) maklumat peribadi Anda daripada rekod kami, melainkan terdapat pengecualian.",
+          "rightNonDiscrimination": "Hak untuk tidak didiskriminasi.",
+          "rightNonDiscriminationDescription": "Anda berhak untuk tidak didiskriminasi kerana melaksanakan mana-mana hak pengguna Anda, termasuk dengan menafikan barangan atau perkhidmatan, mengenakan harga yang berbeza, menyediakan tahap perkhidmatan yang berbeza, atau mencadangkan harga atau tahap perkhidmatan yang berbeza."
+        },
+        "exercisingRights": {
+          "title": "Melaksanakan Hak Perlindungan Data CCPA/CPRA Anda",
+          "intro": "Untuk melaksanakan mana-mana hak Anda di bawah CCPA/CPRA, dan jika Anda seorang penduduk California, Anda boleh menghubungi Kami menggunakan maklumat yang diberikan di bawah.",
+          "authorization": "Hanya Anda, atau seseorang yang berdaftar dengan Setiausaha Negara California yang Anda benarkan untuk bertindak bagi pihak Anda, boleh membuat permintaan yang boleh disahkan berkaitan dengan maklumat peribadi Anda.",
+          "requestRequirements": "Permintaan anda kepada Kami mesti:",
+          "requirements": {
+            "verify": "Berikan maklumat yang mencukupi yang membolehkan Kami mengesahkan secara munasabah bahawa Anda adalah orang yang Kami kumpulkan maklumat peribadi atau wakil yang diberi kuasa",
+            "describe": "Huraikan permintaan Anda dengan butiran yang mencukupi yang membolehkan Kami memahami, menilai dan memberi respons yang sewajarnya"
+          },
+          "verification": "Kami tidak dapat menjawab permintaan Anda atau memberikan Anda maklumat yang diperlukan jika Kami tidak dapat mengesahkan identiti atau kebenaran Anda untuk membuat permintaan tersebut dan mengesahkan bahawa maklumat peribadi tersebut berkaitan dengan Anda.",
+          "response": "Kami akan mendedahkan dan menyampaikan maklumat yang diperlukan secara percuma dalam tempoh 45 hari selepas menerima permintaan anda yang boleh disahkan. Tempoh masa untuk memberikan maklumat yang diperlukan boleh dilanjutkan sekali lagi selama 45 hari apabila perlu dan dengan notis terlebih dahulu.",
+          "dataPortability": "Bagi permintaan kebolehgunaan data, Kami akan memilih format untuk memberikan maklumat peribadi Anda yang mudah digunakan dan membolehkan Anda menghantar maklumat daripada satu entiti ke entiti lain tanpa halangan."
+        },
+        "doNotSell": {
+          "title": "Jangan Jual Maklumat Peribadi Saya",
+          "definition": "Seperti yang ditakrifkan dalam CCPA/CPRA, \"menjual\" dan \"menjual\" bermaksud menjual, menyewa, melepaskan, mendedahkan, menyebarkan, menyediakan, memindahkan atau menyampaikan maklumat peribadi Pengguna secara lisan, bertulis atau melalui elektronik atau cara lain kepada pihak ketiga untuk pertimbangan yang berharga. Ini bermakna Kami mungkin telah menerima beberapa jenis faedah sebagai balasan untuk berkongsi maklumat peribadi, tetapi tidak semestinya faedah kewangan.",
+          "policy": "Kami tidak menjual maklumat peribadi seperti yang difahami secara umum tentang istilah menjual. Kami membenarkan Penyedia Perkhidmatan menggunakan maklumat peribadi Anda untuk tujuan perniagaan yang diterangkan dalam Dasar Privasi Kami, untuk aktiviti seperti pengiklanan, pemasaran dan analitik, dan ini boleh dianggap sebagai penjualan di bawah CCPA/CPRA.",
+          "optOutRight": "Anda berhak untuk menarik diri daripada penjualan maklumat peribadi Anda. Sebaik sahaja Kami menerima dan mengesahkan permintaan pengguna yang boleh disahkan daripada Anda, kami akan berhenti menjual maklumat peribadi Anda. Untuk melaksanakan hak Anda untuk menarik diri, sila hubungi Kami.",
+          "serviceProviders": "Penyedia Perkhidmatan yang kami bekerjasama (contohnya, rakan kongsi analitik atau pengiklanan kami) mungkin menggunakan teknologi pada Perkhidmatan yang menjual maklumat peribadi seperti yang ditakrifkan oleh undang-undang CCPA/CPRA. Jika anda ingin memilih untuk tidak menggunakan maklumat peribadi Anda untuk tujuan pengiklanan berasaskan minat dan potensi jualan ini seperti yang ditakrifkan di bawah undang-undang CCPA/CPRA, anda boleh berbuat demikian dengan mengikuti arahan di bawah.",
+          "browserNote": "Sila ambil perhatian bahawa sebarang pilihan keluar adalah khusus untuk pelayar yang Anda gunakan. Anda mungkin perlu memilih keluar pada setiap pelayar yang Anda gunakan.",
+          "websiteTitle": "Laman Web",
+          "websiteInstructions": "Jika berkenaan, klik butang \"Keutamaan Privasi\", \"Kemas Kini Keutamaan Privasi\" atau \"Jangan Jual Maklumat Peribadi Saya\" yang disenaraikan pada Perkhidmatan untuk menyemak pilihan privasi anda dan memilih untuk tidak menggunakan kuki dan teknologi lain yang mungkin Kami gunakan. Sila ambil perhatian bahawa Anda perlu memilih untuk tidak menggunakan setiap pelayar yang Anda gunakan untuk mengakses Perkhidmatan."
+        },
+        "mobileOptOut": {
+          "title": "Peranti Mudah Alih",
+          "description": "Peranti mudah alih anda mungkin memberi Anda keupayaan untuk menarik diri daripada penggunaan maklumat tentang aplikasi yang Anda gunakan untuk menayangkan iklan yang disasarkan kepada minat Anda:",
+          "androidAds": "\"Pilih keluar daripada Iklan Berasaskan Minat\" atau \"Pilih keluar daripada Pemperibadian Iklan\" pada peranti Android",
+          "iosTracking": "\"Hadkan Penjejakan Iklan\" pada peranti iOS",
+          "locationNote": "Anda juga boleh menghentikan pengumpulan maklumat lokasi daripada peranti mudah alih anda dengan menukar pilihan pada peranti mudah alih anda."
+        },
+        "sensitiveInfo": {
+          "title": "Hadkan Penggunaan atau Pendedahan Maklumat Peribadi Sensitif Saya",
+          "description": "Jika Anda seorang penduduk California, Anda berhak untuk mengehadkan penggunaan dan pendedahan maklumat peribadi sensitif Anda kepada penggunaan yang diperlukan untuk melaksanakan perkhidmatan atau menyediakan barangan yang dijangkakan secara munasabah oleh Pengguna biasa yang meminta perkhidmatan atau barangan tersebut. Kami mengumpul, menggunakan dan mendedahkan maklumat peribadi sensitif dengan cara yang diperlukan untuk menyediakan Perkhidmatan. Untuk maklumat lanjut tentang cara Kami menggunakan maklumat peribadi Anda, sila lihat bahagian \"Penggunaan Data Peribadi Anda\" atau hubungi kami."
+        },
+        "caloppaPolicy": {
+          "doNotTrackResponse": "Perkhidmatan kami tidak bertindak balas terhadap isyarat Jangan Jejaki.",
+          "thirdPartyTracking": "Walau bagaimanapun, sesetengah laman web pihak ketiga menjejaki aktiviti pelayaran Anda. Jika Anda melawati laman web sedemikian, Anda boleh menetapkan pilihan Anda dalam pelayar web Anda untuk memaklumkan laman web bahawa Anda tidak mahu dijejaki. Anda boleh mendayakan atau melumpuhkan DNT dengan melawati halaman pilihan atau tetapan pelayar web Anda."
+        },
+        "caloppa": {
+          "title": "Dasar \"Jangan Jejaki\" seperti yang Diwajibkan oleh Akta Perlindungan Privasi Dalam Talian California (CalOPPA)"
+        },
+        "saleNote": {
+          "categoriesListed": "Sila ambil perhatian bahawa kategori yang disenaraikan di atas adalah kategori yang ditakrifkan dalam CCPA/CPRA. Ini tidak bermakna semua contoh kategori maklumat peribadi tersebut sebenarnya telah dijual, tetapi mencerminkan kepercayaan kami yang baik setahu kami bahawa sebahagian daripada maklumat tersebut daripada kategori yang berkenaan mungkin dan mungkin telah dikongsi untuk nilai sebagai balasan."
+        },
+        "minorsUnder16": {
+          "title": "Penjualan Maklumat Peribadi Kanak-kanak Bawah Umur 16 Tahun",
+          "description1": "Kami tidak sengaja mengumpul maklumat peribadi daripada kanak-kanak bawah umur 16 tahun melalui Perkhidmatan kami, walaupun laman web pihak ketiga tertentu yang kami pautkan mungkin berbuat demikian. Laman web pihak ketiga ini mempunyai terma penggunaan dan dasar privasi mereka sendiri dan Kami menggalakkan ibu bapa dan penjaga sah untuk memantau penggunaan Internet anak-anak mereka dan mengarahkan anak-anak mereka untuk tidak sekali-kali memberikan maklumat di laman web lain tanpa kebenaran mereka.",
+          "description2": "Kami tidak menjual maklumat peribadi Pengguna yang Kami tahu mereka yang berumur kurang daripada 16 tahun, melainkan Kami menerima kebenaran afirmatif (\"hak untuk ikut serta\") daripada sama ada Pengguna yang berumur antara 13 dan 16 tahun, atau ibu bapa atau penjaga Pengguna yang berumur kurang daripada 13 tahun. Pengguna yang ikut serta dalam penjualan maklumat peribadi boleh memilih untuk tidak menyertai jualan akan datang pada bila-bila masa. Untuk melaksanakan hak untuk tidak menyertai, Anda (atau wakil sah Anda) boleh mengemukakan permintaan kepada Kami dengan menghubungi Kami.",
+          "description3": "Jika Anda mempunyai sebab untuk mempercayai bahawa kanak-kanak di bawah umur 13 tahun (atau 16 tahun) telah memberikan Kami maklumat peribadi, sila hubungi Kami dengan butiran yang mencukupi untuk membolehkan Kami memadamkan maklumat tersebut."
+        },
+        "optOutPlatforms": {
+          "description": "Selain itu, Anda boleh memilih untuk tidak menerima iklan yang diperibadikan seperti yang disiarkan oleh Penyedia Perkhidmatan kami dengan mengikuti arahan kami yang dipaparkan pada Perkhidmatan:",
+          "nai": "Platform pilihan keluar NAI:",
+          "edaa": "Platform pilihan keluar EDAA:",
+          "daa": "Platform pilihan keluar DAA:",
+          "cookieNote": "Pilihan keluar akan meletakkan kuki pada komputer Anda yang unik kepada pelayar yang Anda gunakan untuk memilih keluar. Jika anda menukar pelayar atau memadam kuki yang disimpan oleh pelayar anda, Anda perlu memilih keluar sekali lagi."
+        },
+        "rights": {
+          "rightToKnowAccess": "Hak untuk mengetahui/akses.",
+          "rightToKnowAccessDescription": "Di bawah CCPA/CPRA, Anda berhak meminta Kami mendedahkan maklumat kepada Anda tentang pengumpulan, penggunaan, penjualan, pendedahan untuk tujuan perniagaan dan perkongsian maklumat peribadi Kami. Sebaik sahaja Kami menerima dan mengesahkan permintaan Anda, Kami akan mendedahkan kepada Anda:"
+        }
+      },
+      "optOut": {
+        "androidAds": "\"Pilih keluar daripada Iklan Berasaskan Minat\" atau \"Pilih keluar daripada Pemperibadian Iklan\" pada peranti Android",
+        "androidInterestBased": "Pilih untuk tidak menggunakan Iklan Berasaskan Minat",
+        "androidPersonalization": "Pilih untuk tidak menyertai Pemperibadian Iklan",
+        "iosTracking": "\"Hadkan Penjejakan Iklan\" pada peranti iOS",
+        "iosLimit": "Hadkan Penjejakan Iklan"
+      },
+      "dataTypes": {
+        "email": "Alamat e-mel",
+        "name": "Nama pertama dan nama keluarga",
+        "phone": "Nombor telefon",
+        "address": "Alamat, Negeri, Wilayah, Poskod, Bandar",
+        "usageData": "Data Penggunaan"
+      },
+      "socialMedia": {
+        "google": "Google",
+        "facebook": "Facebook",
+        "apple": "Epal"
+      },
+      "appPermissions": {
+        "location": "Maklumat mengenai lokasi anda (untuk pengesanan jarak Bluetooth )",
+        "bluetooth": "Maklumat peranti Bluetooth dan pengimbasan peranti berdekatan",
+        "camera": "Maklumat daripada kamera Peranti anda untuk penciptaan avatar",
+        "contacts": "Kenalan peranti (pilihan, untuk mencari rakan)"
+      }
+    },
+    "termsOfUse": {
+      "title": "Syarat Penggunaan",
+      "subtitle": "Memahami hak dan tanggungjawab anda semasa menggunakan perkhidmatan Ringdy .",
+      "lastUpdated": "Kemas kini terakhir: Januari 2025",
+      "introduction": "Sila baca terma dan syarat ini dengan teliti sebelum menggunakan Perkhidmatan Kami.",
+      "sections": {
+        "interpretationTitle": "Tafsiran dan Definisi",
+        "interpretationSubtitle": "Tafsiran",
+        "interpretationText": "Perkataan yang huruf awalnya ditulis dengan huruf besar mempunyai makna yang ditakrifkan di bawah syarat-syarat berikut. Takrifan berikut hendaklah mempunyai makna yang sama tanpa mengira sama ada ia muncul dalam bentuk tunggal atau jamak.",
+        "definitionsSubtitle": "Definisi",
+        "definitionsText": "Untuk tujuan Terma dan Syarat ini:",
+        "definitions": {
+          "application": "Bermaksud program perisian yang disediakan oleh Syarikat yang dimuat turun oleh Anda pada mana-mana peranti elektronik, bernama Ringdy .",
+          "applicationStore": "Bermaksud perkhidmatan pengedaran digital yang dikendalikan dan dibangunkan oleh Apple Inc. (Apple App Store) atau Google Inc. (Google Play Store) di mana Aplikasi telah dimuat turun.",
+          "affiliate": "Bermaksud entiti yang mengawal, dikawal oleh atau berada di bawah kawalan bersama dengan sesuatu pihak, yang mana \"kawalan\" bermaksud pemilikan 50% atau lebih saham, kepentingan ekuiti atau sekuriti lain yang berhak untuk mengundi bagi pemilihan pengarah atau pihak berkuasa pengurusan yang lain.",
+          "account": "Bermaksud akaun unik yang dibuat untuk Anda mengakses Perkhidmatan kami atau sebahagian daripada Perkhidmatan kami.",
+          "country": "Merujuk kepada: Vietnam",
+          "company": "(dirujuk sama ada sebagai \"Syarikat\", \"Kami\", \"Kami\" atau \"Kami\" dalam Perjanjian ini) merujuk kepada Ringdy .",
+          "content": "Merujuk kepada kandungan seperti teks, imej atau maklumat lain yang boleh disiarkan, dimuat naik, dipautkan atau disediakan oleh Anda, tanpa mengira bentuk kandungan tersebut.",
+          "device": "Bermaksud sebarang peranti yang boleh mengakses Perkhidmatan seperti komputer, telefon pintar atau tablet digital.",
+          "feedback": "Bermaksud maklum balas, inovasi atau cadangan yang dihantar oleh Anda mengenai atribut, prestasi atau ciri-ciri Perkhidmatan kami.",
+          "freeTrial": "Merujuk kepada tempoh masa terhad yang mungkin percuma apabila membeli Langganan.",
+          "goods": "Rujuk item yang ditawarkan untuk dijual pada Perkhidmatan.",
+          "inAppPurchase": "Merujuk kepada pembelian produk, item, perkhidmatan atau Langganan yang dibuat melalui Aplikasi dan tertakluk kepada Terma dan Syarat ini dan/atau terma dan syarat Gedung Aplikasi sendiri.",
+          "orders": "Bermaksud permintaan oleh Anda untuk membeli Barangan daripada Kami.",
+          "promotions": "Rujuk peraduan, cabutan bertuah atau promosi lain yang ditawarkan melalui Perkhidmatan.",
+          "service": "Merujuk kepada Permohonan.",
+          "subscriptions": "Rujuk perkhidmatan atau akses kepada Perkhidmatan yang ditawarkan secara langganan oleh Syarikat kepada Anda.",
+          "termsAndConditions": "(juga dirujuk sebagai \"Syarat\") bermaksud Terma dan Syarat ini yang membentuk keseluruhan perjanjian antara Anda dan Syarikat mengenai penggunaan Perkhidmatan.",
+          "thirdPartySocialMedia": "Bermaksud sebarang perkhidmatan atau kandungan (termasuk data, maklumat, produk atau perkhidmatan) yang disediakan oleh pihak ketiga yang mungkin dipaparkan, disertakan atau disediakan oleh Perkhidmatan.",
+          "you": "Bermaksud individu yang mengakses atau menggunakan Perkhidmatan, atau syarikat, atau entiti undang-undang lain yang bagi pihak individu tersebut mengakses atau menggunakan Perkhidmatan, sebagaimana yang berkenaan."
+        },
+        "definitionLabels": {
+          "application": "Permohonan:",
+          "applicationStore": "Kedai Aplikasi:",
+          "affiliate": "Ahli Gabungan:",
+          "account": "Akaun:",
+          "country": "Negara:",
+          "company": "Syarikat:",
+          "content": "Kandungan:",
+          "device": "Peranti:",
+          "feedback": "Maklum balas:",
+          "freeTrial": "Percubaan Percuma:",
+          "goods": "Barangan:",
+          "inAppPurchase": "Pembelian Dalam Aplikasi:",
+          "orders": "Pesanan:",
+          "promotions": "Promosi:",
+          "service": "Perkhidmatan:",
+          "subscriptions": "Langganan:",
+          "termsAndConditions": "Terma dan Syarat:",
+          "thirdPartySocialMedia": "Perkhidmatan Media Sosial Pihak Ketiga:",
+          "you": "Anda:"
+        }
+      },
+      "acknowledgment": {
+        "title": "Pengakuan",
+        "description1": "Ini adalah Terma dan Syarat yang mengawal penggunaan Perkhidmatan ini dan perjanjian yang beroperasi antara Anda dan Syarikat. Terma dan Syarat ini menetapkan hak dan kewajipan semua pengguna mengenai penggunaan Perkhidmatan.",
+        "description2": "Akses dan penggunaan Perkhidmatan ini bergantung pada penerimaan dan pematuhan Anda terhadap Terma dan Syarat ini. Terma dan Syarat ini terpakai kepada semua pelawat, pengguna dan orang lain yang mengakses atau menggunakan Perkhidmatan ini.",
+        "description3": "Dengan mengakses atau menggunakan Perkhidmatan ini, Anda bersetuju untuk terikat dengan Terma dan Syarat ini. Jika Anda tidak bersetuju dengan mana-mana bahagian Terma dan Syarat ini, maka Anda tidak boleh mengakses Perkhidmatan ini.",
+        "description4": "Anda menyatakan bahawa anda berumur lebih dari 18 tahun. Syarikat tidak membenarkan mereka yang berumur di bawah 18 tahun menggunakan Perkhidmatan ini.",
+        "description5": "Akses dan penggunaan Perkhidmatan ini juga bergantung pada penerimaan dan pematuhan Anda terhadap Dasar Privasi Syarikat. Dasar Privasi kami menerangkan dasar dan prosedur Kami mengenai pengumpulan, penggunaan dan pendedahan maklumat peribadi Anda apabila Anda menggunakan Aplikasi dan memberitahu Anda tentang hak privasi Anda dan bagaimana undang-undang melindungi Anda. Sila baca Dasar Privasi Kami dengan teliti sebelum menggunakan Perkhidmatan Kami.",
+        "bluetoothNotice": "Dengan menggunakan Perkhidmatan kami, anda mengakui bahawa Aplikasi ini menggunakan Bluetooth dan perkhidmatan lokasi untuk menemui dan berhubung dengan pengguna berdekatan. Anda bersetuju dengan penggunaan teknologi sedemikian oleh kami untuk menyediakan ciri berasaskan jarak.",
+        "bluetoothTitle": "Perkhidmatan Bluetooth & Lokasi"
+      },
+      "orders": {
+        "title": "Membeli Barangan Digital",
+        "introduction": "Dengan membeli Discovery Pass, Night Pass atau Langganan melalui Perkhidmatan ini, Anda menjamin bahawa Anda layak secara sah untuk memasuki kontrak yang mengikat.",
+        "yourInformation": {
+          "title": "Maklumat Anda",
+          "description1": "Pembayaran untuk Discovery Passes, Night Pass dan Langganan diproses sepenuhnya melalui gedung aplikasi peranti anda (Google Play atau App Store). Kami tidak mengumpul atau menyimpan butiran kad pembayaran anda.",
+          "description2": "Anda menyatakan dan menjamin bahawa: (i) Anda mempunyai hak undang-undang untuk menggunakan mana-mana kaedah pembayaran yang berdaftar dengan akaun gedung aplikasi Anda; dan (ii) maklumat yang Anda berikan kepada gedung aplikasi adalah benar, betul dan lengkap.",
+          "description3": "Semua maklumat pembayaran dihantar terus ke Google Play atau App Store, bukan kepada Syarikat."
+        },
+        "cancellation": {
+          "title": "Pembatalan Pembelian",
+          "description1": "Kami berhak untuk menolak atau membatalkan pembelian Anda pada bila-bila masa atas sebab-sebab tertentu termasuk tetapi tidak terhad kepada:",
+          "reasons": {
+            "availability": "Ketersediaan barang",
+            "errors": "Kesilapan dalam penerangan atau harga sesuatu barang",
+            "orderErrors": "Kesilapan dalam pembelian anda"
+          },
+          "description2": "Kami berhak untuk menolak atau membatalkan pembelian Anda sekiranya disyaki berlaku penipuan atau transaksi tanpa kebenaran atau haram.",
+          "yourRights": {
+            "title": "Hak Pembatalan Anda",
+            "description1": "Pas Discovery, Night Pass dan barangan digital lain yang boleh digunakan akan digunakan setelah ditebus dan secara amnya tidak boleh dipulangkan.",
+            "description2": "Amalan bayaran balik kami untuk pembelian digital diterangkan dalam bahagian Pembelian Dalam Apl dan Bayaran Balik di bawah.",
+            "description3": "Sebaik sahaja Pas Penemuan atau Night Pass telah ditebus untuk membuka kunci tempat, ia tidak boleh dibatalkan atau dikembalikan wangnya.",
+            "description4": "Permintaan bayaran balik yang layak dikendalikan mengikut dasar bayaran balik Gedung Aplikasi, seperti yang diterangkan dalam bahagian Bayaran Balik di bawah.",
+            "description5": "Anda tidak akan mempunyai hak untuk membatalkan pembelian untuk item berikut:",
+            "exceptions": {
+              "personalized": "Item yang telah digunakan pada akaun Anda atau digunakan, seperti Discovery Pass yang digunakan untuk membuka kunci tempat.",
+              "perishable": "Pas terhad masa, seperti Night Pass , sebaik sahaja tempoh aktifnya bermula.",
+              "hygiene": "Tempoh langganan yang mana Perkhidmatan telah pun disediakan kepada Anda.",
+              "mixed": "Barangan digital digabungkan dengan barang lain yang dibeli sebagai sebahagian daripada satu pakej.",
+              "digital": "Pembekalan kandungan digital yang tidak dibekalkan pada medium nyata jika persembahan telah dimulakan dengan persetujuan nyata Anda terlebih dahulu dan Anda telah mengakui kehilangan hak pembatalan Anda."
+            }
+          }
+        },
+        "availability": {
+          "title": "Ketersediaan, Kesilapan dan Ketidaktepatan",
+          "description1": "Kami sentiasa mengemas kini tawaran Pas Discovery, Night Pass dan pelan Langganan kami pada Perkhidmatan. Ini mungkin salah harga, diterangkan secara tidak tepat atau tidak tersedia, dan Kami mungkin mengalami kelewatan dalam mengemas kini maklumat ini.",
+          "description2": "Kami tidak boleh dan tidak menjamin ketepatan atau kelengkapan sebarang maklumat, termasuk harga dan ketersediaan. Kami berhak untuk mengubah atau mengemas kini maklumat dan membetulkan ralat, ketidaktepatan atau peninggalan pada bila-bila masa tanpa notis terlebih dahulu."
+        },
+        "pricing": {
+          "title": "Dasar Harga",
+          "description1": "Syarikat berhak untuk menyemak semula harga untuk Pas Discovery, Night Pass dan Langganan pada bila-bila masa sebelum menerima pembelian.",
+          "description2": "Harga ditetapkan dan dipaparkan melalui gedung aplikasi peranti anda (Google Play atau App Store) dan mungkin berbeza mengikut wilayah dan mata wang."
+        },
+        "payments": {
+          "title": "Pembayaran",
+          "description1": "Semua pembelian diproses melalui gedung aplikasi peranti anda (Google Play atau App Store) menggunakan kaedah pembayaran yang disokongnya.",
+          "description2": "Kaedah pembayaran tertakluk kepada semakan pengesahan dan kebenaran oleh gedung aplikasi dan penerbit kad Anda. Jika kebenaran tidak diterima, Syarikat tidak bertanggungjawab atas sebarang kelewatan atau kegagalan untuk menghantar pembelian Anda."
+        }
+      },
+      "subscriptions": {
+        "title": "Langganan",
+        "period": {
+          "title": "Tempoh Langganan",
+          "description1": "Perkhidmatan atau beberapa bahagian Perkhidmatan hanya tersedia dengan Langganan berbayar. Anda akan dibilkan terlebih dahulu secara berulang dan berkala (seperti harian, mingguan, bulanan atau tahunan), bergantung pada jenis pelan Langganan yang anda pilih semasa membeli Langganan.",
+          "description2": "Pada akhir setiap tempoh, Langganan Anda akan diperbaharui secara automatik di bawah syarat yang sama melainkan Anda membatalkannya atau Syarikat membatalkannya."
+        },
+        "cancellations": {
+          "title": "Pembatalan Langganan",
+          "description1": "Anda boleh membatalkan pembaharuan Langganan Anda sama ada melalui halaman tetapan Akaun Anda atau dengan menghubungi Syarikat. Anda tidak akan menerima bayaran balik untuk yuran yang telah Anda bayar untuk tempoh Langganan semasa Anda dan Anda akan dapat mengakses Perkhidmatan sehingga akhir tempoh Langganan semasa Anda.",
+          "description2": "Jika Langganan telah dibuat melalui Pembelian Dalam Apl, Anda boleh membatalkan pembaharuan Langganan Anda dengan Gedung Aplikasi."
+        },
+        "billing": {
+          "title": "Pengebilan",
+          "description1": "Anda hendaklah memberikan maklumat pengebilan yang tepat dan lengkap kepada Syarikat termasuk nama penuh, alamat, negeri, poskod, nombor telefon dan maklumat kaedah pembayaran yang sah.",
+          "description2": "Sekiranya pengebilan automatik gagal berlaku atas apa jua sebab, Syarikat akan mengeluarkan invois elektronik yang menunjukkan bahawa anda mesti meneruskan secara manual, dalam tarikh akhir tertentu, dengan pembayaran penuh sepadan dengan tempoh pengebilan seperti yang ditunjukkan pada invois.",
+          "description3": "Jika Langganan telah dibuat melalui Pembelian Dalam Apl, semua pengebilan dikendalikan oleh Gedung Aplikasi dan dikawal oleh terma dan syarat Gedung Aplikasi sendiri."
+        },
+        "feeChanges": {
+          "title": "Perubahan Yuran",
+          "description1": "Syarikat, mengikut budi bicara mutlaknya dan pada bila-bila masa, boleh mengubah suai yuran Langganan. Sebarang perubahan yuran Langganan akan berkuat kuasa pada akhir tempoh Langganan semasa pada masa itu.",
+          "description2": "Syarikat akan memberikan Anda notis awal yang munasabah tentang sebarang perubahan dalam yuran Langganan untuk memberi Anda peluang untuk menamatkan Langganan Anda sebelum perubahan tersebut berkuat kuasa.",
+          "description3": "Penggunaan Perkhidmatan anda yang berterusan selepas perubahan yuran Langganan berkuat kuasa merupakan persetujuan Anda untuk membayar jumlah yuran Langganan yang diubah suai."
+        },
+        "refunds": {
+          "title": "Bayaran balik",
+          "description1": "Kecuali apabila dikehendaki oleh undang-undang, yuran Langganan yang telah dibayar tidak akan dikembalikan.",
+          "description2": "Permintaan bayaran balik tertentu untuk Langganan boleh dipertimbangkan oleh Syarikat berdasarkan kes demi kes dan diberikan mengikut budi bicara mutlak Syarikat.",
+          "description3": "Jika Langganan telah dibuat melalui pembelian Dalam Apl, dasar bayaran balik Gedung Aplikasi akan terpakai. Jika Anda ingin meminta bayaran balik, Anda boleh berbuat demikian dengan menghubungi Gedung Aplikasi secara langsung."
+        },
+        "freeTrial": {
+          "title": "Percubaan Percuma",
+          "description1": "Syarikat boleh, mengikut budi bicaranya sendiri, menawarkan Langganan dengan Percubaan Percuma untuk tempoh masa yang terhad.",
+          "description2": "Anda mungkin dikehendaki memasukkan maklumat pengebilan anda untuk mendaftar bagi Percubaan Percuma.",
+          "description3": "Jika Anda memasukkan maklumat pengebilan Anda semasa mendaftar untuk Percubaan Percuma, Anda tidak akan dikenakan bayaran oleh Syarikat sehingga Percubaan Percuma tamat tempoh. Pada hari terakhir tempoh Percubaan Percuma, melainkan Anda membatalkan Langganan Anda, Anda akan dikenakan bayaran Langganan yang berkenaan secara automatik untuk jenis Langganan yang telah Anda pilih.",
+          "description4": "Pada bila-bila masa dan tanpa notis, Syarikat berhak untuk (i) mengubah suai terma dan syarat tawaran Percubaan Percuma, atau (ii) membatalkan tawaran Percubaan Percuma tersebut."
+        }
+      },
+      "inAppPurchases": {
+        "title": "Pembelian Dalam Apl",
+        "description1": "Aplikasi ini mungkin termasuk Pembelian Dalam Apl yang membolehkan anda membeli produk, perkhidmatan atau Langganan.",
+        "description2": "Maklumat lanjut tentang cara anda mungkin boleh mengurus Pembelian Dalam Apl menggunakan Peranti anda mungkin dinyatakan dalam terma dan syarat Gedung Aplikasi sendiri atau dalam tetapan Bantuan Peranti anda.",
+        "description3": "Pembelian Dalam Apl hanya boleh digunakan dalam Aplikasi. Jika anda membuat Pembelian Dalam Apl, Pembelian Dalam Apl tersebut tidak boleh dibatalkan selepas anda memulakan muat turunnya. Pembelian Dalam Apl tidak boleh ditebus dengan wang tunai atau balasan lain atau dipindahkan dengan cara lain.",
+        "description4": "Anda mengakui dan bersetuju bahawa semua proses pengebilan dan transaksi dikendalikan oleh Gedung Aplikasi tempat anda memuat turun Aplikasi dan ditadbir oleh terma dan syarat Gedung Aplikasi tersebut sendiri."
+      },
+      "promotions": {
+        "title": "Promosi",
+        "description1": "Sebarang Promosi yang disediakan melalui Perkhidmatan ini mungkin ditadbir oleh peraturan yang berasingan daripada Terma ini.",
+        "description2": "Jika Anda menyertai mana-mana Promosi, sila semak peraturan yang berkenaan serta Dasar Privasi kami. Jika peraturan untuk Promosi bercanggah dengan Terma ini, peraturan Promosi akan terpakai."
+      },
+      "userAccounts": {
+        "title": "Akaun Pengguna",
+        "description1": "Apabila Anda membuat akaun dengan Kami, Anda mesti memberikan Kami maklumat yang tepat, lengkap dan terkini pada setiap masa. Kegagalan berbuat demikian merupakan pelanggaran Terma, yang boleh mengakibatkan penamatan serta-merta akaun Anda di Perkhidmatan Kami.",
+        "description2": "Anda bertanggungjawab untuk melindungi kata laluan yang Anda gunakan untuk mengakses Perkhidmatan dan untuk sebarang aktiviti atau tindakan di bawah kata laluan Anda, sama ada kata laluan Anda adalah dengan Perkhidmatan Kami atau Perkhidmatan Media Sosial Pihak Ketiga.",
+        "description3": "Anda bersetuju untuk tidak mendedahkan kata laluan Anda kepada mana-mana pihak ketiga. Anda mesti memaklumkan Kami dengan segera sebaik sahaja mengetahui sebarang pelanggaran keselamatan atau penggunaan akaun Anda tanpa kebenaran.",
+        "description4": "Anda tidak boleh menggunakan nama orang atau entiti lain atau yang tidak tersedia secara sah untuk digunakan, nama atau tanda dagangan yang tertakluk kepada mana-mana hak orang atau entiti lain selain Anda tanpa kebenaran yang sewajarnya, atau nama yang menyinggung perasaan, lucah atau lucah sebagai nama pengguna."
+      },
+      "userConduct": {
+        "title": "Kelakuan dan Keselamatan Pengguna",
+        "zeroTolerance": {
+          "title": "Dasar Toleransi Sifar",
+          "description": "Anda bersetuju untuk tidak menggunakan Perkhidmatan ini untuk mengganggu, mengugut, mengintai atau menakut-nakutkan orang lain. Syarikat mengekalkan dasar toleransi sifar untuk tingkah laku kesat, gangguan atau pelanggaran hak atau keselamatan orang lain. Pelanggaran boleh mengakibatkan penggantungan atau penamatan akaun anda serta-merta."
+        },
+        "safetyDisclaimer": {
+          "title": "Penafian Keselamatan",
+          "description": "Perkhidmatan ini memudahkan hubungan dan komunikasi antara pengguna yang mungkin memilih untuk bertemu secara bersemuka. Kami tidak melakukan pemeriksaan latar belakang atau mengesahkan identiti pengguna. Anda bertanggungjawab sepenuhnya terhadap interaksi anda dengan orang lain. Berhati-hati, gunakan akal sehat dan ambil langkah keselamatan yang sewajarnya semasa berkomunikasi atau bertemu dengan pengguna lain di luar talian."
+        }
+      },
+      "content": {
+        "title": "Kandungan",
+        "yourRight": {
+          "title": "Hak Anda untuk Menyiarkan Kandungan",
+          "description1": "Perkhidmatan kami membenarkan Anda menyiarkan Kandungan. Anda bertanggungjawab ke atas Kandungan yang Anda siarkan ke Perkhidmatan, termasuk kesahihan, kebolehpercayaan dan kesesuaiannya.",
+          "description2": "Dengan menyiarkan Kandungan ke Perkhidmatan, Anda memberi Kami hak dan lesen untuk menggunakan, mengubah suai, melaksanakan secara terbuka, memaparkan secara terbuka, menghasilkan semula dan mengedarkan Kandungan tersebut pada dan melalui Perkhidmatan. Anda mengekalkan sebarang dan semua hak Anda terhadap sebarang Kandungan yang Anda serahkan, siarkan atau paparkan pada atau melalui Perkhidmatan dan Anda bertanggungjawab untuk melindungi hak tersebut.",
+          "description3": "Anda menyatakan dan menjamin bahawa: (i) Kandungan adalah milik Anda (Anda memilikinya) atau Anda mempunyai hak untuk menggunakannya dan memberikan Kami hak dan lesen seperti yang diperuntukkan dalam Terma ini, dan (ii) penyiaran Kandungan Anda pada atau melalui Perkhidmatan tidak melanggar hak privasi, hak publisiti, hak cipta, hak kontrak atau mana-mana hak lain mana-mana orang."
+        },
+        "restrictions": {
+          "title": "Sekatan Kandungan",
+          "description1": "Syarikat tidak bertanggungjawab terhadap kandungan pengguna Perkhidmatan. Anda secara nyata memahami dan bersetuju bahawa Anda bertanggungjawab sepenuhnya terhadap Kandungan dan untuk semua aktiviti yang berlaku di bawah akaun anda, sama ada dilakukan oleh Anda atau mana-mana orang ketiga yang menggunakan akaun Anda.",
+          "description2": "Anda tidak boleh menghantar sebarang Kandungan yang menyalahi undang-undang, menyinggung perasaan, mengganggu, bertujuan untuk menjijikkan, mengancam, memfitnah, lucah atau sebaliknya yang tidak menyenangkan. Contoh Kandungan yang tidak menyenangkan tersebut termasuk, tetapi tidak terhad kepada, yang berikut:",
+          "prohibitedContent": {
+            "unlawful": "Melanggar undang-undang atau menggalakkan aktiviti yang menyalahi undang-undang.",
+            "discriminatory": "Kandungan yang memfitnah, diskriminatif atau kesat, termasuk rujukan atau ulasan tentang agama, bangsa, orientasi seksual, jantina, asal usul negara/etnik atau kumpulan sasaran lain.",
+            "spam": "Spam, mesin – atau dijana secara rawak – yang merupakan pengiklanan tanpa kebenaran atau tidak diminta, surat berantai, sebarang bentuk permintaan tanpa kebenaran yang lain, atau sebarang bentuk loteri atau perjudian.",
+            "malware": "Mengandungi atau memasang sebarang virus, cecacing, perisian hasad, kuda trojan atau kandungan lain yang direka bentuk atau bertujuan untuk mengganggu, merosakkan atau mengehadkan fungsi sebarang perisian, perkakasan atau peralatan telekomunikasi.",
+            "infringing": "Melanggar mana-mana hak proprietari mana-mana pihak, termasuk paten, tanda dagangan, rahsia perdagangan, hak cipta, hak publisiti atau hak-hak lain.",
+            "impersonating": "Menyamar sebagai mana-mana orang atau entiti termasuk Syarikat dan pekerja atau wakilnya.",
+            "privacy": "Melanggar privasi mana-mana orang ketiga.",
+            "false": "Maklumat dan ciri-ciri palsu."
+          },
+          "description3": "Syarikat berhak, tetapi bukan kewajipan, untuk, mengikut budi bicara mutlaknya, menentukan sama ada mana-mana Kandungan sesuai dan mematuhi Terma ini. Kami boleh enggan memaparkan atau boleh mengalih keluar Kandungan, dan kami berhak untuk menggantung atau menamatkan akaun yang melanggar Terma ini atau piawaian komuniti kami."
+        },
+        "backups": {
+          "title": "Sandaran Kandungan",
+          "description1": "Walaupun sandaran Kandungan dilakukan secara berkala, Syarikat tidak menjamin tiada kehilangan atau kerosakan data.",
+          "description2": "Titik sandaran yang rosak atau tidak sah mungkin disebabkan oleh, tanpa had, Kandungan yang rosak sebelum disandarkan atau yang berubah semasa sandaran dilakukan.",
+          "description3": "Syarikat akan menyediakan sokongan dan cuba menyelesaikan masalah sebarang isu yang diketahui atau ditemui yang mungkin menjejaskan sandaran Kandungan. Tetapi Anda mengakui bahawa Syarikat tidak mempunyai liabiliti berkaitan dengan integriti Kandungan atau kegagalan untuk berjaya memulihkan Kandungan kepada keadaan yang boleh digunakan.",
+          "description4": "Anda bersetuju untuk menyimpan salinan lengkap dan tepat bagi mana-mana Kandungan di lokasi yang bebas daripada Perkhidmatan."
+        }
+      },
+      "copyright": {
+        "title": "Dasar Hak Cipta",
+        "intellectualProperty": {
+          "title": "Pelanggaran Harta Intelek",
+          "description1": "Kami menghormati hak harta intelek orang lain. Adalah menjadi dasar Kami untuk menjawab sebarang dakwaan bahawa Kandungan yang disiarkan pada Perkhidmatan melanggar hak cipta atau pelanggaran harta intelek lain oleh mana-mana orang.",
+          "description2": "Jika Anda pemilik hak cipta, atau diberi kuasa bagi pihak seseorang, dan Anda percaya bahawa karya berhak cipta telah disalin dengan cara yang merupakan pelanggaran hak cipta yang berlaku melalui Perkhidmatan, Anda mesti mengemukakan notis bertulis kepada perhatian ejen hak cipta kami melalui e-mel di support@ringdy.com dan memasukkan dalam notis Anda penerangan terperinci tentang pelanggaran yang didakwa.",
+          "description3": "Anda mungkin bertanggungjawab atas ganti rugi (termasuk kos dan yuran peguam) kerana salah menyatakan bahawa mana-mana Kandungan melanggar hak cipta Anda."
+        },
+        "dmca": {
+          "title": "Notis DMCA dan Prosedur DMCA untuk Tuntutan Pelanggaran Hak Cipta",
+          "description": "Anda boleh mengemukakan pemberitahuan menurut Akta Hak Cipta Milenium Digital (DMCA) dengan memberikan maklumat berikut secara bertulis kepada Ejen Hak Cipta kami:",
+          "requirements": {
+            "signature": "Tandatangan elektronik atau fizikal orang yang diberi kuasa untuk bertindak bagi pihak pemilik kepentingan hak cipta.",
+            "description": "Huraian tentang karya berhak cipta yang Anda dakwa telah dilanggar, termasuk URL (iaitu, alamat halaman web) lokasi tempat karya berhak cipta tersebut wujud atau salinan karya berhak cipta tersebut.",
+            "identification": "Pengenalpastian URL atau lokasi khusus lain pada Perkhidmatan tempat bahan yang Anda dakwa melanggar berada.",
+            "contact": "Alamat, nombor telefon dan alamat e-mel anda.",
+            "goodFaith": "Pernyataan oleh Anda bahawa Anda mempunyai kepercayaan yang baik bahawa penggunaan yang dipertikaikan tidak dibenarkan oleh pemilik hak cipta, ejennya atau undang-undang.",
+            "accuracy": "Satu kenyataan oleh Anda, yang dibuat di bawah hukuman sumpah bohong, bahawa maklumat di atas dalam notis Anda adalah tepat dan Anda adalah pemilik hak cipta atau diberi kuasa untuk bertindak bagi pihak pemilik hak cipta."
+          },
+          "contact": "Anda boleh menghubungi ejen hak cipta kami melalui e-mel di support@ringdy.com. Setelah menerima pemberitahuan, Syarikat akan mengambil apa sahaja tindakan, mengikut budi bicara mutlaknya, yang difikirkannya sesuai, termasuk penyingkiran kandungan yang dicabar daripada Perkhidmatan."
+        }
+      },
+      "intellectualProperty": {
+        "title": "Harta Intelek",
+        "description1": "Perkhidmatan dan kandungan asalnya (tidak termasuk Kandungan yang disediakan oleh Anda atau pengguna lain), ciri dan fungsi adalah dan akan kekal sebagai hak milik eksklusif Syarikat dan pemberi lesennya.",
+        "description2": "Perkhidmatan ini dilindungi oleh hak cipta, tanda dagangan dan undang-undang lain di Negara ini dan negara asing.",
+        "description3": "Tanda dagangan dan pakaian dagangan kami tidak boleh digunakan berkaitan dengan mana-mana produk atau perkhidmatan tanpa kebenaran bertulis terlebih dahulu daripada Syarikat."
+      },
+      "feedback": {
+        "title": "Maklum Balas Anda kepada Kami",
+        "description": "Anda menyerahkan semua hak, hak milik dan kepentingan dalam mana-mana Maklum Balas yang Anda berikan kepada Syarikat. Jika atas apa-apa sebab penyerahan tersebut tidak berkesan, Anda bersetuju untuk memberikan Syarikat hak dan lesen bukan eksklusif, kekal, tidak boleh ditarik balik, bebas royalti, seluruh dunia untuk menggunakan, menghasilkan semula, mendedahkan, mensublesenkan, mengedarkan, mengubah suai dan mengeksploitasi Maklum Balas tersebut tanpa sekatan."
+      },
+      "links": {
+        "title": "Pautan ke Laman Web Lain",
+        "description1": "Perkhidmatan kami mungkin mengandungi pautan ke laman web atau perkhidmatan pihak ketiga yang tidak dimiliki atau dikawal oleh Syarikat.",
+        "description2": "Syarikat tidak mempunyai kawalan ke atas, dan tidak bertanggungjawab terhadap, kandungan, dasar privasi atau amalan mana-mana laman web atau perkhidmatan pihak ketiga. Anda selanjutnya mengakui dan bersetuju bahawa Syarikat tidak akan bertanggungjawab atau menanggung liabiliti, secara langsung atau tidak langsung, atas sebarang kerosakan atau kerugian yang disebabkan atau didakwa disebabkan oleh atau berkaitan dengan penggunaan atau pergantungan pada mana-mana kandungan, barangan atau perkhidmatan tersebut yang tersedia pada atau melalui mana-mana laman web atau perkhidmatan tersebut.",
+        "description3": "Kami menasihatkan Anda untuk membaca terma dan syarat serta dasar privasi mana-mana laman web atau perkhidmatan pihak ketiga yang Anda lawati."
+      },
+      "termination": {
+        "title": "Penamatan",
+        "description1": "Kami boleh menamatkan atau menggantung Akaun Anda dengan serta-merta, tanpa notis atau liabiliti terlebih dahulu, atas apa jua sebab, termasuk tanpa had jika Anda melanggar Terma dan Syarat ini.",
+        "description2": "Setelah penamatan, hak Anda untuk menggunakan Perkhidmatan akan terhenti serta-merta. Jika Anda ingin menamatkan Akaun Anda, Anda boleh berhenti menggunakan Perkhidmatan.",
+        "dataDeletion": {
+          "title": "Pemadaman Data dan Penamatan Akaun",
+          "description": "Anda boleh meminta pemadaman akaun dan data peribadi anda pada bila-bila masa dengan menghubungi kami di support@ringdy.com atau dengan menggunakan mana-mana ciri pemadaman akaun dalam aplikasi. Setelah penamatan atau pemadaman, kami akan mengalih keluar atau menjadikan data peribadi anda tanpa nama mengikut undang-undang yang terpakai, kecuali setakat yang kami dikehendaki menyimpan data tertentu untuk tujuan perundangan, keselamatan atau operasi."
+        }
+      },
+      "liability": {
+        "title": "Had Liabiliti",
+        "importantNotice": "Notis Undang-undang Penting",
+        "notice": "Walau apa pun sebarang kerosakan yang mungkin Anda tanggung, keseluruhan liabiliti Syarikat dan mana-mana pembekalnya di bawah mana-mana peruntukan Terma ini dan remedi eksklusif Anda untuk semua perkara yang tersebut di atas akan terhad kepada jumlah yang sebenarnya dibayar oleh Anda melalui Perkhidmatan atau 100 USD jika Anda belum membeli apa-apa melalui Perkhidmatan.",
+        "description1": "Setakat yang dibenarkan oleh undang-undang yang terpakai, Syarikat atau pembekalnya tidak akan bertanggungjawab dalam apa jua keadaan atas sebarang ganti rugi khas, sampingan, tidak langsung atau berbangkit (termasuk, tetapi tidak terhad kepada, ganti rugi atas kehilangan keuntungan, kehilangan data atau maklumat lain, gangguan perniagaan, kecederaan diri, kehilangan privasi yang timbul daripada atau dalam apa jua cara berkaitan dengan penggunaan atau ketidakupayaan untuk menggunakan Perkhidmatan, perisian pihak ketiga dan/atau perkakasan pihak ketiga yang digunakan dengan Perkhidmatan, atau sebaliknya berkaitan dengan mana-mana peruntukan Terma ini), walaupun Syarikat atau mana-mana pembekal telah dinasihatkan tentang kemungkinan ganti rugi tersebut dan walaupun remedi gagal mencapai tujuan pentingnya.",
+        "description2": "Sesetengah negeri tidak membenarkan pengecualian jaminan tersirat atau had liabiliti untuk ganti rugi sampingan atau berbangkit, yang bermaksud bahawa beberapa had di atas mungkin tidak terpakai. Di negeri-negeri ini, liabiliti setiap pihak akan dihadkan setakat yang dibenarkan oleh undang-undang."
+      },
+      "disclaimer": {
+        "title": "Penafian \"SEBAGAIMANA ADANYA\" dan \"SEBAGAIMANA BLE \"",
+        "description1": "Perkhidmatan ini diberikan kepada Anda \"SEBAGAIMANA ADANYA\" dan \"SEBAGAIMANA BLE \" dan dengan semua kerosakan dan kecacatan tanpa sebarang jaminan. Setakat maksimum yang dibenarkan di bawah undang-undang yang terpakai, Syarikat, bagi pihaknya sendiri dan bagi pihak Gabungannya dan pemberi lesen dan penyedia perkhidmatan masing-masing, dengan nyata menafikan semua jaminan, sama ada nyata, tersirat, berkanun atau sebaliknya, berkenaan dengan Perkhidmatan, termasuk semua jaminan tersirat tentang kebolehdagangan, kesesuaian untuk tujuan tertentu, hak milik dan bukan pelanggaran, dan jaminan yang mungkin timbul daripada urusan jual beli, pelaksanaan, penggunaan atau amalan perdagangan.",
+        "description2": "Tanpa had kepada perkara yang tersebut di atas, Syarikat tidak memberikan sebarang jaminan atau aku janji, dan tidak membuat sebarang representasi bahawa Perkhidmatan tersebut akan memenuhi keperluan Anda, mencapai sebarang hasil yang dimaksudkan, serasi atau berfungsi dengan mana-mana perisian, aplikasi, sistem atau perkhidmatan lain, beroperasi tanpa gangguan, memenuhi sebarang piawaian prestasi atau kebolehpercayaan atau bebas daripada ralat atau sebarang ralat atau kecacatan boleh atau akan diperbetulkan.",
+        "description3": "Tanpa mengehadkan perkara yang tersebut di atas, Syarikat mahupun mana-mana penyedia syarikat tidak membuat sebarang representasi atau jaminan dalam apa jua bentuk, sama ada secara nyata atau tersirat: (i) mengenai operasi atau ketersediaan Perkhidmatan, atau maklumat, kandungan dan bahan atau produk yang disertakan di dalamnya; (ii) bahawa Perkhidmatan tidak akan terganggu atau bebas daripada ralat; (iii) mengenai ketepatan, kebolehpercayaan atau kebolehgunaan sebarang maklumat atau kandungan yang disediakan melalui Perkhidmatan; atau (iv) bahawa Perkhidmatan, pelayannya, kandungan atau e-mel yang dihantar daripada atau bagi pihak Syarikat adalah bebas daripada virus, skrip, trojan horse, worm, malware, bom jangka atau komponen berbahaya yang lain.",
+        "description4": "Sesetengah bidang kuasa tidak membenarkan pengecualian jenis jaminan atau batasan tertentu ke atas hak berkanun pengguna yang berkenaan, jadi sebahagian atau semua pengecualian dan batasan di atas mungkin tidak terpakai kepada Anda. Tetapi dalam kes sedemikian, pengecualian dan batasan yang dinyatakan dalam bahagian ini hendaklah terpakai setakat yang boleh dikuatkuasakan di bawah undang-undang yang terpakai."
+      },
+      "governingLaw": {
+        "title": "Undang-undang yang Mentadbir",
+        "description": "Undang-undang Negara, tidak termasuk peraturan konflik undang-undangnya, akan mengawal Terma ini dan penggunaan Perkhidmatan oleh Anda. Penggunaan Aplikasi oleh Anda juga mungkin tertakluk kepada undang-undang tempatan, negeri, kebangsaan atau antarabangsa yang lain."
+      },
+      "disputes": {
+        "title": "Penyelesaian Pertikaian",
+        "description": "Jika Anda mempunyai sebarang kebimbangan atau pertikaian mengenai Perkhidmatan, Anda bersetuju untuk cuba menyelesaikan pertikaian tersebut secara tidak rasmi terlebih dahulu dengan menghubungi Syarikat."
+      },
+      "euUsers": {
+        "title": "Untuk Pengguna Kesatuan Eropah (EU)",
+        "description": "Jika Anda pengguna Kesatuan Eropah, anda akan mendapat manfaat daripada sebarang peruntukan mandatori undang-undang negara tempat anda bermastautin."
+      },
+      "usLegal": {
+        "title": "Pematuhan Undang-undang Amerika Syarikat",
+        "description": "Anda menyatakan dan menjamin bahawa (i) Anda tidak berada di negara yang tertakluk kepada embargo kerajaan Amerika Syarikat, atau yang telah ditetapkan oleh kerajaan Amerika Syarikat sebagai negara \"penyokong pengganas\", dan (ii) Anda tidak disenaraikan dalam mana-mana senarai pihak yang dilarang atau disekat oleh kerajaan Amerika Syarikat."
+      },
+      "severability": {
+        "title": "Kebolehasingan dan Pengecualian",
+        "severabilityTitle": "Kebolehpisahan",
+        "severabilityDescription": "Jika mana-mana peruntukan dalam Terma ini dianggap tidak boleh dikuatkuasakan atau tidak sah, peruntukan tersebut akan diubah dan ditafsirkan untuk mencapai objektif peruntukan tersebut setakat yang mungkin di bawah undang-undang yang terpakai dan peruntukan yang selebihnya akan terus berkuat kuasa sepenuhnya.",
+        "waiverTitle": "Pengecualian",
+        "waiverDescription": "Kecuali seperti yang diperuntukkan di sini, kegagalan untuk melaksanakan hak atau untuk mewajibkan pelaksanaan kewajipan di bawah Terma ini tidak akan menjejaskan keupayaan mana-mana pihak untuk melaksanakan hak tersebut atau mewajibkan pelaksanaan tersebut pada bila-bila masa selepas itu dan juga pengecualian pelanggaran tidak akan dianggap sebagai pengecualian bagi sebarang pelanggaran berikutnya."
+      },
+      "translation": {
+        "title": "Tafsiran Terjemahan",
+        "description": "Terma dan Syarat ini mungkin telah diterjemahkan jika Kami telah menyediakannya kepada Anda dalam Perkhidmatan kami. Anda bersetuju bahawa teks asal bahasa Inggeris akan diguna pakai sekiranya berlaku pertikaian."
+      },
+      "changes": {
+        "title": "Perubahan pada Terma dan Syarat Ini",
+        "description1": "Kami berhak, mengikut budi bicara mutlak Kami, untuk mengubah suai atau menggantikan Terma ini pada bila-bila masa. Sekiranya pindaan adalah penting, Kami akan berusaha dengan sewajarnya untuk memberikan notis sekurang-kurangnya 30 hari sebelum sebarang terma baharu berkuat kuasa. Apa yang dianggap sebagai perubahan penting akan ditentukan mengikut budi bicara mutlak Kami.",
+        "description2": "Dengan terus mengakses atau menggunakan Perkhidmatan Kami selepas semakan tersebut berkuat kuasa, Anda bersetuju untuk terikat dengan terma yang disemak semula. Jika Anda tidak bersetuju dengan terma baharu, secara keseluruhan atau sebahagian, sila berhenti menggunakan laman web dan Perkhidmatan ini."
+      },
+      "contact": {
+        "title": "Hubungi Kami",
+        "description": "Jika anda mempunyai sebarang pertanyaan tentang Terma dan Syarat ini, anda boleh menghubungi kami:",
+        "email": "Melalui emel: support@ringdy.com",
+        "support": "Melalui sistem sokongan dalam aplikasi kami",
+        "website": "Dengan melayari laman web kami: www.ringdy.com"
+      },
+      "backToHome": "Kembali ke Rumah",
+      "privacyPolicy": "Dasar Privasi"
+    }
+  },
+  "safety": {
+    "title": "Petua & Cara Keselamatan",
+    "subtitle": "Keselamatan anda adalah keutamaan kami. Ketahui petua penting untuk rangkaian yang selamat dan sambungan yang selamat.",
+    "lastUpdated": "Kemas kini terakhir: Januari 2025",
+    "commitment": {
+      "title": "Komitmen Kami terhadap Keselamatan Anda",
+      "items": {
+        "privacy": "Anda yang tentukan berapa banyak yang hendak dikongsi — bertukar kepada avatar pada bila-bila masa, dan kami tidak akan berkongsi nombor telefon atau alamat tepat anda dengan pengguna lain.",
+        "noStorage": "Kami tidak mendedahkan maklumat hubungan peribadi anda kepada pengguna lain melainkan anda memilih untuk berkongsinya sendiri.",
+        "tools": "Kami menawarkan alat seperti penyekatan dan pelaporan untuk memastikan kawalan anda ke atas setiap interaksi.",
+        "ageLimit": "Ringdy hanya untuk pengguna berumur 18 tahun ke atas sahaja."
+      }
+    },
+    "respectfulBehavior": {
+      "title": "Tingkah Laku yang Hormat Diperlukan",
+      "expectation": "Kami menjangkakan anda akan:",
+      "items": {
+        "kind": "Bersikap baik, hormat, dan jujur",
+        "language": "Gunakan bahasa yang bersih dan sesuai",
+        "laws": "Patuhi undang-undang tempatan dan piawaian komuniti",
+        "genuine": "Hanya gunakan aplikasi untuk interaksi yang tulen dan hormat"
+      }
+    },
+    "prohibitedConduct": {
+      "title": "Kelakuan Terlarang",
+      "warning": "Untuk memastikan keselamatan semua orang, anda tidak boleh:",
+      "items": {
+        "harassment": "Mengganggu, mengintai, atau membuli sesiapa sahaja",
+        "hateful": "Kongsi kandungan yang penuh kebencian, ganas atau diskriminasi",
+        "impersonation": "Menyamar sebagai orang lain atau mencipta sesi palsu",
+        "personalData": "Minta data peribadi seperti alamat, nombor telefon atau nama pengguna media sosial",
+        "explicit": "Hantar mesej yang lucah, lucah atau menyinggung perasaan",
+        "scamming": "Terlibat dalam penipuan, pancingan data atau permintaan wang",
+        "offPlatform": "Cuba alihkan sembang ke aplikasi pemesejan luar untuk tujuan mengelirukan",
+        "tracking": "Cuba menjejaki atau mencari pengguna di luar apa yang disediakan Bluetooth"
+      },
+      "consequence": "Mana-mana tindakan ini boleh mengakibatkan penggantungan atau larangan kekal."
+    },
+    "commonSense": {
+      "title": "Gunakan Akal Sehat & Berhati-hati",
+      "intro": "Anda paling mengetahui keselamatan anda. Petua-petua ini disediakan untuk membantu:",
+      "chatting": {
+        "title": "🗣 Semasa Bersembang:",
+        "items": {
+          "noPersonalInfo": "Jangan kongsikan nama penuh, alamat, nombor telefon atau maklumat kewangan anda",
+          "cautious": "Berhati-hati dengan orang yang cepat meminta untuk memindahkan sembang ke tempat lain",
+          "noPressure": "Jangan rasa tertekan untuk membalas atau meneruskan perbualan"
+        }
+      },
+      "redFlags": {
+        "title": "🛑 Perhatikan Tanda-tanda Bahaya:",
+        "items": {
+          "quickLove": "Seseorang mendakwa sedang jatuh cinta selepas hanya beberapa mesej",
+          "moneyRequests": "Permintaan untuk menghantar wang atau butiran peribadi",
+          "strangeLinks": "Pautan atau permintaan pelik untuk sembang di luar platform",
+          "emergencyStories": "Cerita yang melibatkan perjalanan kecemasan, bil hospital atau isu visa"
+        },
+        "advice": "Jika ada yang terasa janggal, sekat dan laporkan."
+      }
+    },
+    "reportBlock": {
+      "title": "Alat Laporan dan Blok",
+      "intro": "Jika seseorang:",
+      "reasons": {
+        "uncomfortable": "Membuat anda tidak selesa",
+        "violates": "Melanggar garis panduan kami",
+        "suspicious": "Menghantar mesej yang mencurigakan atau berbahaya"
+      },
+      "instruction": "Gunakan ciri sekat dan laporkan dengan segera. Kami menyemak semua laporan dengan serius dan pelanggaran berulang boleh mengakibatkan penggantungan kekal.",
+      "anonymity": "Anda akan kekal tanpa nama semasa melaporkan orang lain. Orang itu tidak akan dimaklumkan siapa yang melaporkan mereka."
+    },
+    "meetingInPerson": {
+      "title": "Pertemuan dalam Kehidupan Nyata (jika berkenaan)",
+      "disclaimer": "Ringdy direka untuk membantu anda menemui dan berhubung dengan orang berdekatan melalui pengimbasan Bluetooth atau tempat-tempat tempatan, dan ramai pengguna memilih untuk bertemu secara bersemuka selepas padanan. Sila ikut langkah berjaga-jaga ini:",
+      "safetyTips": {
+        "publicPlaces": "Bertemu di tempat awam sahaja",
+        "tellFriend": "Beritahu rakan rancangan anda",
+        "shareLocation": "Kongsikan lokasi anda dengan seseorang yang anda percayai",
+        "noRides": "Jangan terima tumpangan daripada orang yang baru anda temui",
+        "staySober": "Kekal sedar dan berjaga-jaga",
+        "chargePhone": "Cas telefon anda dan simpan berdekatan",
+        "ownTransport": "Aturkan pengangkutan anda sendiri di kedua-dua arah"
+      },
+      "reminder": "Jika anda berasa tidak selesa, anda bebas untuk beredar pada bila-bila masa. Sekat pengguna tersebut dan laporkan mereka kepada kami selepas itu."
+    },
+    "enforcement": {
+      "title": "Langkah Penguatkuasaan & Keselamatan",
+      "intro": "Ringdy boleh mengambil tindakan berikut apabila berlaku pelanggaran:",
+      "actions": {
+        "suspend": "Gantung akaun buat sementara waktu",
+        "ban": "Larang pengguna yang menyalahgunakan secara kekal",
+        "lawEnforcement": "Laporkan ancaman serius kepada penguatkuasa undang-undang",
+        "verification": "Memerlukan pengesahan untuk penyamaran yang disyaki"
+      }
+    },
+    "appeals": {
+      "title": "Rayuan dan Sokongan",
+      "intro": "Jika anda rasa anda telah diharamkan secara tidak adil, atau anda ingin melaporkan kebimbangan yang serius:",
+      "contact": {
+        "email": "📧 Emel: support@ringdy.com",
+        "website": "🌐 Lawati: Pusat Keselamatan Ringdy (Akan datang)"
+      }
+    },
+    "finalThoughts": {
+      "title": "Pemikiran Akhir",
+      "message": "Ringdy sedia membantu orang ramai berhubung dengan cara yang selamat dan bermakna tanpa mendedahkan identiti peribadi. Anda sentiasa mengawal dengan siapa anda bersembang, dan kami sedia membantu anda."
+    },
+    "navigation": {
+      "backToHome": "Kembali ke Rumah",
+      "downloadApp": "Muat Turun Aplikasi"
+    }
+  },
+  "profile": {
+    "connectViaBLE": "Sambung melalui BLE",
+    "stats": {
+      "connections": "Sambungan",
+      "messages": "Mesej",
+      "filesShared": "Fail Dikongsi"
+    },
+    "location": "San Francisco, California",
+    "onlineViaBLE": "Dalam talian melalui BLE",
+    "occupation": "Pembangun Perisian - Syarikat Baharu Teknologi",
+    "education": "Universiti Stanford - Sains Komputer",
+    "interests": "Minat: IoT, Teknologi Bluetooth , Pembangunan Mudah Alih",
+    "bio": "Bersemangat untuk mewujudkan hubungan yang lancar melalui teknologi. Saya suka meneroka kemungkinan Bluetooth Low Energy dan membina aplikasi yang menyatukan orang ramai. Sentiasa teruja untuk berhubung dengan rakan pembangun dan peminat teknologi di kawasan saya. Jangan ragu untuk menghubungi kami untuk kerjasama atau sekadar perbincangan teknologi yang baik!",
+    "showMore": "Tunjukkan lebih banyak"
+  },
+  "auth": {
+    "agreeWith": "Saya setuju dengan"
+  }
+}

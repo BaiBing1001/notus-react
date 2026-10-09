@@ -1,0 +1,1434 @@
+{
+  "navbar": {
+    "features": "Özellikler",
+    "subscription": "Abonelik",
+    "download": "İndirmek",
+    "legal": "Yasal",
+    "privacyPolicy": "Gizlilik Politikası",
+    "termsOfUse": "Kullanım Şartları",
+    "safetyTips": "Güvenlik İpuçları ve Püf Noktaları"
+  },
+  "hero": {
+    "title": "Yakındaki kişileri bulun.\n Gerçek hayatta bağlantı kurun.",
+    "subtitle": "Çevrenizdeki kişileri Bluetooth üzerinden keşfetmek için sallayın veya yakındaki bir mekana katılarak kimlerin orada olduğunu görün. Arkadaşlık isteği gönderin, eşleşin ve sohbet etmeye başlayın; daha fazla bilgi paylaşmaya hazır olana kadar isteğe bağlı avatar gizliliğini koruyabilirsiniz.",
+    "discoverFeatures": "Özellikleri Keşfedin",
+    "downloadApp": "Uygulamayı İndir",
+    "anonymousAvatars": "İsteğe bağlı avatarlar",
+    "autoExpiry": "Bluetooth + Mekanlar",
+    "privacyFirst": "Önce Gizlilik"
+  },
+  "features": {
+    "proximityTitle": "Yakınlık Temelli Keşif",
+    "proximityDescription": "Bluetooth üzerinden tarama yaparak veya haritada bir mekana katılarak yakındaki kişileri bulun. Arkadaşlık isteği gönderin ve eşleştiğinizde sohbet etmeye başlayın.",
+    "avatarsTitle": "İsteğe bağlı Avatar Gizliliği",
+    "avatarsDescription": "Birini tanımaya çalışırken avatarınızı açık tutun ve hazır olduğunuzda gerçek fotoğraflarınıza geçin.",
+    "expiringTitle": "Mekan Bazlı Keşif",
+    "expiringDescription": "Yakındaki önerilen yerlere göz atın ve belirli bir yarıçap içinde kimlerin giriş yaptığını görün - sürekli tarama yapmanıza gerek yok.",
+    "revealTitle": "Bağlanma",
+    "revealDescription": "Birlikte kalmak istediğiniz birini bulduğunuzda, aranızdaki özel ilişkiyi \"bağlı\" olarak işaretleyin.",
+    "bluetoothTitle": "Bluetooth LE Teknolojisi",
+    "bluetoothDescription": "Gelişmiş Bluetooth Düşük Enerji teknolojisini kullanarak internet bağlantısına ihtiyaç duymadan verimli yerel ağ bağlantısı kurun.",
+    "keyFeaturesTitle": "Başlıca Özellikler",
+    "keyFeaturesDescription": "Ringdy nerede olursanız olun yerel bağlantı deneyiminizi geliştirmek için tasarlanmış güçlü özelliklerle donatılmıştır.",
+    "downloadNow": "Şimdi İndir",
+    "tags": {
+      "autoDiscovery": "Otomatik Keşif",
+      "chatMessaging": "Sohbet Mesajlaşması",
+      "fileSharing": "Dosya Paylaşımı",
+      "profiles": "Profiller",
+      "privacyControls": "Gizlilik Kontrolleri",
+      "offlineMode": "Çevrimdışı Mod",
+      "crossPlatform": "Çapraz Platform",
+      "lowPower": "Düşük Güç"
+    }
+  },
+  "useCases": {
+    "actionTitle": "Ringdy Hareket Halinde",
+    "actionDescription": "Gerçek dünya sosyal ortamlarında otomatik keşif, sohbet mesajlaşması ve profil paylaşımı. Nereye giderseniz gidin, gelişmiş Bluetooth Düşük Enerji teknolojisiyle kusursuz bağlantının keyfini çıkarın.",
+    "campusTitle": "Kampüs Bağlantısı",
+    "campusDescription": "Anında çalışma arkadaşları bulun.",
+    "eventTitle": "Etkinlik Ağı Oluşturma",
+    "eventDescription": "Konferanslarda bağlantı kurun",
+    "businessTitle": "İş Toplantısı",
+    "businessDescription": "Profesyonel bağlantılar",
+    "cafeTitle": "Kafe Bağlantıları",
+    "cafeDescription": "Yakındaki kahve severlerle tanışın",
+    "localTitle": "Yerel Keşif",
+    "localDescription": "Mahallenizi keşfedin",
+    "gamingTitle": "Oyun Grupları",
+    "gamingDescription": "Oyun arkadaşları bulun",
+    "perfectTitle": "Mükemmel Kullanım Örnekleri",
+    "perfectDescription": "Ringdy herhangi bir yeri ağ kurma fırsatına dönüştürür. İster üniversitede, ister bir konferansta, isterse de yerel kafenizde olun, ",
+    "perfectDescriptionContinued": "Anında anlamlı bağlantılar keşfedin.",
+    "approachDescription": "Çalışma gruplarından profesyonel ağ oluşturmaya kadar, yakınlık temelli yaklaşımımız bağlantı kurmayı doğal ve zahmetsiz hale getiriyor.",
+    "tryItNow": "Şimdi deneyin",
+    "tags": {
+      "studyGroups": "Çalışma Grupları",
+      "events": "Olaylar",
+      "coworking": "Ortak çalışma",
+      "gaming": "Oyun",
+      "travel": "Seyahat",
+      "shopping": "Alışveriş",
+      "fitness": "Fitness",
+      "social": "Sosyal"
+    }
+  },
+  "community": {
+    "whyLoveTitle": "İnsanlar Ringdy Neden Seviyor?",
+    "whyLoveDescription": "Kullanıcılarımız, Ringdy ağ kurma deneyimlerini nasıl dönüştürdüğünü bize sürekli olarak anlatıyor. Kafelerde insanlarla tanışmaktan etkinliklerde bağlantı kurmaya kadar, uygulama yakın çevrede gerçek bağlantılar oluşturuyor.",
+    "privacyProtection": "Gizliliğe Saygı Duyan Tasarım",
+    "instantConnection": "İnternet bağlantısı olmadan anında bağlantı",
+    "lowPowerConsumption": "Ultra düşük güç tüketimi",
+    "experienceTitle": "Ringdy deneyimleyin",
+    "experienceDescription": "Uygulamamızı farklı kullanıcı arayüzleri aracılığıyla keşfedin. Kullanıcı profillerinden başlayarak. ",
+    "experienceDescriptionContinued": "Bağlantı akışlarına göz atın ve Ringdy yakınlık tabanlı ağ oluşturmayı nasıl sezgisel ve ilgi çekici hale getirdiğini görün.",
+    "anonymousProfiles": "Avatar Profilleri",
+    "chatInterface": "Sohbet Arayüzü",
+    "nearbyDiscovery": "Yakındaki Keşifler",
+    "joinTitle": "Topluluğumuza Katılın",
+    "joinDescription1": "Ringdy sadece bir uygulamadan daha fazlası; ister Bluetooth taramasıyla ister en sevdiğiniz yerel mekanlar aracılığıyla, yakınınızdaki gerçek insanlarla tanışmanın bir yolu.",
+    "joinDescription2": "Yeni özellikler, kullanıcı hikayeleri ve bölgenizdeki topluluk etkinlikleri hakkında güncel kalmak için bizi takip edin!",
+    "downloadNow": "Şimdi İndir"
+  },
+  "download": {
+    "title": "Ringdy indirin",
+    "subtitle": "Ringdy mobil cihazınıza indirin ve yakınınızdaki kişilerle bağlantı kurmaya başlayın. Hem Android hem de iOS platformlarında şimdi kullanılabilir.",
+    "googlePlay": "Google Play",
+    "appStore": "App Store",
+    "getItOn": "Hadi başlayalım!",
+    "downloadOn": "İndir",
+    "comingSoon": "Yakında gelecek",
+    "whatYouGet": "Ne Elde Edersiniz?",
+    "instantConnections": "Anlık Bağlantılar",
+    "instantConnectionsDesc": "Bluetooth Düşük Enerji teknolojisini kullanarak veya yerel bir mekana katılarak yakındaki kişilerle anında bağlantı kurun.",
+    "anonymousProfiles": "Avatar Gizliliği",
+    "anonymousProfilesDesc": "Gizliliğiniz için bir avatar profili kullanın ve gerçek fotoğraflarınızı istediğiniz zaman paylaşın.",
+    "privacyFirst": "Önce Gizlilik",
+    "privacyFirstDesc": "Neyi ne zaman paylaşacağınıza siz karar verirsiniz. Engelleme ve raporlama araçları topluluğu güvende tutar.",
+    "crossPlatform": "Çapraz Platform",
+    "crossPlatformDesc": "iOS ve Android cihazlarda sorunsuz çalışır.",
+    "requirements": "Sistem Gereksinimleri",
+    "androidReq": "Android 6.0 veya üzeri",
+    "iosReq": "iOS 12.0 veya üzeri",
+    "bluetoothReq": "Bluetooth 4.0 ( BLE ) desteği",
+    "storageReq": "50 MB ücretsiz depolama alanı",
+    "systemDescription": "Ringdy Bluetooth Düşük Enerji ( BLE ) desteğine sahip cihazlar gerektirir. Çoğu modern akıllı telefon ve tablet BLE teknolojisini desteklemektedir.",
+    "androidRequirements": "Android Gereksinimleri:",
+    "androidReq1": "Android 5.0 (API düzeyi 21) veya üzeri",
+    "androidReq2": "Bluetooth 4.0 LE desteği",
+    "androidReq3": "Konum izinleri ( BLE taraması için)",
+    "androidReq4": "Minimum 2 GB RAM önerilir.",
+    "iosRequirements": "iOS Gereksinimleri:",
+    "iosReq1": "iOS 12.0 veya üzeri",
+    "iosReq2": "iPhone 5s veya daha yeni bir model, iPad Air veya daha yeni bir model",
+    "iosReq3": "Bluetooth 4.0 LE özellikli cihaz",
+    "iosReq4": "Arka planda uygulama yenileme etkinleştirildi.",
+    "learnMoreFeatures": "Ringdy özellikleriyle ilgili daha fazla bilgi edinin!",
+    "crossPlatformTitle": "Çapraz Platform Uyumluluğu",
+    "crossPlatformCompatibilityDesc": "Farklı platformlardaki kullanıcılarla bağlantı kurun. Android ve iOS kullanıcıları birbirlerini sorunsuz bir şekilde keşfedebilir ve sohbet edebilirler.",
+    "android": {
+      "title": "Android",
+      "description": "Android 5.0 (API düzeyi 21) ve üzeri sürümlere sahip Android cihazlarda Ringdy tüm özelliklerinden tam olarak yararlanabilirsiniz.",
+      "featuresTitle": "Özellikler:",
+      "features": {
+        "bluetooth": "Bluetooth LE tarama ve reklam",
+        "background": "Arka plan işlemi",
+        "notifications": "Anlık bildirimler",
+        "offline": "Çevrimdışı mod desteği"
+      },
+      "downloadButton": "Google Play'den indirin"
+    },
+    "ios": {
+      "title": "iOS",
+      "description": "iPhone ve iPad için optimize edilmiş, iOS 12.0 ve sonraki sürümlerle uyumlu yerel iOS uygulaması.",
+      "featuresTitle": "Özellikler:",
+      "features": {
+        "bluetooth": "Temel Bluetooth entegrasyonu",
+        "background": "Arka planda uygulama yenileme",
+        "privacy": "Gizlilik odaklı tasarım",
+        "universal": "Evrensel uygulama desteği"
+      },
+      "downloadButton": "App Store'dan indirin"
+    },
+    "qrCode": {
+      "title": "Hızlı İndirme",
+      "description": "Ringdy indirmek için telefonunuzun kamerasıyla QR kodunu tarayın.",
+      "placeholder": "QR Kodu",
+      "instruction": "İndirmek için kameranızı QR koduna doğrultun."
+    },
+    "installation": {
+      "title": "Kolay Kurulum",
+      "description": "Ringdy kullanmaya başlamak çok kolay. Uygulamayı indirin, gerekli izinleri verin ve yakınınızdaki kişileri keşfetmeye başlayın.",
+      "step1": "Platformunuzun uygulama mağazasından indirin.",
+      "step2": "Bluetooth ve konum izinlerini verin.",
+      "step3": "Profilinizi oluşturun ve bağlantı kurmaya başlayın!"
+    },
+    "callToAction": {
+      "title": "Ringdy Topluluğuna Katılın",
+      "description": "Yakınınızdaki kişilerle güvenli ve özel bir şekilde bağlantı kurmaya başlayın. Ringdy bugün indirin ve yakınlık ağlarının geleceğini keşfedin.",
+      "googlePlay": "Google Play",
+      "appStore": "App Store"
+    }
+  },
+  "featurePage": {
+    "title": "Yakındaki yerleri keşfedin.\n Gerçek insanlarla bağlantı kurun.",
+    "subtitle": "Yakındaki önerilen mekanlara göz atın, Bluetooth üzerinden çevrenizdeki insanları keşfedin ve gerçek sohbetlere yol açan arkadaşlık istekleri gönderin.",
+    "exploreFeatures": "Özellikleri Keşfedin",
+    "downloadApp": "Uygulamayı İndir",
+    "heroTitle": "Yakınınızdaki Gerçek Bağlantıları Keşfedin",
+    "heroSubtitle": "Önerilen bir mekana katılın veya etrafınızı tarayın, yakınınızda kimlerin olduğunu görün ve Bluetooth Düşük Enerji teknolojisi aracılığıyla ilginç insanlarla bağlantı kurun.",
+    "discoverCrowdedPlaces": "Yakındaki Mekanları Keşfedin",
+    "discoverCrowdedPlacesDesc": "Benzer ilgi alanlarına sahip insanlarla tanışabileceğiniz ve anlamlı bağlantılar kurabileceğiniz yakındaki popüler mekanlar için öneriler alın.",
+    "scanThroughAvatars": "Yakındakileri Gör",
+    "scanThroughAvatarsDesc": "Yakındaki kişilerin profil kartlarına göz atın ve daha fazla bilgi paylaşmaya hazır olana kadar avatarınızı açık tutma seçeneğini kullanın.",
+    "revealAndMeet": "Eşleştir ve Sohbet Et",
+    "revealAndMeetDesc": "Arkadaşlık isteği gönderin, kabul edildikten sonra eşleşirsiniz ve uygulamada sohbet etmeye başlayabilirsiniz.",
+    "proximityBasedConnections": "Yakınlık Temelli Gerçek Bağlantılar",
+    "proximityBasedConnectionsDesc": "Uygulamamız, benzer ilgi alanlarına sahip insanları keşfedebileceğiniz yakındaki mekanları önerir. İkiniz de yakın mesafede olduğunuzda, potansiyel bağlantılar bulmak için yakındaki profillere göz atabilirsiniz.",
+    "bleProximityTech": "Bluetooth Düşük Enerji teknolojisi, yalnızca gerçekten yakınınızdaki kişilerle bağlantı kurmanızı sağlayarak her bağlantıyı gerçek ve otantik kılar.",
+    "downloadNow": "Ringdy Şimdi İndirin!",
+    "realTimeProximity": "Gerçek Zamanlı Yakınlık Tespiti",
+    "realTimeProximityDesc": "Yalnızca gerçekten yakınınızda veya aynı mekanda bulunan kişilerle bağlantı kurun, böylece gerçek bağlantılar kurmuş olursunuz.",
+    "howItWorks": "Nasıl Çalışır",
+    "howItWorksDesc": "Yakındaki mekanları keşfetmek, gerçek insanlarla bağlantı kurmak ve sohbet etmeye başlamak için üç basit adım.",
+    "step1Title": "Bir mekanı tarayın veya kaydolun",
+    "step1Desc": "Bluetooth üzerinden tarama yapmak için sallayın veya yakındaki önerilen mekanlara göz atın ve ilginizi çeken birine katılın.",
+    "step2Title": "Yakındaki Profilleri İnceleyin",
+    "step2Desc": "Yakındaki kişilerin profil kartlarını görüntüleyin; daha fazla bilgi paylaşmaya hazır olana kadar avatar gizliliğini isteğe bağlı olarak ayarlayabilirsiniz.",
+    "step3Title": "Talep Gönder ve Sohbet Et",
+    "step3Desc": "Arkadaşlık isteği gönderin, kabul edildikten sonra eşleşirsiniz ve doğrudan uygulama üzerinden sohbet etmeye başlayabilirsiniz.",
+    "coreFeatures": "Temel Özellikler",
+    "proximityNetworking": "Yakınlık Ağı",
+    "proximityDesc": "Gelişmiş Bluetooth Düşük Enerji teknolojisini kullanarak yakın çevrenizdeki kişilerle bağlantı kurun.",
+    "anonymousChat": "Arkadaşlık İsteği Eşleştirme",
+    "anonymousChatDesc": "Arkadaşlık isteği gönderin ve kabul edildikten sonra sohbet etmeye başlayın — hiçbir baskı yok, spam yok.",
+    "autoExpiry": "Mekan Keşfi",
+    "autoExpiryDesc": "Yakındaki önerilen mekanlara katılarak belirli bir yarıçap içinde kimlerin giriş yaptığını görebilirsiniz.",
+    "gradualReveal": "Aşamalı Kimlik Açığa Çıkarma",
+    "gradualRevealDesc": "Bağlantılar doğal olarak geliştikçe, avatarınızdan gerçek fotoğraflarınıza ne zaman geçeceğinizi seçin.",
+    "keyPrivacyFeatures": "Temel Gizlilik Özellikleri",
+    "keyPrivacyFeaturesDesc": "Her özellik, güvenli ağ iletişimi için tasarlanmıştır; isteğe bağlı avatarlardan, gizliliğinizi koruyan arkadaşlık isteği eşleştirme sistemine kadar.",
+    "avatarBasedProfiles": "İsteğe bağlı avatar tabanlı profiller",
+    "autoExpiringChats": "Belirli bir yarıçapla mekan keşfi",
+    "progressiveIdentity": "İlerici kimlik ifşası",
+    "ourTeam": "Ekibimiz",
+    "ourTeamDesc": "İnsanları yenilikçi, gizliliği ön planda tutan teknolojiyle buluşturmaya kendini adamış tutkulu uzmanlar.",
+    "team": {
+      "alex": {
+        "name": "Alex Chen",
+        "role": "BLE Protokol Mühendisi"
+      },
+      "sarah": {
+        "name": "Sarah Johnson",
+        "role": "Mobil Uygulama Geliştiricisi"
+      },
+      "maria": {
+        "name": "Maria Rodriguez",
+        "role": "Gizlilik ve Güvenlik Sorumlusu"
+      },
+      "david": {
+        "name": "David Kim",
+        "role": "Kurucu ve CEO"
+      },
+      "title": "Ekibimiz",
+      "description": "İnsanları yenilikçi, gizliliği ön planda tutan teknolojiyle buluşturmaya kendini adamış tutkulu insanlar.",
+      "roles": {
+        "engineer": "BLE Protokol Mühendisi",
+        "developer": "Mobil Uygulama Geliştiricisi",
+        "security": "Gizlilik ve Güvenlik Sorumlusu",
+        "ceo": "Kurucu ve CEO"
+      }
+    },
+    "readyToConnect": "Bağlantı kurmaya hazır mısınız?",
+    "readyToConnectDesc": "Bluetooth ve mekan keşfi aracılığıyla güvenli bir şekilde ağ kuran insanlara katılın. Eşleşin, sohbet edin ve yalnızca gerçek bir bağlantı bulduğunuzda kimliğinizi açıklayın.",
+    "finalFeatures": {
+      "anonymousAvatars": "İsteğe bağlı avatarlar",
+      "anonymousAvatarsDesc": "Birini tanımaya çalışırken avatarınızı açık tutun, hemen kimliğinizi açıklamanız gerekmiyor.",
+      "autoExpire": "Mekan ve Bluetooth Keşfi",
+      "autoExpireDesc": "Bluetooth üzerinden yakındaki kişileri tarayarak veya önerilen yerel mekanlara katılarak kişileri bulun.",
+      "friendRequests": "Arkadaşlık İstekleri",
+      "friendRequestsDesc": "İlginizi çeken kişilere istek gönderin ve yalnızca karşılıklı ilgi duyduğunuz kişilerle iletişime geçin."
+    },
+    "eventNetworking": "Etkinlik Ağı Oluşturma",
+    "eventNetworkingDesc": "Konferanslarda, buluşmalarda ve etkinliklerde Bluetooth yakınlık özelliğini kullanarak çevrenizdeki insanları keşfedin.",
+    "studyGroups": "Çalışma Grupları",
+    "studyGroupsDesc": "Kampüs içinde yakınınızda, daha önce tanımadığınız çalışma arkadaşları bulun.",
+    "workplace": "İş Yeri ve Kafeler",
+    "workplaceDesc": "Yakındaki ortak çalışma alanlarında ve kafelerde meslektaşlarınız ve diğer profesyonellerle buluşun.",
+    "anonymousNetworking": "Avatar Tabanlı Gizlilik",
+    "anonymousNetworkingDesc": "Rahatlayana kadar sanal bir profil resmi kullanın, daha sonra istediğiniz zaman gerçek fotoğraflarınızı paylaşın.",
+    "privacyProtection": "Neyi ve kiminle paylaşacağınız her zaman sizin kontrolünüzdedir.",
+    "privacyFeatures": {
+      "title": "Gizlilik Sizin Kontrolünüzde",
+      "description": "Ringdy insanları nasıl keşfettiğinizden kendiniz hakkında ne kadar bilgi paylaşacağınıza kadar, neyi ne zaman paylaşacağınıza sizin karar vermenizi sağlayacak şekilde tasarlandı.",
+      "avatarProfiles": "İsteğe bağlı avatar tabanlı profiller",
+      "autoExpiring": "Belirli bir yarıçapla mekan keşfi",
+      "progressiveReveal": "Gerçek fotoğraflarınızı kendi hızınızda ortaya çıkarın."
+    },
+    "cta": {
+      "title": "Bağlantı kurmaya hazır mısınız?",
+      "description": "Yakın çevrenizde gerçek bağlantılar kuran insanlara katılın - Bluetooth üzerinden veya yerel bir mekana giriş yaparak.",
+      "features": {
+        "anonymousAvatars": "İsteğe bağlı avatarlar",
+        "anonymousAvatarsDesc": "Birini tanımaya çalışırken avatarınızı açık tutun, hemen kimliğinizi açıklamanız gerekmiyor.",
+        "autoExpire": "Mekan ve Bluetooth Keşfi",
+        "autoExpireDesc": "Yakındaki kişileri tarayarak veya önerilen yerel bir mekana katılarak bulun.",
+        "friendRequests": "Arkadaşlık İstekleri",
+        "friendRequestsDesc": "İlginizi çeken kişilere istek gönderin ve yalnızca karşılıklı ilgi duyduğunuz kişilerle iletişime geçin."
+      }
+    }
+  },
+  "subscription": {
+    "title": "Ringdy Premium",
+    "subtitle": "Daha iyi bağlantılar için gelişmiş özelliklerin kilidini açın. Ağ ihtiyaçlarınıza uygun planı seçin.",
+    "weeklyTitle": "Haftalık Premium",
+    "weeklyPrice": "$1.99",
+    "weeklyPeriod": "/hafta",
+    "weeklyDescription": "Premium özellikleri deneme için mükemmel",
+    "chooseWeekly": "Haftalık Seç",
+    "monthlyTitle": "Aylık",
+    "monthlyPrice": "Fiyatları görün",
+    "monthlyPeriod": "aylık",
+    "monthlyDescription": "Esnek, istediğiniz zaman iptal edebilirsiniz.",
+    "mostPopular": "En Popüler",
+    "chooseMonthly": "Aylık seçeneğini seçin",
+    "sixMonthTitle": "Altı Ay",
+    "sixMonthPrice": "Fiyatları görün",
+    "sixMonthPeriod": "6 ayda bir",
+    "sixMonthDescription": "Altı ay içinde daha fazla tasarruf edin",
+    "chooseSixMonth": "Altı Ay Seçin",
+    "featuresTitle": "Premium Özellikler Açıklandı",
+    "featuresDescription": "Ringdy Premium , ağ oluşturma deneyiminizi geliştirmek ve daha anlamlı bağlantılar kurmanıza yardımcı olmak için tasarlanmış güçlü özelliklerin kilidini açar.",
+    "enhancedNetworking": "Gelişmiş Ağ Bağlantısı",
+    "enhancedNetworkingDesc": "Premium özellikler, günlük sınırlamalar olmadan daha verimli bağlantı kurmanıza yardımcı olur.",
+    "features": {
+      "unlimitedRequests": "Sınırsız arkadaşlık istekleri",
+      "advancedFilters": "Gelişmiş filtreler",
+      "meetingPlaces": "Akıllı buluşma yeri önerileri",
+      "rematch": "Önceki kullanıcılarla yeniden eşleşme",
+      "unlimitedRequestsDesc": "Günlük sınırsız arkadaşlık isteği gönderin. Ücretsiz kullanıcılar 20/gün ile sınırlı.",
+      "advancedFiltersDesc": "İlgi alanları, kişilik ve doğrulanmış durum ile filtreleyin otantik bağlantılar için.",
+      "meetingPlacesDesc": "Tam bölgenize göre kişiselleştirilmiş konum önerileri alın.",
+      "rematchDesc": "Tekrar karşılaştığınızda önceki kullanıcılarla yeniden bağlantı kurun.",
+      "unlimitedConnections": "Sınırsız Bağlantılar",
+      "unlimitedAreaAccess": "Sınırsız Alan Erişimi",
+      "unlimitedUndo": "Sınırsız Geri Al",
+      "profilePriority": "Profil Önceliği",
+      "premiumAvatars": "Premium Avatarlar",
+      "customAvatar": "Özel Avatar",
+      "unlimitedConnectionsDesc": "Günlük sınırlama olmaksızın arkadaş ekleyin ve davetleri kabul edin.",
+      "unlimitedAreaAccessDesc": "Dilediğiniz kadar mekana kısıtlama olmaksızın katılabilirsiniz.",
+      "unlimitedUndoDesc": "İstediğiniz zaman arkadaşlık isteğini geri alabilirsiniz.",
+      "profilePriorityDesc": "Profiliniz, diğer kullanıcılara sunulan listede her zaman en üstte gösterilir.",
+      "premiumAvatarsDesc": "Özel tasarım avatarların seçkin koleksiyonuna erişin.",
+      "customAvatarDesc": "Kendi fotoğraflarınızı kullanarak kişiselleştirilmiş bir avatar oluşturun."
+    },
+    "faqTitle": "Sıkça Sorulan Sorular",
+    "faqDescription": "Ringdy Premium hakkında sorularınız mı var? Cevaplarımız var.",
+    "faq": {
+      "cancelTitle": "Aboneliğimi istediğim zaman iptal edebilir miyim?",
+      "cancelAnswer": "Evet, aboneliğinizi dilediğiniz zaman hesap ayarlarınızdan veya cihazınızın uygulama mağazasından iptal edebilirsiniz. Premium özellikleriniz mevcut faturalama döneminizin sonuna kadar aktif kalacaktır.",
+      "unlimitedTitle": "\"Sınırsız Bağlantı\" ne anlama geliyor?",
+      "unlimitedAnswer": "Premium ile, ücretsiz hesaplarda geçerli olan günlük sınırlamalar olmadan arkadaş ekleyebilir ve davetleri kabul edebilirsiniz.",
+      "filtersTitle": "Gelişmiş filtreler tam olarak nedir?",
+      "filtersAnswer": "Gelişmiş filtreler ilgi alanları, yaş aralığı, meslek, mesafe yarıçapı ve aktivite durumuna göre arama yapmanızı sağlar. Ayrıca şu anda çevrimiçi olan veya yakın zamanda aktif olan kullanıcılara göre filtreleme yaparak daha iyi bağlantı şansları elde edebilirsiniz.",
+      "meetingTitle": "Buluşma yeri önerisi nasıl çalışır?",
+      "meetingAnswer": "AI'mız her iki kullanıcının da yürüme mesafesinde olan kafeler, kütüphaneler veya ortak çalışma alanları gibi güvenli, halka açık buluşma noktaları önerir. Tercihlerinizi, mevcut konumunuzu ve günün saatini dikkate alarak buluşmak için en iyi yerleri önerir.",
+      "rematchTitle": "\"Önceki kullanıcılarla yeniden eşleşme\" ne anlama gelir?",
+      "rematchAnswer": "Kimlik açıklamadan süresi dolan (30 dakika) bir sohbetiniz varsa, premium kullanıcılar yakınlarında tekrar karşılaştıklarında o kişiyle yeniden bağlantı kurabilir. Bu size bağlantı kurma konusunda ikinci bir şans verir.",
+      "trialTitle": "Ücretsiz deneme mevcut mu?",
+      "trialAnswer": "Evet! Yeni kullanıcılar tüm premium özelliklerin 7 günlük ücretsiz denemesini alır. Hangi planın sizin için en iyi çalıştığına karar vermeden önce sınırsız arkadaşlık istekleri, gelişmiş filtreler ve buluşma önerilerini keşfedebilirsiniz.",
+      "offlineTitle": "Premium özellikler internet olmadan çalışır mı?",
+      "offlineAnswer": "BLE yakınlık algılama çevrimdışı çalışır, ancak konum önerileri, sınırsız istekler ve gelişmiş filtreler gibi premium özellikler tam işlevsellik için internet bağlantısı gerektirir.",
+      "paymentTitle": "Hangi ödeme yöntemlerini kabul ediyorsunuz?",
+      "paymentAnswer": "Ödemelerinizi cihazınızın uygulama mağazası (Google Play veya App Store) üzerinden, orada desteklenen tüm ödeme yöntemleri dahil olmak üzere kabul ediyoruz.",
+      "areaTitle": "\"Sınırsız Alan Erişimi\" nedir?",
+      "areaAnswer": "Premium üyeler, diledikleri kadar yakındaki mekana katılabilirler ve günde keşfedebilecekleri alan sayısında herhangi bir kısıtlama yoktur.",
+      "ticketsTitle": "Discovery Pass nedir?",
+      "ticketsAnswer": "Keşif Kartları, aboneliğe alternatif olarak kullandıkça ödeme yapılan bir seçenektir; her kart, düzenli bir plana bağlı kalmadan yakındaki bir mekanı keşfetmenizi sağlar.",
+      "nightPassTitle": "Night Pass nedir?",
+      "nightPassAnswer": "Night Pass , Keşif Bileti kullanmadan tam bir gün veya gece boyunca mekan keşfetmenizi sağlayan 24 saatlik bir bilettir."
+    },
+    "priceDisclaimer": "Fiyatlar, tarayıcınızın bölgesine bağlı olarak ABD dolarından yaklaşık dönüşümlerdir. Oranlar mevcut değilse, fiyatlar ABD doları cinsinden görünür. Uygulama içi nihai fiyatlar uygulama mağazanız tarafından belirlenir ve farklılık gösterebilir.",
+    "yearlyTitle": "Yıllık",
+    "yearlyPrice": "Fiyatları görün",
+    "yearlyPeriod": "yıllık",
+    "yearlyDescription": "Düzenli kullanıcılar için en iyi fiyat-performans oranı",
+    "bestValue": "En İyi Değer",
+    "chooseYearly": "Yıllık seçeneğini seçin",
+    "tickets": {
+      "title": "Keşif Kartları",
+      "subtitle": "Keşifler özelliğini kullanarak, tam aboneliğe gerek kalmadan yakındaki yerlerdeki kişileri keşfedebilirsiniz.",
+      "single": "Tek Keşif",
+      "singleDesc": "Tek bir giriş kartı kullanarak tek bir mekana katılabilir ve kimlerin orada olduğunu görebilirsiniz.",
+      "venueAccessFeature": "Her geçiş kartı bir mekana erişim sağlar.",
+      "pack3": "3 Keşif",
+      "pack3Desc": "Üç adet Keşif Kartı. Her kart bir mekânın girişini sağlar.",
+      "pack5": "5 Keşif",
+      "pack5Desc": "Beş adet Keşif Kartı. Her kart bir mekânın kilidini açar.",
+      "bestValue": "En İyi Değer",
+      "specialTicket": "Night Pass",
+      "specialTicketDesc": "Discovery Pass kullanmadan 24 saat boyunca sınırsız mekana giriş yapabilirsiniz."
+    }
+  },
+  "footer": {
+    "keepInTouch": "İletişimi sürdürelim!",
+    "findUsOn": "Bizi bu platformlardan herhangi birinde bulabilirsiniz, 1-2 iş günü içinde yanıt veriyoruz.",
+    "usefulLinks": "Faydalı Bağlantılar",
+    "aboutUs": "Hakkımızda",
+    "blog": "Blog",
+    "github": "Github",
+    "freeProducts": "Ücretsiz Ürünler",
+    "otherResources": "Diğer Kaynaklar",
+    "mitLicense": "MIT Lisansı",
+    "termsConditions": "Şartlar ve Koşullar",
+    "privacyPolicy": "Gizlilik Politikası",
+    "contactUs": "Bize Ulaşın",
+    "copyright": "Telif hakkı © {{year}} Ringdy . Tüm hakları saklıdır."
+  },
+  "legal": {
+    "privacyPolicy": {
+      "title": "Gizlilik Politikası",
+      "subtitle": "Gizliliğiniz bizim önceliğimizdir. Verilerinizi nasıl koruduğumuzu ve paylaştığınız içerik üzerinde size tam kontrol sağladığımızı öğrenin.",
+      "lastUpdated": "Son güncelleme: Ocak 2025",
+      "introduction": "Bu Gizlilik Politikası, Hizmeti kullandığınızda bilgilerinizin toplanması, kullanımı ve ifşasına ilişkin politikalarımızı ve prosedürlerimizi açıklamaktadır ve size gizlilik haklarınız ve yasanın sizi nasıl koruduğu hakkında bilgi vermektedir.",
+      "agreement": "Kişisel verilerinizi Hizmeti sağlamak ve geliştirmek için kullanıyoruz. Hizmeti kullanarak, bu Gizlilik Politikasına uygun olarak bilgilerin toplanmasına ve kullanılmasına同意 etmiş olursunuz.",
+      "sections": {
+        "interpretationTitle": "Yorumlama ve Tanımlar",
+        "interpretationSubtitle": "Tercüme",
+        "definitionsSubtitle": "Tanımlar",
+        "interpretationText": "Baş harfi büyük olan kelimelerin anlamları aşağıdaki koşullar altında tanımlanmıştır. Aşağıdaki tanımlar, tekil veya çoğul halde olmalarına bakılmaksızın aynı anlama gelir.",
+        "definitionsText": "Bu Gizlilik Politikası'nın amaçları doğrultusunda:",
+        "definitionLabels": {
+          "account": "Hesap:",
+          "affiliate": "İş ortağı:",
+          "application": "Başvuru:",
+          "business": "İşletme:",
+          "ccpaCpra": "CCPA ve/veya CPRA:",
+          "company": "Şirket:",
+          "consumer": "Tüketici:",
+          "country": "Ülke:",
+          "dataController": "Veri Sorumlusu:",
+          "device": "Cihaz:",
+          "doNotTrack": "İzlemeyi Engelle (DNT):",
+          "gdpr": "GDPR:",
+          "personalData": "Kişisel Veriler:",
+          "service": "Hizmet:",
+          "serviceProvider": "Hizmet Sağlayıcı:",
+          "thirdPartySocialMedia": "Üçüncü Taraf Sosyal Medya Hizmeti:",
+          "usageData": "Kullanım Verileri:",
+          "you": "Sen:"
+        },
+        "definitions": {
+          "account": "Hizmetimize veya hizmetimizin belirli bölümlerine erişmeniz için size özel olarak oluşturulmuş benzersiz bir hesap.",
+          "affiliate": "Bir tarafı kontrol eden, bir tarafça kontrol edilen veya bir tarafla ortak kontrol altında olan bir kuruluş; burada \"kontrol\", yönetim kurulu üyelerinin veya diğer yönetim yetkililerinin seçimi için oy kullanma hakkına sahip hisselerin, öz sermaye paylarının veya diğer menkul kıymetlerin %50 veya daha fazlasına sahip olmayı ifade eder.",
+          "application": "Şirket tarafından sağlanan Ringdy adlı yazılım programına atıfta bulunur.",
+          "business": "CCPA/CPRA kapsamında, Şirket, Tüketicilerin kişisel bilgilerini toplayan ve Tüketicilerin kişisel bilgilerinin işlenmesinin amaçlarını ve yöntemlerini belirleyen yasal kuruluş olarak tanımlanmaktadır.",
+          "ccpaCpra": "Kaliforniya Tüketici Gizliliği Yasası'na (\"CCPA\") ve 2020 Kaliforniya Gizlilik Hakları Yasası'na (\"CPRA\") atıfta bulunmaktadır.",
+          "company": "Bu Sözleşmede \"Şirket\", \"Biz\", \"Bize\" veya \"Bizim\" olarak anılan her şirket Ringdy ifade eder. GDPR amaçları doğrultusunda Şirket, Veri Sorumlusudur.",
+          "consumer": "CCPA/CPRA kapsamında, \"Kaliforniya'da ikamet eden gerçek kişi\" anlamına gelir.",
+          "country": "Amerika Birleşik Devletleri'ni ifade eder.",
+          "dataController": "Genel Veri Koruma Yönetmeliği (GDPR) amaçları doğrultusunda, Şirket, tek başına veya başkalarıyla birlikte Kişisel Verilerin işlenmesinin amaçlarını ve yöntemlerini belirleyen tüzel kişi olarak ifade edilir.",
+          "device": "Akıllı telefon, tablet veya bilgisayar gibi Hizmete erişebilen herhangi bir cihaz.",
+          "doNotTrack": "ABD düzenleyici otoriteleri tarafından internet endüstrisi için geliştirilen ve internet kullanıcılarının web sitelerindeki çevrimiçi etkinliklerinin izlenmesini kontrol etmelerine olanak tanıyan bir mekanizmanın uygulanmasını amaçlayan bir kavram.",
+          "gdpr": "AB Genel Veri Koruma Yönetmeliği'ne atıfta bulunmaktadır.",
+          "personalData": "Tanımlanmış veya tanımlanabilir bir bireyle ilgili her türlü bilgi. GDPR amaçları doğrultusunda, Kişisel Veriler, adınız, kimlik numaranız, konum verileriniz, çevrimiçi kimliğiniz veya fiziksel, fizyolojik, genetik, zihinsel, ekonomik, kültürel veya sosyal kimliğinize özgü bir veya daha fazla faktör gibi sizinle ilgili her türlü bilgiyi ifade eder.",
+          "service": "Başvuruya atıfta bulunur.",
+          "serviceProvider": "Şirket adına verileri işleyen herhangi bir gerçek veya tüzel kişi. Bu, Hizmeti kolaylaştırmak, Şirket adına Hizmeti sağlamak, Hizmetle ilgili hizmetleri gerçekleştirmek veya Şirketin Hizmetin nasıl kullanıldığını analiz etmesine yardımcı olmak amacıyla Şirket tarafından istihdam edilen üçüncü taraf şirketleri veya bireyleri ifade eder.",
+          "thirdPartySocialMedia": "Kullanıcının Hizmeti kullanmak için giriş yapabileceği veya hesap oluşturabileceği herhangi bir web sitesi veya sosyal ağ sitesi.",
+          "usageData": "Hizmetin kullanımıyla veya hizmet altyapısının kendisinden otomatik olarak toplanan veriler (örneğin, bir sayfa ziyaretinin süresi).",
+          "you": "Hizmete erişen veya hizmeti kullanan kişi veya bu kişinin adına hizmete erişen veya hizmeti kullanan şirket veya diğer tüzel kişi, duruma göre."
+        },
+        "dataCollectionTitle": "Kişisel Verilerinizin Toplanması ve Kullanımı",
+        "dataTypesTitle": "Toplanan Veri Türleri",
+        "personalDataTitle": "Kişisel Veriler",
+        "personalDataDescription": "Hizmetimizi kullanırken, Sizinle iletişime geçmek veya Sizi tanımlamak için kullanılabilecek bazı kişisel olarak tanımlanabilir bilgileri bize sağlamanızı isteyebiliriz. Kişisel olarak tanımlanabilir bilgiler şunları içerebilir, ancak bunlarla sınırlı değildir:",
+        "usageDataTitle": "Kullanım Verileri",
+        "usageDataDescription1": "Hizmeti kullanırken kullanım verileri otomatik olarak toplanır.",
+        "usageDataDescription2": "Kullanım Verileri, Cihazınızın İnternet Protokol adresi (örneğin IP adresi), tarayıcı türü, tarayıcı sürümü, Hizmetimizin ziyaret ettiğiniz sayfaları, ziyaretinizin tarihi ve saati, bu sayfalarda geçirilen süre, benzersiz cihaz tanımlayıcıları ve diğer teşhis verileri gibi bilgileri içerebilir.",
+        "usageDataDescription3": "Hizmete bir mobil cihaz aracılığıyla eriştiğinizde, kullandığınız mobil cihaz türü, mobil cihazınızın benzersiz kimliği, mobil cihazınızın IP adresi, mobil işletim sisteminiz, kullandığınız mobil internet tarayıcısının türü, benzersiz cihaz tanımlayıcıları ve diğer teşhis verileri dahil ancak bunlarla sınırlı olmamak üzere belirli bilgileri otomatik olarak toplayabiliriz.",
+        "thirdPartyTitle": "Üçüncü Taraf Sosyal Medya Hizmetlerinden Alınan Bilgiler",
+        "thirdPartyDescription1": "Şirket, aşağıdaki üçüncü taraf sosyal medya hizmetleri aracılığıyla hesap oluşturmanıza ve hizmeti kullanmak üzere giriş yapmanıza olanak tanır:",
+        "thirdPartyDescription2": "Üçüncü Taraf Sosyal Medya Hizmeti aracılığıyla kayıt olmaya veya bize bu hizmete erişim izni vermeye karar verirseniz, adınız, e-posta adresiniz, faaliyetleriniz veya bu hesapla ilişkili iletişim listeniz gibi, Üçüncü Taraf Sosyal Medya Hizmeti hesabınızla zaten ilişkilendirilmiş olan Kişisel verileri toplayabiliriz.",
+        "appDataTitle": "Uygulama Kullanımı Sırasında Toplanan Bilgiler",
+        "appDataDescription1": "Uygulamamızı kullanırken, uygulamamızın özelliklerini sağlamak amacıyla, önceden izninizle aşağıdaki bilgileri toplayabiliriz:",
+        "appDataDescription2": "Bu bilgileri, Hizmetimizin özelliklerini sağlamak, Hizmetimizi iyileştirmek ve özelleştirmek için kullanıyoruz. Bilgiler, cihazınızda yerel olarak saklanabilir veya şifrelenmiş sunuculara yüklenebilir. Bu bilgilere erişimi, cihaz ayarlarınız aracılığıyla istediğiniz zaman etkinleştirebilir veya devre dışı bırakabilirsiniz.",
+        "dataUseTitle": "Kişisel Verilerinizin Kullanımı",
+        "dataUseDescription": "Şirket, Kişisel Verileri aşağıdaki amaçlar için kullanabilir:",
+        "sharingTitle": "Kişisel Bilgilerin Paylaşılması",
+        "sharingDescription": "Kişisel bilgilerinizi aşağıdaki durumlarda paylaşabiliriz:",
+        "retentionTitle": "Kişisel Verilerinizin Saklanması"
+      },
+      "dataUses": {
+        "provide": "Hizmetimizi sağlamak ve sürdürmek için: Hizmetimizin kullanımını izlemek ve yakındaki kişilerin Bluetooth tabanlı ve mekan tabanlı olarak keşfedilmesini sağlamak da dahil olmak üzere.",
+        "account": "Hesabınızı Yönetmek İçin: Hizmetin kullanıcısı olarak kaydınızı yönetmek için. Sağladığınız Kişisel Veriler, kayıtlı bir kullanıcı olarak size sunulan Hizmetin farklı işlevlerine erişmenizi sağlayabilir.",
+        "contract": "Sözleşmenin yerine getirilmesi için: Hizmet aracılığıyla Sizden talep ettiğiniz hizmetlerin veya Bizimle yaptığınız diğer herhangi bir sözleşmenin geliştirilmesi, uyumluluğu ve yerine getirilmesi.",
+        "contact": "Sizinle iletişime geçmek için: Güncellemeler, güvenlik bildirimleri veya işlevselliklerle ilgili bilgilendirici iletişimler hakkında sizinle e-posta, anlık bildirimler veya diğer eşdeğer elektronik iletişim biçimleri aracılığıyla iletişime geçeceğiz.",
+        "offers": "Size haberler ve özel teklifler sunmak için: Daha önce kullandığınız veya hakkında bilgi aldığınız ürün, hizmet ve etkinliklere benzer diğer ürün, hizmet ve etkinlikler hakkında bilgi göndereceğiz, aksi takdirde bu tür bilgileri almak istemediğinizi belirtmediğiniz sürece.",
+        "requests": "Taleplerinizi yönetmek için: Bize ilettiğiniz taleplerinizi karşılamak ve yönetmek.",
+        "content": "Hedefli içerik sunmak için: Bilgilerinizi, ilgi alanlarınıza ve konumunuza (yakındaki kullanıcıları keşfetmek için) göre uyarlanmış içerik geliştirmek ve görüntülemek ve etkinliğini ölçmek için kullanabiliriz.",
+        "business": "İşletme devirleri için: Bilgilerinizi, varlıklarımızın tamamının veya bir kısmının birleşmesi, elden çıkarılması, yeniden yapılandırılması, yeniden düzenlenmesi, feshi veya diğer satış veya devir işlemlerini değerlendirmek veya gerçekleştirmek için kullanabiliriz.",
+        "other": "Diğer amaçlar için: Bilgilerinizi veri analizi, kullanım eğilimlerinin belirlenmesi, tanıtım kampanyalarımızın etkinliğinin saptanması ve hizmetimizi, ürünlerimizi, hizmetlerimizi, pazarlamamızı ve deneyiminizi değerlendirmek ve iyileştirmek gibi diğer amaçlar için de kullanabiliriz."
+      },
+      "sharingTypes": {
+        "providers": "Hizmet Sağlayıcılarla: Hizmetimizin kullanımını izlemek ve analiz etmek, ödeme işlemlerini gerçekleştirmek ve sizinle iletişime geçmek amacıyla kişisel bilgilerinizi Hizmet Sağlayıcılarla paylaşabiliriz.",
+        "transfers": "İşletme devirleri için: Şirket varlıklarının satışı, finansman veya işletmemizin tamamının veya bir kısmının başka bir şirkete devredilmesiyle ilgili olarak veya bu tür müzakereler sırasında kişisel bilgilerinizi paylaşabilir veya aktarabiliriz.",
+        "affiliates": "İştiraklerimizle: Bilgilerinizi iştiraklerimizle paylaşabiliriz; bu durumda, söz konusu iştiraklerden bu Gizlilik Politikasına uymalarını isteyeceğiz.",
+        "partners": "İş ortaklarımızla: Size belirli ürünler, hizmetler veya promosyonlar sunmak için bilgilerinizi iş ortaklarımızla paylaşabiliriz.",
+        "users": "Diğer kullanıcılarla: Yakındaki diğer kullanıcıları keşfedip onlarla bağlantı kurduğunuzda, profil bilgileriniz (adınız ve fotoğraflarınız veya avatar kullanmayı seçtiyseniz avatarınız dahil) keşif, arkadaşlık isteği ve eşleştirme sürecinin bir parçası olarak paylaşılır. Avatar mı yoksa gerçek fotoğraflarınızı mı göstereceğinizi istediğiniz zaman siz kontrol edersiniz.",
+        "consent": "İzninizle: Kişisel bilgilerinizi, izniniz doğrultusunda başka herhangi bir amaçla da açıklayabiliriz."
+      },
+      "security": {
+        "title": "Kişisel Verilerinizin Güvenliği",
+        "description": "Kişisel Verilerinizin güvenliği bizim için önemlidir, ancak internet üzerinden yapılan hiçbir iletim yönteminin veya elektronik depolama yönteminin %100 güvenli olmadığını unutmayın. Sohbet mesajları için uçtan uca şifreleme ve güvenli Bluetooth protokolleri de dahil olmak üzere, Kişisel Verilerinizi korumak için ticari olarak kabul edilebilir yöntemler kullanmaya çalışsak da, mutlak güvenliğini garanti edemeyiz."
+      },
+      "contact": {
+        "title": "Bize Ulaşın",
+        "description": "Bu Gizlilik Politikası ile ilgili herhangi bir sorunuz varsa, bizimle iletişime geçebilirsiniz:",
+        "email": "E-posta yoluyla: privacy@ringdy.com",
+        "website": "Web sitemizdeki şu sayfada: https://ringdy.com/contact",
+        "mail": "Posta yoluyla: Ringdy Privacy Team, 123 Tech Street, San Francisco, CA 94105, Amerika Birleşik Devletleri"
+      },
+      "shineTheLight": {
+        "title": "Kaliforniya Gizlilik Haklarınız (Kaliforniya'nın Şeffaflık Yasası)",
+        "description1": "Kaliforniya Medeni Kanunu'nun 1798. maddesi (Kaliforniya'nın Şeffaflık Yasası) uyarınca, bizimle iş ilişkisi bulunan Kaliforniya sakinleri, kişisel verilerinin üçüncü tarafların doğrudan pazarlama amaçları için bu üçüncü taraflarla paylaşılması hakkında yılda bir kez bilgi talep edebilirler.",
+        "description2": "Kaliforniya'da yürürlükte olan \"Şeffaflık Yasası\" kapsamında daha fazla bilgi talep etmek isterseniz ve Kaliforniya sakiniyseniz, aşağıda verilen iletişim bilgilerini kullanarak bizimle iletişime geçebilirsiniz."
+      },
+      "minorUsers": {
+        "title": "Kaliforniya'da Küçük Yaşta Kullanıcılar İçin Gizlilik Hakları (Kaliforniya İş ve Meslekler Kanunu Bölüm 22581)",
+        "description1": "Kaliforniya İş ve Meslekler Kanunu'nun 22581. maddesi, çevrimiçi sitelerin, hizmetlerin veya uygulamaların kayıtlı kullanıcıları olan 18 yaşın altındaki Kaliforniya sakinlerinin, kamuya açık olarak yayınladıkları içerik veya bilgilerin kaldırılmasını talep etmelerine ve elde etmelerine olanak tanır.",
+        "description2": "Bu tür verilerin silinmesini talep etmek için, eğer Kaliforniya'da ikamet ediyorsanız, aşağıda verilen iletişim bilgilerini kullanarak bizimle iletişime geçebilir ve hesabınızla ilişkili e-posta adresini de ekleyebilirsiniz.",
+        "description3": "Lütfen unutmayın ki, talebiniz çevrimiçi olarak yayınlanan içerik veya bilgilerin tamamen veya kapsamlı bir şekilde kaldırılmasını garanti etmez ve yasa belirli durumlarda kaldırmaya izin vermeyebilir veya bunu gerektirmeyebilir."
+      },
+      "childrenPrivacy": {
+        "title": "Çocukların Gizliliği",
+        "description1": "Hizmetimiz 13 yaşın altındaki kişilere yönelik değildir. 13 yaşın altındaki kişilerden bilerek kişisel olarak tanımlanabilir bilgiler toplamıyoruz. Eğer bir ebeveyn veya vasiyseniz ve çocuğunuzun bize Kişisel Veriler sağladığının farkındaysanız, lütfen bizimle iletişime geçin.",
+        "description2": "Eğer 13 yaşın altındaki herhangi bir kişiden ebeveyn izni doğrulaması olmadan Kişisel Veri topladığımızın farkına varırsak, bu bilgileri sunucularımızdan kaldırmak için gerekli adımları atarız.",
+        "description3": "Bilgilerinizi işlemek için yasal dayanak olarak rızaya ihtiyaç duyuyorsak ve ülkeniz ebeveyn rızası gerektiriyorsa, bu bilgileri toplamadan ve kullanmadan önce ebeveyninizin rızasını isteyebiliriz."
+      },
+      "linksToOtherWebsites": {
+        "title": "Diğer Web Sitelerine Bağlantılar",
+        "description": "Hizmetimiz, tarafımızca işletilmeyen diğer web sitelerine bağlantılar içerebilir. Üçüncü taraf bir bağlantıya tıkladığınızda, o üçüncü tarafın sitesine yönlendirileceksiniz. Ziyaret ettiğiniz her sitenin Gizlilik Politikasını incelemenizi önemle tavsiye ederiz. Üçüncü taraf sitelerin veya hizmetlerin içeriği, gizlilik politikaları veya uygulamaları üzerinde hiçbir kontrolümüz yoktur ve bunlardan sorumlu değiliz."
+      },
+      "changes": {
+        "title": "Bu Gizlilik Politikası'ndaki Değişiklikler",
+        "description1": "Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Herhangi bir değişiklik olduğunda, yeni Gizlilik Politikamızı bu sayfada yayınlayarak sizi bilgilendireceğiz.",
+        "description2": "Değişiklik yürürlüğe girmeden önce sizi e-posta yoluyla ve/veya Hizmetimiz üzerinde belirgin bir bildirimle bilgilendireceğiz ve bu Gizlilik Politikasının en üstündeki \"Son güncelleme\" tarihini güncelleyeceğiz.",
+        "description3": "Bu Gizlilik Politikası'ndaki değişiklikleri periyodik olarak gözden geçirmeniz önerilir. Bu Gizlilik Politikası'ndaki değişiklikler, bu sayfada yayınlandıkları anda yürürlüğe girer."
+      },
+      "backToHome": "Ana sayfaya geri dön",
+      "retention": {
+        "description1": "Şirket, Kişisel Verilerinizi yalnızca bu Gizlilik Politikası'nda belirtilen amaçlar için gerekli olduğu sürece saklayacaktır. Kişisel Verilerinizi, yasal yükümlülüklerimizi yerine getirmek, anlaşmazlıkları çözmek ve yasal sözleşmelerimizi ve politikalarımızı uygulamak için gerekli olduğu ölçüde saklayacak ve kullanacağız.",
+        "description2": "Şirket ayrıca kullanım verilerini dahili analiz amaçları için de saklayacaktır. Kullanım verileri genellikle daha kısa bir süre saklanır; ancak bu veriler hizmetimizin güvenliğini güçlendirmek veya işlevselliğini iyileştirmek için kullanıldığında veya bu verileri daha uzun süre saklamakla yasal olarak yükümlü olduğumuz durumlarda bu süre uzayabilir."
+      },
+      "transfer": {
+        "title": "Kişisel Verilerinizin Aktarımı",
+        "description1": "Kişisel verileriniz de dahil olmak üzere bilgileriniz, Şirketin faaliyet gösterdiği ofislerde ve işleme dahil olan tarafların bulunduğu diğer yerlerde işlenmektedir. Bu, bu bilgilerin, veri koruma yasalarının sizin yargı bölgenizdekilerden farklı olabileceği, eyaletiniz, iliniz, ülkeniz veya diğer hükümet yargı bölgenizin dışında bulunan bilgisayarlara aktarılabileceği ve bu bilgisayarlarda saklanabileceği anlamına gelir.",
+        "description2": "Bu Gizlilik Politikasına onay vermeniz ve ardından bu bilgileri göndermeniz, bu aktarıma ilişkin anlaşmanızı temsil eder. Şirket, verilerinizin güvenli bir şekilde ve bu Gizlilik Politikasına uygun olarak işlenmesini sağlamak için makul ölçüde gerekli tüm adımları atacaktır ve verilerinizin ve diğer kişisel bilgilerinizin güvenliği de dahil olmak üzere yeterli kontroller mevcut olmadığı sürece, Kişisel Verilerinizin hiçbir kuruluş veya ülkeye aktarımı gerçekleşmeyecektir."
+      },
+      "deletion": {
+        "title": "Kişisel Verilerinizi Silin",
+        "description1": "Topladığımız kişisel verilerinizi silme veya silme işleminde size yardımcı olmamızı talep etme hakkına sahipsiniz.",
+        "description2": "Hizmetimiz size, hizmet içinden hakkınızdaki belirli bilgileri silme olanağı sağlayabilir.",
+        "description3": "Hesabınız varsa, hesabınıza giriş yaparak ve kişisel bilgilerinizi yönetmenize olanak tanıyan hesap ayarları bölümünü ziyaret ederek bilgilerinizi istediğiniz zaman güncelleyebilir, değiştirebilir veya silebilirsiniz. Ayrıca, bize sağladığınız kişisel bilgilere erişim, düzeltme veya silme talebinde bulunmak için bizimle iletişime geçebilirsiniz."
+      },
+      "disclosure": {
+        "title": "Kişisel Verilerinizin Açıklanması",
+        "businessTitle": "Ticari İşlemler",
+        "businessDescription": "Şirket bir birleşme, devralma veya varlık satışı işlemine dahil olursa, Kişisel Verileriniz aktarılabilir. Kişisel Verileriniz aktarılmadan ve farklı bir Gizlilik Politikasına tabi olmadan önce size bildirimde bulunacağız.",
+        "lawTitle": "Kanun Uygulama",
+        "lawDescription": "Belirli durumlarda, Şirket, yasa gereği veya kamu otoritelerinin (örneğin mahkeme veya devlet kurumu) geçerli taleplerine yanıt olarak Kişisel Verilerinizi ifşa etmek zorunda kalabilir.",
+        "legalTitle": "Diğer Yasal Gereklilikler",
+        "legalDescription": "Şirket, aşağıdaki durumlarda gerekli olduğuna dair iyi niyetli bir inançla Kişisel Verilerinizi açıklayabilir:",
+        "legalReasons": {
+          "comply": "Yasal bir yükümlülüğe uymak",
+          "protect": "Şirketin haklarını veya mülkünü korumak ve savunmak",
+          "prevent": "Hizmetle bağlantılı olası usulsüzlükleri önlemek veya araştırmak",
+          "safety": "Hizmet kullanıcılarının veya kamuoyunun kişisel güvenliğini korumak.",
+          "liability": "Yasal sorumluluktan korunmak için"
+        },
+        "detailedInfo": {
+          "title": "Kişisel Verilerinizin İşlenmesine İlişkin Detaylı Bilgiler",
+          "description": "Kullandığımız hizmet sağlayıcılar Kişisel Verilerinize erişebilir. Bu üçüncü taraf satıcılar, Hizmetimizdeki faaliyetlerinizle ilgili bilgileri kendi Gizlilik Politikalarına uygun olarak toplar, saklar, kullanır, işler ve aktarır.",
+          "analyticsTitle": "Analitik",
+          "analyticsDescription": "Hizmetimizin kullanımını izlemek ve analiz etmek için üçüncü taraf hizmet sağlayıcılarından yararlanabiliriz."
+        },
+        "analytics": {
+          "title": "Davranışsal Yeniden Pazarlama",
+          "description": "Şirketimiz, hizmetimizi ziyaret ettikten sonra üçüncü taraf web sitelerinde size reklam göstermek için yeniden pazarlama hizmetlerini kullanmaktadır. Biz ve üçüncü taraf tedarikçilerimiz, hizmetimize yaptığınız önceki ziyaretlerinize dayanarak reklamları bilgilendirmek, optimize etmek ve sunmak için çerezler kullanıyoruz.",
+          "googleAnalytics": {
+            "title": "Google Analytics",
+            "description1": "Google Analytics, Google tarafından sunulan ve web sitesi trafiğini izleyen ve raporlayan bir web analiz hizmetidir. Google, topladığı verileri Hizmetimizin kullanımını izlemek ve denetlemek için kullanır. Bu veriler diğer Google hizmetleriyle paylaşılır. Google, toplanan verileri kendi reklam ağındaki reklamları bağlamsallaştırmak ve kişiselleştirmek için kullanabilir.",
+            "description2": "Mobil cihazınızın ayarlarından, örneğin cihazınızın reklam ayarlarından veya Google'ın Gizlilik Politikası'nda verdiği talimatları izleyerek belirli Google Analytics özelliklerinden vazgeçebilirsiniz:",
+            "description3": "Google'ın gizlilik uygulamaları hakkında daha fazla bilgi için lütfen Google Gizlilik ve Şartlar web sayfasını ziyaret edin:"
+          },
+          "firebase": {
+            "title": "Firebase",
+            "description1": "Firebase, Google Inc. tarafından sağlanan bir analiz hizmetidir.",
+            "description2": "Mobil cihazınızın ayarlarından, örneğin cihazınızın reklam ayarlarından veya Google'ın Gizlilik Politikası'nda verdiği talimatları izleyerek bazı Firebase özelliklerinden vazgeçebilirsiniz:",
+            "description3": "Ayrıca, Google'ın verilerinizi koruma politikasını incelemenizi de öneririz:",
+            "description4": "Firebase'in ne tür bilgiler topladığı hakkında daha fazla bilgi için lütfen \"Google, iş ortaklarımızın sitelerini veya uygulamalarını kullandığınızda verileri nasıl kullanır?\" sayfasını ziyaret edin:"
+          }
+        },
+        "advertising": {
+          "title": "Reklam",
+          "description": "Hizmetimizi desteklemek ve sürdürmek amacıyla size reklam göstermek için Hizmet Sağlayıcılardan yararlanabiliriz.",
+          "googleAdSense": {
+            "title": "Google AdSense ve DoubleClick Çerezleri",
+            "description1": "Google, üçüncü taraf bir tedarikçi olarak, hizmetimizde reklam yayınlamak için çerezler kullanmaktadır. Google'ın DoubleClick çerezini kullanması, Google'ın ve ortaklarının, kullanıcılarımızın hizmetimizi veya internetteki diğer web sitelerini ziyaretlerine dayanarak onlara reklam sunmasını sağlar.",
+            "description2": "İlgi alanına dayalı reklamcılık için DoubleClick çerezinin kullanımını, Google Reklam Ayarları web sayfasını ziyaret ederek devre dışı bırakabilirsiniz:"
+          },
+          "adMob": {
+            "title": "Google'ın AdMob'u",
+            "description1": "Google tarafından sunulan AdMob, Google Inc. tarafından sağlanmaktadır.",
+            "description2": "Google'ın AdMob hizmetinden çıkmak için Google tarafından açıklanan talimatları izleyebilirsiniz:",
+            "description3": "Google'ın topladığı bilgileri nasıl kullandığı hakkında daha fazla bilgi için lütfen \"Google, iş ortaklarımızın sitelerini veya uygulamalarını kullandığınızda verileri nasıl kullanır\" sayfasını ziyaret edin veya Google'ın Gizlilik Politikası'na göz atın:"
+          }
+        },
+        "payments": {
+          "title": "Ödemeler",
+          "description1": "Hizmet kapsamında ücretli ürünler ve/veya hizmetler sunabiliriz. Bu durumda, ödeme işlemleri için üçüncü taraf hizmetlerini (örneğin ödeme işlemcilerini) kullanabiliriz.",
+          "description2": "Ödeme kartı bilgileriniz saklanmayacak veya toplanmayacaktır. Bu bilgiler doğrudan üçüncü taraf ödeme işlemcilerimize sağlanır ve kişisel bilgilerinizin kullanımı onların Gizlilik Politikası'na tabidir. Bu ödeme işlemcileri, Visa, Mastercard, American Express ve Discover gibi markaların ortak çalışması olan PCI Güvenlik Standartları Konseyi tarafından yönetilen PCI-DSS standartlarına uymaktadır. PCI-DSS gereksinimleri, ödeme bilgilerinin güvenli bir şekilde işlenmesini sağlamaya yardımcı olur.",
+          "appleStore": {
+            "title": "Apple Store Uygulama İçi Ödemeler",
+            "description": "Gizlilik Politikalarına şu adresten ulaşabilirsiniz:"
+          },
+          "googlePlay": {
+            "title": "Google Play Uygulama İçi Ödemeler",
+            "description": "Gizlilik Politikalarına şu adresten ulaşabilirsiniz:"
+          },
+          "stripe": {
+            "title": "Şerit",
+            "description": "Gizlilik Politikalarına şu adresten ulaşabilirsiniz:"
+          },
+          "payPal": {
+            "title": "PayPal veya Braintree",
+            "description": "Gizlilik Politikalarına şu adresten ulaşabilirsiniz:"
+          }
+        }
+      },
+      "behavioralRemarketing": {
+        "title": "Davranışsal Yeniden Pazarlama",
+        "description": "Şirketimiz, hizmetimizi ziyaret ettikten sonra üçüncü taraf web sitelerinde size reklam göstermek için yeniden pazarlama hizmetlerini kullanmaktadır. Biz ve üçüncü taraf tedarikçilerimiz, hizmetimize yaptığınız önceki ziyaretlerinize dayanarak reklamları bilgilendirmek, optimize etmek ve sunmak için çerezler kullanıyoruz.",
+        "vendorsDescription1": "Bu üçüncü taraf satıcılar, Hizmetimizdeki faaliyetlerinizle ilgili bilgileri kendi Gizlilik Politikalarına uygun olarak ve bize şunları sağlamak amacıyla toplar, saklar, kullanır, işler ve aktarır:",
+        "purposes": {
+          "measure": "Hizmetimizdeki trafiği ve gezinme etkinliğini ölçün ve analiz edin.",
+          "show": "Ürünlerimizin ve/veya hizmetlerimizin reklamlarını üçüncü taraf web sitelerinde veya uygulamalarında size göstermek.",
+          "analyze": "Reklam kampanyalarımızın performansını ölçün ve analiz edin."
+        },
+        "vendorsDescription2": "Bu üçüncü taraf satıcıların bazıları, çerezleri engelleyen tarayıcı ayarlarından etkilenmeyebilecek çerez dışı teknolojiler kullanabilir. Tarayıcınız bu tür teknolojileri engellemenize izin vermeyebilir. İlgi alanlarınıza dayalı reklamlar sunmak amacıyla bilgi toplama ve kullanımını reddetmek için aşağıdaki üçüncü taraf araçlarını kullanabilirsiniz:",
+        "optOutTools": {
+          "nai": "NAI'nin katılımdan vazgeçme platformu:",
+          "edaa": "EDAA'nın vazgeçme platformu:",
+          "daa": "DAA'nın abonelikten çıkma platformu:"
+        },
+        "mobileOptOut": "Mobil cihazınızda \"Reklam Takibini Sınırla\" (iOS) ve \"Reklam Kişiselleştirmesini Devre Dışı Bırak\" (Android) gibi gizlilik özelliklerini etkinleştirerek tüm kişiselleştirilmiş reklamlardan vazgeçebilirsiniz. Daha fazla bilgi için mobil cihazınızın yardım sistemine bakın.",
+        "dataSharing": "Hizmetimiz üzerinden toplanan, varsa şifrelenmiş e-posta adresleri veya diğer çevrimiçi tanımlayıcılar gibi bilgileri bu üçüncü taraf satıcılarla paylaşabiliriz. Bu, üçüncü taraf satıcılarımızın sizi cihazlar ve tarayıcılar genelinde tanımasını ve size reklam sunmasını sağlar. Bu üçüncü taraf satıcılar tarafından kullanılan teknolojiler ve cihazlar arası yetenekleri hakkında daha fazla bilgi edinmek için lütfen aşağıda listelenen her satıcının Gizlilik Politikasına bakın.",
+        "vendorsIntro": "Kullandığımız üçüncü taraf tedarikçiler şunlardır:",
+        "googleAds": {
+          "title": "Google Reklamları (AdWords)",
+          "description1": "Google Ads (AdWords) yeniden pazarlama hizmeti Google Inc. tarafından sağlanmaktadır.",
+          "description2": "Google Analytics'in Görüntülü Reklamcılık özelliğinden çıkabilir ve Google Reklam Ayarları sayfasını ziyaret ederek Google Görüntülü Reklam Ağı reklamlarınızı özelleştirebilirsiniz:",
+          "description3": "Google ayrıca web tarayıcınız için Google Analytics Opt-out Browser Add-on eklentisini yüklemenizi önerir. Google Analytics Opt-out Browser Add-on, ziyaretçilere verilerinin Google Analytics tarafından toplanmasını ve kullanılmasını engelleme olanağı sağlar.",
+          "description4": "Google'ın gizlilik uygulamaları hakkında daha fazla bilgi için lütfen Google Gizlilik ve Şartlar web sayfasını ziyaret edin:"
+        },
+        "facebook": {
+          "title": "Facebook",
+          "description1": "Facebook yeniden pazarlama hizmeti Facebook Inc. tarafından sağlanmaktadır.",
+          "description2": "Facebook'un ilgi alanına dayalı reklamcılığı hakkında daha fazla bilgi edinmek için bu sayfayı ziyaret edebilirsiniz:",
+          "description3": "Facebook'un ilgi alanına dayalı reklamlarından çıkmak için Facebook'un şu talimatlarını izleyin:",
+          "description4": "Facebook, Dijital Reklamcılık Birliği tarafından oluşturulan Çevrimiçi Davranışsal Reklamcılık için Öz Düzenleme İlkelerine uymaktadır. Ayrıca, ABD'de Dijital Reklamcılık Birliği, Kanada'da Kanada Dijital Reklamcılık Birliği veya Avrupa'da Avrupa Etkileşimli Dijital Reklamcılık Birliği aracılığıyla Facebook ve diğer katılımcı şirketlerden veya mobil cihazınızın ayarlarını kullanarak reklamları devre dışı bırakabilirsiniz.",
+          "description5": "Facebook'un gizlilik uygulamaları hakkında daha fazla bilgi için lütfen Facebook'un Veri Politikası'nı ziyaret edin:"
+        }
+      },
+      "detailedInfo": {
+        "title": "Kişisel Verilerinizin İşlenmesine İlişkin Detaylı Bilgiler",
+        "description": "Kullandığımız hizmet sağlayıcılar Kişisel Verilerinize erişebilir. Bu üçüncü taraf satıcılar, Hizmetimizdeki faaliyetlerinizle ilgili bilgileri kendi Gizlilik Politikalarına uygun olarak toplar, saklar, kullanır, işler ve aktarır.",
+        "analyticsTitle": "Analitik",
+        "analyticsDescription": "Hizmetimizin kullanımını izlemek ve analiz etmek için üçüncü taraf hizmet sağlayıcılarından yararlanabiliriz."
+      },
+      "analytics": {
+        "firebase": {
+          "title": "Firebase",
+          "description1": "Firebase, Google Inc. tarafından sağlanan bir analiz hizmetidir.",
+          "description2": "Mobil cihazınızın ayarlarından, örneğin cihazınızın reklam ayarlarından veya Google'ın Gizlilik Politikası'nda verdiği talimatları izleyerek bazı Firebase özelliklerinden vazgeçebilirsiniz:",
+          "description3": "Ayrıca, Google'ın verilerinizi koruma politikasını incelemenizi de öneririz:",
+          "description4": "Firebase'in ne tür bilgiler topladığı hakkında daha fazla bilgi için lütfen \"Google, iş ortaklarımızın sitelerini veya uygulamalarını kullandığınızda verileri nasıl kullanır?\" sayfasını ziyaret edin:"
+        },
+        "googleAnalytics": {
+          "title": "Google Analytics",
+          "description1": "Google Analytics, Google tarafından sunulan ve web sitesi trafiğini izleyen ve raporlayan bir web analiz hizmetidir. Google, topladığı verileri Hizmetimizin kullanımını izlemek ve denetlemek için kullanır. Bu veriler diğer Google hizmetleriyle paylaşılır. Google, toplanan verileri kendi reklam ağındaki reklamları bağlamsallaştırmak ve kişiselleştirmek için kullanabilir.",
+          "description2": "Google Analytics'e etkinliğinizin paylaşılmasını istemiyorsanız, Google Analytics devre dışı bırakma tarayıcı eklentisini yükleyerek bunu yapabilirsiniz. Bu eklenti, Google Analytics JavaScript'inin (ga.js, analytics.js ve gtag.js) ziyaret etkinliğiyle ilgili bilgileri Google Analytics ile paylaşmasını engeller. Google'ın gizlilik uygulamaları hakkında daha fazla bilgi için lütfen Google Gizlilik ve Şartlar web sayfasını ziyaret edin:",
+          "description3": "Google ayrıca web tarayıcınız için Google Analytics Devre Dışı Bırakma Tarayıcı Eklentisini yüklemenizi önerir. Google Analytics Devre Dışı Bırakma Tarayıcı Eklentisi, ziyaretçilere verilerinin Google Analytics tarafından toplanmasını ve kullanılmasını engelleme olanağı sağlar. Google Analytics Devre Dışı Bırakma Tarayıcı Eklentisinin kurulumu ve kullanımı hakkında daha fazla bilgi için lütfen aşağıdaki Google Analytics devre dışı bırakma sayfasını ziyaret edin:"
+        }
+      },
+      "advertising": {
+        "title": "Reklam",
+        "description": "Hizmetimizi desteklemek ve sürdürmek amacıyla size reklam göstermek için Hizmet Sağlayıcılardan yararlanabiliriz.",
+        "googleAdSense": {
+          "title": "Google AdSense ve DoubleClick Çerezleri",
+          "description1": "Google, üçüncü taraf bir tedarikçi olarak, hizmetimizde reklam yayınlamak için çerezler kullanmaktadır. Google'ın DoubleClick çerezini kullanması, Google'ın ve ortaklarının, kullanıcılarımızın hizmetimizi veya internetteki diğer web sitelerini ziyaretlerine dayanarak onlara reklam sunmasını sağlar.",
+          "description2": "İlgi alanına dayalı reklamcılık için DoubleClick çerezinin kullanımını, Google Reklam Ayarları web sayfasını ziyaret ederek devre dışı bırakabilirsiniz:"
+        },
+        "adMob": {
+          "title": "Google'ın AdMob'u",
+          "description1": "Google tarafından sunulan AdMob, Google Inc. tarafından sağlanmaktadır.",
+          "description2": "Google'ın AdMob hizmetinden çıkmak için Google tarafından açıklanan talimatları izleyebilirsiniz:",
+          "description3": "Google'ın topladığı bilgileri nasıl kullandığı hakkında daha fazla bilgi için lütfen \"Google, iş ortaklarımızın sitelerini veya uygulamalarını kullandığınızda verileri nasıl kullanır\" sayfasını ziyaret edin veya Google'ın Gizlilik Politikası'na göz atın:"
+        }
+      },
+      "payments": {
+        "title": "Ödemeler",
+        "description1": "Hizmet kapsamında ücretli ürünler ve/veya hizmetler sunabiliriz. Bu durumda, ödeme işlemleri için üçüncü taraf hizmetlerini (örneğin ödeme işlemcilerini) kullanabiliriz.",
+        "description2": "Ödeme kartı bilgileriniz saklanmayacak veya toplanmayacaktır. Bu bilgiler doğrudan üçüncü taraf ödeme işlemcilerimize sağlanır ve kişisel bilgilerinizin kullanımı onların Gizlilik Politikası'na tabidir. Bu ödeme işlemcileri, Visa, Mastercard, American Express ve Discover gibi markaların ortak çalışması olan PCI Güvenlik Standartları Konseyi tarafından yönetilen PCI-DSS standartlarına uymaktadır. PCI-DSS gereksinimleri, ödeme bilgilerinin güvenli bir şekilde işlenmesini sağlamaya yardımcı olur.",
+        "appleStore": {
+          "title": "Apple Store Uygulama İçi Ödemeler",
+          "description": "Gizlilik Politikalarına şu adresten ulaşabilirsiniz:"
+        },
+        "googlePlay": {
+          "title": "Google Play Uygulama İçi Ödemeler",
+          "description": "Gizlilik Politikalarına şu adresten ulaşabilirsiniz:"
+        },
+        "stripe": {
+          "title": "Şerit",
+          "description": "Gizlilik Politikalarına şu adresten ulaşabilirsiniz:"
+        },
+        "payPal": {
+          "title": "PayPal veya Braintree",
+          "description": "Gizlilik Politikalarına şu adresten ulaşabilirsiniz:"
+        }
+      },
+      "gdpr": {
+        "title": "GDPR Gizlilik",
+        "legalBasis": {
+          "title": "GDPR Kapsamında Kişisel Verilerin İşlenmesinin Yasal Dayanağı",
+          "description": "Kişisel verilerinizi aşağıdaki koşullar altında işleyebiliriz:",
+          "consent": "Onay: Kişisel verilerinizin bir veya daha fazla belirli amaç için işlenmesine onay verdiniz.",
+          "contract": "Sözleşmenin ifası: Kişisel Verilerin sağlanması, Sizinle yapılan bir sözleşmenin ifası ve/veya sözleşme öncesi yükümlülüklerin yerine getirilmesi için gereklidir.",
+          "legal": "Yasal yükümlülükler: Kişisel Verilerin İşlenmesi, Şirketin tabi olduğu yasal bir yükümlülüğe uyum için gereklidir.",
+          "vital": "Hayati çıkarlar: Kişisel verilerin işlenmesi, sizin veya başka bir gerçek kişinin hayati çıkarlarını korumak için gereklidir.",
+          "public": "Kamu yararı: Kişisel Verilerin İşlenmesi, kamu yararına yürütülen bir görevle veya Şirkete verilen resmi yetkinin kullanımıyla ilgilidir.",
+          "legitimate": "Meşru menfaatler: Kişisel Verilerin İşlenmesi, Şirket tarafından izlenen meşru menfaatler amacıyla gereklidir."
+        },
+        "rights": {
+          "title": "GDPR Kapsamındaki Haklarınız",
+          "description": "Şirket, Kişisel Verilerinizin gizliliğine saygı göstermeyi ve haklarınızı kullanabilmenizi garanti etmeyi taahhüt eder. Bu Gizlilik Politikası kapsamında ve AB içindeyseniz yasa gereği aşağıdaki haklara sahipsiniz:",
+          "access": "Kişisel Verilerinize Erişim Talebi: Sizinle ilgili elimizde bulunan bilgilere erişme, bunları güncelleme veya silme hakkı.",
+          "correction": "Kişisel Verilerinizin Düzeltilmesi Talebi: Hakkınızda tuttuğumuz eksik veya yanlış bilgilerin düzeltilmesini talep etme hakkına sahipsiniz.",
+          "object": "İşlemeye itiraz etme: Bu hak, işlememiz için yasal dayanak olarak meşru bir menfaate dayandığımız durumlarda geçerlidir.",
+          "erasure": "Silme talebi: Kişisel verilerinizi işlemeye devam etmemiz için geçerli bir neden kalmadığında, verilerinizi silmemizi veya kaldırmamızı isteme hakkına sahipsiniz.",
+          "transfer": "Aktarım talebi: Kişisel Verilerinizi yapılandırılmış, yaygın olarak kullanılan, makine tarafından okunabilir bir formatta Size veya seçtiğiniz üçüncü bir tarafa sağlayacağız.",
+          "withdraw": "Onayınızı Geri Çekme: Kişisel verilerinizin kullanımına ilişkin onayınızı geri çekme hakkına sahipsiniz."
+        },
+        "exercising": {
+          "title": "GDPR Veri Koruma Haklarınızın Kullanılması",
+          "description1": "Erişim, düzeltme, iptal ve itiraz haklarınızı bizimle iletişime geçerek kullanabilirsiniz. Bu tür taleplere yanıt vermeden önce kimliğinizi doğrulamanızı isteyebileceğimizi lütfen unutmayın. Bir talepte bulunmanız durumunda, size en kısa sürede yanıt vermeye çalışacağız.",
+          "description2": "Kişisel verilerinizin toplanması ve kullanımıyla ilgili olarak bir Veri Koruma Kurumuna şikayette bulunma hakkınız bulunmaktadır. Daha fazla bilgi için, Avrupa Ekonomik Alanı'nda (AEA) bulunuyorsanız, lütfen AEA'daki yerel veri koruma kurumunuzla iletişime geçin."
+        }
+      },
+      "ccpa": {
+        "title": "CCPA/CPRA Gizlilik Bildirimi",
+        "introduction": "Bu gizlilik bildirimi bölümü, Kaliforniya sakinleri için Gizlilik Politikamızda yer alan bilgileri tamamlayıcı niteliktedir ve yalnızca Kaliforniya Eyaleti'nde ikamet eden tüm ziyaretçiler, kullanıcılar ve diğer kişiler için geçerlidir.",
+        "categoriesTitle": "Toplanan Kişisel Bilgi Kategorileri",
+        "categoriesDescription1": "Belirli bir Tüketici veya Cihaz ile doğrudan veya dolaylı olarak ilişkilendirilebilen, tanımlayan, ilgili olan, açıklayan, referans veren veya makul bir şekilde bağlantılı olabilecek bilgileri toplarız. Aşağıda, son on iki (12) ay içinde Kaliforniya sakinlerinden toplayabileceğimiz veya toplamış olabileceğimiz kişisel bilgi kategorilerinin bir listesi bulunmaktadır.",
+        "categoriesDescription2": "Lütfen aşağıdaki listede verilen kategorilerin ve örneklerin CCPA/CPRA'da tanımlananlar olduğunu unutmayın. Bu, söz konusu kişisel bilgi kategorisine ait tüm örneklerin tarafımızca toplandığı anlamına gelmez, ancak ilgili kategoriye ait bazı bilgilerin toplanmış olabileceğine dair iyi niyetli inancımızı yansıtır. Örneğin, belirli kişisel bilgi kategorileri yalnızca bu tür kişisel bilgileri doğrudan bize sağladığınız takdirde toplanır.",
+        "categoryLabels": {
+          "examples": "Örnekler:",
+          "collected": "Toplandı:"
+        },
+        "categories": {
+          "identifiers": {
+            "title": "Kategori A: Tanımlayıcılar",
+            "examples": "Gerçek ad, takma ad, posta adresi, benzersiz kişisel kimlik numarası, çevrimiçi kimlik numarası, İnternet Protokol adresi, e-posta adresi, hesap adı, ehliyet numarası, pasaport numarası veya diğer benzer kimlik bilgileri.",
+            "collected": "Evet"
+          },
+          "personalInfo": {
+            "title": "Kategori B: Kaliforniya Müşteri Kayıtları yasasında listelenen kişisel bilgi kategorileri",
+            "examples": "İsim, imza, Sosyal Güvenlik numarası, fiziksel özellikler veya tanım, adres, telefon numarası, pasaport numarası, ehliyet veya devlet kimlik kartı numarası, sigorta poliçe numarası, eğitim, iş, iş geçmişi, banka hesap numarası, kredi kartı numarası, banka kartı numarası veya diğer finansal bilgiler, tıbbi bilgiler veya sağlık sigortası bilgileri. Bu kategoride yer alan bazı kişisel bilgiler diğer kategorilerle örtüşebilir.",
+            "collected": "Evet"
+          },
+          "protected": {
+            "title": "Kategori C: Kaliforniya veya federal yasa kapsamında korunan sınıflandırma özellikleri",
+            "examples": "Yaş (40 yaş ve üzeri), ırk, renk, soy, ulusal köken, vatandaşlık, din veya inanç, medeni durum, sağlık durumu, fiziksel veya zihinsel engellilik, cinsiyet (cinsiyet, cinsiyet kimliği, cinsiyet ifadesi, gebelik veya doğum ve ilgili tıbbi durumlar dahil), cinsel yönelim, gazi veya askeri statü, genetik bilgi (ailevi genetik bilgi dahil).",
+            "collected": "HAYIR"
+          },
+          "commercial": {
+            "title": "Kategori D: Ticari bilgiler",
+            "examples": "Satın alınan veya satın alınması düşünülen ürün veya hizmetlere ilişkin kayıtlar ve geçmiş bilgiler.",
+            "collected": "Evet"
+          },
+          "biometric": {
+            "title": "Kategori E: Biyometrik bilgiler",
+            "examples": "Genetik, fizyolojik, davranışsal ve biyolojik özellikler veya aktivite kalıpları; parmak izi, yüz izi ve ses izi, iris veya retina taramaları, tuş vuruşu, yürüyüş veya diğer fiziksel kalıplar ve uyku, sağlık veya egzersiz verileri gibi şablon veya diğer tanımlayıcı veya tanımlayıcı bilgileri çıkarmak için kullanılır.",
+            "collected": "HAYIR"
+          },
+          "internet": {
+            "title": "Kategori F: İnternet veya benzeri ağ etkinlikleri",
+            "examples": "Hizmetimizle veya reklamımızla etkileşim.",
+            "collected": "Evet"
+          },
+          "geolocation": {
+            "title": "Kategori G: Konum belirleme verileri",
+            "examples": "Yaklaşık fiziksel konum.",
+            "collected": "Evet"
+          },
+          "sensory": {
+            "title": "Kategori H: Duyusal veriler",
+            "examples": "Sesli, elektronik, görsel, termal, koku alma veya benzeri bilgiler.",
+            "collected": "HAYIR"
+          },
+          "professional": {
+            "title": "Kategori I: Mesleki veya istihdamla ilgili bilgiler",
+            "examples": "Mevcut veya geçmiş iş geçmişi veya performans değerlendirmeleri.",
+            "collected": "HAYIR"
+          },
+          "education": {
+            "title": "Kategori J: Kamuya açık olmayan eğitim bilgileri",
+            "examples": "Bir eğitim kurumu veya onun adına hareket eden bir taraf tarafından tutulan, öğrenciyle doğrudan ilgili eğitim kayıtları; örneğin notlar, transkriptler, sınıf listeleri, öğrenci programları, öğrenci kimlik kodları, öğrenci mali bilgileri veya öğrenci disiplin kayıtları.",
+            "collected": "HAYIR"
+          },
+          "inferences": {
+            "title": "Kategori K: Diğer kişisel bilgilerden çıkarılan sonuçlar",
+            "examples": "Kişinin tercihlerini, özelliklerini, psikolojik eğilimlerini, yatkınlıklarını, davranışlarını, tutumlarını, zekasını, yeteneklerini ve becerilerini yansıtan profil.",
+            "collected": "HAYIR"
+          },
+          "sensitive": {
+            "title": "Kategori L: Hassas kişisel bilgiler",
+            "examples": "Hesap giriş bilgileri ve parola bilgileri, konum verileri.",
+            "collected": "Evet"
+          }
+        },
+        "exclusions": {
+          "description": "CCPA/CPRA kapsamında kişisel bilgiler şunları içermez:",
+          "publicRecords": "Devlet kayıtlarından elde edilebilen kamuya açık bilgiler",
+          "deidentified": "Kimliği gizlenmiş veya toplu tüketici bilgileri",
+          "excludedScope": "CCPA/CPRA'nın kapsamı dışında kalan bilgiler şunlardır:",
+          "hipaa": "1996 tarihli Sağlık Sigortası Taşınabilirliği ve Hesap Verebilirlik Yasası (HIPAA) ve Kaliforniya Tıbbi Bilgilerin Gizliliği Yasası (CMIA) kapsamında yer alan sağlık veya tıbbi bilgiler veya klinik araştırma verileri",
+          "sectorSpecific": "Kişisel bilgiler, Adil Kredi Raporlama Yasası (FRCA), Gramm-Leach-Bliley Yasası (GLBA) veya Kaliforniya Finansal Bilgi Gizliliği Yasası (FIPA) ve 1994 Sürücü Gizliliğini Koruma Yasası dahil olmak üzere belirli sektöre özgü gizlilik yasaları kapsamındadır."
+        },
+        "sources": {
+          "title": "Kişisel Bilgilerin Kaynakları",
+          "description": "Yukarıda listelenen kişisel bilgi kategorilerini aşağıdaki kaynak kategorilerinden elde ediyoruz:",
+          "directlyFromYou": "Doğrudan sizden.",
+          "directlyDescription": "Örneğin, Hizmetimiz üzerinden doldurduğunuz formlardan, Hizmetimiz aracılığıyla belirttiğiniz veya sağladığınız tercihlerden veya Hizmetimiz üzerinden yaptığınız satın alımlardan.",
+          "indirectlyFromYou": "Dolaylı olarak sizden.",
+          "indirectlyDescription": "Örneğin, hizmetimizdeki faaliyetlerinizi gözlemleyerek.",
+          "automaticallyFromYou": "Otomatik olarak sizden.",
+          "automaticallyDescription": "Örneğin, hizmetimizde gezinirken biz veya hizmet sağlayıcılarımız tarafından cihazınıza yerleştirilen çerezler aracılığıyla.",
+          "fromServiceProviders": "Hizmet Sağlayıcılardan.",
+          "serviceProvidersDescription": "Örneğin, Hizmetimizin kullanımını izlemek ve analiz etmek için üçüncü taraf satıcılar, Hizmetimizde reklam sağlamak için üçüncü taraf satıcılar, Size hedefli reklamlar sunmak için üçüncü taraf satıcılar, ödeme işlemleri için üçüncü taraf satıcılar veya Size Hizmeti sağlamak için kullandığımız diğer üçüncü taraf satıcılar."
+        },
+        "usage": {
+          "title": "Kişisel Bilgilerin Kullanımı",
+          "description": "Topladığımız kişisel bilgileri, CCPA/CPRA kapsamında tanımlanan \"iş amaçları\" veya \"ticari amaçlar\" doğrultusunda kullanabilir veya ifşa edebiliriz; bu, aşağıdaki örnekleri içerebilir:",
+          "operateService": "Hizmetimizi işletmek ve size hizmetimizi sunmak için.",
+          "provideSupport": "Size destek sağlamak, sorularınızı yanıtlamak, endişelerinizi araştırmak ve gidermek, hizmetimizi izlemek ve iyileştirmek amacıyla çalışıyoruz.",
+          "fulfillReason": "Bilgileri verme nedeninizi yerine getirmek veya karşılamak için. Örneğin, hizmetimizle ilgili bir soru sormak için iletişim bilgilerinizi paylaşırsanız, bu kişisel bilgileri sorunuza yanıt vermek için kullanacağız. Bir ürün veya hizmet satın almak için kişisel bilgilerinizi verirseniz, bu bilgileri ödemenizi işlemek ve teslimatı kolaylaştırmak için kullanacağız.",
+          "lawEnforcement": "Kolluk kuvvetlerinin taleplerine yanıt vermek ve ilgili yasa, mahkeme kararı veya hükümet düzenlemeleri gerektirdiğinde.",
+          "asDescribed": "Kişisel bilgilerinizin toplanması sırasında size açıklandığı gibi veya CCPA/CPRA'da belirtildiği şekilde.",
+          "administrative": "Dahili idari ve denetim amaçları için.",
+          "securityIncidents": "Güvenlik olaylarını tespit etmek ve kötü niyetli, aldatıcı, dolandırıcı veya yasa dışı faaliyetlere karşı koruma sağlamak, gerektiğinde bu tür faaliyetlerden sorumlu olanları yargılamak da dahil olmak üzere.",
+          "otherUses": "Diğer tek seferlik kullanımlar.",
+          "noteExamples": "Yukarıda verilen örneklerin açıklayıcı nitelikte olduğunu ve kapsamlı olmadığını lütfen unutmayın. Bu bilgileri nasıl kullandığımız hakkında daha fazla bilgi için lütfen \"Kişisel Verilerinizin Kullanımı\" bölümüne bakın.",
+          "additionalCategories": "Kişisel bilgilerin ek kategorilerini toplamaya veya topladığımız kişisel bilgileri önemli ölçüde farklı, ilgisiz veya uyumsuz amaçlar için kullanmaya karar verirsek, bu Gizlilik Politikasını güncelleyeceğiz."
+        },
+        "ccpaDisclosure": {
+          "title": "Kişisel Bilgilerin Açıklanması",
+          "description": "İş veya ticari amaçlarla aşağıdaki kişisel bilgi kategorilerini kullanabilir veya ifşa edebiliriz ve son on iki (12) ay içinde kullanmış veya ifşa etmiş olabiliriz:",
+          "categoryA": "Kategori A: Tanımlayıcılar",
+          "categoryB": "Kategori B: Kaliforniya Müşteri Kayıtları yasasında listelenen kişisel bilgi kategorileri",
+          "categoryD": "Kategori D: Ticari bilgiler",
+          "categoryF": "Kategori F: İnternet veya benzeri ağ etkinlikleri",
+          "categoryG": "Kategori G: Konum belirleme verileri",
+          "categoryL": "Kategori L: Hassas kişisel bilgiler",
+          "noteCategories": "Lütfen yukarıda listelenen kategorilerin CCPA/CPRA'da tanımlanan kategoriler olduğunu unutmayın. Bu, söz konusu kişisel bilgi kategorisine ait tüm örneklerin gerçekten ifşa edildiği anlamına gelmez, ancak ilgili kategoriye ait bazı bilgilerin ifşa edilmiş olabileceğine dair iyi niyetli inancımızı yansıtır.",
+          "contractRequirement": "Kişisel bilgileri ticari veya iş amaçlı olarak ifşa ettiğimizde, amacı açıklayan ve alıcının bu kişisel bilgileri gizli tutmasını ve sözleşmeyi yerine getirmek dışında herhangi bir amaçla kullanmamasını gerektiren bir sözleşme imzalarız."
+        },
+        "sharing": {
+          "title": "Kişisel Bilgilerin Paylaşımı",
+          "description": "Yukarıdaki kategorilerde tanımlanan kişisel bilgilerinizi, son on iki (12) ay içinde aşağıdaki üçüncü taraf kategorileriyle paylaşabiliriz ve paylaşmış bulunmaktayız:",
+          "recipients": {
+            "serviceProviders": "Hizmet Sağlayıcılar",
+            "paymentProcessors": "Ödeme işlemcileri",
+            "affiliates": "İştiraklerimiz",
+            "businessPartners": "İş ortaklarımız",
+            "authorizedVendors": "Sizin veya temsilcilerinizin, size sunduğumuz ürün veya hizmetlerle bağlantılı olarak kişisel bilgilerinizi ifşa etmemize izin verdiğiniz üçüncü taraf satıcılar."
+          }
+        },
+        "sale": {
+          "title": "Kişisel Bilgilerin Satışı",
+          "definition": "CCPA/CPRA'da tanımlandığı üzere, \"satmak\" ve \"satış\" terimleri, bir Tüketicinin kişisel bilgilerinin İşletme tarafından değerli bir karşılık karşılığında üçüncü bir tarafa sözlü, yazılı, elektronik veya diğer yollarla satılması, kiralanması, serbest bırakılması, ifşa edilmesi, yayılması, erişilebilir hale getirilmesi, devredilmesi veya başka şekilde iletilmesi anlamına gelir. Bu, kişisel bilgileri paylaşmamız karşılığında bir tür fayda elde etmiş olabileceğimiz, ancak bunun mutlaka parasal bir fayda olması gerekmediği anlamına gelir.",
+          "doNotSell": "Kişisel bilgileri, \"satış\" teriminin yaygın olarak anlaşıldığı anlamda satmıyoruz. Hizmet Sağlayıcıların, Gizlilik Politikamızda açıklanan ticari amaçlar doğrultusunda, reklam, pazarlama ve analiz gibi faaliyetler için kişisel bilgilerinizi kullanmasına izin veriyoruz ve bu durum CCPA/CPRA kapsamında satış olarak değerlendirilebilir.",
+          "description": "Son on iki (12) ay içinde aşağıdaki kişisel bilgi kategorilerini satmış olabiliriz ve satmış da olabiliriz:",
+          "sharedCategories": {
+            "categoryA": "Kategori A: Tanımlayıcılar",
+            "categoryB": "Kategori B: Kaliforniya Müşteri Kayıtları yasasında listelenen kişisel bilgi kategorileri",
+            "categoryD": "Kategori D: Ticari bilgiler",
+            "categoryF": "Kategori F: İnternet veya benzeri ağ etkinlikleri",
+            "categoryG": "Kategori G: Konum belirleme verileri",
+            "categoryL": "Kategori L: Hassas kişisel bilgiler"
+          }
+        },
+        "userRights": {
+          "title": "CCPA/CPRA Kapsamındaki Haklarınız",
+          "description": "CCPA/CPRA, Kaliforniya sakinlerine kişisel bilgilerine ilişkin belirli haklar tanır. Eğer Kaliforniya sakiniyseniz, aşağıdaki haklara sahipsiniz:",
+          "rightToNotice": "Bildirim alma hakkı.",
+          "rightToNoticeDescription": "Hangi kişisel veri kategorilerinin toplandığı ve kişisel verilerin hangi amaçlarla kullanıldığı konusunda bilgilendirilme hakkına sahipsiniz.",
+          "disclosureItems": {
+            "categoriesCollected": "Hakkınızda topladığımız kişisel bilgilerin kategorileri",
+            "sources": "Hakkınızda topladığımız kişisel bilgilerin kaynak kategorileri",
+            "purposes": "Kişisel bilgilerinizi toplama veya satma amacımız ticari veya işletme amaçlıdır.",
+            "thirdParties": "Kişisel bilgilerinizi paylaştığımız üçüncü tarafların kategorileri",
+            "specificPieces": "Sizinle ilgili topladığımız belirli kişisel bilgiler",
+            "soldDisclosed": "Kişisel bilgilerinizi ticari amaçlarla sattıysak veya ifşa ettiysek, satılan ve ifşa edilen kişisel bilgi kategorilerini size açıklayacağız."
+          },
+          "rightToOptOut": "Kişisel Verilerin satılmasına veya paylaşılmasına hayır deme hakkı (vazgeçme seçeneği).",
+          "rightToOptOutDescription": "Kişisel bilgilerinizi satmamamızı talep etme hakkına sahipsiniz. Bu talebinizi iletmek için lütfen \"Kişisel Bilgilerimi Satmayın\" bölümüne bakın veya bizimle iletişime geçin.",
+          "doNotSellSection": "Kişisel Bilgilerimi Satmayın",
+          "rightToCorrect": "Kişisel Verileri düzeltme hakkı.",
+          "rightToCorrectDescription": "Topladığımız kişisel bilgilerinizdeki yanlışlıkları düzeltme veya değiştirme hakkına sahipsiniz. Talebinizi aldıktan ve onayladıktan sonra, istisnai bir durum söz konusu olmadığı sürece, kişisel bilgilerinizi düzeltmek (ve Hizmet Sağlayıcılarımıza düzeltme talimatı vermek) için ticari olarak makul çabayı göstereceğiz.",
+          "rightToLimit": "Hassas kişisel verilerin kullanımını ve ifşasını sınırlama hakkı.",
+          "rightToLimitDescription": "Belirli hassas kişisel bilgilerinizin kullanımını veya ifşasını sınırlamayı talep etme hakkına sahipsiniz, ancak istisnai bir durum söz konusuysa bu geçerlidir. Talepte bulunmak için lütfen \"Hassas Kişisel Bilgilerimin Kullanımını veya İfşasını Sınırlama\" bölümüne bakın veya bizimle iletişime geçin.",
+          "limitSensitiveSection": "Hassas Kişisel Bilgilerimin Kullanımını veya Açıklanmasını Sınırlandırın",
+          "rightToDelete": "Kişisel Verileri silme hakkı.",
+          "rightToDeleteDescription": "Belirli koşullar altında, bazı istisnalara tabi olmak kaydıyla, Kişisel Verilerinizin silinmesini talep etme hakkına sahipsiniz. Talebinizi aldıktan ve onayladıktan sonra, bir istisna söz konusu olmadığı sürece, kişisel bilgilerinizi kayıtlarımızdan sileceğiz (ve Hizmet Sağlayıcılarımıza da silmeleri talimatını vereceğiz).",
+          "rightNonDiscrimination": "Ayrımcılığa uğramama hakkı.",
+          "rightNonDiscriminationDescription": "Tüketici haklarınızdan herhangi birini kullanmanız nedeniyle ayrımcılığa uğramama hakkına sahipsiniz; bu, mal veya hizmetlerin reddedilmesini, farklı fiyatlar uygulanmasını, farklı hizmet seviyelerinin sunulmasını veya farklı fiyat veya hizmet seviyelerinin önerilmesini de içerir."
+        },
+        "exercisingRights": {
+          "title": "CCPA/CPRA Veri Koruma Haklarınızı Kullanma",
+          "intro": "CCPA/CPRA kapsamındaki haklarınızdan herhangi birini kullanmak için, eğer Kaliforniya sakiniyseniz, aşağıda verilen iletişim bilgilerini kullanarak bizimle iletişime geçebilirsiniz.",
+          "authorization": "Kişisel bilgilerinizle ilgili doğrulanabilir bir talebi yalnızca siz veya Kaliforniya Eyalet Sekreterliği'ne kayıtlı ve sizin adınıza hareket etme yetkisi verdiğiniz bir kişi yapabilir.",
+          "requestRequirements": "Bize ileteceğiniz talep şu şartları taşımalıdır:",
+          "requirements": {
+            "verify": "Bize, kişisel bilgilerini topladığımız kişi veya yetkili temsilci olduğunuzu makul bir şekilde doğrulamamıza olanak sağlayacak yeterli bilgiyi verin.",
+            "describe": "Talebinizi, onu doğru bir şekilde anlamamızı, değerlendirmemizi ve yanıtlamamızı sağlayacak yeterli ayrıntıyla açıklayın."
+          },
+          "verification": "Kimliğinizi veya talebi yapma yetkinizi doğrulayamadığımız ve kişisel bilgilerin size ait olduğunu teyit edemediğimiz takdirde, talebinize yanıt veremeyiz veya size gerekli bilgileri sağlayamayız.",
+          "response": "Doğrulanabilir talebinizi aldıktan sonraki 45 gün içinde gerekli bilgileri ücretsiz olarak açıklayacak ve teslim edeceğiz. Gerekli bilgilerin sağlanması için tanınan süre, makul ölçüde gerekli olduğunda ve önceden bildirimde bulunularak bir kez daha 45 gün uzatılabilir.",
+          "dataPortability": "Veri taşınabilirliği talepleri için, kişisel bilgilerinizi kolayca kullanılabilir ve bilgilerin bir kuruluştan diğerine engelsiz bir şekilde aktarılmasına olanak sağlayacak bir formatta sunmayı seçeceğiz."
+        },
+        "doNotSell": {
+          "title": "Kişisel Bilgilerimi Satmayın",
+          "definition": "CCPA/CPRA'da tanımlandığı üzere, \"satmak\" ve \"satış\" terimleri, bir Tüketicinin kişisel bilgilerinin İşletme tarafından değerli bir karşılık karşılığında üçüncü bir tarafa sözlü, yazılı, elektronik veya diğer yollarla satılması, kiralanması, serbest bırakılması, ifşa edilmesi, yayılması, erişilebilir hale getirilmesi, devredilmesi veya başka şekilde iletilmesi anlamına gelir. Bu, kişisel bilgileri paylaşmamız karşılığında bir tür fayda elde etmiş olabileceğimiz, ancak bunun mutlaka parasal bir fayda olması gerekmediği anlamına gelir.",
+          "policy": "Kişisel bilgileri, \"satış\" teriminin yaygın olarak anlaşıldığı anlamda satmıyoruz. Hizmet Sağlayıcıların, Gizlilik Politikamızda açıklanan ticari amaçlar doğrultusunda, reklam, pazarlama ve analiz gibi faaliyetler için kişisel bilgilerinizi kullanmasına izin veriyoruz ve bu durum CCPA/CPRA kapsamında satış olarak değerlendirilebilir.",
+          "optOutRight": "Kişisel bilgilerinizin satışından vazgeçme hakkına sahipsiniz. Sizden doğrulanabilir bir tüketici talebi aldığımızda ve onayladığımızda, kişisel bilgilerinizin satışını durduracağız. Vazgeçme hakkınızı kullanmak için lütfen bizimle iletişime geçin.",
+          "serviceProviders": "İş birliği yaptığımız hizmet sağlayıcılar (örneğin, analiz veya reklam ortaklarımız), CCPA/CPRA yasası uyarınca kişisel bilgileri satan teknolojiler kullanabilir. Kişisel bilgilerinizin ilgi alanına dayalı reklamcılık amacıyla kullanılmasını ve CCPA/CPRA yasası uyarınca bu potansiyel satışları istemiyorsanız, aşağıdaki talimatları izleyerek bunu yapabilirsiniz.",
+          "browserNote": "Lütfen, bu seçeneğin kullandığınız tarayıcıya özel olduğunu unutmayın. Kullandığınız her tarayıcıda bu seçeneği devre dışı bırakmanız gerekebilir.",
+          "websiteTitle": "Web sitesi",
+          "websiteInstructions": "Uygunsa, gizlilik tercihlerinizi gözden geçirmek ve kullanabileceğimiz çerezler ve diğer teknolojilerden vazgeçmek için Hizmet üzerinde listelenen \"Gizlilik Tercihleri\", \"Gizlilik Tercihlerini Güncelle\" veya \"Kişisel Bilgilerimi Satmayın\" düğmelerine tıklayın. Lütfen Hizmete erişmek için kullandığınız her tarayıcıdan ayrı ayrı vazgeçmeniz gerektiğini unutmayın."
+        },
+        "mobileOptOut": {
+          "title": "Mobil Cihazlar",
+          "description": "Mobil cihazınız, ilgi alanlarınıza yönelik reklamlar sunmak amacıyla kullandığınız uygulamalar hakkındaki bilgilerin kullanımını reddetme olanağı sağlayabilir:",
+          "androidAds": "Android cihazlarda \"İlgi Alanına Dayalı Reklamlardan Vazgeç\" veya \"Reklam Kişiselleştirmesinden Vazgeç\" seçeneklerini kullanın.",
+          "iosTracking": "iOS cihazlarda \"Reklam Takibini Sınırla\"",
+          "locationNote": "Mobil cihazınızdaki tercihleri değiştirerek konum bilgilerinizin toplanmasını da durdurabilirsiniz."
+        },
+        "sensitiveInfo": {
+          "title": "Hassas Kişisel Bilgilerimin Kullanımını veya Açıklanmasını Sınırlandırın",
+          "description": "Eğer Kaliforniya'da ikamet ediyorsanız, hassas kişisel bilgilerinizin kullanımını ve ifşasını, bu tür hizmetleri veya malları talep eden ortalama bir Tüketicinin makul olarak beklediği hizmetleri yerine getirmek veya malları sağlamak için gerekli olan kullanımla sınırlama hakkına sahipsiniz. Hassas kişisel bilgileri, Hizmeti sağlamak için gerekli olan şekillerde toplar, kullanır ve ifşa ederiz. Kişisel bilgilerinizi nasıl kullandığımız hakkında daha fazla bilgi için lütfen \"Kişisel Verilerinizin Kullanımı\" bölümüne bakın veya bizimle iletişime geçin."
+        },
+        "caloppaPolicy": {
+          "doNotTrackResponse": "Hizmetimiz \"İzlemeyi Engelle\" sinyallerine yanıt vermez.",
+          "thirdPartyTracking": "Ancak, bazı üçüncü taraf web siteleri tarama etkinliklerinizi takip eder. Bu tür web sitelerini ziyaret ediyorsanız, web tarayıcınızdaki tercihlerinizi ayarlayarak web sitelerine izlenmek istemediğinizi bildirebilirsiniz. DNT'yi web tarayıcınızın tercihler veya ayarlar sayfasını ziyaret ederek etkinleştirebilir veya devre dışı bırakabilirsiniz."
+        },
+        "caloppa": {
+          "title": "Kaliforniya Çevrimiçi Gizlilik Koruma Yasası (CalOPPA) gereğince \"İzleme Engelle\" Politikası"
+        },
+        "saleNote": {
+          "categoriesListed": "Lütfen yukarıda listelenen kategorilerin CCPA/CPRA'da tanımlanan kategoriler olduğunu unutmayın. Bu, söz konusu kişisel bilgi kategorisine ait tüm örneklerin gerçekten satıldığı anlamına gelmez, ancak bilgimiz dahilinde, ilgili kategoriye ait bazı bilgilerin karşılığında değer elde etmek amacıyla paylaşılmış olabileceğine dair iyi niyetli inancımızı yansıtır."
+        },
+        "minorsUnder16": {
+          "title": "16 Yaşından Küçük Çocukların Kişisel Bilgilerinin Satışı",
+          "description1": "Hizmetimiz aracılığıyla 16 yaşın altındaki çocuklardan bilerek kişisel bilgi toplamıyoruz, ancak bağlantı verdiğimiz bazı üçüncü taraf web siteleri bunu yapabilir. Bu üçüncü taraf web sitelerinin kendi kullanım şartları ve gizlilik politikaları vardır ve ebeveynleri ve yasal vasileri çocuklarının internet kullanımını izlemeye ve çocuklarına asla izinleri olmadan başka web sitelerinde bilgi vermemeleri konusunda talimat vermeye teşvik ediyoruz.",
+          "description2": "16 yaşından küçük olduğunu bildiğimiz tüketicilerin kişisel bilgilerini, 13 ila 16 yaş arasındaki tüketiciden veya 13 yaşından küçük bir tüketicinin ebeveyninden veya velisinden açık onay ( \"onay verme hakkı\") almadığımız sürece satmıyoruz. Kişisel bilgilerinin satışına onay veren tüketiciler, gelecekteki satışlardan istedikleri zaman vazgeçebilirler. Vazgeçme hakkınızı kullanmak için, siz (veya yetkili temsilciniz) bizimle iletişime geçerek bir talepte bulunabilirsiniz.",
+          "description3": "13 (veya 16) yaşın altındaki bir çocuğun bize kişisel bilgiler verdiğine dair bir şüpheniz varsa, lütfen bu bilgileri silmemizi sağlayacak yeterli ayrıntıyı bize ileterek bizimle iletişime geçin."
+        },
+        "optOutPlatforms": {
+          "description": "Ayrıca, Hizmet Sağlayıcılarımız tarafından sunulan kişiselleştirilmiş reklamları almayı, Hizmetimizde sunulan talimatları izleyerek reddedebilirsiniz:",
+          "nai": "NAI'nin katılımdan vazgeçme platformu:",
+          "edaa": "EDAA'nın vazgeçme platformu:",
+          "daa": "DAA'nın abonelikten çıkma platformu:",
+          "cookieNote": "Bu seçeneği tercih etmeniz durumunda, kullandığınız tarayıcıya özgü bir çerez bilgisayarınıza yerleştirilecektir. Tarayıcınızı değiştirirseniz veya tarayıcınız tarafından kaydedilen çerezleri silerseniz, tekrar tercih etme işlemini yapmanız gerekecektir."
+        },
+        "rights": {
+          "rightToKnowAccess": "Bilme/erişim hakkı.",
+          "rightToKnowAccessDescription": "CCPA/CPRA kapsamında, kişisel bilgilerinizi toplama, kullanma, satma, ticari amaçlarla ifşa etme ve paylaşma yöntemlerimiz hakkında size bilgi vermemizi talep etme hakkına sahipsiniz. Talebinizi aldıktan ve onayladıktan sonra, size şunları açıklayacağız:"
+        }
+      },
+      "optOut": {
+        "androidAds": "Android cihazlarda \"İlgi Alanına Dayalı Reklamlardan Vazgeç\" veya \"Reklam Kişiselleştirmesinden Vazgeç\" seçeneklerini kullanın.",
+        "androidInterestBased": "İlgi Alanına Dayalı Reklamlardan Vazgeç",
+        "androidPersonalization": "Reklam kişiselleştirmesinden vazgeçin",
+        "iosTracking": "iOS cihazlarda \"Reklam Takibini Sınırla\"",
+        "iosLimit": "Reklam Takibini Sınırla"
+      },
+      "dataTypes": {
+        "email": "E-posta adresi",
+        "name": "Adı ve soyadı",
+        "phone": "Telefon numarası",
+        "address": "Adres, Eyalet, İl, Posta kodu, Şehir",
+        "usageData": "Kullanım Verileri"
+      },
+      "socialMedia": {
+        "google": "Google",
+        "facebook": "Facebook",
+        "apple": "Elma"
+      },
+      "appPermissions": {
+        "location": "Konumunuzla ilgili bilgiler ( Bluetooth yakınlık algılama için)",
+        "bluetooth": "Bluetooth cihaz bilgileri ve yakındaki cihazların taranması",
+        "camera": "Avatar oluşturmak için cihazınızın kamerasından alınan bilgiler.",
+        "contacts": "Cihaz rehberindeki kişiler (isteğe bağlı, arkadaş bulmak için)"
+      }
+    },
+    "termsOfUse": {
+      "title": "Kullanım Şartları",
+      "subtitle": "Ringdy hizmetlerini kullanırken haklarınız ve sorumluluklarınız hakkında bilgi sahibi olmak.",
+      "lastUpdated": "Son güncelleme: Ocak 2025",
+      "introduction": "Hizmetimizi kullanmadan önce lütfen bu şartlar ve koşulları dikkatlice okuyun.",
+      "sections": {
+        "interpretationTitle": "Yorumlama ve Tanımlar",
+        "interpretationSubtitle": "Tercüme",
+        "interpretationText": "Baş harfi büyük olan kelimelerin anlamları aşağıdaki koşullar altında tanımlanmıştır. Aşağıdaki tanımlar, tekil veya çoğul halde olmalarına bakılmaksızın aynı anlama gelir.",
+        "definitionsSubtitle": "Tanımlar",
+        "definitionsText": "Bu Hüküm ve Koşullar kapsamında:",
+        "definitions": {
+          "application": "Şirket tarafından sağlanan ve sizin herhangi bir elektronik cihazınıza indirdiğiniz, Ringdy adı verilen yazılım programı anlamına gelir.",
+          "applicationStore": "Uygulamanın indirildiği, Apple Inc. (Apple App Store) veya Google Inc. (Google Play Store) tarafından işletilen ve geliştirilen dijital dağıtım hizmeti anlamına gelir.",
+          "affiliate": "\"Kontrol\", bir tarafı kontrol eden, bir tarafça kontrol edilen veya bir tarafla ortak kontrol altında olan bir kuruluşu ifade eder; burada \"kontrol\", yönetim kurulu üyelerinin veya diğer yönetim yetkililerinin seçimi için oy kullanma hakkına sahip hisselerin, öz sermaye paylarının veya diğer menkul kıymetlerin %50 veya daha fazlasına sahip olmayı ifade eder.",
+          "account": "Bu, hizmetimize veya hizmetimizin belirli bölümlerine erişmeniz için sizin için oluşturulmuş benzersiz bir hesap anlamına gelir.",
+          "country": "Vietnam'ı ifade eder.",
+          "company": "(Bu Sözleşmede \"Şirket\", \"Biz\", \"Bize\" veya \"Bizim\" olarak anılan) Ringdy ifade eder.",
+          "content": "Metin, resim veya diğer bilgiler gibi, içeriğin biçiminden bağımsız olarak, sizin tarafınızdan yayınlanabilen, yüklenebilen, bağlantı verilebilen veya başka bir şekilde erişilebilir hale getirilebilen içerikleri ifade eder.",
+          "device": "Hizmete erişebilen herhangi bir cihaz anlamına gelir; örneğin bilgisayar, akıllı telefon veya dijital tablet.",
+          "feedback": "Bu, Hizmetimizin nitelikleri, performansı veya özellikleriyle ilgili olarak Sizin tarafınızdan gönderilen geri bildirim, yenilik veya öneriler anlamına gelir.",
+          "freeTrial": "Abonelik satın alındığında ücretsiz olarak sunulabilecek sınırlı bir süreyi ifade eder.",
+          "goods": "Lütfen servisimizde satışa sunulan ürünlere göz atın.",
+          "inAppPurchase": "Bu, Uygulama aracılığıyla yapılan ve bu Şartlar ve Koşullar ve/veya Uygulama Mağazasının kendi şart ve koşullarına tabi olan bir ürün, öğe, hizmet veya Aboneliğin satın alınmasını ifade eder.",
+          "orders": "Bu, Sizin bizden Mal satın alma talebiniz anlamına gelir.",
+          "promotions": "Hizmet aracılığıyla sunulan yarışmalara, çekilişlere veya diğer promosyonlara bakın.",
+          "service": "Başvuruya atıfta bulunur.",
+          "subscriptions": "Şirket tarafından size abonelik esasına göre sunulan hizmetlere veya Hizmete erişime bakın.",
+          "termsAndConditions": "(Ayrıca \"Şartlar\" olarak da anılır) Bu Şartlar ve Koşullar, Hizmetin kullanımıyla ilgili olarak Sizinle Şirket arasında yapılan tüm anlaşmayı oluşturur.",
+          "thirdPartySocialMedia": "Hizmet tarafından görüntülenebilen, dahil edilebilen veya kullanıma sunulabilen, üçüncü bir tarafça sağlanan her türlü hizmet veya içerik (veri, bilgi, ürün veya hizmetler dahil) anlamına gelir.",
+          "you": "\"Hizmete erişen veya hizmeti kullanan birey\" veya bu bireyin adına hizmete erişen veya hizmeti kullanan şirket veya diğer tüzel kişiyi ifade eder."
+        },
+        "definitionLabels": {
+          "application": "Başvuru:",
+          "applicationStore": "Uygulama Mağazası:",
+          "affiliate": "İş ortağı:",
+          "account": "Hesap:",
+          "country": "Ülke:",
+          "company": "Şirket:",
+          "content": "İçerik:",
+          "device": "Cihaz:",
+          "feedback": "Geri bildirim:",
+          "freeTrial": "Ücretsiz Deneme:",
+          "goods": "Mal:",
+          "inAppPurchase": "Uygulama İçi Satın Alma:",
+          "orders": "Siparişler:",
+          "promotions": "Promosyonlar:",
+          "service": "Hizmet:",
+          "subscriptions": "Abonelikler:",
+          "termsAndConditions": "Şartlar ve koşullar:",
+          "thirdPartySocialMedia": "Üçüncü Taraf Sosyal Medya Hizmeti:",
+          "you": "Sen:"
+        }
+      },
+      "acknowledgment": {
+        "title": "Teşekkür",
+        "description1": "Bu, Hizmetin kullanımını düzenleyen Hüküm ve Koşullar olup, Siz ve Şirket arasında geçerli olan sözleşmedir. Bu Hüküm ve Koşullar, Hizmetin kullanımıyla ilgili olarak tüm kullanıcıların hak ve yükümlülüklerini belirler.",
+        "description2": "Hizmete erişiminiz ve kullanımınız, bu Şartlar ve Koşulları kabul etmenize ve bunlara uymanıza bağlıdır. Bu Şartlar ve Koşullar, Hizmete erişen veya kullanan tüm ziyaretçiler, kullanıcılar ve diğer kişiler için geçerlidir.",
+        "description3": "Hizmete erişerek veya hizmeti kullanarak bu Şartlar ve Koşullara bağlı kalmayı kabul edersiniz. Bu Şartlar ve Koşulların herhangi bir bölümüne katılmıyorsanız, Hizmete erişemezsiniz.",
+        "description4": "18 yaşından büyük olduğunuzu beyan ediyorsunuz. Şirket, 18 yaşından küçüklerin Hizmeti kullanmasına izin vermez.",
+        "description5": "Hizmete erişiminiz ve kullanımınız, Şirketin Gizlilik Politikası'nı kabul etmenize ve buna uymanıza da bağlıdır. Gizlilik Politikamız, Uygulamayı kullandığınızda kişisel bilgilerinizin toplanması, kullanımı ve ifşasına ilişkin politikalarımızı ve prosedürlerimizi açıklar ve size gizlilik haklarınız ve yasanın sizi nasıl koruduğu hakkında bilgi verir. Hizmetimizi kullanmadan önce lütfen Gizlilik Politikamızı dikkatlice okuyun.",
+        "bluetoothNotice": "Hizmetimizi kullanarak, Uygulamanın yakındaki kullanıcıları keşfetmek ve onlarla bağlantı kurmak için Bluetooth ve konum servislerini kullandığını kabul edersiniz. Yakınlık tabanlı özellikler sağlamak için bu teknolojileri kullanmamıza onay verirsiniz.",
+        "bluetoothTitle": "Bluetooth ve Konum Servisleri"
+      },
+      "orders": {
+        "title": "Dijital Ürün Satın Alma",
+        "introduction": "Hizmet aracılığıyla bir Discovery Pass, Night Pass veya Abonelik satın alarak, yasal olarak bağlayıcı sözleşmelere girebilecek ehliyete sahip olduğunuzu garanti edersiniz.",
+        "yourInformation": {
+          "title": "Bilgileriniz",
+          "description1": "Discovery Pass, Night Pass ve Abonelik ödemeleri tamamen cihazınızın uygulama mağazası (Google Play veya App Store) üzerinden işlenir. Ödeme kartı bilgilerinizi toplamıyor veya saklamıyoruz.",
+          "description2": "Şunları beyan ve garanti edersiniz: (i) Uygulama mağazası hesabınızla kayıtlı herhangi bir ödeme yöntemini kullanma yasal hakkına sahipsiniz; ve (ii) uygulama mağazasına sağladığınız bilgiler doğru, eksiksiz ve gerçektir.",
+          "description3": "Tüm ödeme bilgileri şirkete değil, doğrudan Google Play veya App Store'a gönderilir."
+        },
+        "cancellation": {
+          "title": "Satın Alma İptali",
+          "description1": "Aşağıdakiler de dahil ancak bunlarla sınırlı olmamak üzere belirli nedenlerle, satın alma işleminizi herhangi bir zamanda reddetme veya iptal etme hakkımızı saklı tutuyoruz:",
+          "reasons": {
+            "availability": "Ürün stok durumu",
+            "errors": "Ürün açıklamasında veya fiyatında hatalar",
+            "orderErrors": "Satın alma işleminizde hatalar"
+          },
+          "description2": "Dolandırıcılık veya yetkisiz ya da yasa dışı bir işlemden şüphelenilmesi durumunda satın alma işleminizi reddetme veya iptal etme hakkımızı saklı tutarız.",
+          "yourRights": {
+            "title": "İptal Haklarınız",
+            "description1": "Discovery Pass'ler, Night Pass Pass'ler ve diğer tüketilebilir dijital öğeler, kullanıldıktan sonra tüketilir ve genellikle iade edilemez.",
+            "description2": "Dijital satın alımlar için iade uygulamalarımız, aşağıda yer alan Uygulama İçi Satın Alımlar ve İadeler bölümlerinde açıklanmıştır.",
+            "description3": "Bir mekâna giriş için Discovery Pass veya Night Pass kullanıldıktan sonra, bu kart iptal edilemez veya para iadesi yapılamaz.",
+            "description4": "Uygun iade talepleri, aşağıda İadeler bölümünde açıklandığı gibi, Uygulama Mağazası'nın iade politikasına göre işleme alınır.",
+            "description5": "Aşağıdaki ürünler için satın alma işlemini iptal etme hakkınız bulunmamaktadır:",
+            "exceptions": {
+              "personalized": "Hesabınıza daha önce eklenmiş veya tüketilmiş öğeler, örneğin bir mekanı açmak için kullanılan Discovery Pass gibi.",
+              "perishable": "Night Pass gibi, geçerlilik süresi dolduktan sonra zaman sınırlı olan biletler.",
+              "hygiene": "Hizmetin size daha önce sağlandığı abonelik süreleri.",
+              "mixed": "Dijital ürünler, bir paket içerisinde diğer satın alınan ürünlerle birleştirilmiştir.",
+              "digital": "Somut bir ortamda sunulmayan dijital içeriğin sağlanması, sizin önceden açık rızanızla başlamışsa ve iptal hakkınızı kaybettiğinizi kabul ettiyseniz geçerlidir."
+            }
+          }
+        },
+        "availability": {
+          "title": "Kullanılabilirlik, Hatalar ve Yanlışlıklar",
+          "description1": "Hizmetimizdeki Keşif Geçiş Kartları, Night Pass Kartları ve Abonelik planlarını sürekli olarak güncelliyoruz. Bunların fiyatları yanlış olabilir, açıklamaları hatalı olabilir veya mevcut olmayabilir ve bu bilgileri güncellemede gecikmeler yaşayabiliriz.",
+          "description2": "Fiyatlar ve stok durumu da dahil olmak üzere herhangi bir bilginin doğruluğunu veya eksiksizliğini garanti edemeyiz ve etmiyoruz. Bilgileri değiştirme veya güncelleme ve hataları, yanlışlıkları veya eksiklikleri önceden haber vermeksizin herhangi bir zamanda düzeltme hakkını saklı tutuyoruz."
+        },
+        "pricing": {
+          "title": "Fiyat Politikası",
+          "description1": "Şirket, satın alma işlemini kabul etmeden önce Discovery Pass, Night Pass ve Abonelik fiyatlarını herhangi bir zamanda revize etme hakkını saklı tutar.",
+          "description2": "Fiyatlar, cihazınızın uygulama mağazası (Google Play veya App Store) üzerinden belirlenir ve görüntülenir ve bölgeye ve para birimine göre değişiklik gösterebilir."
+        },
+        "payments": {
+          "title": "Ödemeler",
+          "description1": "Tüm satın alımlar, cihazınızın uygulama mağazası (Google Play veya App Store) üzerinden, desteklediği ödeme yöntemleri kullanılarak gerçekleştirilir.",
+          "description2": "Ödeme yöntemleri, uygulama mağazası ve kartınızı veren kuruluş tarafından doğrulama ve yetkilendirmeye tabidir. Yetkilendirme alınamazsa, Şirket satın alma işleminizin gecikmesinden veya teslimatının gerçekleşmemesinden sorumlu değildir."
+        }
+      },
+      "subscriptions": {
+        "title": "Abonelikler",
+        "period": {
+          "title": "Abonelik Süresi",
+          "description1": "Hizmetin tamamı veya bazı bölümleri yalnızca ücretli abonelikle kullanılabilir. Aboneliği satın alırken seçtiğiniz abonelik planına bağlı olarak, düzenli ve periyodik olarak (örneğin günlük, haftalık, aylık veya yıllık) önceden faturalandırılırsınız.",
+          "description2": "Her dönemin sonunda, siz iptal etmediğiniz veya şirket iptal etmediği sürece aboneliğiniz aynı koşullar altında otomatik olarak yenilenecektir."
+        },
+        "cancellations": {
+          "title": "Abonelik İptalleri",
+          "description1": "Aboneliğinizin yenilenmesini, hesap ayarları sayfanızdan veya şirketle iletişime geçerek iptal edebilirsiniz. Mevcut abonelik döneminiz için zaten ödediğiniz ücretler için geri ödeme almayacaksınız ve mevcut abonelik döneminizin sonuna kadar hizmete erişebileceksiniz.",
+          "description2": "Aboneliğiniz uygulama içi satın alma yoluyla yapıldıysa, aboneliğinizin yenilenmesini uygulama mağazası üzerinden iptal edebilirsiniz."
+        },
+        "billing": {
+          "title": "Faturalama",
+          "description1": "Şirkete tam adınız, adresiniz, eyaletiniz, posta kodunuz, telefon numaranız ve geçerli bir ödeme yöntemi bilgisi de dahil olmak üzere doğru ve eksiksiz faturalama bilgileri sağlamanız gerekmektedir.",
+          "description2": "Herhangi bir nedenle otomatik faturalandırma gerçekleşmezse, Şirket size elektronik bir fatura gönderecek ve faturada belirtilen fatura dönemine karşılık gelen ödemenin tamamını belirli bir son tarih içinde manuel olarak yapmanız gerektiğini bildirecektir.",
+          "description3": "Abonelik uygulama içi satın alma yoluyla yapıldıysa, tüm faturalandırma işlemleri uygulama mağazası tarafından gerçekleştirilir ve uygulama mağazasının kendi hüküm ve koşullarına tabidir."
+        },
+        "feeChanges": {
+          "title": "Ücret Değişiklikleri",
+          "description1": "Şirket, tamamen kendi takdirine bağlı olarak ve herhangi bir zamanda abonelik ücretlerini değiştirebilir. Abonelik ücretlerindeki herhangi bir değişiklik, o anki abonelik döneminin sonunda yürürlüğe girer.",
+          "description2": "Şirket, abonelik ücretlerinde yapılacak herhangi bir değişiklik hakkında size makul bir süre önceden bildirimde bulunarak, bu değişiklik yürürlüğe girmeden önce aboneliğinizi sonlandırma fırsatı verecektir.",
+          "description3": "Abonelik ücreti değişikliği yürürlüğe girdikten sonra Hizmeti kullanmaya devam etmeniz, değiştirilmiş abonelik ücretini ödemeyi kabul ettiğiniz anlamına gelir."
+        },
+        "refunds": {
+          "title": "Geri ödemeler",
+          "description1": "Kanunen zorunlu haller dışında, ödenmiş abonelik ücretleri iade edilmez.",
+          "description2": "Aboneliklere ilişkin bazı geri ödeme talepleri, Şirket tarafından vaka bazında değerlendirilebilir ve tamamen Şirketin takdirine bağlı olarak onaylanabilir.",
+          "description3": "Abonelik uygulama içi satın alma yoluyla yapıldıysa, Uygulama Mağazasının iade politikası geçerli olacaktır. İade talebinde bulunmak isterseniz, doğrudan Uygulama Mağazası ile iletişime geçebilirsiniz."
+        },
+        "freeTrial": {
+          "title": "Ücretsiz Deneme",
+          "description1": "Şirket, kendi takdirine bağlı olarak, sınırlı bir süre için ücretsiz deneme süresi içeren bir abonelik sunabilir.",
+          "description2": "Ücretsiz deneme sürümüne kaydolmak için fatura bilgilerinizi girmeniz gerekebilir.",
+          "description3": "Ücretsiz deneme sürümüne kaydolurken fatura bilgilerinizi girerseniz, ücretsiz deneme süresi sona erene kadar şirket tarafından sizden ücret alınmayacaktır. Ücretsiz deneme süresinin son gününde, aboneliğinizi iptal etmediğiniz sürece, seçtiğiniz abonelik türü için geçerli abonelik ücretleri otomatik olarak sizden tahsil edilecektir.",
+          "description4": "Şirket, herhangi bir zamanda ve önceden haber vermeksizin (i) Ücretsiz Deneme teklifinin şartlarını ve koşullarını değiştirme veya (ii) söz konusu Ücretsiz Deneme teklifini iptal etme hakkını saklı tutar."
+        }
+      },
+      "inAppPurchases": {
+        "title": "Uygulama İçi Satın Alımlar",
+        "description1": "Uygulama, ürün, hizmet veya abonelik satın almanıza olanak tanıyan uygulama içi satın alımlar içerebilir.",
+        "description2": "Cihazınızı kullanarak uygulama içi satın alımları nasıl yönetebileceğiniz hakkında daha fazla bilgi, uygulama mağazasının kendi hüküm ve koşullarında veya cihazınızın Yardım ayarlarında yer alabilir.",
+        "description3": "Uygulama içi satın alımlar yalnızca uygulama içinde kullanılabilir. Uygulama içi satın alma işlemi gerçekleştirdiğinizde, indirme işlemi başladıktan sonra bu satın alma işlemi iptal edilemez. Uygulama içi satın alımlar nakit veya başka bir karşılıkla değiştirilemez veya başka bir şekilde devredilemez.",
+        "description4": "Fatura ve işlem süreçlerinin tamamının, uygulamayı indirdiğiniz uygulama mağazası tarafından yürütüldüğünü ve bu uygulama mağazasının kendi hüküm ve koşullarına tabi olduğunu kabul ve onaylıyorsunuz."
+      },
+      "promotions": {
+        "title": "Promosyonlar",
+        "description1": "Hizmet aracılığıyla sunulan herhangi bir promosyon, bu Şartlardan ayrı kurallara tabi olabilir.",
+        "description2": "Herhangi bir kampanyaya katılırsanız, lütfen geçerli kuralları ve Gizlilik Politikamızı inceleyin. Bir kampanyanın kuralları bu Şartlarla çelişiyorsa, kampanya kuralları geçerli olacaktır."
+      },
+      "userAccounts": {
+        "title": "Kullanıcı Hesapları",
+        "description1": "Bizimle bir hesap oluşturduğunuzda, bize her zaman doğru, eksiksiz ve güncel bilgiler sağlamanız gerekir. Bunu yapmamanız, Şartların ihlali anlamına gelir ve bu da Hizmetimizdeki hesabınızın derhal sonlandırılmasına yol açabilir.",
+        "description2": "Hizmete erişmek için kullandığınız şifrenin güvenliğini sağlamaktan ve şifrenizle gerçekleştirilen tüm faaliyetlerden veya eylemlerden siz sorumlusunuz; bu sorumluluk, şifrenizin Hizmetimizde veya üçüncü taraf bir sosyal medya hizmetinde olup olmamasına bakılmaksızın geçerlidir.",
+        "description3": "Şifrenizi herhangi bir üçüncü şahısla paylaşmamayı kabul ediyorsunuz. Hesabınızın güvenliğinin ihlal edildiğini veya yetkisiz kullanımını fark ettiğiniz anda bizi derhal bilgilendirmeniz gerekmektedir.",
+        "description4": "Başka bir kişinin veya kuruluşun adını, yasal olarak kullanılamayan bir adı, uygun yetkilendirme olmaksızın başka bir kişi veya kuruluşa ait haklara tabi olan bir adı veya ticari markayı veya başka şekilde saldırgan, kaba veya müstehcen bir adı kullanıcı adı olarak kullanamazsınız."
+      },
+      "userConduct": {
+        "title": "Kullanıcı Davranışı ve Güvenliği",
+        "zeroTolerance": {
+          "title": "Sıfır Tolerans Politikası",
+          "description": "Hizmeti başkalarını taciz etmek, tehdit etmek, takip etmek veya korkutmak için kullanmamayı kabul ediyorsunuz. Şirket, kötüye kullanım, taciz veya başkalarının haklarının veya güvenliğinin ihlaline karşı sıfır tolerans politikası uygulamaktadır. İhlaller, hesabınızın derhal askıya alınmasına veya sonlandırılmasına neden olabilir."
+        },
+        "safetyDisclaimer": {
+          "title": "Güvenlik Uyarısı",
+          "description": "Bu hizmet, şahsen buluşmayı tercih edebilecek kullanıcılar arasında bağlantı ve iletişimi kolaylaştırır. Kullanıcıların geçmişlerini kontrol etmiyor veya kimliklerini doğrulamıyoruz. Başkalarıyla etkileşimlerinizden tamamen siz sorumlusunuz. Çevrimdışı olarak diğer kullanıcılarla iletişim kurarken veya buluşurken dikkatli olun, sağduyulu davranın ve uygun güvenlik önlemlerini alın."
+        }
+      },
+      "content": {
+        "title": "İçerik",
+        "yourRight": {
+          "title": "İçerik Yayınlama Hakkınız",
+          "description1": "Hizmetimiz, İçerik yayınlamanıza olanak tanır. Hizmete yayınladığınız İçerikten, yasalara uygunluğu, güvenilirliği ve uygunluğu da dahil olmak üzere siz sorumlusunuz.",
+          "description2": "Hizmete İçerik göndererek, bu İçeriği Hizmet üzerinde ve aracılığıyla kullanma, değiştirme, kamuya açık olarak sergileme, çoğaltma ve dağıtma hakkını ve lisansını bize vermiş olursunuz. Hizmete gönderdiğiniz, yayınladığınız veya sergilediğiniz herhangi bir İçeriğe ilişkin tüm haklarınız size aittir ve bu hakları korumak sizin sorumluluğunuzdadır.",
+          "description3": "Şunları beyan ve garanti edersiniz: (i) İçerik Size aittir (Sizindir) veya onu kullanma ve bu Şartlarda belirtildiği gibi bize hak ve lisans verme hakkına sahipsiniz ve (ii) İçeriğinizin Hizmet üzerinde veya aracılığıyla yayınlanması, herhangi bir kişinin gizlilik haklarını, tanıtım haklarını, telif haklarını, sözleşme haklarını veya diğer haklarını ihlal etmez."
+        },
+        "restrictions": {
+          "title": "İçerik Kısıtlamaları",
+          "description1": "Şirket, Hizmet kullanıcılarının içeriklerinden sorumlu değildir. İçerikten ve hesabınız altında gerçekleşen tüm faaliyetlerden, ister sizin tarafınızdan ister hesabınızı kullanan herhangi bir üçüncü kişi tarafından gerçekleştirilmiş olsun, yalnızca sizin sorumlu olduğunuzu açıkça anlıyor ve kabul ediyorsunuz.",
+          "description2": "Yasa dışı, saldırgan, rahatsız edici, iğrençlik amacı taşıyan, tehdit edici, iftira niteliğinde, karalayıcı, müstehcen veya başka şekilde sakıncalı olan hiçbir içeriği iletemezsiniz. Bu tür sakıncalı içeriklere örnek olarak, ancak bunlarla sınırlı olmamak üzere, şunlar verilebilir:",
+          "prohibitedContent": {
+            "unlawful": "Yasadışı veya yasadışı faaliyeti teşvik etmek.",
+            "discriminatory": "Din, ırk, cinsel yönelim, cinsiyet, ulusal/etnik köken veya diğer hedef gruplara ilişkin referanslar veya yorumlar da dahil olmak üzere, iftira niteliğinde, ayrımcı veya kötü niyetli içerik.",
+            "spam": "Spam, makine tarafından veya rastgele oluşturulmuş, yetkisiz veya istenmeyen reklamlar, zincirleme mektuplar, diğer yetkisiz talep biçimleri veya herhangi bir piyango veya kumar biçimi.",
+            "malware": "Virüs, solucan, kötü amaçlı yazılım, truva atı veya herhangi bir yazılımın, donanımın veya telekomünikasyon ekipmanının işleyişini bozmak, zarar vermek veya sınırlamak amacıyla tasarlanmış veya amaçlanmış diğer içerikleri içermek veya yüklemek.",
+            "infringing": "Herhangi bir tarafın patent, marka, ticari sır, telif hakkı, tanıtım hakkı veya diğer hakları da dahil olmak üzere herhangi bir mülkiyet hakkını ihlal etmek.",
+            "impersonating": "Şirket ve çalışanları veya temsilcileri de dahil olmak üzere herhangi bir kişi veya kuruluşu taklit etmek.",
+            "privacy": "Üçüncü şahısların gizliliğini ihlal etmek.",
+            "false": "Yanlış bilgi ve özellikler."
+          },
+          "description3": "Şirket, herhangi bir İçeriğin uygun olup olmadığını ve bu Şartlara uyup uymadığını belirleme hakkını saklı tutar, ancak bu bir yükümlülük değildir. İçeriği görüntülemeyi reddedebilir veya kaldırabiliriz ve bu Şartları veya topluluk standartlarımızı ihlal eden hesapları askıya alma veya sonlandırma hakkını saklı tutarız."
+        },
+        "backups": {
+          "title": "İçerik Yedeklemeleri",
+          "description1": "Şirket, içeriğin düzenli olarak yedeklerini almasına rağmen, veri kaybı veya bozulmasının olmayacağını garanti etmez.",
+          "description2": "Yedekleme noktalarının bozulmasına, bunlarla sınırlı olmamak üzere, yedeklemeden önce bozulmuş olan veya yedekleme işlemi sırasında değişen içerik neden olabilir.",
+          "description3": "Şirket, İçeriğin yedeklerini etkileyebilecek bilinen veya keşfedilen tüm sorunları gidermek ve sorun gidermeye çalışmak için destek sağlayacaktır. Ancak, İçeriğin bütünlüğü veya İçeriğin kullanılabilir bir duruma başarıyla geri yüklenememesiyle ilgili olarak Şirketin hiçbir sorumluluğu olmadığını kabul edersiniz.",
+          "description4": "Hizmetten bağımsız bir konumda, herhangi bir İçeriğin eksiksiz ve doğru bir kopyasını saklamayı kabul edersiniz."
+        }
+      },
+      "copyright": {
+        "title": "Telif Hakkı Politikası",
+        "intellectualProperty": {
+          "title": "Fikri Mülkiyet İhlali",
+          "description1": "Başkalarının fikri mülkiyet haklarına saygı duyuyoruz. Hizmetimizde yayınlanan İçeriğin herhangi bir kişinin telif hakkını veya diğer fikri mülkiyet haklarını ihlal ettiğine dair herhangi bir iddiaya yanıt vermek politikamızdır.",
+          "description2": "Eğer telif hakkı sahibiyseniz veya bir telif hakkı sahibi adına yetkilendirilmişseniz ve telif hakkıyla korunan eserinizin Hizmet aracılığıyla telif hakkı ihlali teşkil edecek şekilde kopyalandığına inanıyorsanız, ihlal bildirimini yazılı olarak telif hakkı temsilcimize support@ringdy.com adresine e-posta yoluyla iletmeniz ve bildiriminizde iddia edilen ihlalin ayrıntılı bir açıklamasını eklemeniz gerekmektedir.",
+          "description3": "Herhangi bir İçeriğin telif hakkınızı ihlal ettiğine dair yanlış beyanda bulunmanız durumunda, zararlardan (masraflar ve avukatlık ücretleri dahil) sorumlu tutulabilirsiniz."
+        },
+        "dmca": {
+          "title": "Telif Hakkı İhlali İddiaları İçin DMCA Bildirimi ve DMCA Prosedürü",
+          "description": "Dijital Binyıl Telif Hakkı Yasası (DMCA) uyarınca bir bildirimde bulunmak için, Telif Hakkı Temsilcimize aşağıdaki bilgileri yazılı olarak iletebilirsiniz:",
+          "requirements": {
+            "signature": "Telif hakkı sahibinin adına hareket etmeye yetkili kişinin elektronik veya fiziksel imzası.",
+            "description": "Telif hakkı ihlalinin gerçekleştiğini iddia ettiğiniz telif hakkıyla korunan eserin açıklaması, telif hakkıyla korunan eserin bulunduğu yerin URL'si (yani web sayfası adresi) veya telif hakkıyla korunan eserin bir kopyası da dahil olmak üzere.",
+            "identification": "Telif hakkınızı ihlal ettiğini iddia ettiğiniz materyalin bulunduğu URL'nin veya Hizmet üzerindeki diğer belirli konumun belirtilmesi.",
+            "contact": "Adresiniz, telefon numaranız ve e-posta adresiniz.",
+            "goodFaith": "Sizin, ihtilaflı kullanımın telif hakkı sahibi, temsilcisi veya yasa tarafından yetkilendirilmediğine dair iyi niyetli bir inancınız olduğuna dair bir beyanınız.",
+            "accuracy": "Yukarıdaki bildiriminizdeki bilgilerin doğru olduğunu ve telif hakkı sahibi olduğunuzu veya telif hakkı sahibinin adına hareket etmeye yetkili olduğunuzu yeminli olarak beyan edersiniz."
+          },
+          "contact": "Telif hakkı temsilcimizle support@ringdy.com adresinden e-posta yoluyla iletişime geçebilirsiniz. Bildirim alındığında, Şirket, kendi takdirine bağlı olarak, Hizmetten itiraz edilen içeriğin kaldırılması da dahil olmak üzere uygun gördüğü her türlü işlemi gerçekleştirecektir."
+        }
+      },
+      "intellectualProperty": {
+        "title": "Fikri Mülkiyet",
+        "description1": "Hizmet ve orijinal içeriği (Sizin veya diğer kullanıcılar tarafından sağlanan İçerik hariç), özellikleri ve işlevselliği, Şirketin ve lisans verenlerinin münhasır mülkiyetindedir ve öyle kalacaktır.",
+        "description2": "Bu hizmet, hem yerel hem de yabancı ülkelerin telif hakkı, marka ve diğer yasalarıyla korunmaktadır.",
+        "description3": "Şirketimizin ticari markaları ve ticari görünümü, Şirketin önceden yazılı izni olmadan herhangi bir ürün veya hizmetle bağlantılı olarak kullanılamaz."
+      },
+      "feedback": {
+        "title": "Bize Verdiğiniz Geri Bildirimler",
+        "description": "Şirkete sağladığınız tüm geri bildirimlere ilişkin tüm hakları, mülkiyeti ve menfaatleri devredersiniz. Herhangi bir nedenle bu devir geçersiz olursa, Şirkete söz konusu geri bildirimleri kısıtlama olmaksızın kullanma, çoğaltma, açıklama, alt lisanslama, dağıtma, değiştirme ve bunlardan yararlanma konusunda münhasır olmayan, kalıcı, geri alınamaz, telifsiz, dünya çapında bir hak ve lisans vermeyi kabul edersiniz."
+      },
+      "links": {
+        "title": "Diğer Web Sitelerine Bağlantılar",
+        "description1": "Hizmetimiz, Şirketimize ait olmayan veya Şirketimiz tarafından kontrol edilmeyen üçüncü taraf web sitelerine veya hizmetlerine bağlantılar içerebilir.",
+        "description2": "Şirketin, üçüncü taraf web sitelerinin veya hizmetlerinin içeriği, gizlilik politikaları veya uygulamaları üzerinde hiçbir kontrolü yoktur ve bunlardan hiçbir sorumluluk üstlenmez. Ayrıca, Şirketin, bu tür web sitelerinde veya hizmetlerinde bulunan veya bunlar aracılığıyla erişilebilen herhangi bir içerik, mal veya hizmetin kullanımından veya bunlara güvenilmesinden kaynaklanan veya kaynaklandığı iddia edilen herhangi bir hasar veya kayıptan doğrudan veya dolaylı olarak sorumlu veya yükümlü olmayacağını kabul edersiniz.",
+        "description3": "Ziyaret ettiğiniz üçüncü taraf web sitelerinin veya hizmetlerinin şartlar ve koşullarını ve gizlilik politikalarını okumanızı önemle tavsiye ederiz."
+      },
+      "termination": {
+        "title": "Sonlandırma",
+        "description1": "Bu Şartlar ve Koşulları ihlal etmeniz de dahil olmak üzere, herhangi bir nedenle, önceden bildirimde bulunmaksızın ve herhangi bir sorumluluk üstlenmeksizin, Hesabınızı derhal feshedebilir veya askıya alabiliriz.",
+        "description2": "Hesabınızın kapatılmasıyla birlikte, Hizmeti kullanma hakkınız derhal sona erecektir. Hesabınızı kapatmak istiyorsanız, Hizmeti kullanmayı bırakmanız yeterlidir.",
+        "dataDeletion": {
+          "title": "Veri Silme ve Hesap Kapatma",
+          "description": "Hesabınızın ve kişisel verilerinizin silinmesini dilediğiniz zaman support@ringdy.com adresinden bizimle iletişime geçerek veya uygulama içi hesap silme özelliklerinden herhangi birini kullanarak talep edebilirsiniz. Hesabınızın kapatılması veya silinmesi durumunda, yasal, güvenlik veya operasyonel amaçlarla belirli verileri saklamamız gerekmedikçe, kişisel verilerinizi ilgili yasalara uygun olarak kaldıracak veya anonimleştireceğiz."
+        }
+      },
+      "liability": {
+        "title": "Sorumluluğun Sınırlandırılması",
+        "importantNotice": "Önemli Yasal Uyarı",
+        "notice": "Uğrayabileceğiniz herhangi bir zarara bakılmaksızın, Şirketin ve tedarikçilerinin bu Şartların herhangi bir hükmü kapsamındaki tüm sorumluluğu ve yukarıdakilerin tümü için sizin tek çözüm yolunuz, Hizmet aracılığıyla tarafınızdan fiilen ödenen tutarla veya Hizmet aracılığıyla herhangi bir şey satın almadıysanız 100 ABD Doları ile sınırlı olacaktır.",
+        "description1": "Yürürlükteki yasalarca izin verilen azami ölçüde, Şirket veya tedarikçileri hiçbir durumda, Hizmetin kullanımı veya kullanılamaması, Hizmetle birlikte kullanılan üçüncü taraf yazılım ve/veya üçüncü taraf donanım veya bu Şartların herhangi bir hükmüyle bağlantılı olarak ortaya çıkan veya bunlarla herhangi bir şekilde ilgili olan kar kaybı, veri veya diğer bilgi kaybı, iş kesintisi, kişisel yaralanma, gizlilik kaybı dahil ancak bunlarla sınırlı olmamak üzere, herhangi bir özel, arızi, dolaylı veya sonuçsal zarardan sorumlu tutulamaz; Şirket veya herhangi bir tedarikçi bu tür zararların olasılığı konusunda bilgilendirilmiş olsa bile ve çözüm temel amacını yerine getiremese bile.",
+        "description2": "Bazı eyaletler, zımni garantilerin hariç tutulmasına veya arızi ya da dolaylı zararlar için sorumluluğun sınırlandırılmasına izin vermez; bu da yukarıdaki sınırlamaların bazılarının geçerli olmayabileceği anlamına gelir. Bu eyaletlerde, her bir tarafın sorumluluğu, yasanın izin verdiği en geniş ölçüde sınırlandırılacaktır."
+      },
+      "disclaimer": {
+        "title": "\"OLDUĞU GİBİ\" ve \"MEVCUT OLDUĞU BLE \" Sorumluluk Reddi Beyanı",
+        "description1": "Hizmet size \"OLDUĞU GİBİ\" ve \"MEVCUT OLDUĞU BLE \" ve her türlü hata ve kusurla, hiçbir garanti verilmeksizin sağlanmaktadır. Yürürlükteki yasanın izin verdiği azami ölçüde, Şirket, kendi adına ve bağlı kuruluşları ile bunların ilgili lisans verenleri ve hizmet sağlayıcıları adına, hizmetle ilgili olarak, açık, zımni, yasal veya başka türlü tüm garantileri, ticari elverişlilik, belirli bir amaca uygunluk, mülkiyet ve ihlal etmeme zımni garantileri ve ticari işlem, performans, kullanım veya ticari uygulama sonucunda ortaya çıkabilecek garantiler de dahil olmak üzere açıkça reddeder.",
+        "description2": "Yukarıdakilerle sınırlı kalmaksızın, Şirket, Hizmetin gereksinimlerinizi karşılayacağına, amaçlanan sonuçlara ulaşacağına, diğer yazılımlar, uygulamalar, sistemler veya hizmetlerle uyumlu olacağına veya birlikte çalışacağına, kesintisiz çalışacağına, herhangi bir performans veya güvenilirlik standardını karşılayacağına veya hatasız olacağına veya herhangi bir hata veya kusurun düzeltilebileceğine veya düzeltileceğine dair hiçbir garanti veya taahhütte bulunmaz ve hiçbir beyanda bulunmaz.",
+        "description3": "Yukarıdakileri sınırlamamak kaydıyla, Şirket veya şirketin herhangi bir sağlayıcısı, açık veya zımni olarak şu konularda hiçbir beyan veya garanti vermez: (i) Hizmetin işleyişi veya kullanılabilirliği veya Hizmette yer alan bilgi, içerik, materyaller veya ürünler; (ii) Hizmetin kesintisiz veya hatasız olacağı; (iii) Hizmet aracılığıyla sağlanan herhangi bir bilgi veya içeriğin doğruluğu, güvenilirliği veya güncelliği; veya (iv) Hizmetin, sunucularının, içeriğinin veya Şirket tarafından veya Şirket adına gönderilen e-postaların virüs, komut dosyası, truva atı, solucan, kötü amaçlı yazılım, zaman bombası veya diğer zararlı bileşenlerden arınmış olduğu.",
+        "description4": "Bazı yargı bölgeleri, belirli garanti türlerinin hariç tutulmasına veya tüketicinin geçerli yasal haklarına ilişkin sınırlamalara izin vermemektedir; bu nedenle yukarıdaki hariç tutma ve sınırlamaların bazıları veya tamamı sizin için geçerli olmayabilir. Ancak böyle bir durumda, bu bölümde belirtilen hariç tutma ve sınırlamalar, geçerli yasa uyarınca uygulanabilir en geniş ölçüde uygulanacaktır."
+      },
+      "governingLaw": {
+        "title": "Uygulanacak Hukuk",
+        "description": "Bu Şartlar ve Hizmetin kullanımınız, kanunlar ihtilafı kuralları hariç olmak üzere, Ülkenin kanunlarına tabidir. Uygulamanın kullanımınız ayrıca diğer yerel, eyalet, ulusal veya uluslararası kanunlara da tabi olabilir."
+      },
+      "disputes": {
+        "title": "Uyuşmazlık Çözümü",
+        "description": "Hizmetle ilgili herhangi bir endişeniz veya anlaşmazlığınız varsa, öncelikle şirketle iletişime geçerek anlaşmazlığı gayri resmi olarak çözmeye çalışmayı kabul edersiniz."
+      },
+      "euUsers": {
+        "title": "Avrupa Birliği (AB) Kullanıcıları İçin",
+        "description": "Eğer bir Avrupa Birliği tüketicisiyseniz, ikamet ettiğiniz ülkenin yasalarının zorunlu hükümlerinden yararlanacaksınız."
+      },
+      "usLegal": {
+        "title": "Amerika Birleşik Devletleri Yasal Uyumluluğu",
+        "description": "(i) Amerika Birleşik Devletleri hükümeti ambargosuna tabi bir ülkede veya Amerika Birleşik Devletleri hükümeti tarafından \"terörizmi destekleyen\" ülke olarak belirlenmiş bir ülkede bulunmadığınızı ve (ii) Amerika Birleşik Devletleri hükümetinin yasaklı veya kısıtlı taraflar listesinde yer almadığınızı beyan ve garanti edersiniz."
+      },
+      "severability": {
+        "title": "Bölünebilirlik ve Feragat",
+        "severabilityTitle": "Bölünebilirlik",
+        "severabilityDescription": "Bu Şartların herhangi bir hükmünün uygulanamaz veya geçersiz olduğu tespit edilirse, söz konusu hüküm, ilgili yasa uyarınca mümkün olan en geniş ölçüde bu hükmün amaçlarını gerçekleştirecek şekilde değiştirilecek ve yorumlanacak olup, kalan hükümler tam olarak yürürlükte kalmaya devam edecektir.",
+        "waiverTitle": "Feragat",
+        "waiverDescription": "Burada belirtilenler dışında, bu Şartlar kapsamında bir hakkın kullanılmaması veya bir yükümlülüğün yerine getirilmesinin talep edilmemesi, bir tarafın daha sonraki herhangi bir zamanda bu hakkı kullanma veya bu yükümlülüğün yerine getirilmesini talep etme yeteneğini etkilemeyecektir; ayrıca bir ihlalin affedilmesi, sonraki herhangi bir ihlalin affedilmesi anlamına gelmeyecektir."
+      },
+      "translation": {
+        "title": "Çeviri Yorumlama",
+        "description": "Bu Hüküm ve Koşullar, Hizmetimiz aracılığıyla size sunulmuşsa, tercüme edilmiş olabilir. Bir anlaşmazlık durumunda orijinal İngilizce metnin geçerli olacağını kabul edersiniz."
+      },
+      "changes": {
+        "title": "Bu Hüküm ve Koşullarda Değişiklikler",
+        "description1": "Bu Şartları herhangi bir zamanda, tamamen kendi takdirimize bağlı olarak, değiştirme veya yerine yenilerini koyma hakkını saklı tutuyoruz. Değişiklik önemliyse, yeni şartların yürürlüğe girmesinden en az 30 gün önce makul çabayı göstererek bildirimde bulunacağız. Önemli bir değişikliğin ne olduğu tamamen kendi takdirimize bağlı olarak belirlenecektir.",
+        "description2": "Bu değişiklikler yürürlüğe girdikten sonra Hizmetimize erişmeye veya kullanmaya devam ederek, revize edilmiş şartlara bağlı kalmayı kabul etmiş olursunuz. Yeni şartların tamamını veya bir kısmını kabul etmiyorsanız, lütfen web sitesini ve Hizmeti kullanmayı bırakın."
+      },
+      "contact": {
+        "title": "Bize Ulaşın",
+        "description": "Bu Şartlar ve Koşullar hakkında herhangi bir sorunuz varsa, bizimle iletişime geçebilirsiniz:",
+        "email": "E-posta yoluyla: support@ringdy.com",
+        "support": "Uygulama içi destek sistemimiz aracılığıyla",
+        "website": "Web sitemizi ziyaret ederek: www.ringdy.com"
+      },
+      "backToHome": "Ana sayfaya geri dön",
+      "privacyPolicy": "Gizlilik Politikası"
+    }
+  },
+  "safety": {
+    "title": "Güvenlik İpuçları ve Püf Noktaları",
+    "subtitle": "Güvenliğiniz bizim önceliğimizdir. Güvenli ağ iletişimi ve bağlantılar için temel ipuçlarını öğrenin.",
+    "lastUpdated": "Son güncelleme: Ocak 2025",
+    "commitment": {
+      "title": "Güvenliğinize Olan Bağlılığımız",
+      "items": {
+        "privacy": "Ne kadar bilgi paylaşacağınıza siz karar verirsiniz; istediğiniz zaman avatar değiştirebilirsiniz ve telefon numaranızı veya tam adresinizi asla diğer kullanıcılarla paylaşmayız.",
+        "noStorage": "Kişisel iletişim bilgilerinizi, siz kendiniz paylaşmayı tercih etmediğiniz sürece diğer kullanıcılarla paylaşmıyoruz.",
+        "tools": "Her etkileşimi kontrol altında tutmanızı sağlamak için engelleme ve raporlama gibi araçlar sunuyoruz.",
+        "ageLimit": "Ringdy yalnızca 18 yaş ve üzeri kullanıcılar içindir."
+      }
+    },
+    "respectfulBehavior": {
+      "title": "Saygılı Davranış Gereklidir",
+      "expectation": "Sizden şunları bekliyoruz:",
+      "items": {
+        "kind": "Nazik, saygılı ve dürüst olun.",
+        "language": "Temiz ve uygun bir dil kullanın.",
+        "laws": "Yerel yasalara ve topluluk standartlarına uyun.",
+        "genuine": "Uygulamayı yalnızca gerçek ve saygılı etkileşim için kullanın."
+      }
+    },
+    "prohibitedConduct": {
+      "title": "Yasaklanmış Davranışlar",
+      "warning": "Herkesin güvenliğini sağlamak için şunları yapmamalısınız:",
+      "items": {
+        "harassment": "Herhangi birini taciz etmek, takip etmek veya zorbalık yapmak",
+        "hateful": "Nefret dolu, şiddet içeren veya ayrımcı içerik paylaşmak",
+        "impersonation": "Başka kişilerin kimliğine bürünmek veya sahte oturumlar oluşturmak",
+        "personalData": "Adres, telefon numarası veya sosyal medya hesapları gibi kişisel veriler isteyin.",
+        "explicit": "Açık, pornografik veya saldırgan mesajlar gönderin",
+        "scamming": "Dolandırıcılık, kimlik avı veya para talebi gibi faaliyetlerde bulunmak",
+        "offPlatform": "Aldatıcı amaçlarla sohbetleri harici mesajlaşma uygulamalarına taşımaya çalışın.",
+        "tracking": "Bluetooth sağladığının ötesinde kullanıcıları izleme veya konumlarını belirleme girişimleri."
+      },
+      "consequence": "Bu eylemlerden herhangi biri, uzaklaştırma veya kalıcı yasaklama ile sonuçlanabilir."
+    },
+    "commonSense": {
+      "title": "Sağduyu ve Dikkat Kullanın",
+      "intro": "Güvenliğinizi en iyi siz bilirsiniz. İşte size yardımcı olacak bazı ipuçları:",
+      "chatting": {
+        "title": "🗣 Sohbet ederken:",
+        "items": {
+          "noPersonalInfo": "Adınızı, adresinizi, telefon numaranızı veya finansal bilgilerinizi paylaşmayın.",
+          "cautious": "Sohbeti başka bir yere taşımayı hemen isteyen kişilere karşı dikkatli olun.",
+          "noPressure": "Yanıt vermek veya konuşmaya devam etmek konusunda kendinizi baskı altında hissetmeyin."
+        }
+      },
+      "redFlags": {
+        "title": "🛑 Tehlike İşaretlerine Dikkat Edin:",
+        "items": {
+          "quickLove": "Birisi sadece birkaç mesajlaşmanın ardından aşık olduğunu iddia ediyor.",
+          "moneyRequests": "Para veya kişisel bilgilerin gönderilmesine yönelik talepler",
+          "strangeLinks": "Garip bağlantılar veya platform dışı sohbet istekleri",
+          "emergencyStories": "Acil seyahat, hastane faturaları veya vize sorunlarıyla ilgili hikayeler."
+        },
+        "advice": "Herhangi bir şeyden şüphelenirseniz, engelleyin ve bildirin."
+      }
+    },
+    "reportBlock": {
+      "title": "Rapor ve Blok Araçları",
+      "intro": "Eğer birisi:",
+      "reasons": {
+        "uncomfortable": "Sizi rahatsız ediyor",
+        "violates": "Kurallarımızı ihlal ediyor",
+        "suspicious": "Şüpheli veya zararlı mesajlar gönderiyor."
+      },
+      "instruction": "Engelleme ve raporlama özelliklerini hemen kullanın. Tüm raporları ciddiyetle inceliyoruz ve tekrarlanan ihlaller kalıcı olarak uzaklaştırmaya yol açabilir.",
+      "anonymity": "Başkalarını ihbar ettiğinizde anonim kalacaksınız. İhbarı yapan kişiye kimin ihbar ettiği bildirilmeyecektir."
+    },
+    "meetingInPerson": {
+      "title": "Gerçek Hayatta Buluşma (uygunsa)",
+      "disclaimer": "Ringdy Bluetooth taraması veya yerel mekanlar aracılığıyla yakındaki insanları keşfetmenize ve onlarla bağlantı kurmanıza yardımcı olmak için tasarlanmıştır ve birçok kullanıcı eşleştikten sonra şahsen buluşmayı tercih eder. Lütfen şu önlemleri alın:",
+      "safetyTips": {
+        "publicPlaces": "Sadece halka açık yerlerde buluşun.",
+        "tellFriend": "Planlarınızı bir arkadaşınıza anlatın.",
+        "shareLocation": "Konumunuzu güvendiğiniz biriyle paylaşın.",
+        "noRides": "Yeni tanıştığınız kişilerden araçla yolculuk tekliflerini kabul etmeyin.",
+        "staySober": "Ayık ve uyanık kalın.",
+        "chargePhone": "Telefonunuzu şarj edin ve yakınınızda bulundurun.",
+        "ownTransport": "Her iki yönde de kendi ulaşımınızı kendiniz ayarlayın."
+      },
+      "reminder": "Kendinizi rahatsız hissediyorsanız, istediğiniz zaman ayrılabilirsiniz. Kullanıcıyı engelleyin ve daha sonra bize bildirin."
+    },
+    "enforcement": {
+      "title": "Uygulama ve Güvenlik Önlemleri",
+      "intro": "İhlaller meydana geldiğinde Ringdy aşağıdaki önlemleri alabilir:",
+      "actions": {
+        "suspend": "Hesapları geçici olarak askıya al",
+        "ban": "Küfürlü kullanıcıları kalıcı olarak yasaklayın.",
+        "lawEnforcement": "Ciddi tehditleri kolluk kuvvetlerine bildirin.",
+        "verification": "Kimlik hırsızlığı şüphesi durumunda doğrulama gereklidir."
+      }
+    },
+    "appeals": {
+      "title": "İtirazlar ve Destek",
+      "intro": "Haksız yere yasaklandığınızı düşünüyorsanız veya ciddi bir sorunu bildirmek istiyorsanız:",
+      "contact": {
+        "email": "📧 E-posta: support@ringdy.com",
+        "website": "🌐 Ziyaret edin: Ringdy Güvenlik Merkezi (Yakında)"
+      }
+    },
+    "finalThoughts": {
+      "title": "Son Düşünceler",
+      "message": "Ringdy kişisel kimlikleri ifşa etmeden insanların güvenli ve anlamlı yollarla bağlantı kurmasına yardımcı olmak için burada. Kiminle sohbet edeceğinizin kontrolü her zaman sizde ve biz de sizi desteklemek için buradayız."
+    },
+    "navigation": {
+      "backToHome": "Ana sayfaya geri dön",
+      "downloadApp": "Uygulamayı İndir"
+    }
+  },
+  "profile": {
+    "connectViaBLE": "BLE üzerinden bağlantı kurun",
+    "stats": {
+      "connections": "Bağlantılar",
+      "messages": "Mesajlar",
+      "filesShared": "Paylaşılan Dosyalar"
+    },
+    "location": "San Francisco, Kaliforniya",
+    "onlineViaBLE": "BLE üzerinden çevrimiçi",
+    "occupation": "Yazılım Geliştirici - Teknoloji Girişim Şirketi",
+    "education": "Stanford Üniversitesi - Bilgisayar Bilimleri",
+    "interests": "İlgi Alanları: Nesnelerin İnterneti (IoT), Bluetooth Teknolojisi, Mobil Geliştirme",
+    "bio": "Teknoloji aracılığıyla kusursuz bağlantılar kurma konusunda tutkuluyum. Bluetooth Düşük Enerji'nin olanaklarını keşfetmeyi ve insanları bir araya getiren uygulamalar geliştirmeyi seviyorum. Bölgedeki diğer geliştiriciler ve teknoloji meraklılarıyla bağlantı kurmaktan her zaman heyecan duyuyorum. İş birliği veya sadece güzel bir teknoloji sohbeti için benimle iletişime geçmekten çekinmeyin!",
+    "showMore": "Daha fazlasını göster"
+  },
+  "auth": {
+    "agreeWith": "Katılıyorum."
+  }
+}

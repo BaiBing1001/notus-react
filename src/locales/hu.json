@@ -1,0 +1,1434 @@
+{
+  "navbar": {
+    "features": "Jellemzők",
+    "subscription": "Előfizetés",
+    "download": "Letöltés",
+    "legal": "Jogi",
+    "privacyPolicy": "Adatvédelmi irányelvek",
+    "termsOfUse": "Felhasználási feltételek",
+    "safetyTips": "Biztonsági tippek és trükkök"
+  },
+  "hero": {
+    "title": "Keressen embereket a közelben.\n Kapcsolódj a való életben.",
+    "subtitle": "Rázgasd meg, hogy felfedezd a körülötted lévő embereket Bluetooth keresztül, vagy csatlakozz egy közeli helyszínhez, hogy lásd, kik vannak ott. Küldj egy barátkozási kérelmet, párosítsd össze őket, és kezdj el csevegni - opcionális avatar adatvédelemmel, amíg készen nem állsz a további megosztásra.",
+    "discoverFeatures": "Fedezze fel a funkciókat",
+    "downloadApp": "Alkalmazás letöltése",
+    "anonymousAvatars": "Opcionális avatarok",
+    "autoExpiry": "Bluetooth + Helyszínek",
+    "privacyFirst": "Adatvédelem az első"
+  },
+  "features": {
+    "proximityTitle": "Közelségalapú felderítés",
+    "proximityDescription": "Keress a közeledben lévő embereket Bluetooth on keresztüli szkenneléssel, vagy csatlakozz egy helyszínhez a térképen. Küldj egy barátkozási kérést, és kezdj el csevegni, ha mindketten összeillik.",
+    "avatarsTitle": "Opcionális avatar adatvédelem",
+    "avatarsDescription": "Tartsd bekapcsolva az avatárodat, amíg megismerkedsz valakivel, és válts át a valódi fotóidra, amikor készen állsz.",
+    "expiringTitle": "Helyszínalapú felfedezés",
+    "expiringDescription": "Böngéssz a javasolt közeli helyek között, és nézd meg, kik vannak bejelentkezve egy adott körzetben – nem kell folyamatosan keresgélned.",
+    "revealTitle": "Kötés",
+    "revealDescription": "Jelölj meg egy exkluzív kapcsolatot kötődésként, miután találtál valakit, akivel együtt szeretnél maradni.",
+    "bluetoothTitle": "Bluetooth LE technológia",
+    "bluetoothDescription": "Csatlakozz internet nélkül a fejlett Bluetooth Low Energy technológiával a hatékony, helyi hálózatépítéshez.",
+    "keyFeaturesTitle": "Főbb jellemzők",
+    "keyFeaturesDescription": "Ringdy számos hatékony funkcióval rendelkezik, amelyek célja, hogy bárhol is legyél, még jobb helyi csatlakozási élményt nyújtson.",
+    "downloadNow": "Letöltés most",
+    "tags": {
+      "autoDiscovery": "Automatikus felfedezés",
+      "chatMessaging": "Csevegés Üzenetküldés",
+      "fileSharing": "Fájlmegosztás",
+      "profiles": "Profilok",
+      "privacyControls": "Adatvédelmi beállítások",
+      "offlineMode": "Offline mód",
+      "crossPlatform": "Többplatformos",
+      "lowPower": "Alacsony fogyasztású"
+    }
+  },
+  "useCases": {
+    "actionTitle": "Ringdy akcióban",
+    "actionDescription": "Automatikus felismerés, csevegés és profilmegosztás valós közösségi környezetekben. Tapasztald meg a zökkenőmentes csatlakozást a fejlett Bluetooth Low Energy technológiával, bárhol is jársz.",
+    "campusTitle": "Campus Connect",
+    "campusDescription": "Tanulási partnerek keresése azonnal",
+    "eventTitle": "Eseményhálózatépítés",
+    "eventDescription": "Kapcsolatfelvétel konferenciákon",
+    "businessTitle": "Üzleti találkozó",
+    "businessDescription": "Szakmai kapcsolatok",
+    "cafeTitle": "Kávézókapcsolatok",
+    "cafeDescription": "Találkozz a közeli kávékedvelőkkel",
+    "localTitle": "Helyi felfedezés",
+    "localDescription": "Fedezd fel a környékedet",
+    "gamingTitle": "Játékcsoportok",
+    "gamingDescription": "Játékpartnerek keresése",
+    "perfectTitle": "Tökéletes használati esetek",
+    "perfectDescription": "Ringdy bármilyen helyszínt kapcsolatépítési lehetőséggé alakít. Akár egyetemen, egy konferencián vagy a helyi kávézóban vagy, ",
+    "perfectDescriptionContinued": "azonnal felfedezhetsz értelmes kapcsolatokat.",
+    "approachDescription": "A tanulócsoportoktól a szakmai kapcsolatépítésig, a közelségen alapuló megközelítésünk természetessé és könnyeddé teszi a kapcsolatfelvételt.",
+    "tryItNow": "Próbáld ki most",
+    "tags": {
+      "studyGroups": "Tanulmányi csoportok",
+      "events": "Események",
+      "coworking": "Közös munkavégzés",
+      "gaming": "Szerencsejáték",
+      "travel": "Utazási",
+      "shopping": "Bevásárlás",
+      "fitness": "Fitnesz",
+      "social": "Szociális"
+    }
+  },
+  "community": {
+    "whyLoveTitle": "Miért szeretik az emberek Ringdy",
+    "whyLoveDescription": "Felhasználóink következetesen beszámolnak arról, hogyan alakította át Ringdy a kapcsolatépítési élményüket. A kávézókban való találkozástól kezdve az eseményeken való kapcsolatteremtésig az alkalmazás valódi kapcsolatokat teremt a közelben.",
+    "privacyProtection": "Adatvédelmet tiszteletben tartó tervezés",
+    "instantConnection": "Azonnali kapcsolat internet nélkül",
+    "lowPowerConsumption": "Rendkívül alacsony energiafogyasztás",
+    "experienceTitle": "Tapasztalja meg Ringdy",
+    "experienceDescription": "Fedezze fel alkalmazásunkat különböző felhasználói felületeken keresztül. A felhasználói profilokból ",
+    "experienceDescriptionContinued": "a kapcsolati folyamatokhoz, nézze meg, hogyan teszi Ringdy intuitívvá és lebilincselővé a közelségalapú hálózatépítést.",
+    "anonymousProfiles": "Avatar profilok",
+    "chatInterface": "Csevegőfelület",
+    "nearbyDiscovery": "Közeli felfedezés",
+    "joinTitle": "Csatlakozz a közösségünkhöz",
+    "joinDescription1": "Ringdy több mint egy alkalmazás – ez egy módja annak, hogy valódi emberekkel találkozz a közeledben, akár Bluetooth szkennelésen, akár a kedvenc helyi helyeiden keresztül.",
+    "joinDescription2": "Kövess minket, hogy értesülj az új funkciókról, felhasználói történetekről és a környékeden zajló közösségi eseményekről!",
+    "downloadNow": "Letöltés most"
+  },
+  "download": {
+    "title": "Töltse le Ringdy",
+    "subtitle": "Szerezd meg Ringdy a mobileszközödön, és kezdj el kapcsolatba lépni a közeledben lévő emberekkel. Már elérhető Android és iOS platformon is.",
+    "googlePlay": "Google Play",
+    "appStore": "App Store",
+    "getItOn": "Vedd fel",
+    "downloadOn": "Letöltés a következőről:",
+    "comingSoon": "Hamarosan érkezik",
+    "whatYouGet": "Amit kapsz",
+    "instantConnections": "Azonnali kapcsolatok",
+    "instantConnectionsDesc": "Azonnal kapcsolatba léphetsz a közeledben lévőkkel Bluetooth Low Energy technológia segítségével, vagy csatlakozhatsz egy helyi helyszínhez.",
+    "anonymousProfiles": "Avatar adatvédelme",
+    "anonymousProfilesDesc": "Tarts fenn egy avatar profilt az adatvédelem érdekében, és oszd meg a valódi fotóidat, amikor csak szükséged van rá.",
+    "privacyFirst": "Adatvédelem az első",
+    "privacyFirstDesc": "Te szabályozod, hogy mit és mikor osztasz meg. A blokkoló és jelentéskészítő eszközök biztonságban tartják a közösséget.",
+    "crossPlatform": "Többplatformos",
+    "crossPlatformDesc": "Zökkenőmentesen működik iOS és Android eszközökön.",
+    "requirements": "Rendszerkövetelmények",
+    "androidReq": "Android 6.0 vagy újabb",
+    "iosReq": "iOS 12.0 vagy újabb",
+    "bluetoothReq": "Bluetooth 4.0 ( BLE ) támogatás",
+    "storageReq": "50 MB ingyenes tárhely",
+    "systemDescription": "Ringdy használatához Bluetooth Low Energy ( BLE ) támogatású eszközök szükségesek. A legtöbb modern okostelefon és táblagép támogatja BLE technológiát.",
+    "androidRequirements": "Android-követelmények:",
+    "androidReq1": "Android 5.0 (API szint 21) vagy újabb",
+    "androidReq2": "Bluetooth 4.0 LE támogatás",
+    "androidReq3": "Helymeghatározási engedélyek ( BLE szkenneléshez)",
+    "androidReq4": "Minimum 2 GB RAM ajánlott",
+    "iosRequirements": "iOS-követelmények:",
+    "iosReq1": "iOS 12.0 vagy újabb",
+    "iosReq2": "iPhone 5s vagy újabb, iPad Air vagy újabb",
+    "iosReq3": "Bluetooth 4.0 LE-képes eszköz",
+    "iosReq4": "Háttéralkalmazás-frissítés engedélyezve",
+    "learnMoreFeatures": "Tudj meg többet Ringdy funkcióiról!",
+    "crossPlatformTitle": "Platformfüggetlen kompatibilitás",
+    "crossPlatformCompatibilityDesc": "Lépj kapcsolatba különböző platformokon élő felhasználókkal. Az Android és iOS felhasználók zökkenőmentesen felfedezhetik és cseveghetnek egymással.",
+    "android": {
+      "title": "Android",
+      "description": "A teljes Ringdy élmény elérhető Android 5.0 (API szint 21) vagy újabb rendszert futtató Android eszközökön.",
+      "featuresTitle": "Jellemzők:",
+      "features": {
+        "bluetooth": "Bluetooth LE szkennelés és hirdetés",
+        "background": "Háttérművelet",
+        "notifications": "Push értesítések",
+        "offline": "Offline mód támogatása"
+      },
+      "downloadButton": "Letöltés a Google Playről"
+    },
+    "ios": {
+      "title": "iOS",
+      "description": "Natív iOS alkalmazás, iPhone-ra és iPadre optimalizálva, kompatibilis az iOS 12.0-s és újabb verziókkal.",
+      "featuresTitle": "Jellemzők:",
+      "features": {
+        "bluetooth": "Alapvető Bluetooth integráció",
+        "background": "Alkalmazásfrissítés a háttérben",
+        "privacy": "Adatvédelmet szem előtt tartó tervezés",
+        "universal": "Univerzális alkalmazástámogatás"
+      },
+      "downloadButton": "Letöltés az App Store-ból"
+    },
+    "qrCode": {
+      "title": "Gyors letöltés",
+      "description": "Olvasd be a QR-kódot a telefonod kamerájával Ringdy letöltéséhez",
+      "placeholder": "QR-kód",
+      "instruction": "Irányítsd a kamerádat a QR-kódra a letöltéshez"
+    },
+    "installation": {
+      "title": "Könnyű telepítés",
+      "description": "Ringdy használatának elkezdése egyszerű. Töltsd le az alkalmazást, add meg a szükséges engedélyeket, és máris elkezdheted felfedezni a közelben lévő embereket.",
+      "step1": "Töltsd le a platformod alkalmazásboltjából",
+      "step2": "Bluetooth és helymeghatározási engedélyek megadása",
+      "step3": "Hozd létre a profilodat és kezdj el csatlakozni!"
+    },
+    "callToAction": {
+      "title": "Csatlakozz a Ringdy közösséghez",
+      "description": "Kezdj el biztonságos és privát módon kapcsolatba lépni a közeledben lévő emberekkel. Töltsd le Ringdy még ma, és fedezd fel a közelségi hálózatok jövőjét.",
+      "googlePlay": "Google Play",
+      "appStore": "App Store"
+    }
+  },
+  "featurePage": {
+    "title": "Fedezze fel a közeli helyeket.\n Lépj kapcsolatba valódi emberekkel.",
+    "subtitle": "Böngéssz a közeli helyszínek javaslatai között, fedezz fel embereket a környezetedben Bluetooth keresztül, és küldj baráti kéréseket, amelyek valódi beszélgetésekhez vezetnek.",
+    "exploreFeatures": "Fedezze fel a funkciókat",
+    "downloadApp": "Alkalmazás letöltése",
+    "heroTitle": "Fedezzen fel valódi kapcsolatokat a közelben",
+    "heroSubtitle": "Csatlakozz egy javasolt helyszínhez, vagy keress körbe magad körül, nézd meg, ki van a közelben, és ismerkedj meg érdekes emberekkel Bluetooth Low Energy technológia segítségével.",
+    "discoverCrowdedPlaces": "Fedezze fel a közeli helyszíneket",
+    "discoverCrowdedPlacesDesc": "Javaslatokat kaphatsz népszerű, közeli helyszínekről, ahol hasonló gondolkodású emberekkel találkozhatsz és tartalmas kapcsolatokat alakíthatsz ki.",
+    "scanThroughAvatars": "Nézd meg, ki van a közelben",
+    "scanThroughAvatarsDesc": "Böngéssz a közeledben lévő emberek profilkártyái között, és lehetőséged van arra, hogy az avatárodat addig is bekapcsolva tartsd, amíg többet nem szeretnél megosztani.",
+    "revealAndMeet": "Match & Chat",
+    "revealAndMeetDesc": "Küldj egy barátkérést, és ha elfogadják, akkor megtaláljátok a megfelelő partnert, és elkezdhettek csevegni az alkalmazásban.",
+    "proximityBasedConnections": "Közelségalapú valós kapcsolatok",
+    "proximityBasedConnectionsDesc": "Az alkalmazásunk közeli helyszíneket javasol, ahol hasonló érdeklődésű embereket fedezhetsz fel. Ha mindketten a hatótávolságon belül vagytok, böngéssz a közeli profilok között, hogy potenciális kapcsolatokat találj.",
+    "bleProximityTech": "Bluetooth Low Energy technológia biztosítja, hogy csak azokkal az emberekkel tudj kapcsolatba lépni, akik ténylegesen a közelben vannak, így minden kapcsolat hiteles és valós.",
+    "downloadNow": "Töltsd le most Ringdy !",
+    "realTimeProximity": "Valós idejű közelségérzékelés",
+    "realTimeProximityDesc": "Csak olyan emberekkel lépj kapcsolatba, akik ténylegesen a közeledben vannak, vagy veled egy helyen, biztosítva a hiteles kapcsolatokat.",
+    "howItWorks": "Hogyan működik",
+    "howItWorksDesc": "Három egyszerű lépésben felfedezheted a közeli helyszíneket, kapcsolatba léphetsz valódi emberekkel, és elkezdhetsz csevegni.",
+    "step1Title": "Helyszín beolvasása vagy csatlakozás",
+    "step1Desc": "Rázd meg Bluetooth keresztüli szkenneléshez, vagy böngéssz a javasolt közeli helyszínek között, és csatlakozz egyhez, amelyik felkelti az érdeklődésedet.",
+    "step2Title": "Böngésszen a közeli profilok között",
+    "step2Desc": "Tekintse meg a közelben lévő személyek profilkártyáit, opcionális avatar adatvédelmével, amíg készen nem áll további megosztásra.",
+    "step3Title": "Kérés küldése és csevegés",
+    "step3Desc": "Küldj egy barátkérést, és miután elfogadták, találkoztok, és elkezdhettek csevegni közvetlenül az alkalmazásban.",
+    "coreFeatures": "Alapvető jellemzők",
+    "proximityNetworking": "Közelségi hálózatépítés",
+    "proximityDesc": "Lépjen kapcsolatba a közvetlen környezetében lévő emberekkel a fejlett Bluetooth Low Energy technológia segítségével.",
+    "anonymousChat": "Barátságkérés-egyeztetés",
+    "anonymousChatDesc": "Küldj egy barátkozási kérést, és amint elfogadták, elkezdhetsz csevegni – semmi nyomás, semmi spam.",
+    "autoExpiry": "Helyszínfelfedezés",
+    "autoExpiryDesc": "Csatlakozz a javasolt közeli helyszínekhez, hogy lásd, kik jelentkeztek be egy adott sugarú körön belül.",
+    "gradualReveal": "Fokozatos identitásfeltárás",
+    "gradualRevealDesc": "Válaszd ki, mikor szeretnél az avatárodról a valódi fotóidra váltani, ahogy a kapcsolatok természetesen kialakulnak.",
+    "keyPrivacyFeatures": "Főbb adatvédelmi funkciók",
+    "keyPrivacyFeaturesDesc": "Minden funkció a biztonságos kapcsolatépítést szolgálja – az opcionális avataroktól kezdve a személyes adatok védelmét szolgáló barátkérések egyeztetéséig.",
+    "avatarBasedProfiles": "Opcionális avatar alapú profilok",
+    "autoExpiringChats": "Helyszínfelderítés meghatározott sugárral",
+    "progressiveIdentity": "Progresszív identitásfeltárás",
+    "ourTeam": "Csapatunk",
+    "ourTeamDesc": "Szenvedélyes szakértők, akik elkötelezettek az emberek összekapcsolása iránt innovatív, adatvédelmet elsődlegesen figyelembe vevő technológia segítségével.",
+    "team": {
+      "alex": {
+        "name": "Alex Chen",
+        "role": "BLE protokollmérnök"
+      },
+      "sarah": {
+        "name": "Sarah Johnson",
+        "role": "Mobilalkalmazás-fejlesztő"
+      },
+      "maria": {
+        "name": "Mária Rodriguez",
+        "role": "Adatvédelmi és biztonsági vezető"
+      },
+      "david": {
+        "name": "Dávid Kim",
+        "role": "Alapító és vezérigazgató"
+      },
+      "title": "Csapatunk",
+      "description": "Szenvedélyes emberek, akik elkötelezettek az emberek összekapcsolása iránt innovatív, adatvédelmet elsődlegesen figyelembe vevő technológia segítségével.",
+      "roles": {
+        "engineer": "BLE protokollmérnök",
+        "developer": "Mobilalkalmazás-fejlesztő",
+        "security": "Adatvédelmi és biztonsági vezető",
+        "ceo": "Alapító és vezérigazgató"
+      }
+    },
+    "readyToConnect": "Készen áll a csatlakozásra?",
+    "readyToConnectDesc": "Biztonságosan csatlakozz másokhoz Bluetooth és helyszínkeresésen keresztül. Csak akkor párosítsd össze őket, csevegj és fedd fel a kilétedet, ha valódi kapcsolatot találsz.",
+    "finalFeatures": {
+      "anonymousAvatars": "Opcionális avatarok",
+      "anonymousAvatarsDesc": "Tartsd meg az avatárodat, amíg megismersz valakit, ne legyen rajtad nyomás, hogy azonnal felfedd.",
+      "autoExpire": "Helyszín és Bluetooth felfedezés",
+      "autoExpireDesc": "Keressen embereket a közelben Bluetooth on keresztüli kereséssel, vagy csatlakozzon egy javasolt helyi helyszínhez.",
+      "friendRequests": "Baráti kérések",
+      "friendRequestsDesc": "Küldj kéréseket érdekes embereknek, és csak kölcsönös érdeklődés alapján kezdj beszélgetéseket."
+    },
+    "eventNetworking": "Eseményhálózatépítés",
+    "eventNetworkingDesc": "Fedezze fel a körülötte lévő embereket konferenciákon, találkozókon és rendezvényeken Bluetooth közelségi információ segítségével.",
+    "studyGroups": "Tanulmányi csoportok",
+    "studyGroupsDesc": "Találj tanulmányi partnereket a kampuszon anélkül, hogy ismernéd őket.",
+    "workplace": "Munkahely és kávézók",
+    "workplaceDesc": "Találkozz kollégákkal és más szakemberekkel a közeli közösségi irodákban és kávézókban.",
+    "anonymousNetworking": "Avatar-alapú adatvédelem",
+    "anonymousNetworkingDesc": "Tartsd meg az avatart, amíg kényelmesen érzed magad, majd oszd meg a valódi fotóidat, amikor csak szeretnéd.",
+    "privacyProtection": "Mindig te döntöd el, hogy mit és kivel osztasz meg.",
+    "privacyFeatures": {
+      "title": "Az Ön által ellenőrzött adatvédelem",
+      "description": "Ringdy úgy van felépítve, hogy te dönthesd el, mit és mikor osztasz meg – attól kezdve, hogyan fedezel fel embereket, egészen odáig, hogy mennyit mutatsz meg magadból.",
+      "avatarProfiles": "Opcionális avatar alapú profilok",
+      "autoExpiring": "Helyszínfelderítés meghatározott sugárral",
+      "progressiveReveal": "Mutasd meg valódi fotóidat a saját tempódban"
+    },
+    "cta": {
+      "title": "Készen áll a csatlakozásra?",
+      "description": "Csatlakozz az emberekhez, akik valódi kapcsolatokat fedeznek fel a közelben – Bluetooth on keresztül, vagy jelentkezz be egy helyi helyszínre.",
+      "features": {
+        "anonymousAvatars": "Opcionális avatarok",
+        "anonymousAvatarsDesc": "Tartsd meg az avatárodat, amíg megismersz valakit, ne legyen rajtad nyomás, hogy azonnal felfedd.",
+        "autoExpire": "Helyszín és Bluetooth felfedezés",
+        "autoExpireDesc": "Keressen embereket a közelben található hirdetések beolvasásával, vagy csatlakozzon egy javasolt helyi helyszínhez.",
+        "friendRequests": "Baráti kérések",
+        "friendRequestsDesc": "Küldj kéréseket érdekes embereknek, és csak kölcsönös érdeklődés alapján kezdj beszélgetéseket."
+      }
+    }
+  },
+  "subscription": {
+    "title": "Ringdy Premium",
+    "subtitle": "Jobb kapcsolatért oldj fel fejlett funkciókat. Válaszd ki a hálózati igényeidnek megfelelő csomagot.",
+    "weeklyTitle": "Heti Prémium",
+    "weeklyPrice": "699 Ft",
+    "weeklyPeriod": "/hét",
+    "weeklyDescription": "Tökéletes a prémium funkciók kipróbálásához",
+    "chooseWeekly": "Heti Választás",
+    "monthlyTitle": "Havi",
+    "monthlyPrice": "Árazás megtekintése",
+    "monthlyPeriod": "havonta",
+    "monthlyDescription": "Rugalmas, bármikor lemondható",
+    "mostPopular": "Legnépszerűbb",
+    "chooseMonthly": "Válassza a Havi",
+    "sixMonthTitle": "Hat hónap",
+    "sixMonthPrice": "Árazás megtekintése",
+    "sixMonthPeriod": "6 havonta",
+    "sixMonthDescription": "Többet spórolhatsz hat hónap alatt",
+    "chooseSixMonth": "Válasszon hat hónapot",
+    "featuresTitle": "Premium funkciók ismertetése",
+    "featuresDescription": "Ringdy Premium hatékony funkciókat kínál, amelyek célja a hálózati élmény javítása és a tartalmasabb kapcsolatok kialakítása.",
+    "enhancedNetworking": "Továbbfejlesztett hálózatépítés",
+    "enhancedNetworkingDesc": "Premium funkciók segítenek hatékonyabban kapcsolódni napi korlátok nélkül.",
+    "features": {
+      "unlimitedRequests": "Korlátlan barátkérések",
+      "advancedFilters": "Fejlett szűrők",
+      "meetingPlaces": "Okos találkozóhely javaslatok",
+      "rematch": "Újra kapcsolódás korábbi felhasználókkal",
+      "unlimitedRequestsDesc": "Küldj korlátlan barátkéréseket naponta. Ingyenes felhasználók 20/nap korlátra.",
+      "advancedFiltersDesc": "Szűrj érdeklődés, személyiség és ellenőrzött státusz alapján hiteles kapcsolatokért.",
+      "meetingPlacesDesc": "Kapj személyre szabott helyzet javaslatokat pontos területed alapján.",
+      "rematchDesc": "Kapcsolódj újra korábbi felhasználókkal, amikor újra keresztezik útjaitok.",
+      "unlimitedConnections": "Korlátlan kapcsolatok",
+      "unlimitedAreaAccess": "Korlátlan területi hozzáférés",
+      "unlimitedUndo": "Korlátlan visszavonás",
+      "profilePriority": "Profil prioritása",
+      "premiumAvatars": "Premium avatarok",
+      "customAvatar": "Egyéni avatar",
+      "unlimitedConnectionsDesc": "Napi korlátozások nélkül adhatsz hozzá barátokat és fogadhatsz el meghívókat.",
+      "unlimitedAreaAccessDesc": "Csatlakozz annyi helyszínhez, amennyihez csak szeretnél, korlátozások nélkül.",
+      "unlimitedUndoDesc": "Bármikor visszavonhatod a barátkozási kérelmeket.",
+      "profilePriorityDesc": "A profilod mindig a többi felhasználó számára megjelenített lista tetején jelenik meg.",
+      "premiumAvatarsDesc": "Férj hozzá prémium avatar minták exkluzív gyűjteményéhez.",
+      "customAvatarDesc": "Hozz létre egy személyre szabott avatart a saját fotóid alapján."
+    },
+    "faqTitle": "Gyakran ismételt kérdések",
+    "faqDescription": "Kérdései vannak Ringdy Premium kapcsolatban? Vannak válaszaink.",
+    "faq": {
+      "cancelTitle": "Bármikor lemondhatom az előfizetésemet?",
+      "cancelAnswer": "Igen, bármikor lemondhatja előfizetését a fiókbeállításaiban vagy az eszköze alkalmazásboltjában. A prémium funkciói az aktuális számlázási időszak végéig aktívak maradnak.",
+      "unlimitedTitle": "Mit jelent a „Korlátlan kapcsolatok” kifejezés?",
+      "unlimitedAnswer": "Premium barátokat adhatsz hozzá és meghívókat fogadhatsz el az ingyenes fiókokra vonatkozó napi korlátozások nélkül.",
+      "filtersTitle": "Mik pontosan a fejlett szűrők?",
+      "filtersAnswer": "A fejlett szűrők lehetővé teszik, hogy érdeklődési kör, korhatár, szakma, távolsági sugár és aktivitási állapot szerint keress. Szűrhetsz jelenleg online felhasználókra vagy nemrég aktívakra is jobb kapcsolódási esélyek érdekében.",
+      "meetingTitle": "Hogyan működik a találkozóhely javaslat?",
+      "meetingAnswer": "MI-nk biztonságos, nyilvános találkozóhelyeket javasol, mint kávézók, könyvtárak vagy közös munkahelyek mindkét felhasználó gyaloglási távolságán belül. Figyelembe veszi preferenciáidat, jelenlegi helyzetedet és napszakot a legjobb találkozóhelyek ajánlásához.",
+      "rematchTitle": "Mit jelent az \"újra kapcsolódás korábbi felhasználókkal\"?",
+      "rematchAnswer": "Ha volt egy beszélgetésed, ami lejárt (30 perc) kilét felfedése nélkül, prémium felhasználók újra kapcsolódhatnak azzal a személlyel, ha közelben keresztezik egymás útját. Ez második esélyt ad a kapcsolat létrehozására.",
+      "trialTitle": "Van ingyenes próbaidőszak?",
+      "trialAnswer": "Igen! Új felhasználók 7 napos ingyenes próbaidőszakot kapnak minden prémium funkcióhoz. Felfedezheted a korlátlan barátkéréseket, fejlett szűrőket és találkozóhely javaslatokat, mielőtt eldöntöd, melyik terv működik számodra legjobban.",
+      "offlineTitle": "Működnek a prémium funkciók internet nélkül?",
+      "offlineAnswer": "A BLE közelségérzékelés offline működik, de a prémium funkciók, mint a helyszín javaslatok, korlátlan kérések és fejlett szűrők internetkapcsolatot igényelnek a teljes funkcionalitáshoz.",
+      "paymentTitle": "Milyen fizetési módokat fogadnak el?",
+      "paymentAnswer": "Elfogadjuk az eszközöd alkalmazásboltján (Google Play vagy App Store) keresztül történő fizetéseket, beleértve az ott támogatott összes fizetési módot is.",
+      "areaTitle": "Mit jelent a „Korlátlan területi hozzáférés”?",
+      "areaAnswer": "Premium tagok annyi közeli helyszínhez csatlakozhatnak, amennyihez csak szeretnének, anélkül, hogy megkötés lenne, hogy naponta hány területet fedezhetnek fel.",
+      "ticketsTitle": "Mik azok a Discovery Pass-ok?",
+      "ticketsAnswer": "A Discovery Pass bérletek fizetésalapú alternatívát kínálnak az előfizetéssel szemben – minden bérlettel csatlakozhatsz és felfedezhetsz egy közeli helyszínt anélkül, hogy elköteleznéd magad egy megújuló csomag mellett.",
+      "nightPassTitle": "Mi az az Night Pass ?",
+      "nightPassAnswer": "Az Night Pass egy 24 órás bérlet, amely egy teljes napra vagy éjszakára feloldja a helyszínek felfedezését anélkül, hogy felhasználná a Felfedező bérletet."
+    },
+    "priceDisclaimer": "Az árak hozzávetőleges átváltások USD-ből a böngésző régiója alapján. Ha az árak nem érhetők el, az árak USD-ben jelennek meg. A végső alkalmazáson belüli árakat az alkalmazásboltod határozza meg, és eltérhetnek.",
+    "yearlyTitle": "Évi",
+    "yearlyPrice": "Árazás megtekintése",
+    "yearlyPeriod": "évente",
+    "yearlyDescription": "Legjobb ár-érték arány rendszeres felhasználók számára",
+    "bestValue": "Legjobb ár-érték arány",
+    "chooseYearly": "Válassza az Éves lehetőséget",
+    "tickets": {
+      "title": "Felfedező bérletek",
+      "subtitle": "A Felfedezések funkcióval teljes előfizetés nélkül is felfedezheted a közeli helyeken tartózkodó embereket.",
+      "single": "Egyetlen felfedezés",
+      "singleDesc": "Egyetlen belépővel csatlakozhatsz egy helyszínhez, és megnézheted, kik vannak ott.",
+      "venueAccessFeature": "Minden belépőjegy egy helyszínre jogosít fel.",
+      "pack3": "3 felfedezés",
+      "pack3Desc": "Három Felfedező Belépő. Minden belépő egy helyszínt old fel.",
+      "pack5": "5 felfedezés",
+      "pack5Desc": "Öt Felfedező Belépő. Minden belépő egy helyszínt old fel.",
+      "bestValue": "Legjobb ár-érték arány",
+      "specialTicket": "Night Pass",
+      "specialTicketDesc": "Korlátlan számú helyszín csatlakozhat 24 órára Discovery Pass-ok használata nélkül."
+    }
+  },
+  "footer": {
+    "keepInTouch": "Tartsuk a kapcsolatot!",
+    "findUsOn": "Keressen minket bármelyik platformon, 1-2 munkanapon belül válaszolunk.",
+    "usefulLinks": "Hasznos linkek",
+    "aboutUs": "Rólunk",
+    "blog": "Blog",
+    "github": "Github",
+    "freeProducts": "Ingyenes termékek",
+    "otherResources": "Egyéb források",
+    "mitLicense": "MIT licenc",
+    "termsConditions": "Felhasználási feltételek",
+    "privacyPolicy": "Adatvédelmi irányelvek",
+    "contactUs": "Kapcsolat",
+    "copyright": "Szerzői jog © {{year}} Ringdy . Minden jog fenntartva."
+  },
+  "legal": {
+    "privacyPolicy": {
+      "title": "Adatvédelmi irányelvek",
+      "subtitle": "Az Ön adatainak védelme a legfontosabb számunkra. Ismerje meg, hogyan védjük az adatait, és hogyan biztosítunk Önnek teljes ellenőrzést a megosztott tartalmak felett.",
+      "lastUpdated": "Utolsó frissítés: 2025. január",
+      "introduction": "Ez az Adatvédelmi Szabályzat leírja az Ön adatainak gyűjtésére, felhasználására és közzétételére vonatkozó irányelveinket és eljárásainkat, amikor Ön a Szolgáltatást használja, valamint ismerteti az Ön adatvédelmi jogait és azt, hogy a törvény hogyan védi Önt.",
+      "agreement": "Személyes adatait a Szolgáltatás nyújtása és fejlesztése érdekében használjuk fel. A Szolgáltatás használatával Ön hozzájárul az információk ezen Adatvédelmi Szabályzattal összhangban történő gyűjtéséhez és felhasználásához.",
+      "sections": {
+        "interpretationTitle": "Értelmezés és definíciók",
+        "interpretationSubtitle": "Értelmezés",
+        "definitionsSubtitle": "Definíciók",
+        "interpretationText": "A nagybetűvel kezdődő szavak jelentése a következő feltételek mellett meghatározott. A következő definíciók jelentése ugyanaz, függetlenül attól, hogy egyes vagy többes számban szerepelnek.",
+        "definitionsText": "Jelen Adatvédelmi Szabályzat alkalmazásában:",
+        "definitionLabels": {
+          "account": "Fiók:",
+          "affiliate": "Partner:",
+          "application": "Alkalmazás:",
+          "business": "Üzleti:",
+          "ccpaCpra": "CCPA és/vagy CPRA:",
+          "company": "Vállalat:",
+          "consumer": "Fogyasztó:",
+          "country": "Ország:",
+          "dataController": "Adatkezelő:",
+          "device": "Eszköz:",
+          "doNotTrack": "Ne kövessen (DNT):",
+          "gdpr": "GDPR:",
+          "personalData": "Személyes adatok:",
+          "service": "Szolgáltatás:",
+          "serviceProvider": "Szolgáltató:",
+          "thirdPartySocialMedia": "Harmadik féltől származó közösségi média szolgáltatás:",
+          "usageData": "Használati adatok:",
+          "you": "Te:"
+        },
+        "definitions": {
+          "account": "Egy egyedi fiók, amelyet az Ön számára hoztunk létre, hogy hozzáférhessen a Szolgáltatásunkhoz vagy annak egyes részeihez.",
+          "affiliate": "Olyan jogalany, amely egy féllel közös ellenőrzés alatt áll, egy fél ellenőrzése alatt áll, vagy egy féllel közös ellenőrzés alatt áll, ahol az „ellenőrzés” a részvények, tőkerészesedés vagy egyéb, igazgatósági tagok vagy más irányító hatóság megválasztására szavazati joggal feljogosító értékpapírok 50%-ának vagy annál nagyobb részének tulajdonjogát jelenti.",
+          "application": "Ringdy re utal, a Társaság által biztosított szoftverprogramra.",
+          "business": "A CCPA/CPRA alkalmazásában a Társaságra, mint olyan jogi személyre utal, amely a Fogyasztók személyes adatait gyűjti, és meghatározza a Fogyasztók személyes adatainak feldolgozásának céljait és eszközeit.",
+          "ccpaCpra": "A 2020. évi kaliforniai adatvédelmi törvény (a továbbiakban: „CPRA”) által módosított kaliforniai fogyasztói adatvédelmi törvényre (a továbbiakban: „CCPA”) utal.",
+          "company": "A jelen Megállapodásban a „Társaság”, a „Mi”, a „Minket” vagy a „Miénk” kifejezések Ringdy re vonatkoznak. A GDPR alkalmazásában a Társaság az Adatkezelő.",
+          "consumer": "A CCPA/CPRA alkalmazásában kaliforniai lakos természetes személyt jelent.",
+          "country": "Utal: Egyesült Államok",
+          "dataController": "A GDPR (Általános Adatvédelmi Rendelet) alkalmazásában a Társaságra, mint jogi személyre utal, amely önállóan vagy másokkal együtt meghatározza a Személyes Adatok kezelésének céljait és eszközeit.",
+          "device": "Bármely olyan eszköz, amely képes hozzáférni a Szolgáltatáshoz, például okostelefon, táblagép vagy számítógép.",
+          "doNotTrack": "Egy olyan koncepció, amelyet az amerikai szabályozó hatóságok támogattak az internetes iparág számára, hogy kidolgozzanak és megvalósítsanak egy olyan mechanizmust, amely lehetővé teszi az internetfelhasználók számára, hogy ellenőrizzék online tevékenységeik nyomon követését a weboldalakon.",
+          "gdpr": "Az EU Általános Adatvédelmi Rendeletére utal.",
+          "personalData": "Bármely olyan információ, amely azonosított vagy azonosítható személyre vonatkozik. A GDPR alkalmazásában a Személyes Adatok az Önre vonatkozó bármely információt jelentik, például nevet, azonosító számot, helymeghatározó adatokat, online azonosítót vagy egy vagy több, a fizikai, fiziológiai, genetikai, mentális, gazdasági, kulturális vagy társadalmi identitására jellemző tényezőt.",
+          "service": "A Pályázatra utal.",
+          "serviceProvider": "Bármely természetes vagy jogi személy, aki a Társaság nevében adatokat kezel. Ez olyan harmadik fél vállalatokra vagy magánszemélyekre vonatkozik, akiket a Társaság alkalmaz a Szolgáltatás elősegítésére, a Szolgáltatás nyújtására a Társaság nevében, a Szolgáltatással kapcsolatos szolgáltatások elvégzésére vagy a Szolgáltatás használatának elemzésében való segítségnyújtásra.",
+          "thirdPartySocialMedia": "Bármely weboldal vagy közösségi oldal, amelyen keresztül a Felhasználó bejelentkezhet vagy fiókot hozhat létre a Szolgáltatás használatához.",
+          "usageData": "Automatikusan gyűjtött adatok, amelyek akár a Szolgáltatás használata során keletkeznek, akár magából a Szolgáltatás infrastruktúrájából származnak (például egy oldal látogatásának időtartama).",
+          "you": "A Szolgáltatást elérő vagy használó személy, illetve a vállalat vagy más jogi személy, amelynek nevében az adott személy a Szolgáltatást eléri vagy használja, adott esetben."
+        },
+        "dataCollectionTitle": "Személyes adatainak gyűjtése és felhasználása",
+        "dataTypesTitle": "A gyűjtött adatok típusai",
+        "personalDataTitle": "Személyes adatok",
+        "personalDataDescription": "Szolgáltatásunk használata során kérhetjük Önt, hogy adjon meg bizonyos személyazonosításra alkalmas adatokat, amelyek felhasználhatók az Önnel való kapcsolatfelvételre vagy az Ön azonosítására. A személyazonosításra alkalmas adatok magukban foglalhatják, de nem kizárólagosan:",
+        "usageDataTitle": "Használati adatok",
+        "usageDataDescription1": "A Használati Adatok gyűjtése automatikusan történik a Szolgáltatás használatakor.",
+        "usageDataDescription2": "A Használati Adatok olyan információkat tartalmazhatnak, mint az Eszközöd internetprotokoll-címe (pl. IP-cím), a böngésző típusa, a böngésző verziója, a Szolgáltatásunk azon oldalai, amelyeket meglátogatsz, a látogatás időpontja és dátuma, az ezeken az oldalakon eltöltött idő, az egyedi eszközazonosítók és egyéb diagnosztikai adatok.",
+        "usageDataDescription3": "Amikor mobileszközön keresztül vagy azon keresztül éri el a Szolgáltatást, automatikusan gyűjthetünk bizonyos információkat, beleértve, de nem kizárólagosan, az Ön által használt mobileszköz típusát, a mobileszköz egyedi azonosítóját, a mobileszköz IP-címét, a mobil operációs rendszerét, az Ön által használt mobil internetböngésző típusát, az egyedi eszközazonosítókat és egyéb diagnosztikai adatokat.",
+        "thirdPartyTitle": "Harmadik féltől származó közösségi média szolgáltatásokból származó információk",
+        "thirdPartyDescription1": "A Társaság lehetővé teszi Önnek, hogy fiókot hozzon létre és bejelentkezzen a Szolgáltatás használatához a következő harmadik féltől származó közösségi média szolgáltatásokon keresztül:",
+        "thirdPartyDescription2": "Ha úgy dönt, hogy regisztrál egy harmadik féltől származó közösségi média szolgáltatáson keresztül, vagy más módon hozzáférést biztosít nekünk egy ilyen szolgáltatáshoz, akkor olyan személyes adatokat gyűjthetünk, amelyek már társítva vannak az Ön harmadik féltől származó közösségi média szolgáltatásának fiókjához, például az Ön nevét, e-mail címét, tevékenységeit vagy az adott fiókhoz társított kapcsolati listáját.",
+        "appDataTitle": "Az alkalmazás használata során gyűjtött információk",
+        "appDataDescription1": "Alkalmazásunk használata során, annak érdekében, hogy az Alkalmazásunk funkcióit biztosítani tudjuk, az Ön előzetes engedélyével a következőket gyűjthetjük:",
+        "appDataDescription2": "Ezeket az információkat Szolgáltatásunk funkcióinak biztosítására, valamint Szolgáltatásunk fejlesztésére és testreszabására használjuk fel. Az információk lokálisan tárolhatók az Ön eszközén, vagy feltölthetők titkosított szerverekre. Az információkhoz való hozzáférést bármikor engedélyezheti vagy letilthatja az Eszköz beállításain keresztül.",
+        "dataUseTitle": "Személyes adatainak felhasználása",
+        "dataUseDescription": "A Társaság a Személyes Adatokat a következő célokra használhatja fel:",
+        "sharingTitle": "Személyes adatok megosztása",
+        "sharingDescription": "Személyes adatait a következő esetekben oszthatjuk meg:",
+        "retentionTitle": "Személyes adatainak megőrzése"
+      },
+      "dataUses": {
+        "provide": "Szolgáltatásunk biztosítása és fenntartása: Beleértve a Szolgáltatásunk használatának figyelését, valamint a közelben tartózkodó személyek Bluetooth -alapú és helyszínalapú felderítésének lehetővé tételét.",
+        "account": "Fiókja kezelése: A Szolgáltatás felhasználói regisztrációjának kezelése. Az Ön által megadott Személyes adatok hozzáférést biztosíthatnak Önnek a Szolgáltatás különböző funkcióihoz, amelyek regisztrált felhasználóként elérhetők az Ön számára.",
+        "contract": "Szerződés teljesítése érdekében: Az Ön által kért szolgáltatások vagy a Szolgáltatáson keresztül velünk kötött bármely más szerződés kidolgozása, megfelelése és végrehajtása.",
+        "contact": "Kapcsolatfelvétel Önnel: Kapcsolatfelvétel Önnel e-mailben, push értesítésekkel vagy más, azzal egyenértékű elektronikus kommunikációs formákkal a frissítésekkel, biztonsági értesítésekkel vagy a funkciókkal kapcsolatos tájékoztató kommunikációval kapcsolatban.",
+        "offers": "Hírek és különleges ajánlatok küldése Önnek: Más általunk kínált árukról, szolgáltatásokról és eseményekről, amelyek hasonlóak azokhoz, amelyeket már igénybe vett vagy amelyekről érdeklődött, kivéve, ha úgy döntött, hogy nem kíván ilyen információkat kapni.",
+        "requests": "A kéréseid kezelése: A hozzánk intézett kéréseid kezelése.",
+        "content": "Célzott tartalom megjelenítése: Az Ön adatait felhasználhatjuk az Ön érdeklődési köréhez és tartózkodási helyéhez igazított tartalom fejlesztésére és megjelenítésére (a közeli felhasználók felderítése érdekében), valamint hatékonyságának mérésére.",
+        "business": "Üzleti átruházások esetén: Az Ön adatait felhasználhatjuk egyesülés, értékesítés, szerkezetátalakítás, reorganizáció, megszüntetés vagy eszközeink egy részének vagy egészének egyéb értékesítése vagy átruházása értékelésére vagy lebonyolítására.",
+        "other": "Egyéb célokra: Az Ön adatait más célokra is felhasználhatjuk, például adatelemzésre, használati trendek azonosítására, promóciós kampányaink hatékonyságának meghatározására, valamint Szolgáltatásunk, termékeink, szolgáltatásaink, marketingünk és az Ön felhasználói élményének értékelésére és fejlesztésére."
+      },
+      "sharingTypes": {
+        "providers": "Szolgáltatókkal: Megoszthatjuk az Ön személyes adatait szolgáltatókkal a Szolgáltatásunk használatának megfigyelése és elemzése, a fizetésfeldolgozás, valamint az Önnel való kapcsolatfelvétel céljából.",
+        "transfers": "Üzleti átruházások esetén: Megoszthatjuk vagy átadhatjuk személyes adatait bármely egyesüléssel, vállalati eszközök eladásával, finanszírozással vagy üzleti tevékenységünk egészének vagy egy részének egy másik vállalatnak történő felvásárlásával kapcsolatban vagy az azokkal kapcsolatos tárgyalások során.",
+        "affiliates": "Leányvállalatokkal: Megoszthatjuk az Ön adatait leányvállalatainkkal, amely esetben előírjuk számukra a jelen Adatvédelmi Szabályzat betartását.",
+        "partners": "Üzleti partnerekkel: Megoszthatjuk az Ön adatait üzleti partnereinkkel, hogy bizonyos termékeket, szolgáltatásokat vagy promóciókat kínáljunk Önnek.",
+        "users": "Más felhasználókkal: Amikor felfedezel és kapcsolatba lépsz más felhasználókkal a közeledben, a profilod adatait (beleértve a nevedet és a fotóidat, vagy az avatárodat, ha úgy döntöttél, hogy ehelyett ilyet használsz) megosztjuk a felfedezés, a barátkozási kérés és a párosítási folyamat részeként. Te döntöd el, hogy avatárt vagy a valódi fotóidat jelenítsd-e meg bármikor.",
+        "consent": "Az Ön hozzájárulásával: Személyes adatait bármilyen más célra is kiadhatjuk az Ön hozzájárulásával."
+      },
+      "security": {
+        "title": "Személyes adatainak biztonsága",
+        "description": "Személyes adatainak biztonsága fontos számunkra, de ne feledje, hogy az interneten keresztüli átvitel vagy elektronikus tárolás egyetlen módja sem 100%-ig biztonságos. Bár igyekszünk kereskedelmi szempontból elfogadható eszközöket használni Személyes adatainak védelme érdekében, beleértve a csevegési üzenetek végponttól végpontig tartó titkosítását és a biztonságos Bluetooth protokollokat, nem tudjuk garantálni azok abszolút biztonságát."
+      },
+      "contact": {
+        "title": "Kapcsolat",
+        "description": "Ha bármilyen kérdése van ezzel az adatvédelmi irányelvvel kapcsolatban, a következőképpen veheti fel velünk a kapcsolatot:",
+        "email": "E-mailben: privacy@ringdy.com",
+        "website": "Weboldalunkon ezen az oldalon: https://ringdy.com/contact",
+        "mail": "Postai úton: Ringdy Privacy Team, 123 Tech Street, San Francisco, CA 94105, Amerikai Egyesült Államok"
+      },
+      "shineTheLight": {
+        "title": "Kaliforniai adatvédelmi jogai (Kalifornia Shine the Light törvénye)",
+        "description1": "A kaliforniai polgári törvénykönyv 1798. szakasza (Kalifornia „Shine the Light” törvénye) értelmében a velünk üzleti kapcsolatban álló kaliforniai lakosok évente egyszer kérhetnek tájékoztatást személyes adataik harmadik felekkel való megosztásáról, azok közvetlen üzletszerzési céljaira.",
+        "description2": "Ha további információt szeretne kérni a kaliforniai Shine the Light törvény értelmében, és Ön kaliforniai lakos, az alábbi elérhetőségeken keresztül veheti fel velünk a kapcsolatot."
+      },
+      "minorUsers": {
+        "title": "Kaliforniai adatvédelmi jogok kiskorú felhasználók számára (Kaliforniai üzleti és szakmai törvénykönyv 22581. szakasz)",
+        "description1": "A kaliforniai üzleti és szakmai törvénykönyv 22581. szakasza lehetővé teszi a 18 év alatti kaliforniai lakosok számára, akik online webhelyek, szolgáltatások vagy alkalmazások regisztrált felhasználói, hogy kérjék és elérjék a nyilvánosan közzétett tartalmaik vagy információik eltávolítását.",
+        "description2": "Az ilyen adatok eltávolításának kéréséhez, és amennyiben Ön kaliforniai lakos, az alább megadott elérhetőségeken veheti fel velünk a kapcsolatot, és megadhatja a fiókjához társított e-mail címet.",
+        "description3": "Felhívjuk figyelmét, hogy a kérése nem garantálja az online közzétett tartalom vagy információ teljes vagy átfogó eltávolítását, és hogy a törvény bizonyos körülmények között nem engedélyezheti vagy nem írhatja elő az eltávolítást."
+      },
+      "childrenPrivacy": {
+        "title": "Gyermekek adatvédelme",
+        "description1": "Szolgáltatásunk nem szól 13 év alatti személyekhez. Tudatosan nem gyűjtünk személyazonosításra alkalmas adatokat 13 év alatti személyektől. Ha Ön szülő vagy gyám, és tudomása van arról, hogy gyermeke személyes adatokat adott meg nekünk, kérjük, vegye fel velünk a kapcsolatot.",
+        "description2": "Amennyiben tudomást szerzünk arról, hogy 13 év alatti személytől személyes adatokat gyűjtöttünk szülői beleegyezés ellenőrzése nélkül, lépéseket teszünk az információk szervereinkről való eltávolítása érdekében.",
+        "description3": "Ha az Ön adatainak feldolgozásához a hozzájárulásra kell támaszkodnunk jogalapként, és az Ön országa szülői hozzájárulást ír elő, akkor az információk gyűjtése és felhasználása előtt szükségünk lehet a szülő hozzájárulására."
+      },
+      "linksToOtherWebsites": {
+        "title": "Linkek más weboldalakra",
+        "description": "Szolgáltatásunk tartalmazhat olyan weboldalakra mutató linkeket, amelyeket nem mi üzemeltetünk. Ha egy harmadik féltől származó linkre kattint, akkor az adott harmadik fél webhelyére kerül. Javasoljuk, hogy tekintse át minden meglátogatott webhely adatvédelmi irányelveit. Nincs befolyásunk a harmadik fél webhelyeinek vagy szolgáltatásainak tartalmára, adatvédelmi irányelveire vagy gyakorlatára, és nem vállalunk felelősséget azokért."
+      },
+      "changes": {
+        "title": "Adatvédelmi irányelvek módosításai",
+        "description1": "Adatvédelmi irányelveinket időről időre frissíthetjük. A változásokról az új Adatvédelmi irányelvek ezen az oldalon történő közzétételével értesítjük Önt.",
+        "description2": "E-mailben és/vagy a Szolgáltatásunkon elhelyezett kiemelt közleményben tájékoztatjuk Önt a változás hatálybalépése előtt, és frissítjük az Adatvédelmi Szabályzat tetején található „Utolsó frissítés” dátumát.",
+        "description3": "Javasoljuk, hogy rendszeresen tekintse át ezt az Adatvédelmi Szabályzatot az esetleges változások miatt. Az Adatvédelmi Szabályzat módosításai akkor lépnek hatályba, amikor közzéteszik azokat ezen az oldalon."
+      },
+      "backToHome": "Vissza a kezdőlapra",
+      "retention": {
+        "description1": "A Társaság az Ön Személyes Adatait csak addig őrzi meg, ameddig az a jelen Adatvédelmi Szabályzatban meghatározott célokból szükséges. Személyes Adatait a jogi kötelezettségeink teljesítéséhez, a viták rendezéséhez, valamint jogi megállapodásaink és szabályzataink érvényesítéséhez szükséges mértékben őrizzük meg és használjuk fel.",
+        "description2": "A Vállalat belső elemzési célokra is megőrzi a Használati adatokat. A Használati adatokat általában rövidebb ideig őrizzük meg, kivéve, ha ezeket az adatokat a biztonság megerősítésére vagy a Szolgáltatásunk funkcionalitásának javítására használjuk fel, vagy ha jogilag kötelesek vagyunk ezeket az adatokat hosszabb ideig megőrizni."
+      },
+      "transfer": {
+        "title": "Személyes adatainak továbbítása",
+        "description1": "Az Ön adatait, beleértve a Személyes Adatokat is, a Társaság működési irodáiban és minden olyan helyen feldolgozzuk, ahol a feldolgozásban részt vevő felek találhatók. Ez azt jelenti, hogy ezek az információk továbbíthatók – és tárolhatók – az Ön államán, tartományán, országán vagy más kormányzati joghatóságán kívül található számítógépeken, ahol az adatvédelmi törvények eltérhetnek az Ön joghatóságában érvényesektől.",
+        "description2": "Az Ön hozzájárulása ehhez az Adatvédelmi Szabályzathoz, majd az ilyen információk benyújtása az Ön hozzájárulását jelenti az adatátvitelhez. A Társaság minden ésszerűen szükséges lépést megtesz annak biztosítása érdekében, hogy adatait biztonságosan és a jelen Adatvédelmi Szabályzatnak megfelelően kezeljék, és személyes adatait semmilyen szervezetnek vagy országnak nem továbbítják, kivéve, ha megfelelő ellenőrzések vannak érvényben, beleértve az Ön adatainak és egyéb személyes adatainak biztonságát."
+      },
+      "deletion": {
+        "title": "Személyes adatainak törlése",
+        "description1": "Önnek joga van törölni az Önről gyűjtött Személyes Adatokat, vagy kérheti, hogy segítsünk törölni azokat.",
+        "description2": "Szolgáltatásunk lehetővé teheti Önnek, hogy bizonyos, Önről szóló információkat töröljön a Szolgáltatáson belül.",
+        "description3": "Adatait bármikor frissítheti, módosíthatja vagy törölheti a Fiókjába való bejelentkezéssel (ha van ilyen), majd a fiókbeállítások részben történő kezeléssel. Kapcsolatba léphet velünk, hogy hozzáférést kérjen a nekünk megadott személyes adataihoz, azokat helyesbítse vagy törölje."
+      },
+      "disclosure": {
+        "title": "Személyes adatainak nyilvánosságra hozatala",
+        "businessTitle": "Üzleti tranzakciók",
+        "businessDescription": "Amennyiben a Társaság részt vesz egy fúzióban, felvásárlásban vagy eszközértékesítésben, az Ön Személyes Adatai átruházásra kerülhetnek. Értesíteni fogjuk Önt, mielőtt Személyes Adatai átruházásra kerülnének, és azokra egy másik Adatvédelmi Szabályzat vonatkozik.",
+        "lawTitle": "Rendvédelem",
+        "lawDescription": "Bizonyos körülmények között a Társaság köteles lehet nyilvánosságra hozni az Ön Személyes Adatait, ha erre törvény kötelezi, vagy ha erre közhatalmi szervek (pl. bíróság vagy kormányzati szerv) jogos kérésre válaszolnak.",
+        "legalTitle": "Egyéb jogi követelmények",
+        "legalDescription": "A Társaság jóhiszeműen, de kizárólag a következők érdekében hozhatja nyilvánosságra az Ön Személyes adatait:",
+        "legalReasons": {
+          "comply": "Jogi kötelezettség teljesítése",
+          "protect": "A Társaság jogainak vagy tulajdonának védelme és védelme",
+          "prevent": "A Szolgáltatással kapcsolatos esetleges visszaélések megelőzése vagy kivizsgálása",
+          "safety": "A Szolgáltatás Felhasználóinak vagy a nyilvánosság személyes biztonságának védelme",
+          "liability": "Védje magát a jogi felelősségtől"
+        },
+        "detailedInfo": {
+          "title": "Részletes információk a személyes adatainak feldolgozásáról",
+          "description": "Az általunk igénybe vett szolgáltatók hozzáférhetnek az Ön személyes adataihoz. Ezek a harmadik fél szolgáltatók az Adatvédelmi Szabályzataikkal összhangban gyűjtik, tárolják, használják, dolgozzák fel és továbbítják az Ön szolgáltatásunkon végzett tevékenységével kapcsolatos információkat.",
+          "analyticsTitle": "Analitika",
+          "analyticsDescription": "Előfordulhat, hogy harmadik fél szolgáltatókat veszünk igénybe Szolgáltatásunk használatának megfigyelésére és elemzésére."
+        },
+        "analytics": {
+          "title": "Viselkedésalapú remarketing",
+          "description": "A Társaság remarketing szolgáltatásokat használ, hogy harmadik fél webhelyein hirdetéseket jelenítsen meg Önnek, miután meglátogatta Szolgáltatásunkat. Mi és harmadik fél szolgáltatóink sütiket használunk a Szolgáltatásunkban tett korábbi látogatásai alapján történő tájékoztatás, optimalizálás és hirdetések megjelenítése céljából.",
+          "googleAnalytics": {
+            "title": "Google Analytics",
+            "description1": "A Google Analytics egy webanalitikai szolgáltatás, amelyet a Google kínál, és amely nyomon követi és jelentéseket készít a webhely forgalmáról. A Google a gyűjtött adatokat a Szolgáltatás használatának nyomon követésére és monitorozására használja. Ezeket az adatokat megosztja más Google-szolgáltatásokkal. A Google felhasználhatja a gyűjtött adatokat saját hirdetési hálózatának hirdetéseinek kontextusba helyezésére és személyre szabására.",
+            "description2": "A Google Analytics bizonyos funkcióiról leiratkozhat a mobileszköz beállításain keresztül, például az eszköz hirdetési beállításain keresztül, vagy a Google adatvédelmi irányelveiben található utasításokat követve:",
+            "description3": "A Google adatvédelmi gyakorlatával kapcsolatos további információkért kérjük, látogassa meg a Google Adatvédelmi és Felhasználási Feltételek weboldalát:"
+          },
+          "firebase": {
+            "title": "Firebase",
+            "description1": "A Firebase egy Google Inc. által nyújtott analitikai szolgáltatás.",
+            "description2": "Bizonyos Firebase-funkciókat letilthat a mobileszköz beállításain keresztül, például az eszköz hirdetési beállításain keresztül, vagy a Google adatvédelmi irányelveiben található utasításokat követve:",
+            "description3": "Azt is javasoljuk, hogy tekintse át a Google adatvédelmi irányelveit:",
+            "description4": "A Firebase által gyűjtött információk típusával kapcsolatos további információkért kérjük, látogassa meg a Hogyan használja fel a Google az adatokat, amikor partnereink webhelyeit vagy alkalmazásait használja weboldalt:"
+          }
+        },
+        "advertising": {
+          "title": "Hirdető",
+          "description": "Szolgáltatókat vehetünk igénybe hirdetések megjelenítésére Önnek, hogy elősegítsük Szolgáltatásunk támogatását és fenntartását.",
+          "googleAdSense": {
+            "title": "Google AdSense és DoubleClick süti",
+            "description1": "A Google, mint harmadik fél szolgáltató, sütiket használ hirdetések megjelenítéséhez a Szolgáltatásunkban. A DoubleClick süti használata lehetővé teszi a Google és partnerei számára, hogy hirdetéseket jelenítsenek meg felhasználóinknak a Szolgáltatásunkban vagy más internetes webhelyeken tett látogatásaik alapján.",
+            "description2": "A DoubleClick süti érdeklődésalapú hirdetésekhez való használatát letilthatja a Google Hirdetésbeállítások weboldalán:"
+          },
+          "adMob": {
+            "title": "AdMob a Google-tól",
+            "description1": "Az AdMob by Google szolgáltatást a Google Inc. biztosítja.",
+            "description2": "A Google által leírt utasításokat követve iratkozhat le az AdMob by Google szolgáltatásról:",
+            "description3": "Ha többet szeretne megtudni arról, hogyan használja fel a Google a gyűjtött információkat, kérjük, látogassa meg a „Hogyan használja a Google az adatokat, amikor partnereink webhelyeit vagy alkalmazását használja” oldalt, vagy tekintse meg a Google adatvédelmi irányelveit:"
+          }
+        },
+        "payments": {
+          "title": "Fizetések",
+          "description1": "A Szolgáltatáson belül fizetős termékeket és/vagy szolgáltatásokat is kínálhatunk. Ebben az esetben harmadik fél szolgáltatásait vehetjük igénybe a fizetésfeldolgozáshoz (pl. fizetésfeldolgozók).",
+          "description2": "Nem tároljuk és nem gyűjtjük a bankkártyaadatait. Ezeket az információkat közvetlenül harmadik fél fizetési feldolgozóinknak adjuk át, akiknek a személyes adatainak felhasználását az Adatvédelmi Szabályzatuk szabályozza. Ezek a fizetési feldolgozók betartják a PCI-DSS által meghatározott szabványokat, amelyeket a PCI Biztonsági Szabványok Tanácsa kezel, amely olyan márkák közös erőfeszítése, mint a Visa, a Mastercard, az American Express és a Discover. A PCI-DSS követelményei segítenek biztosítani a fizetési információk biztonságos kezelését.",
+          "appleStore": {
+            "title": "Apple Store alkalmazáson belüli fizetések",
+            "description": "Adatvédelmi irányelveik megtekinthetők a következő címen:"
+          },
+          "googlePlay": {
+            "title": "Google Play alkalmazáson belüli fizetések",
+            "description": "Adatvédelmi irányelveik megtekinthetők a következő címen:"
+          },
+          "stripe": {
+            "title": "Csík",
+            "description": "Adatvédelmi irányelveik megtekinthetők a következő címen:"
+          },
+          "payPal": {
+            "title": "PayPal vagy Braintree",
+            "description": "Adatvédelmi irányelveik megtekinthetők a következő címen:"
+          }
+        }
+      },
+      "behavioralRemarketing": {
+        "title": "Viselkedésalapú remarketing",
+        "description": "A Társaság remarketing szolgáltatásokat használ, hogy harmadik fél webhelyein hirdetéseket jelenítsen meg Önnek, miután meglátogatta Szolgáltatásunkat. Mi és harmadik fél szolgáltatóink sütiket használunk a Szolgáltatásunkban tett korábbi látogatásai alapján történő tájékoztatás, optimalizálás és hirdetések megjelenítése céljából.",
+        "vendorsDescription1": "Ezek a harmadik fél szolgáltatók az Adatvédelmi Szabályzataikkal összhangban gyűjtik, tárolják, használják, dolgozzák fel és továbbítják az Ön Szolgáltatásunkon végzett tevékenységével kapcsolatos információkat, hogy lehetővé tegyék számunkra a következőket:",
+        "purposes": {
+          "measure": "Mérje és elemezze a forgalmat és a böngészési tevékenységet szolgáltatásunkban",
+          "show": "Termékeink és/vagy szolgáltatásaink hirdetéseinek megjelenítése Önnek harmadik fél webhelyein vagy alkalmazásaiban",
+          "analyze": "Hirdetési kampányaink teljesítményének mérése és elemzése"
+        },
+        "vendorsDescription2": "Ezen harmadik féltől származó szolgáltatók némelyike olyan nem sütialapú technológiákat használhat, amelyeket nem feltétlenül befolyásolnak a sütiket blokkoló böngészőbeállítások. Előfordulhat, hogy a böngészője nem engedélyezi az ilyen technológiák blokkolását. A következő harmadik féltől származó eszközökkel elutasíthatja az információk gyűjtését és felhasználását az érdeklődésen alapuló hirdetések megjelenítése céljából:",
+        "optOutTools": {
+          "nai": "A NAI leiratkozási platformja:",
+          "edaa": "Az EDAA leiratkozási platformja:",
+          "daa": "A DAA leiratkozási platformja:"
+        },
+        "mobileOptOut": "Kiiratkozhat minden személyre szabott hirdetésről, ha engedélyezi mobileszközén az adatvédelmi funkciókat, például a Hirdetéskövetés korlátozása (iOS) és a Hirdetések személyre szabásának letiltása (Android). További információkért lásd a mobileszköz súgórendszerét.",
+        "dataSharing": "Megoszthatunk információkat, például hashelt e-mail címeket (ha vannak ilyenek) vagy más online azonosítókat, amelyeket a Szolgáltatásunkon gyűjtöttünk, ezekkel a harmadik fél szolgáltatókkal. Ez lehetővé teszi harmadik fél szolgáltatóink számára, hogy felismerjék és hirdetéseket jelenítsenek meg Önnek különböző eszközökön és böngészőkön keresztül. Ha többet szeretne megtudni ezen harmadik fél szolgáltatók által használt technológiákról és azok eszközökön átívelő képességeiről, kérjük, tekintse meg az alábbiakban felsorolt egyes szolgáltatók adatvédelmi irányelveit.",
+        "vendorsIntro": "Az általunk igénybe vett harmadik fél beszállítók a következők:",
+        "googleAds": {
+          "title": "Google Hirdetések (AdWords)",
+          "description1": "A Google Ads (AdWords) remarketing szolgáltatást a Google Inc. biztosítja.",
+          "description2": "A Google Analytics Display Advertising szolgáltatásból való kilépéshez és a Google Display Network hirdetéseinek testreszabásához látogasson el a Google Hirdetésbeállítások oldalra:",
+          "description3": "A Google azt is javasolja, hogy telepítse a Google Analytics letiltó böngészőbővítményt a webböngészőjéhez. A Google Analytics letiltó böngészőbővítmény lehetővé teszi a látogatók számára, hogy megakadályozzák adataik Google Analytics általi gyűjtését és felhasználását.",
+          "description4": "A Google adatvédelmi gyakorlatával kapcsolatos további információkért kérjük, látogassa meg a Google Adatvédelmi és Felhasználási Feltételek weboldalát:"
+        },
+        "facebook": {
+          "title": "Facebook",
+          "description1": "A Facebook remarketing szolgáltatást a Facebook Inc. biztosítja.",
+          "description2": "A Facebook érdeklődésalapú hirdetéseiről bővebben ezen az oldalon olvashat:",
+          "description3": "A Facebook érdeklődésalapú hirdetéseinek letiltásához kövesse a Facebook alábbi utasításait:",
+          "description4": "A Facebook betartja a Digital Advertising Alliance által meghatározott online viselkedésalapú hirdetésekre vonatkozó önszabályozási alapelveket. Leiratkozhat a Facebookról és más részt vevő vállalatokról az USA-beli Digital Advertising Alliance-on, Kanadában a Digital Advertising Alliance of Canada-n vagy Európában az European Interactive Digital Advertising Alliance-on keresztül, vagy leiratkozhat mobileszközének beállításain keresztül.",
+          "description5": "A Facebook adatvédelmi gyakorlatával kapcsolatos további információkért kérjük, tekintse meg a Facebook adatvédelmi irányelveit:"
+        }
+      },
+      "detailedInfo": {
+        "title": "Részletes információk a személyes adatainak feldolgozásáról",
+        "description": "Az általunk igénybe vett szolgáltatók hozzáférhetnek az Ön személyes adataihoz. Ezek a harmadik fél szolgáltatók az Adatvédelmi Szabályzataikkal összhangban gyűjtik, tárolják, használják, dolgozzák fel és továbbítják az Ön szolgáltatásunkon végzett tevékenységével kapcsolatos információkat.",
+        "analyticsTitle": "Analitika",
+        "analyticsDescription": "Előfordulhat, hogy harmadik fél szolgáltatókat veszünk igénybe Szolgáltatásunk használatának megfigyelésére és elemzésére."
+      },
+      "analytics": {
+        "firebase": {
+          "title": "Firebase",
+          "description1": "A Firebase egy Google Inc. által nyújtott analitikai szolgáltatás.",
+          "description2": "Bizonyos Firebase-funkciókat letilthat a mobileszköz beállításain keresztül, például az eszköz hirdetési beállításain keresztül, vagy a Google adatvédelmi irányelveiben található utasításokat követve:",
+          "description3": "Azt is javasoljuk, hogy tekintse át a Google adatvédelmi irányelveit:",
+          "description4": "A Firebase által gyűjtött információk típusával kapcsolatos további információkért kérjük, látogassa meg a Hogyan használja fel a Google az adatokat, amikor partnereink webhelyeit vagy alkalmazásait használja weboldalt:"
+        },
+        "googleAnalytics": {
+          "title": "Google Analytics",
+          "description1": "A Google Analytics egy webanalitikai szolgáltatás, amelyet a Google kínál, és amely nyomon követi és jelentéseket készít a webhely forgalmáról. A Google a gyűjtött adatokat a Szolgáltatás használatának nyomon követésére és monitorozására használja. Ezeket az adatokat megosztja más Google-szolgáltatásokkal. A Google felhasználhatja a gyűjtött adatokat saját hirdetési hálózatának hirdetéseinek kontextusba helyezésére és személyre szabására.",
+          "description2": "A Google Analytics letiltó böngészőbővítményének telepítésével letilthatja, hogy a Szolgáltatásban végzett tevékenysége elérhető legyen a Google Analytics számára. A bővítmény megakadályozza, hogy a Google Analytics JavaScript (ga.js, analytics.js és gtag.js) információkat osszon meg a Google Analyticsszel a látogatási tevékenységről. A Google adatvédelmi gyakorlatával kapcsolatos további információkért kérjük, látogassa meg a Google Adatvédelmi és Felhasználási Feltételek weboldalát:",
+          "description3": "A Google azt is javasolja, hogy telepítse a Google Analytics leiratkozási böngészőbővítményt a webböngészőjéhez. A Google Analytics leiratkozási böngészőbővítmény lehetővé teszi a látogatók számára, hogy megakadályozzák adataik Google Analytics általi gyűjtését és felhasználását. A Google Analytics leiratkozási böngészőbővítmény telepítésével és használatával kapcsolatos további információkért kérjük, látogassa meg a következő Google Analytics leiratkozási oldalt:"
+        }
+      },
+      "advertising": {
+        "title": "Hirdető",
+        "description": "Szolgáltatókat vehetünk igénybe hirdetések megjelenítésére Önnek, hogy elősegítsük Szolgáltatásunk támogatását és fenntartását.",
+        "googleAdSense": {
+          "title": "Google AdSense és DoubleClick süti",
+          "description1": "A Google, mint harmadik fél szolgáltató, sütiket használ hirdetések megjelenítéséhez a Szolgáltatásunkban. A DoubleClick süti használata lehetővé teszi számunkra és partnereink számára, hogy hirdetéseket jelenítsenek meg felhasználóinknak a Szolgáltatásunkban vagy más internetes webhelyeken tett látogatásaik alapján.",
+          "description2": "A DoubleClick süti érdeklődésalapú hirdetésekhez való használatát letilthatja a Google Hirdetésbeállítások weboldalán:"
+        },
+        "adMob": {
+          "title": "AdMob a Google-tól",
+          "description1": "Az AdMob by Google szolgáltatást a Google Inc. biztosítja.",
+          "description2": "A Google által leírt utasításokat követve iratkozhat le az AdMob by Google szolgáltatásról:",
+          "description3": "Ha többet szeretne megtudni arról, hogyan használja fel a Google a gyűjtött információkat, kérjük, látogassa meg a „Hogyan használja a Google az adatokat, amikor partnereink webhelyeit vagy alkalmazását használja” oldalt, vagy tekintse meg a Google adatvédelmi irányelveit:"
+        }
+      },
+      "payments": {
+        "title": "Fizetések",
+        "description1": "A Szolgáltatáson belül fizetős termékeket és/vagy szolgáltatásokat is kínálhatunk. Ebben az esetben harmadik fél szolgáltatásait vehetjük igénybe a fizetésfeldolgozáshoz (pl. fizetésfeldolgozók).",
+        "description2": "Nem tároljuk és nem gyűjtjük a bankkártyaadatait. Ezeket az információkat közvetlenül harmadik fél fizetési feldolgozóinknak adjuk át, akiknek a személyes adatainak felhasználását az Adatvédelmi Szabályzatuk szabályozza. Ezek a fizetési feldolgozók betartják a PCI-DSS által meghatározott szabványokat, amelyeket a PCI Biztonsági Szabványok Tanácsa kezel, amely olyan márkák közös erőfeszítése, mint a Visa, a Mastercard, az American Express és a Discover. A PCI-DSS követelményei segítenek biztosítani a fizetési információk biztonságos kezelését.",
+        "appleStore": {
+          "title": "Apple Store alkalmazáson belüli fizetések",
+          "description": "Adatvédelmi irányelveik megtekinthetők a következő címen:"
+        },
+        "googlePlay": {
+          "title": "Google Play alkalmazáson belüli fizetések",
+          "description": "Adatvédelmi irányelveik megtekinthetők a következő címen:"
+        },
+        "stripe": {
+          "title": "Csík",
+          "description": "Adatvédelmi irányelveik megtekinthetők a következő címen:"
+        },
+        "payPal": {
+          "title": "PayPal vagy Braintree",
+          "description": "Adatvédelmi irányelveik megtekinthetők a következő címen:"
+        }
+      },
+      "gdpr": {
+        "title": "GDPR adatvédelem",
+        "legalBasis": {
+          "title": "A személyes adatok GDPR szerinti kezelésének jogalapja",
+          "description": "Személyes adatokat a következő feltételek mellett dolgozhatunk fel:",
+          "consent": "Hozzájárulás: Ön hozzájárulását adta személyes adatainak egy vagy több konkrét célból történő feldolgozásához.",
+          "contract": "Szerződés teljesítése: A személyes adatok megadása az Önnel kötött megállapodás teljesítéséhez és/vagy az abból eredő szerződés előtti kötelezettségek teljesítéséhez szükséges.",
+          "legal": "Jogi kötelezettségek: A személyes adatok kezelése a Társaságra vonatkozó jogi kötelezettség teljesítéséhez szükséges.",
+          "vital": "Létfontosságú érdekek: A személyes adatok kezelése az Ön vagy egy másik természetes személy létfontosságú érdekeinek védelme érdekében szükséges.",
+          "public": "Közérdek: A személyes adatok kezelése közérdekből vagy a Társaságra ruházott közhatalmi jogosítvány gyakorlása keretében végzett feladathoz kapcsolódik.",
+          "legitimate": "Jogos érdekek: A személyes adatok kezelése a Társaság jogos érdekeinek érvényesítéséhez szükséges."
+        },
+        "rights": {
+          "title": "Az Ön jogai a GDPR értelmében",
+          "description": "A Társaság kötelezettséget vállal arra, hogy tiszteletben tartja az Ön Személyes Adatainak bizalmas kezelését, és garantálja, hogy gyakorolhatja jogait. Önnek a jelen Adatvédelmi Szabályzat, valamint az EU-n belüli tartózkodás esetén a törvény értelmében joga van a következőkre:",
+          "access": "Személyes adataihoz való hozzáférés kérése: Joga van hozzáférni, frissíteni vagy törölni az Önről tárolt információkat.",
+          "correction": "Személyes adatok helyesbítésének kérése: Jogában áll kérni, hogy a rólad tárolt hiányos vagy pontatlan információkat helyesbítsük.",
+          "object": "Tiltakozás az adatkezelés ellen: Ez a jog akkor áll fenn, ha jogos érdekre támaszkodunk az adatkezelésünk jogalapjaként.",
+          "erasure": "Törlés kérése: Önnek joga van kérni tőlünk a személyes adatainak törlését vagy eltávolítását, ha nincs alapos okunk azok további feldolgozására.",
+          "transfer": "Adatátvitel kérése: Személyes adatait strukturált, széles körben használt, géppel olvasható formátumban bocsátjuk rendelkezésére Önnek, vagy az Ön által kiválasztott harmadik félnek.",
+          "withdraw": "Hozzájárulás visszavonása: Önnek joga van visszavonni a Személyes Adatainak felhasználásához adott hozzájárulását."
+        },
+        "exercising": {
+          "title": "Az Ön GDPR szerinti adatvédelmi jogainak gyakorlása",
+          "description1": "Hozzáférési, helyesbítési, törléshez és tiltakozáshoz való jogát a velünk való kapcsolatfelvétel útján gyakorolhatja. Felhívjuk figyelmét, hogy az ilyen kérések megválaszolása előtt kérhetjük Öntől személyazonosságának igazolását. Ha kérést nyújt be, mindent megteszünk, hogy a lehető leghamarabb válaszoljunk Önnek.",
+          "description2": "Joga van panaszt tenni egy adatvédelmi hatóságnál a személyes adatainak gyűjtése és felhasználása miatt. További információkért, ha az Európai Gazdasági Térségben (EGT) tartózkodik, kérjük, vegye fel a kapcsolatot az EGT-ben található helyi adatvédelmi hatósággal."
+        }
+      },
+      "ccpa": {
+        "title": "CCPA/CPRA adatvédelmi nyilatkozat",
+        "introduction": "Ez az adatvédelmi nyilatkozat kaliforniai lakosokra vonatkozó szakasz kiegészíti az Adatvédelmi irányelveinkben található információkat, és kizárólag Kalifornia államban lakó összes látogatóra, felhasználóra és más személyre vonatkozik.",
+        "categoriesTitle": "A gyűjtött személyes adatok kategóriái",
+        "categoriesDescription1": "Olyan információkat gyűjtünk, amelyek egy adott Fogyasztót vagy Eszközt azonosítanak, leírnak, hivatkoznak rá, kapcsolatba hozhatók vagy ésszerűen összekapcsolhatók közvetlenül vagy közvetve. Az alábbiakban felsoroljuk azokat a személyes adatok kategóriáit, amelyeket kaliforniai lakosoktól gyűjthetünk vagy gyűjtöttünk az elmúlt tizenkét (12) hónapban.",
+        "categoriesDescription2": "Felhívjuk figyelmét, hogy az alábbi listában szereplő kategóriák és példák a CCPA/CPRA-ban meghatározottak. Ez nem jelenti azt, hogy az adott kategóriába tartozó személyes adatok összes példáját ténylegesen összegyűjtöttük, de legjobb tudomásunk szerinti jóhiszemű meggyőződésünket tükrözi, hogy az adott kategóriába tartozó információk egy részét összegyűjtöttük és össze is gyűjtöttük. Például bizonyos kategóriájú személyes adatokat csak akkor gyűjtünk, ha Ön közvetlenül megadta nekünk ezeket a személyes adatokat.",
+        "categoryLabels": {
+          "examples": "Példák:",
+          "collected": "Összegyűjtött:"
+        },
+        "categories": {
+          "identifiers": {
+            "title": "A kategória: Azonosítók",
+            "examples": "Valódi név, álnév, postai cím, egyedi személyes azonosító, online azonosító, internetprotokoll-cím, e-mail cím, fióknév, jogosítvány száma, útlevélszám vagy más hasonló azonosítók.",
+            "collected": "Igen"
+          },
+          "personalInfo": {
+            "title": "B kategória: A kaliforniai ügyfélnyilvántartási törvényben felsorolt személyesadat-kategóriák",
+            "examples": "Név, aláírás, társadalombiztosítási szám, fizikai jellemzők vagy leírás, cím, telefonszám, útlevélszám, jogosítvány vagy személyi igazolvány száma, biztosítási kötvény száma, iskolai végzettség, foglalkoztatás, munkaviszony előzményei, bankszámlaszám, hitelkártyaszám, bankkártyaszám vagy bármilyen más pénzügyi információ, orvosi információ vagy egészségbiztosítási információ. Az ebbe a kategóriába tartozó személyes adatok egy része átfedésben lehet más kategóriákkal.",
+            "collected": "Igen"
+          },
+          "protected": {
+            "title": "C kategória: Kaliforniai vagy szövetségi törvények értelmében védett osztályozási jellemzők",
+            "examples": "Életkor (40 év vagy idősebb), faji hovatartozás, bőrszín, származás, nemzetiségi hovatartozás, állampolgárság, vallás vagy hitvallás, családi állapot, egészségügyi állapot, fizikai vagy mentális fogyatékosság, nem (beleértve a nemet, a nemi identitást, a nemi kifejeződést, a terhességet vagy szülést és a kapcsolódó egészségügyi állapotokat), szexuális irányultság, veterán vagy katonai státusz, genetikai információk (beleértve a családi genetikai információkat is).",
+            "collected": "Nem"
+          },
+          "commercial": {
+            "title": "D kategória: Kereskedelmi információk",
+            "examples": "A megvásárolt vagy figyelembe vett termékek vagy szolgáltatások nyilvántartása és előzményei.",
+            "collected": "Igen"
+          },
+          "biometric": {
+            "title": "E kategória: Biometrikus információk",
+            "examples": "Genetikai, fiziológiai, viselkedési és biológiai jellemzők, vagy aktivitási minták, amelyeket sablon vagy más azonosító vagy azonosító információk kinyerésére használnak, például ujjlenyomatok, arcnyomatok és hangnyomatok, írisz- vagy retina-szkennelés, billentyűleütések, járás vagy más fizikai minták, valamint alvási, egészségügyi vagy testmozgási adatok.",
+            "collected": "Nem"
+          },
+          "internet": {
+            "title": "F kategória: Internetes vagy más hasonló hálózati tevékenység",
+            "examples": "Interakció a szolgáltatásunkkal vagy hirdetésünkkel.",
+            "collected": "Igen"
+          },
+          "geolocation": {
+            "title": "G kategória: Geolokációs adatok",
+            "examples": "Hozzávetőleges fizikai helyszín.",
+            "collected": "Igen"
+          },
+          "sensory": {
+            "title": "H kategória: Érzékszervi adatok",
+            "examples": "Hang-, elektronikus, vizuális, termikus, szaglási vagy hasonló információk.",
+            "collected": "Nem"
+          },
+          "professional": {
+            "title": "I. kategória: Szakmai vagy foglalkoztatással kapcsolatos információk",
+            "examples": "Jelenlegi vagy korábbi munkatörténetek vagy teljesítményértékelések.",
+            "collected": "Nem"
+          },
+          "education": {
+            "title": "J kategória: Nem nyilvános oktatási információk",
+            "examples": "Egy oktatási intézmény vagy annak nevében eljáró fél által vezetett, egy diákhoz közvetlenül kapcsolódó oktatási nyilvántartások, például jegyek, bizonyítványok, osztálylisták, diákbeosztások, diákazonosító kódok, diák pénzügyi adatai vagy diák fegyelmi nyilvántartásai.",
+            "collected": "Nem"
+          },
+          "inferences": {
+            "title": "K kategória: Egyéb személyes adatokból levont következtetések",
+            "examples": "Egy személy preferenciáit, jellemzőit, pszichológiai trendjeit, hajlamait, viselkedését, attitűdjeit, intelligenciáját, képességeit és adottságait tükröző profil.",
+            "collected": "Nem"
+          },
+          "sensitive": {
+            "title": "L kategória: Érzékeny személyes adatok",
+            "examples": "Fiók bejelentkezési és jelszó adatai, geolokációs adatok.",
+            "collected": "Igen"
+          }
+        },
+        "exclusions": {
+          "description": "A CCPA/CPRA értelmében a személyes adatok nem tartalmazzák:",
+          "publicRecords": "Nyilvánosan elérhető információk kormányzati nyilvántartásokból",
+          "deidentified": "Anonimizált vagy összesített fogyasztói adatok",
+          "excludedScope": "A CCPA/CPRA hatályából kizárt információk, például:",
+          "hipaa": "Az 1996. évi egészségbiztosítási hordozhatósági és elszámoltathatósági törvény (HIPAA) és a kaliforniai orvosi információk bizalmas kezeléséről szóló törvény (CMIA) hatálya alá tartozó egészségügyi vagy orvosi információk, illetve klinikai vizsgálati adatok",
+          "sectorSpecific": "Bizonyos ágazatspecifikus adatvédelmi törvények, többek között a Fair Credit Reporting Act (FRCA), a Gramm-Leach-Bliley Act (GLBA) vagy a California Financial Information Privacy Act (FIPA), valamint az 1994. évi gépjárművezetői adatvédelmi törvény hatálya alá tartozó személyes adatok"
+        },
+        "sources": {
+          "title": "Személyes adatok forrásai",
+          "description": "A fent felsorolt személyes adatok kategóriáit a következő forráskategóriákból szerezzük be:",
+          "directlyFromYou": "Közvetlenül Tőled.",
+          "directlyDescription": "Például a Szolgáltatásunkon keresztül kitöltött űrlapokból, a Szolgáltatásunkon keresztül kifejezett vagy megadott preferenciákból, illetve a Szolgáltatásunkon keresztüli vásárlásaiból.",
+          "indirectlyFromYou": "Közvetve Tőled.",
+          "indirectlyDescription": "Például az Ön Szolgáltatásunkon végzett tevékenységének megfigyeléséből.",
+          "automaticallyFromYou": "Automatikusan Tőled.",
+          "automaticallyDescription": "Például olyan sütiken keresztül, amelyeket mi vagy szolgáltatóink helyeznek el az Ön eszközén, miközben Ön a Szolgáltatásunkon böngészik.",
+          "fromServiceProviders": "Szolgáltatóktól.",
+          "serviceProvidersDescription": "Például harmadik fél szolgáltatók a Szolgáltatásunk használatának monitorozására és elemzésére, harmadik fél szolgáltatók a Szolgáltatásunkon megjelenő hirdetések megjelenítésére, harmadik fél szolgáltatók célzott hirdetések megjelenítésére Önnek, harmadik fél szolgáltatók a fizetésfeldolgozáshoz, vagy más harmadik fél szolgáltatók, akiket a Szolgáltatás nyújtásához veszünk igénybe."
+        },
+        "usage": {
+          "title": "Személyes adatok felhasználása",
+          "description": "Az általunk gyűjtött személyes adatokat „üzleti célokra” vagy „kereskedelmi célokra” (a CCPA/CPRA meghatározása szerint) felhasználhatjuk vagy nyilvánosságra hozhatjuk, amelyek a következő példákat foglalhatják magukban:",
+          "operateService": "Szolgáltatásunk működtetése és a Szolgáltatás nyújtása Önnek.",
+          "provideSupport": "Hogy támogatást nyújtsunk Önnek és megválaszoljuk a kérdéseit, beleértve az Ön aggályainak kivizsgálását és kezelését, valamint a Szolgáltatásunk nyomon követését és fejlesztését.",
+          "fulfillReason": "Az Ön által megadott információk okának teljesítése vagy teljesítése érdekében. Például, ha megosztja elérhetőségi adatait, hogy kérdést tegyen fel a Szolgáltatásunkkal kapcsolatban, ezeket a személyes adatokat felhasználjuk a megkeresésére adott válaszadáshoz. Ha Ön megadja személyes adatait egy termék vagy szolgáltatás megvásárlásához, ezeket az információkat felhasználjuk a fizetés feldolgozásához és a kézbesítés megkönnyítéséhez.",
+          "lawEnforcement": "A bűnüldöző szervek megkereséseire adott válaszok, valamint a vonatkozó törvények, bírósági végzések vagy kormányzati rendeletek által előírtak szerint.",
+          "asDescribed": "Ahogyan azt a személyes adatainak gyűjtésekor Önnek leírtuk, vagy ahogyan azt a CCPA/CPRA egyéb módon előírja.",
+          "administrative": "Belső adminisztrációs és ellenőrzési célokra.",
+          "securityIncidents": "Biztonsági incidensek észlelése és a rosszindulatú, megtévesztő, csalárd vagy illegális tevékenységek elleni védelem, beleértve szükség esetén az ilyen tevékenységekért felelősök büntetőeljárás alá vonását.",
+          "otherUses": "Egyéb egyszeri felhasználások.",
+          "noteExamples": "Felhívjuk figyelmét, hogy a fenti példák illusztrációk és nem kimerítőek. Az információk felhasználásával kapcsolatos további részletekért kérjük, olvassa el a „Személyes adatainak felhasználása” című részt.",
+          "additionalCategories": "Amennyiben úgy döntünk, hogy további kategóriájú személyes adatokat gyűjtünk, vagy a gyűjtött személyes adatokat lényegesen eltérő, egymással nem összefüggő vagy összeegyeztethetetlen célokra használjuk fel, frissítjük ezt az Adatvédelmi Szabályzatot."
+        },
+        "ccpaDisclosure": {
+          "title": "Személyes adatok nyilvánosságra hozatala",
+          "description": "Az elmúlt tizenkét (12) hónapban a következő kategóriájú személyes adatokat használhatjuk fel vagy hozhatjuk nyilvánosságra üzleti vagy kereskedelmi célokra:",
+          "categoryA": "A kategória: Azonosítók",
+          "categoryB": "B kategória: A kaliforniai ügyfélnyilvántartási törvényben felsorolt személyesadat-kategóriák",
+          "categoryD": "D kategória: Kereskedelmi információk",
+          "categoryF": "F kategória: Internetes vagy más hasonló hálózati tevékenység",
+          "categoryG": "G kategória: Geolokációs adatok",
+          "categoryL": "L kategória: Érzékeny személyes adatok",
+          "noteCategories": "Felhívjuk figyelmét, hogy a fent felsorolt kategóriák a CCPA/CPRA-ban meghatározottak. Ez nem jelenti azt, hogy az adott kategóriába tartozó személyes adatok összes példáját valóban nyilvánosságra hoztuk, de legjobb tudomásunk szerinti jóhiszemű meggyőződésünket tükrözi, hogy az alkalmazandó kategóriába tartozó információk egy része nyilvánosságra hozható és nyilvánosságra is kerülhetett.",
+          "contractRequirement": "Amikor üzleti vagy kereskedelmi célból személyes adatokat közlünk, szerződést kötünk, amely leírja a célt, és előírja a címzett számára, hogy bizalmasan kezelje a személyes adatokat, és azokat a szerződés teljesítésén kívül semmilyen célra ne használja fel."
+        },
+        "sharing": {
+          "title": "Személyes adatok megosztása",
+          "description": "A fenti kategóriákban azonosított személyes adatait megoszthatjuk, és az elmúlt tizenkét (12) hónapban megosztottuk a következő kategóriákba tartozó harmadik felekkel:",
+          "recipients": {
+            "serviceProviders": "Szolgáltatók",
+            "paymentProcessors": "Fizetési feldolgozók",
+            "affiliates": "Partnereink",
+            "businessPartners": "Üzleti partnereink",
+            "authorizedVendors": "Harmadik fél szolgáltatók, akiknek Ön vagy az Ön ügynökei felhatalmaznak minket arra, hogy az Ön személyes adatait az Önnek nyújtott termékekkel vagy szolgáltatásokkal kapcsolatban kiadjuk"
+          }
+        },
+        "sale": {
+          "title": "Személyes adatok értékesítése",
+          "definition": "A CCPA/CPRA meghatározása szerint az „eladás” és az „értékesítés” kifejezések a Vállalkozás által egy Fogyasztó személyes adatainak harmadik félnek történő, szóban, írásban, elektronikus vagy egyéb módon történő eladását, bérbeadását, kiadását, nyilvánosságra hozatalát, terjesztését, rendelkezésre bocsátását, átadását vagy egyéb módon történő közlését jelentik egy Fogyasztó számára, ellenszolgáltatás fejében. Ez azt jelenti, hogy a személyes adatok megosztásáért cserébe valamilyen előnyhöz juthattunk, de nem feltétlenül pénzbeli előnyhöz.",
+          "doNotSell": "Nem értékesítjük a személyes adatokat az általánosan használt „eladás” értelemben. Engedélyezzük a szolgáltatóknak, hogy az Ön személyes adatait az Adatvédelmi Szabályzatunkban leírt üzleti célokra, például hirdetési, marketing és elemzési tevékenységekhez felhasználják, és ezek a CCPA/CPRA értelmében eladásnak minősülhetnek.",
+          "description": "Az elmúlt tizenkét (12) hónapban a következő kategóriájú személyes adatokat értékesíthetjük, és értékesíthettük is:",
+          "sharedCategories": {
+            "categoryA": "A kategória: Azonosítók",
+            "categoryB": "B kategória: A kaliforniai ügyfélnyilvántartási törvényben felsorolt személyesadat-kategóriák",
+            "categoryD": "D kategória: Kereskedelmi információk",
+            "categoryF": "F kategória: Internetes vagy más hasonló hálózati tevékenység",
+            "categoryG": "G kategória: Geolokációs adatok",
+            "categoryL": "L kategória: Érzékeny személyes adatok"
+          }
+        },
+        "userRights": {
+          "title": "Az Ön jogai a CCPA/CPRA értelmében",
+          "description": "A CCPA/CPRA törvény meghatározott jogokat biztosít a kaliforniai lakosok számára a személyes adataikkal kapcsolatban. Ha Ön Kalifornia állam lakosa, a következő jogokkal rendelkezik:",
+          "rightToNotice": "Az észrevételhez való jog.",
+          "rightToNoticeDescription": "Önnek joga van ahhoz, hogy tájékoztatást kapjon arról, hogy mely kategóriájú személyes adatokat gyűjtjük, és milyen célokra használjuk fel a személyes adatokat.",
+          "disclosureItems": {
+            "categoriesCollected": "Az Önről gyűjtött személyes adatok kategóriái",
+            "sources": "Az Önről gyűjtött személyes adatok forrásainak kategóriái",
+            "purposes": "Üzleti vagy kereskedelmi céljaink ezen személyes adatok gyűjtésére vagy értékesítésére",
+            "thirdParties": "Azon harmadik felek kategóriái, akikkel megosztjuk ezeket a személyes adatokat",
+            "specificPieces": "Az Önről gyűjtött konkrét személyes adatok",
+            "soldDisclosed": "Amennyiben üzleti célból értékesítettük vagy nyilvánosságra hoztuk az Ön személyes adatait, tájékoztatjuk Önt az eladott és nyilvánosságra hozott személyes adatok kategóriáiról."
+          },
+          "rightToOptOut": "A személyes adatok eladásának vagy megosztásának elutasításához való jog (leiratkozás).",
+          "rightToOptOutDescription": "Jogában áll utasítani minket, hogy ne adjuk el személyes adatait. A leiratkozási kérelem benyújtásához kérjük, tekintse meg a „Ne adja el személyes adataimat” részt, vagy vegye fel velünk a kapcsolatot.",
+          "doNotSellSection": "Ne add el a személyes adataimat",
+          "rightToCorrect": "A személyes adatok helyesbítéséhez való jog.",
+          "rightToCorrectDescription": "Önnek joga van kijavítani vagy helyesbíteni az Önről gyűjtött pontatlan személyes adatokat. Amint megkapjuk és visszaigazoljuk a kérelmét, kereskedelmileg ésszerű erőfeszítéseket teszünk személyes adatainak kijavítására (és utasítjuk szolgáltatóinkat a kijavításukra), kivéve, ha kivétel vonatkozik rá.",
+          "rightToLimit": "A jog a különleges személyes adatok felhasználásának és nyilvánosságra hozatalának korlátozásához.",
+          "rightToLimitDescription": "Önnek joga van kérni az Önről gyűjtött bizonyos érzékeny személyes adatok felhasználásának vagy nyilvánosságra hozatalának korlátozását, kivéve, ha kivétel vonatkozik rá. A beküldéshez kérjük, tekintse meg az „Érzékeny személyes adataim felhasználásának vagy nyilvánosságra hozatalának korlátozása” című részt, vagy vegye fel velünk a kapcsolatot.",
+          "limitSensitiveSection": "Korlátozza a bizalmas személyes adataim felhasználását vagy nyilvánosságra hozatalát",
+          "rightToDelete": "A személyes adatok törléséhez való jog.",
+          "rightToDeleteDescription": "Bizonyos körülmények között, bizonyos kivételektől eltekintve, joga van kérni Személyes Adatainak törlését. Amint megkapjuk és visszaigazoljuk a kérelmét, töröljük (és utasítjuk szolgáltatóinkat a törlésre) az Ön személyes adatait a nyilvántartásunkból, kivéve, ha kivétel vonatkozik rá.",
+          "rightNonDiscrimination": "A diszkriminációmentességhez való jog.",
+          "rightNonDiscriminationDescription": "Jogod van ahhoz, hogy ne érjen hátrányos megkülönböztetés fogyasztói jogaid gyakorlása miatt, beleértve az áruk vagy szolgáltatások megtagadását, eltérő árak felszámítását, eltérő szolgáltatási szint nyújtását, vagy eltérő árak vagy szolgáltatási szintek javaslatát."
+        },
+        "exercisingRights": {
+          "title": "CCPA/CPRA adatvédelmi jogainak gyakorlása",
+          "intro": "A CCPA/CPRA szerinti jogainak gyakorlásához, és amennyiben Ön kaliforniai lakos, az alábbi elérhetőségeken veheti fel velünk a kapcsolatot.",
+          "authorization": "Kizárólag Ön, vagy a kaliforniai államtitkárságnál regisztrált személy, akit Ön felhatalmaz az Ön nevében való eljárásra, jogosult ellenőrizhető kérelmet benyújtani az Ön személyes adataival kapcsolatban.",
+          "requestRequirements": "A hozzánk intézett kérésének a következőknek kell lennie:",
+          "requirements": {
+            "verify": "Adjon meg elegendő információt, amely lehetővé teszi számunkra, hogy ésszerűen ellenőrizzük, Ön az a személy, akiről személyes adatokat gyűjtöttünk, vagy meghatalmazott képviselője.",
+            "describe": "Írja le kérését kellő részletességgel, hogy megfelelően megérthessük, értékelhessük és megválaszolhassuk azt."
+          },
+          "verification": "Nem tudunk válaszolni a kérésére, illetve nem tudjuk megadni az Ön számára a szükséges információkat, ha nem tudjuk ellenőrizni az Ön személyazonosságát vagy a kérés benyújtására vonatkozó jogosultságát, és megerősíteni, hogy a személyes adatok Önre vonatkoznak.",
+          "response": "A szükséges információkat az Ön ellenőrizhető kérelmének kézhezvételétől számított 45 napon belül ingyenesen közzétesszük és átadjuk. A szükséges információk megadására rendelkezésre álló határidő egy alkalommal további 45 nappal meghosszabbítható, ha az ésszerűen szükséges és előzetes értesítés mellett.",
+          "dataPortability": "Adathordozhatósági kérelmek esetén olyan formátumot választunk az Ön személyes adatainak rendelkezésre bocsátására, amely könnyen használható, és lehetővé teszi az információk akadálytalan továbbítását egyik szervezettől a másikhoz."
+        },
+        "doNotSell": {
+          "title": "Ne add el a személyes adataimat",
+          "definition": "A CCPA/CPRA meghatározása szerint az „eladás” és az „értékesítés” kifejezések a Fogyasztó személyes adatainak a Vállalkozás általi eladását, bérbeadását, kiadását, nyilvánosságra hozatalát, terjesztését, rendelkezésre bocsátását, átadását vagy egyéb módon történő szóbeli, írásbeli, elektronikus vagy egyéb módon történő közlését jelentik harmadik félnek, ellenszolgáltatás fejében. Ez azt jelenti, hogy a személyes adatok megosztásáért cserébe valamilyen előnyhöz juthattunk, de nem feltétlenül pénzbeli előnyhöz.",
+          "policy": "Nem értékesítjük a személyes adatokat az általánosan használt „eladás” értelemben. Engedélyezzük a szolgáltatóknak, hogy az Ön személyes adatait az Adatvédelmi Szabályzatunkban leírt üzleti célokra, például hirdetési, marketing és elemzési tevékenységekhez felhasználják, és ezek a CCPA/CPRA értelmében eladásnak minősülhetnek.",
+          "optOutRight": "Önnek joga van leiratkozni személyes adatainak értékesítéséből. Amint megkapjuk és megerősítjük Öntől az ellenőrizhető fogyasztói kérelmet, leállítjuk a személyes adatainak értékesítését. A leiratkozási jog gyakorlásához kérjük, vegye fel velünk a kapcsolatot.",
+          "serviceProviders": "Az általunk együttműködő szolgáltatók (például elemző vagy hirdetési partnereink) a Szolgáltatásban olyan technológiát használhatnak, amely a CCPA/CPRA törvényben meghatározottak szerint személyes adatokat értékesít. Ha nem szeretné, hogy személyes adatait érdeklődésen alapuló hirdetési célokra és a CCPA/CPRA törvényben meghatározottak szerint potenciális értékesítésekre használják fel, ezt az alábbi utasításokat követve teheti meg.",
+          "browserNote": "Felhívjuk figyelmét, hogy a leiratkozás az Ön által használt böngészőre vonatkozik. Előfordulhat, hogy minden böngészőben le kell iratkoznia.",
+          "websiteTitle": "Weboldal",
+          "websiteInstructions": "Adott esetben kattintson a Szolgáltatáson felsorolt „Adatvédelmi beállítások”, „Adatvédelmi beállítások frissítése” vagy „Személyes adataim eladásának tiltása” gombokra az adatvédelmi beállításai áttekintéséhez, valamint a sütik és az általunk használt egyéb technológiák letiltásához. Felhívjuk figyelmét, hogy minden olyan böngészőben le kell iratkoznia, amelyet a Szolgáltatás eléréséhez használ."
+        },
+        "mobileOptOut": {
+          "title": "Mobileszközök",
+          "description": "Mobileszköze lehetővé teheti Önnek, hogy leiratkozzon az Ön által használt alkalmazásokra vonatkozó információk felhasználásáról, hogy az Ön érdeklődési körének megfelelő hirdetéseket jelenítsenek meg Önnek:",
+          "androidAds": "„Érdeklődésen alapuló hirdetések letiltása” vagy „Hirdetések személyre szabásának letiltása” Android-eszközökön",
+          "iosTracking": "„Hirdetéskövetés korlátozása” iOS-eszközökön",
+          "locationNote": "A mobileszközéről történő helyadatok gyűjtését a mobileszköz beállításainak módosításával is leállíthatja."
+        },
+        "sensitiveInfo": {
+          "title": "Korlátozza a bizalmas személyes adataim felhasználását vagy nyilvánosságra hozatalát",
+          "description": "Ha Ön kaliforniai lakos, joga van arra, hogy érzékeny személyes adatainak felhasználását és nyilvánosságra hozatalát olyan felhasználásra korlátozza, amely a szolgáltatások nyújtásához vagy az ilyen szolgáltatásokat vagy árukat igénylő átlagos fogyasztó által ésszerűen elvárt áruk biztosításához szükséges. Az érzékeny személyes adatokat olyan módon gyűjtjük, használjuk fel és hozzuk nyilvánosságra, amely a Szolgáltatás nyújtásához szükséges. Ha további információt szeretne kapni arról, hogyan használjuk fel személyes adatait, kérjük, olvassa el a „Személyes adatainak felhasználása” részt, vagy vegye fel velünk a kapcsolatot."
+        },
+        "caloppaPolicy": {
+          "doNotTrackResponse": "Szolgáltatásunk nem reagál a követés letiltására utaló jelekre.",
+          "thirdPartyTracking": "Néhány harmadik fél webhelye azonban nyomon követi az Ön böngészési tevékenységeit. Ha ilyen webhelyeket látogat, beállíthatja webböngészőjében a beállításokat, hogy tájékoztassa a webhelyeket arról, hogy nem szeretné, hogy nyomon kövessék. A DNT-t engedélyezheti vagy letilthatja webböngészője beállításainak oldalán."
+        },
+        "caloppa": {
+          "title": "„Nyomkövetés tiltása” szabályzat a kaliforniai online adatvédelmi törvény (CalOPPA) előírásainak megfelelően"
+        },
+        "saleNote": {
+          "categoriesListed": "Felhívjuk figyelmét, hogy a fent felsorolt kategóriák a CCPA/CPRA törvényben meghatározottak. Ez nem jelenti azt, hogy az adott kategóriába tartozó személyes adatok összes példáját ténylegesen értékesítettük, de legjobb tudomásunk szerinti jóhiszemű meggyőződésünket tükrözi, hogy az adott kategóriába tartozó információk egy részét megoszthatjuk és megoszthattuk ellenszolgáltatás fejében."
+        },
+        "minorsUnder16": {
+          "title": "16 év alatti kiskorúak személyes adatainak értékesítése",
+          "description1": "Szolgáltatásunkon keresztül tudatosan nem gyűjtünk személyes adatokat 16 év alatti kiskorúaktól, bár bizonyos harmadik fél weboldalak, amelyekre hivatkozunk, ezt megtehetik. Ezek a harmadik fél weboldalak saját felhasználási feltételekkel és adatvédelmi irányelvekkel rendelkeznek, és arra ösztönözzük a szülőket és a törvényes gyámokat, hogy figyelemmel kísérjék gyermekeik internethasználatát, és utasítsák gyermekeiket arra, hogy soha ne adjanak meg információkat más weboldalakon az engedélyük nélkül.",
+          "description2": "Nem értékesítjük azon Fogyasztók személyes adatait, akikről ténylegesen tudjuk, hogy 16 év alattiak, kivéve, ha erre megerősítő felhatalmazást (a „hozzájárulási jog”) kapunk akár a 13 és 16 év közötti Fogyasztótól, akár a 13 év alatti Fogyasztó szülőjétől vagy gyámjától. A személyes adatok értékesítéséhez hozzájáruló Fogyasztók bármikor leiratkozhatnak a jövőbeni értékesítésről. A leiratkozási jog gyakorlásához Ön (vagy meghatalmazott képviselője) kérelmet nyújthat be nekünk a velünk való kapcsolatfelvétel útján.",
+          "description3": "Ha okkal feltételezi, hogy egy 13 (vagy 16) év alatti gyermek személyes adatokat adott meg nekünk, kérjük, vegye fel velünk a kapcsolatot és adjon meg elegendő részletes tájékoztatást, hogy törölhessük ezeket az adatokat."
+        },
+        "optOutPlatforms": {
+          "description": "Ezenkívül leiratkozhat a Szolgáltatóink által személyre szabott hirdetések fogadásáról a Szolgáltatáson feltüntetett utasításaink követésével:",
+          "nai": "A NAI leiratkozási platformja:",
+          "edaa": "Az EDAA leiratkozási platformja:",
+          "daa": "A DAA leiratkozási platformja:",
+          "cookieNote": "A leiratkozás egy sütit helyez el a számítógépén, amely egyedi a leiratkozáshoz használt böngészőhöz. Ha böngészőt vált, vagy törli a böngészője által mentett sütiket, újra le kell iratkoznia."
+        },
+        "rights": {
+          "rightToKnowAccess": "A megismeréshez/hozzáféréshez való jog.",
+          "rightToKnowAccessDescription": "A CCPA/CPRA értelmében Önnek joga van kérni, hogy tájékoztassuk Önt a személyes adatok gyűjtéséről, felhasználásáról, értékesítéséről, üzleti célú közléséről és megosztásáról. Amint megkapjuk és visszaigazoljuk a kérelmét, a következőket tesszük közzé:"
+        }
+      },
+      "optOut": {
+        "androidAds": "„Érdeklődésen alapuló hirdetések letiltása” vagy „Hirdetések személyre szabásának letiltása” Android-eszközökön",
+        "androidInterestBased": "Leiratkozás az érdeklődésen alapuló hirdetésekről",
+        "androidPersonalization": "Leiratkozás a hirdetések személyre szabásáról",
+        "iosTracking": "„Hirdetéskövetés korlátozása” iOS-eszközökön",
+        "iosLimit": "Hirdetéskövetés korlátozása"
+      },
+      "dataTypes": {
+        "email": "E-mail cím",
+        "name": "Keresztnév és vezetéknév",
+        "phone": "Telefonszám",
+        "address": "Cím, Állam, Megye, Irányítószám, Város",
+        "usageData": "Használati adatok"
+      },
+      "socialMedia": {
+        "google": "Google",
+        "facebook": "Facebook",
+        "apple": "Alma"
+      },
+      "appPermissions": {
+        "location": "Tartózkodási helyére vonatkozó információk ( Bluetooth közelségérzékeléshez)",
+        "bluetooth": "Bluetooth eszközinformációk és közeli eszközök keresése",
+        "camera": "Az eszköz kamerájából származó információk avatar létrehozásához",
+        "contacts": "Eszköznévjegyek (opcionális, barátok kereséséhez)"
+      }
+    },
+    "termsOfUse": {
+      "title": "Felhasználási feltételek",
+      "subtitle": "Ringdy szolgáltatások használata során fennálló jogainak és kötelezettségeinek megértése.",
+      "lastUpdated": "Utolsó frissítés: 2025. január",
+      "introduction": "Kérjük, figyelmesen olvassa el ezeket a feltételeket, mielőtt igénybe venné Szolgáltatásunkat.",
+      "sections": {
+        "interpretationTitle": "Értelmezés és definíciók",
+        "interpretationSubtitle": "Értelmezés",
+        "interpretationText": "A nagybetűvel kezdődő szavak jelentése a következő feltételek mellett meghatározott. A következő definíciók jelentése ugyanaz, függetlenül attól, hogy egyes vagy többes számban szerepelnek.",
+        "definitionsSubtitle": "Definíciók",
+        "definitionsText": "Jelen Általános Szerződési Feltételek alkalmazásában:",
+        "definitions": {
+          "application": "A Társaság által biztosított, Ön által bármely Ringdy nevű elektronikus eszközre letöltött szoftverprogramot jelenti.",
+          "applicationStore": "Az Apple Inc. (Apple App Store) vagy a Google Inc. (Google Play Store) által üzemeltetett és fejlesztett digitális terjesztési szolgáltatást jelenti, amelyen keresztül az Alkalmazást letöltötték.",
+          "affiliate": "Olyan jogalanyt jelent, amely egy féllel közös ellenőrzés alatt áll, vagy amely egy fél irányítása alatt áll, ahol az „ellenőrzés” a részvények, tőkerészesedés vagy egyéb, igazgatósági tagok vagy más irányító hatóság megválasztására szavazati joggal feljogosító értékpapírok 50%-ának vagy annál nagyobb részének tulajdonjogát jelenti.",
+          "account": "Egy olyan egyedi fiókot jelent, amelyet az Ön számára hoztak létre, hogy hozzáférhessen a Szolgáltatásunkhoz vagy annak egyes részeihez.",
+          "country": "Utal: Vietnam",
+          "company": "(a jelen Megállapodásban „Társaság”, „Mi”, „Minket” vagy „Miénk” néven hivatkozunk rá) Ringdy re vonatkozik.",
+          "content": "Olyan tartalomra utal, mint például szöveg, képek vagy egyéb információk, amelyeket Ön közzétehet, feltölthet, összekapcsolhat vagy más módon elérhetővé tehet, függetlenül a tartalom formájától.",
+          "device": "Bármely olyan eszközt jelent, amely képes hozzáférni a Szolgáltatáshoz, például számítógépet, okostelefont vagy digitális táblagépet.",
+          "feedback": "Az Ön által küldött visszajelzéseket, innovációkat vagy javaslatokat jelenti a Szolgáltatásunk tulajdonságaival, teljesítményével vagy funkcióival kapcsolatban.",
+          "freeTrial": "Egy korlátozott időtartamra utal, amely ingyenes lehet egy Előfizetés megvásárlásakor.",
+          "goods": "Tekintse meg a Szolgáltatáson eladásra kínált termékeket.",
+          "inAppPurchase": "Egy termék, tétel, szolgáltatás vagy Előfizetés Alkalmazáson keresztül történő megvásárlására utal, amelyre a jelen Általános Szerződési Feltételek és/vagy az Alkalmazásbolt saját feltételei vonatkoznak.",
+          "orders": "Az Ön azon kérése, hogy Árukat vásároljon tőlünk.",
+          "promotions": "Hivatkozzon a Szolgáltatáson keresztül kínált versenyekre, nyereményjátékokra vagy egyéb promóciókra.",
+          "service": "A Pályázatra utal.",
+          "subscriptions": "Lásd a Társaság által előfizetéses alapon kínált szolgáltatásokat vagy a Szolgáltatáshoz való hozzáférést.",
+          "termsAndConditions": "(más néven „Feltételek”) a jelen Általános Szerződési Feltételek jelentik, amelyek a Szolgáltatás használatával kapcsolatos teljes megállapodást képezik Ön és a Társaság között.",
+          "thirdPartySocialMedia": "Bármely, harmadik fél által nyújtott szolgáltatást vagy tartalmat (beleértve az adatokat, információkat, termékeket vagy szolgáltatásokat) jelent, amelyet a Szolgáltatás megjeleníthet, tartalmazhat vagy elérhetővé tehet.",
+          "you": "A Szolgáltatást elérő vagy használó személyt, illetve a vállalatot vagy más jogi személyt jelenti, amelynek nevében az adott személy a Szolgáltatást eléri vagy használja, adott esetben."
+        },
+        "definitionLabels": {
+          "application": "Alkalmazás:",
+          "applicationStore": "Alkalmazásbolt:",
+          "affiliate": "Partner:",
+          "account": "Fiók:",
+          "country": "Ország:",
+          "company": "Vállalat:",
+          "content": "Tartalom:",
+          "device": "Eszköz:",
+          "feedback": "Visszacsatolás:",
+          "freeTrial": "Ingyenes próbaverzió:",
+          "goods": "Áruk:",
+          "inAppPurchase": "Alkalmazáson belüli vásárlás:",
+          "orders": "Rendelések:",
+          "promotions": "Promóciók:",
+          "service": "Szolgáltatás:",
+          "subscriptions": "Előfizetések:",
+          "termsAndConditions": "Felhasználási feltételek:",
+          "thirdPartySocialMedia": "Harmadik féltől származó közösségi média szolgáltatás:",
+          "you": "Te:"
+        }
+      },
+      "acknowledgment": {
+        "title": "Nyugtázás",
+        "description1": "Ezek a Szolgáltatás használatát szabályozó Általános Szerződési Feltételek, valamint az Ön és a Társaság között létrejött megállapodás. Ezek az Általános Szerződési Feltételek határozzák meg az összes felhasználó jogait és kötelezettségeit a Szolgáltatás használatával kapcsolatban.",
+        "description2": "A Szolgáltatáshoz való hozzáférés és annak használata a jelen Általános Szerződési Feltételek elfogadásától és betartásától függ. Ezek a Általános Szerződési Feltételek minden látogatóra, felhasználóra és más személyre vonatkoznak, aki hozzáfér a Szolgáltatáshoz vagy használja azt.",
+        "description3": "A Szolgáltatás elérésével vagy használatával Ön elfogadja, hogy a jelen Általános Szerződési Feltételek kötelező érvényűek Önre nézve. Ha nem ért egyet a jelen Általános Szerződési Feltételek bármely részével, akkor nem férhet hozzá a Szolgáltatáshoz.",
+        "description4": "Ön kijelenti, hogy 18 éven felüli. A Társaság nem engedélyezi 18 év alatti személyek számára a Szolgáltatás használatát.",
+        "description5": "A Szolgáltatáshoz való hozzáférés és annak használata a Vállalat Adatvédelmi Szabályzatának elfogadásától és betartásától is függ. Adatvédelmi Szabályzatunk leírja a személyes adatainak gyűjtésére, felhasználására és közzétételére vonatkozó irányelveinket és eljárásainkat, amikor Ön az Alkalmazást használja, valamint tájékoztatja Önt az adatvédelmi jogairól és arról, hogy a törvény hogyan védi Önt. Kérjük, figyelmesen olvassa el Adatvédelmi Szabályzatunkat, mielőtt Szolgáltatásunkat használná.",
+        "bluetoothNotice": "Szolgáltatásunk használatával Ön tudomásul veszi, hogy az Alkalmazás Bluetooth és helymeghatározó szolgáltatásokat használ a közeli felhasználók felderítésére és a velük való kapcsolatfelvételre. Ön hozzájárul ahhoz, hogy ezeket a technológiákat a közelségalapú funkciók biztosítására használjuk.",
+        "bluetoothTitle": "Bluetooth és helymeghatározási szolgáltatások"
+      },
+      "orders": {
+        "title": "Digitális termékek vásárlása",
+        "introduction": "A Szolgáltatáson keresztül Discovery Pass, Night Pass vagy Előfizetés megvásárlásával Ön szavatolja, hogy jogilag képes kötelező érvényű szerződések megkötésére.",
+        "yourInformation": {
+          "title": "Az Ön adatai",
+          "description1": "A Discovery Passok, Night Pass és Előfizetések fizetése teljes egészében az eszközöd alkalmazásboltján (Google Play vagy App Store) keresztül történik. Nem gyűjtjük és nem tároljuk a bankkártya adatait.",
+          "description2": "Ön kijelenti és szavatolja, hogy: (i) Jogában áll az alkalmazásbolti fiókjában regisztrált bármely fizetési módot használni; és (ii) az alkalmazásboltnak megadott információk igazak, helyesek és teljesek.",
+          "description3": "Minden fizetési információ közvetlenül a Google Play vagy az App Store áruházba kerül beküldésre, nem a Vállalatnak."
+        },
+        "cancellation": {
+          "title": "Vásárlás lemondása",
+          "description1": "Fenntartjuk a jogot, hogy a vásárlását bármikor megtagadjuk vagy töröljük bizonyos okokból, beleértve, de nem kizárólagosan:",
+          "reasons": {
+            "availability": "Elem elérhetősége",
+            "errors": "Hibák egy termék leírásában vagy árában",
+            "orderErrors": "Hibák a vásárlás során"
+          },
+          "description2": "Fenntartjuk a jogot, hogy megtagadjuk vagy töröljük a vásárlását, ha csalás, jogosulatlan vagy illegális tranzakció gyanúja merül fel.",
+          "yourRights": {
+            "title": "Az Ön lemondási jogai",
+            "description1": "A Discovery Pass-ok, Night Pass ok és egyéb fogyóeszközök a beváltás után felhasználhatók, és általában nem visszaválthatók.",
+            "description2": "A digitális vásárlásokra vonatkozó visszatérítési gyakorlatunkat az alábbi Alkalmazáson belüli vásárlások és visszatérítések című szakaszokban ismertetjük.",
+            "description3": "Miután a Discovery Pass vagy Night Pass bérletet beváltották egy helyszín feloldásához, az nem mondható le és nem visszatéríthető.",
+            "description4": "A jogosult visszatérítési kérelmeket az Alkalmazásbolt visszatérítési szabályzata szerint kezeljük, az alábbi Visszatérítések részben leírtak szerint.",
+            "description5": "A következő termékek esetében nem áll jogában elállni a vásárlástól:",
+            "exceptions": {
+              "personalized": "Olyan tételek, amelyeket már alkalmaztak a fiókjában, vagy felhasználtak, például egy helyszín feloldásához használt Discovery Pass.",
+              "perishable": "Időhöz kötött bérletek, mint például az Night Pass , miután aktív időszakuk megkezdődött.",
+              "hygiene": "Azok az előfizetési időszakok, amelyekre vonatkozóan a Szolgáltatást már biztosították Önnek.",
+              "mixed": "Digitális tételek más megvásárolt tételekkel kombinálva egy csomag részeként.",
+              "digital": "Digitális tartalom szolgáltatása, amelyet nem kézzelfogható adathordozón nyújtottak, ha a teljesítés az Ön előzetes, kifejezett hozzájárulásával kezdődött meg, és Ön tudomásul vette, hogy elvesztette az elállási jogát."
+            }
+          }
+        },
+        "availability": {
+          "title": "Elérhetőség, hibák és pontatlanságok",
+          "description1": "Folyamatosan frissítjük a Szolgáltatásban kínált Discovery Pass, Night Pass és Előfizetési csomagjainkat. Ezek árazása hibás lehet, leírása pontatlan, vagy nem érhetők el, és előfordulhat, hogy késedelmet tapasztalunk ezen információk frissítésében.",
+          "description2": "Nem tudjuk garantálni az információk pontosságát vagy teljességét, beleértve az árakat és az elérhetőséget sem. Fenntartjuk a jogot, hogy az információkat bármikor, előzetes értesítés nélkül megváltoztassuk vagy frissítsük, valamint a hibákat, pontatlanságokat vagy hiányosságokat kijavítsuk."
+        },
+        "pricing": {
+          "title": "Árpolitika",
+          "description1": "A Társaság fenntartja a jogot, hogy a Discovery Pass, Night Pass és Előfizetések árait bármikor módosítsa a vásárlás elfogadása előtt.",
+          "description2": "Az árakat az eszközöd alkalmazásboltjában (Google Play vagy App Store) állítjuk be és jelenítjük meg, és régiónként és pénznemenként eltérőek lehetnek."
+        },
+        "payments": {
+          "title": "Fizetések",
+          "description1": "Minden vásárlás az eszközöd alkalmazásboltján (Google Play vagy App Store) keresztül történik, az eszköz által támogatott fizetési módok használatával.",
+          "description2": "A fizetési módok érvényesítési ellenőrzéseknek és az alkalmazásbolt, valamint a kártyakibocsátó engedélyének vannak kitéve. Amennyiben az engedélyezés nem történik meg, a Társaság nem vállal felelősséget a vásárlás kézbesítésének késedelméért vagy elmaradásáért."
+        }
+      },
+      "subscriptions": {
+        "title": "Előfizetések",
+        "period": {
+          "title": "Előfizetési időszak",
+          "description1": "A Szolgáltatás vagy annak egyes részei csak fizetős Előfizetéssel érhetők el. A számlázás előre, rendszeres és időszakos alapon (például naponta, hetente, havonta vagy évente) történik, az Előfizetés megvásárlásakor kiválasztott Előfizetési csomag típusától függően.",
+          "description2": "Minden időszak végén az Előfizetése automatikusan megújul ugyanazokkal a feltételekkel, kivéve, ha Ön vagy a Vállalat mondja le."
+        },
+        "cancellations": {
+          "title": "Előfizetések lemondása",
+          "description1": "Előfizetése megújítását lemondhatja a Fiókbeállítások oldalon keresztül, vagy a Vállalattal való kapcsolatfelvétel útján. A jelenlegi Előfizetési időszakra már befizetett díjakat nem térítjük vissza, és a Szolgáltatást a jelenlegi Előfizetési időszak végéig használhatja.",
+          "description2": "Ha az Előfizetést alkalmazáson belüli vásárláson keresztül bonyolította le, az Előfizetés megújítását az Alkalmazásboltban mondhatja le."
+        },
+        "billing": {
+          "title": "Számlázás",
+          "description1": "Pontos és teljes számlázási információkat kell megadnia a Vállalatnak, beleértve a teljes nevet, címet, államot, irányítószámot, telefonszámot és egy érvényes fizetési módra vonatkozó információt.",
+          "description2": "Amennyiben az automatikus számlázás bármilyen okból nem történik meg, a Társaság elektronikus számlát állít ki, amely jelzi, hogy a számlán feltüntetett számlázási időszaknak megfelelő teljes összeget manuálisan, egy meghatározott határidőn belül kell kifizetnie.",
+          "description3": "Ha az Előfizetést alkalmazáson belüli vásárláson keresztül bonyolították le, a számlázást az Alkalmazásbolt kezeli, és az Alkalmazásbolt saját felhasználási feltételei vonatkoznak rá."
+        },
+        "feeChanges": {
+          "title": "Díjváltozások",
+          "description1": "A Társaság saját belátása szerint és bármikor módosíthatja az Előfizetési díjakat. Az Előfizetési díj bármely változása az aktuális Előfizetési időszak végén lép hatályba.",
+          "description2": "A Társaság ésszerű időn belül előzetesen értesíti Önt az Előfizetési díjak bármilyen változásáról, hogy lehetőséget adjon Önnek az Előfizetés megszüntetésére, mielőtt a változás hatályba lépne.",
+          "description3": "A Szolgáltatás további használata az Előfizetési díj változásának hatálybalépése után a módosított Előfizetési díj megfizetésének elfogadását jelenti."
+        },
+        "refunds": {
+          "title": "Visszatérítések",
+          "description1": "A törvény által előírt eseteket kivéve a befizetett előfizetési díjak nem visszatéríthetők.",
+          "description2": "A Társaság bizonyos Előfizetésekre vonatkozó visszatérítési kérelmeket eseti alapon bírálhat el, és kizárólagos belátása szerint hagyhatja jóvá.",
+          "description3": "Ha az Előfizetést alkalmazáson belüli vásárláson keresztül bonyolították le, az Alkalmazásbolt visszatérítési szabályzata érvényes. Ha visszatérítést szeretne kérni, ezt megteheti közvetlenül az Alkalmazásbolttal való kapcsolatfelvétel útján."
+        },
+        "freeTrial": {
+          "title": "Ingyenes próbaverzió",
+          "description1": "A Társaság saját belátása szerint korlátozott ideig ingyenes próbaidőszakkal rendelkező Előfizetést kínálhat.",
+          "description2": "Előfordulhat, hogy meg kell adnia számlázási adatait az Ingyenes Próbaverzióra való regisztrációhoz.",
+          "description3": "Ha megadja számlázási adatait az Ingyenes Próbaidőszakra való regisztráció során, a Vállalat csak az Ingyenes Próbaidőszak lejárta után számít fel díjat. Az Ingyenes Próbaidőszak utolsó napján, kivéve, ha lemondja az Előfizetését, automatikusan felszámítjuk a kiválasztott Előfizetéstípusra vonatkozó Előfizetési díjakat.",
+          "description4": "A Társaság fenntartja a jogot, hogy bármikor és előzetes értesítés nélkül (i) módosítsa az Ingyenes Próba ajánlat feltételeit, vagy (ii) lemondja az Ingyenes Próba ajánlatot."
+        }
+      },
+      "inAppPurchases": {
+        "title": "Alkalmazáson belüli vásárlások",
+        "description1": "Az Alkalmazás tartalmazhat Alkalmazáson belüli vásárlásokat, amelyek lehetővé teszik termékek, szolgáltatások vagy előfizetések vásárlását.",
+        "description2": "Az Eszközödön keresztüli alkalmazáson belüli vásárlások kezelésével kapcsolatos további információkért lásd az Alkalmazásbolt saját felhasználási feltételeit vagy az Eszközöd Súgóbeállításait.",
+        "description3": "Az alkalmazáson belüli vásárlások csak az alkalmazáson belül használhatók fel. Ha alkalmazáson belüli vásárlást hajt végre, az a letöltés megkezdése után nem vonható vissza. Az alkalmazáson belüli vásárlások nem válthatók be készpénzre vagy más ellenszolgáltatásra, és nem ruházhatók át más módon.",
+        "description4": "Ön tudomásul veszi és elfogadja, hogy minden számlázási és tranzakciós folyamatot az az Alkalmazásbolt kezel, ahonnan letöltötte az Alkalmazást, és azokra az Alkalmazásbolt saját felhasználási feltételei vonatkoznak."
+      },
+      "promotions": {
+        "title": "Promóciók",
+        "description1": "A Szolgáltatáson keresztül elérhető Promóciókra a jelen Felhasználási Feltételektől eltérő szabályok vonatkozhatnak.",
+        "description2": "Ha részt vesz bármilyen promócióban, kérjük, tekintse át a vonatkozó szabályokat, valamint az Adatvédelmi irányelveinket. Ha egy promóció szabályai ütköznek ezekkel a Feltételekkel, a promóció szabályai az irányadók."
+      },
+      "userAccounts": {
+        "title": "Felhasználói fiókok",
+        "description1": "Amikor fiókot hoz létre nálunk, köteles pontos, teljes és mindenkor aktuális információkat megadni nekünk. Ennek elmulasztása a Felhasználási Feltételek megszegését jelenti, ami a Szolgáltatásunkon lévő fiókjának azonnali megszüntetését eredményezheti.",
+        "description2": "Ön felelős a Szolgáltatás eléréséhez használt jelszó védelméért, valamint a jelszava alatt végzett tevékenységekért vagy műveletekért, függetlenül attól, hogy a jelszava a Szolgáltatásunkhoz vagy egy harmadik fél közösségi média szolgáltatásához kapcsolódik.",
+        "description3": "Ön beleegyezik, hogy jelszavát nem adja ki harmadik félnek. Azonnal értesítenie kell minket, ha tudomást szerez fiókja biztonsági incidenséről vagy jogosulatlan használatáról.",
+        "description4": "Nem használhat felhasználónévként más személy vagy szervezet nevét, vagy olyan nevet, amely jogszerűen nem használható, olyan nevet vagy védjegyet, amelyre Öntől eltérő személy vagy szervezet jogai vonatkoznak megfelelő engedély nélkül, illetve olyan nevet, amely egyébként sértő, vulgáris vagy obszcén."
+      },
+      "userConduct": {
+        "title": "Felhasználói magatartás és biztonság",
+        "zeroTolerance": {
+          "title": "Zéró tolerancia politika",
+          "description": "Ön beleegyezik, hogy nem használja a Szolgáltatást mások zaklatására, fenyegetésére, üldözésére vagy megfélemlítésére. A Vállalat zéró tolerancia politikát folytat a bántalmazó viselkedéssel, zaklatással vagy mások jogainak vagy biztonságának megsértésével szemben. A szabálysértések a fiókja azonnali felfüggesztését vagy megszüntetését vonhatják maguk után."
+        },
+        "safetyDisclaimer": {
+          "title": "Biztonsági nyilatkozat",
+          "description": "A Szolgáltatás megkönnyíti a kapcsolatokat és a kommunikációt a felhasználók között, akik személyesen is találkozhatnak. Nem végzünk háttérellenőrzést, és nem ellenőrizzük a felhasználók személyazonosságát. Kizárólag Ön felelős a másokkal való interakcióiért. Legyen óvatos, használja a józan eszét, és tegye meg a megfelelő biztonsági intézkedéseket, amikor offline kommunikál vagy találkozik más felhasználókkal."
+        }
+      },
+      "content": {
+        "title": "Tartalom",
+        "yourRight": {
+          "title": "A tartalom közzétételéhez való jogod",
+          "description1": "Szolgáltatásunk lehetővé teszi a Tartalom Közzététését. Ön felelős a Szolgáltatásba közzétett Tartalomért, beleértve annak jogszerűségét, megbízhatóságát és megfelelőségét.",
+          "description2": "A Tartalom Szolgáltatásba történő közzétételével Ön jogot és licencet ad nekünk az ilyen Tartalom Szolgáltatáson keresztül történő felhasználására, módosítására, nyilvános előadására, nyilvános megjelenítésére, reprodukálására és terjesztésére. Ön fenntartja az Ön által a Szolgáltatáson keresztül beküldött, közzétett vagy megjelenített Tartalomhoz fűződő összes jogát, és Ön felelős ezen jogok védelméért.",
+          "description3": "Ön kijelenti és szavatolja, hogy: (i) a Tartalom az Ön tulajdona (Ön birtokolja), vagy Önnek joga van azt használni, és a jelen Felhasználási Feltételekben foglalt jogokat és licencet megadni nekünk, és (ii) a Tartalmának a Szolgáltatáson vagy azon keresztül történő közzététele nem sérti senkinek a magánélethez való jogait, nyilvánossághoz való jogait, szerzői jogait, szerződéses jogait vagy bármely más jogát."
+        },
+        "restrictions": {
+          "title": "Tartalomkorlátozások",
+          "description1": "A Vállalat nem vállal felelősséget a Szolgáltatás felhasználóinak tartalmáért. Ön kifejezetten tudomásul veszi és elfogadja, hogy kizárólag Ön felelős a Tartalomért és az Ön fiókján keresztül történő minden tevékenységért, függetlenül attól, hogy azt Ön vagy az Ön fiókját használó harmadik személy végezte.",
+          "description2": "Nem továbbíthat olyan Tartalmat, amely jogellenes, sértő, felkavaró, undorkeltő, fenyegető, rágalmazó, becsületsértő, obszcén vagy egyéb módon kifogásolható. Az ilyen kifogásolható Tartalomra példák többek között a következők:",
+          "prohibitedContent": {
+            "unlawful": "Törvénytelen vagy illegális tevékenységet népszerűsít.",
+            "discriminatory": "Rágalmazó, diszkriminatív vagy rosszindulatú tartalom, beleértve a vallással, fajjal, szexuális irányultsággal, nemmel, nemzeti/etnikai származással vagy más célzott csoportokkal kapcsolatos hivatkozásokat vagy kommentárokat.",
+            "spam": "Spam, gépi – vagy véletlenszerűen generált – e-mail, amely jogosulatlan vagy kéretlen reklámnak minősül, lánclevelek, bármilyen más jogosulatlan kérelmezés, illetve bármilyen lottó vagy szerencsejáték.",
+            "malware": "Vírusok, férgek, rosszindulatú programok, trójai programok vagy egyéb olyan tartalmak tárolása vagy telepítése, amelyek célja vagy célja bármilyen szoftver, hardver vagy telekommunikációs berendezés működésének megzavarása, károsítása vagy korlátozása.",
+            "infringing": "Bármely fél tulajdonjogainak megsértése, beleértve a szabadalmat, védjegyet, üzleti titkot, szerzői jogot, nyilvánossághoz való jogot vagy egyéb jogokat.",
+            "impersonating": "Bármely személy vagy szervezet, beleértve a Társaságot és annak alkalmazottait vagy képviselőit, személyes adataival való visszaélés.",
+            "privacy": "Bármely harmadik személy magánéletének megsértése.",
+            "false": "Hamis információk és funkciók."
+          },
+          "description3": "A Vállalat fenntartja a jogot, de nem kötelességet arra, hogy saját belátása szerint megállapítsa, hogy egy Tartalom megfelelő-e és megfelel-e a jelen Felhasználási Feltételeknek. Megtagadhatjuk a Tartalom megjelenítését vagy eltávolíthatjuk azt, és fenntartjuk a jogot, hogy felfüggesszük vagy megszüntessük azokat a fiókokat, amelyek sértik a jelen Felhasználási Feltételeket vagy közösségi normáinkat."
+        },
+        "backups": {
+          "title": "Tartalom biztonsági mentések",
+          "description1": "Habár a Tartalomról rendszeresen készül biztonsági mentés, a Társaság nem garantálja, hogy nem történik adatvesztés vagy adatsérülés.",
+          "description2": "A sérült vagy érvénytelen biztonsági mentési pontokat többek között a biztonsági mentés előtt megsérült, illetve a biztonsági mentés végrehajtása során megváltozott Tartalom okozhatja.",
+          "description3": "A Vállalat támogatást nyújt, és megkísérli elhárítani minden ismert vagy felfedezett problémát, amely befolyásolhatja a Tartalom biztonsági mentéseit. Ön azonban tudomásul veszi, hogy a Vállalat nem vállal felelősséget a Tartalom integritásáért vagy a Tartalom használható állapotba való visszaállításának sikertelenségéért.",
+          "description4": "Ön beleegyezik, hogy a Tartalomról egy teljes és pontos másolatot tart fenn a Szolgáltatástól független helyen."
+        }
+      },
+      "copyright": {
+        "title": "Szerzői jogi irányelvek",
+        "intellectualProperty": {
+          "title": "Szellemi tulajdonjogok megsértése",
+          "description1": "Tiszteletben tartjuk mások szellemi tulajdonjogait. Irányelveink szerint minden olyan igényre válaszolunk, amely szerint a Szolgáltatásban közzétett Tartalom bármely személy szerzői jogait vagy más szellemi tulajdonjogát sérti.",
+          "description2": "Ha Ön szerzői jog tulajdonosa, vagy annak nevében eljáró felhatalmazott személy, és úgy gondolja, hogy a szerzői joggal védett művet olyan módon másolták, amely szerzői jogsértést jelent a Szolgáltatáson keresztül, akkor írásban kell értesítést küldenie szerzői jogi képviselőnk figyelmébe a support@ringdy.com e-mail címre, és az értesítésben részletesen le kell írnia a feltételezett jogsértést.",
+          "description3": "Felelősséggel tartozhat a károkért (beleértve a költségeket és az ügyvédi díjakat is), ha hamisan állítja, hogy bármely Tartalom sérti a szerzői jogait."
+        },
+        "dmca": {
+          "title": "DMCA közlemény és DMCA eljárás szerzői jogsértési keresetekre vonatkozóan",
+          "description": "A digitális évezred szerzői jogi törvénye (DMCA) értelmében bejelentést tehet a szerzői jogi képviselőnk számára írásban a következő információk megadásával:",
+          "requirements": {
+            "signature": "A szerzői jog tulajdonosának nevében eljárni jogosult személy elektronikus vagy fizikai aláírása.",
+            "description": "A szerzői jogvédelem alatt álló mű leírása, amelyről azt állítja, hogy jogsértést szenvedett, beleértve annak a helynek az URL-címét (azaz a weboldal címét), ahol a szerzői jogvédelem alatt álló mű található, vagy a szerzői jogvédelem alatt álló mű egy másolatát.",
+            "identification": "Az URL vagy a Szolgáltatáson belüli más konkrét hely azonosítása, ahol az Ön által jogsértőnek állított anyag található.",
+            "contact": "Az Ön címe, telefonszáma és e-mail címe.",
+            "goodFaith": "Az Ön nyilatkozata arról, hogy jóhiszeműen úgy véli, hogy a vitatott felhasználást a szerzői jog tulajdonosa, annak képviselője vagy a törvény nem engedélyezte.",
+            "accuracy": "Az Ön büntetőjogi felelőssége terhe mellett tett nyilatkozata arról, hogy az Ön értesítésében szereplő fenti információk pontosak, és hogy Ön a szerzői jog tulajdonosa, vagy felhatalmazást kapott arra, hogy a szerzői jog tulajdonosa nevében járjon el."
+          },
+          "contact": "Szerzői jogi képviselőnkkel a support@ringdy.com e-mail címen veheti fel a kapcsolatot. Az értesítés kézhezvételét követően a Vállalat saját belátása szerint megteszi a szükségesnek ítélt intézkedéseket, beleértve a vitatott tartalom eltávolítását a Szolgáltatásból."
+        }
+      },
+      "intellectualProperty": {
+        "title": "Szellemi tulajdon",
+        "description1": "A Szolgáltatás és annak eredeti tartalma (kivéve az Ön vagy más felhasználók által biztosított Tartalmat), funkciói és működése a Társaság és licencadói kizárólagos tulajdonát képezik és fogják képezni.",
+        "description2": "A Szolgáltatás szerzői jogi, védjegy- és egyéb törvények védelme alatt áll mind az Egyesült Királyságban, mind külföldön.",
+        "description3": "Védjegyeink és kereskedelmi arculatunk a Társaság előzetes írásbeli hozzájárulása nélkül nem használható fel semmilyen termékkel vagy szolgáltatással kapcsolatban."
+      },
+      "feedback": {
+        "title": "Visszajelzése nekünk",
+        "description": "Ön átruházza a Társaságnak adott Visszajelzésekhez fűződő összes jogot, tulajdonjogot és érdekeltséget. Amennyiben bármilyen okból az ilyen átruházás érvénytelen, Ön beleegyezik, hogy nem kizárólagos, örökös, visszavonhatatlan, jogdíjmentes, világszerte érvényes jogot és licencet ad a Társaságnak az ilyen Visszajelzés korlátozás nélküli felhasználására, reprodukálására, közzétételére, allicencbe adására, terjesztésére, módosítására és hasznosítására."
+      },
+      "links": {
+        "title": "Linkek más weboldalakra",
+        "description1": "Szolgáltatásunk tartalmazhat harmadik fél weboldalaira vagy szolgáltatásaira mutató linkeket, amelyek nem a Társaság tulajdonában vagy ellenőrzése alatt állnak.",
+        "description2": "A Társaság semmilyen befolyással nem rendelkezik, és nem vállal felelősséget harmadik fél weboldalainak vagy szolgáltatásainak tartalmáért, adatvédelmi irányelveiért vagy gyakorlatáért. Ön továbbá tudomásul veszi és elfogadja, hogy a Társaság nem vállal felelősséget sem közvetlenül, sem közvetve semmilyen kárért vagy veszteségért, amelyet az ilyen weboldalakon vagy szolgáltatásokon keresztül elérhető tartalom, áruk vagy szolgáltatások használata vagy az azokra való támaszkodás okoz vagy állítólagosan okoz.",
+        "description3": "Nyomatékosan javasoljuk, hogy olvassa el az Ön által meglátogatott harmadik fél webhelyeinek vagy szolgáltatásainak felhasználási feltételeit és adatvédelmi irányelveit."
+      },
+      "termination": {
+        "title": "Megszüntetés",
+        "description1": "Fiókját azonnali hatállyal, előzetes értesítés vagy felelősség nélkül megszüntethetjük vagy felfüggeszthetjük, bármilyen okból, beleértve korlátozás nélkül, ha Ön megszegi a jelen Általános Szerződési Feltételeket.",
+        "description2": "A megszűnéskor a Szolgáltatás használatára vonatkozó joga azonnal megszűnik. Ha meg kívánja szüntetni a Fiókját, egyszerűen hagyja abba a Szolgáltatás használatát.",
+        "dataDeletion": {
+          "title": "Adattörlés és fiók megszüntetése",
+          "description": "Fiókja és személyes adatainak törlését bármikor kérheti a support@ringdy.com címen vagy az alkalmazáson belüli fióktörlési funkció használatával. A fiók megszüntetése vagy törlés esetén a vonatkozó jogszabályoknak megfelelően eltávolítjuk vagy anonimizáljuk személyes adatait, kivéve, ha bizonyos adatokat jogi, biztonsági vagy működési célokból kötelesek vagyunk megőrizni."
+        }
+      },
+      "liability": {
+        "title": "Felelősség korlátozása",
+        "importantNotice": "Fontos jogi közlemény",
+        "notice": "Függetlenül az Ön által elszenvedett károktól, a Társaság és bármely beszállítójának teljes felelőssége a jelen Feltételek bármely rendelkezése értelmében, valamint az Ön kizárólagos jogorvoslati lehetősége a fentiekre vonatkozóan az Ön által a Szolgáltatáson keresztül ténylegesen kifizetett összegre, vagy 100 USD-re korlátozódik, ha Ön nem vásárolt semmit a Szolgáltatáson keresztül.",
+        "description1": "A vonatkozó jogszabályok által megengedett legteljesebb mértékben a Társaság vagy beszállítói semmilyen esetben sem felelősek semmilyen különleges, véletlenszerű, közvetett vagy következményes kárért (beleértve, de nem kizárólagosan, az elmaradt haszonból, adat- vagy egyéb információvesztésből, üzleti tevékenység megszakadásából, személyi sérülésből, a Szolgáltatás, a Szolgáltatással együtt használt harmadik féltől származó szoftverek és/vagy harmadik féltől származó hardverek használatából vagy a használatuk lehetetlenségéből eredő vagy azzal bármilyen módon összefüggő károkat, vagy a jelen Feltételek bármely rendelkezésével kapcsolatban), még akkor sem, ha a Társaságot vagy bármely beszállítót tájékoztatták az ilyen károk lehetőségéről, és még akkor sem, ha a jogorvoslat nem tölti be alapvető célját.",
+        "description2": "Egyes államok nem engedélyezik a hallgatólagos garanciák kizárását vagy a véletlenszerű vagy következményes károkért való felelősség korlátozását, ami azt jelenti, hogy a fenti korlátozások némelyike esetleg nem alkalmazható. Ezekben az államokban mindkét fél felelőssége a törvény által megengedett legnagyobb mértékben korlátozódik."
+      },
+      "disclaimer": {
+        "title": "„JELENLEGI ÁLLAPOTBAN” és „ BLE ÁLLAPOTBAN” Jogi nyilatkozat",
+        "description1": "A Szolgáltatást „JELENLEGI ÁLLAPOTBAN” és „ BLE ” nyújtjuk Önnek, minden hibájával és hiányosságával együtt, bármilyen garancia nélkül. A vonatkozó jogszabályok által megengedett legteljesebb mértékben a Társaság saját nevében, valamint Leányvállalatai, azok licencadói és szolgáltatói nevében kifejezetten kizár minden, a Szolgáltatással kapcsolatos kifejezett, hallgatólagos, törvényi vagy egyéb garanciát, beleértve az eladhatóságra, egy adott célra való alkalmasságra, a tulajdonjogra és a jogtisztaságra vonatkozó összes hallgatólagos garanciát, valamint azokat a garanciákat, amelyek az üzletkötés, a teljesítés, a használat vagy a kereskedelmi gyakorlat során felmerülhetnek.",
+        "description2": "A fentiekre való korlátozás nélkül a Társaság semmilyen garanciát vagy kötelezettségvállalást nem vállal, és semmilyen nyilatkozatot nem tesz arra vonatkozóan, hogy a Szolgáltatás megfelel az Ön igényeinek, eléri a kívánt eredményeket, kompatibilis vagy együttműködik bármely más szoftverrel, alkalmazással, rendszerrel vagy szolgáltatással, megszakítás nélkül működik, megfelel bármilyen teljesítmény- vagy megbízhatósági szabványnak, hibamentes, vagy hogy a hibák vagy hiányosságok kijavíthatók vagy kijavításra kerülnek.",
+        "description3": "A fentiek korlátozása nélkül sem a Társaság, sem a Társaság szolgáltatói nem tesznek semmilyen kifejezett vagy hallgatólagos nyilatkozatot vagy garanciát: (i) a Szolgáltatás működésére vagy elérhetőségére, illetve az abban található információkra, tartalmakra és anyagokra vagy termékekre vonatkozóan; (ii) hogy a Szolgáltatás megszakítás nélküli vagy hibamentes lesz; (iii) a Szolgáltatáson keresztül nyújtott információk vagy tartalmak pontosságára, megbízhatóságára vagy időszerűségére vonatkozóan; vagy (iv) hogy a Szolgáltatás, annak szerverei, a tartalom vagy a Társaság által vagy nevében küldött e-mailek mentesek a vírusoktól, szkriptektől, trójai programoktól, férgektől, rosszindulatú programoktól, időzített bombáktól vagy más káros összetevőktől.",
+        "description4": "Egyes joghatóságok nem engedélyezik bizonyos típusú garanciák kizárását vagy a fogyasztók alkalmazandó törvényes jogainak korlátozását, így a fenti kizárások és korlátozások némelyike vagy mindegyike esetleg nem vonatkozik Önre. Ilyen esetben azonban az ebben a szakaszban meghatározott kizárásokat és korlátozásokat a vonatkozó jogszabályok által kikényszeríthető legteljesebb mértékben kell alkalmazni."
+      },
+      "governingLaw": {
+        "title": "Irányadó jog",
+        "description": "Az Ország törvényei az irányadók a jelen Felhasználási Feltételekre és a Szolgáltatás Ön általi használatára, a kollíziós szabályok kivételével. Az Alkalmazás Ön általi használatára más helyi, állami, nemzeti vagy nemzetközi törvények is vonatkozhatnak."
+      },
+      "disputes": {
+        "title": "Vitarendezés",
+        "description": "Ha bármilyen aggálya vagy vitája merül fel a Szolgáltatással kapcsolatban, Ön beleegyezik, hogy először megpróbálja informálisan rendezni a vitát a Társasággal való kapcsolatfelvétel útján."
+      },
+      "euUsers": {
+        "title": "Európai Uniós (EU) felhasználók számára",
+        "description": "Ha Ön az Európai Unió fogyasztója, akkor az Ön lakóhelye szerinti ország jogszabályainak kötelező érvényű rendelkezései érvényesek Önre."
+      },
+      "usLegal": {
+        "title": "Az Egyesült Államok jogi megfelelősége",
+        "description": "Ön kijelenti és szavatolja, hogy (i) nem olyan országban tartózkodik, amelyre az Egyesült Államok kormánya embargót szab ki, vagy amelyet az Egyesült Államok kormánya „terrorizmust támogató” országként jelölt meg, és (ii) nem szerepel az Egyesült Államok kormányának tiltott vagy korlátozott feleket tartalmazó listáján."
+      },
+      "severability": {
+        "title": "Elválaszthatóság és lemondás",
+        "severabilityTitle": "Elválaszthatóság",
+        "severabilityDescription": "Amennyiben a jelen Feltételek bármely rendelkezése végrehajthatatlannak vagy érvénytelennek nyilvánul, az adott rendelkezést a vonatkozó jogszabályok által megengedett legnagyobb mértékben úgy módosítjuk és értelmezzük, hogy az a rendelkezés céljait elérje, a fennmaradó rendelkezések pedig teljes mértékben hatályban maradnak.",
+        "waiverTitle": "Lemondás",
+        "waiverDescription": "A jelen Feltételekben foglaltak kivételével a joggyakorlás elmulasztása vagy a kötelezettség teljesítésének elmulasztása a jelen Feltételek értelmében nem érinti a fél azon képességét, hogy ezt követően bármikor gyakorolja ezt a jogot vagy követelje az ilyen teljesítést, és a szerződésszegésről való lemondás sem jelenti a későbbi szerződésszegésről való lemondást."
+      },
+      "translation": {
+        "title": "Fordítási tolmácsolás",
+        "description": "Jelen Általános Szerződési Feltételek lefordításra kerülhettek, amennyiben elérhetővé tettük azokat az Ön számára a Szolgáltatásunkon. Ön beleegyezik, hogy vita esetén az eredeti angol szöveg az irányadó."
+      },
+      "changes": {
+        "title": "A jelen Általános Szerződési Feltételek módosításai",
+        "description1": "Fenntartjuk a jogot, hogy saját belátásunk szerint bármikor módosítsuk vagy lecseréljük ezeket a Feltételeket. Lényeges módosítás esetén minden ésszerű erőfeszítést megteszünk annak érdekében, hogy legalább 30 nappal az új feltételek hatálybalépése előtt értesítsük Önt. Azt, hogy mi minősül lényeges változásnak, saját belátásunk szerint határozzuk meg.",
+        "description2": "A Szolgáltatásunk további elérésével vagy használatával a módosítások hatálybalépése után Ön elfogadja, hogy a módosított feltételek kötelező érvényűek Önre nézve. Ha nem ért egyet az új feltételekkel egészben vagy részben, kérjük, hagyja abba a weboldal és a Szolgáltatás használatát."
+      },
+      "contact": {
+        "title": "Kapcsolat",
+        "description": "Ha bármilyen kérdése van ezekkel az Általános Szerződési Feltételekkel kapcsolatban, a következő elérhetőségeken veheti fel velünk a kapcsolatot:",
+        "email": "E-mailben: support@ringdy.com",
+        "support": "Az alkalmazáson belüli támogatási rendszerünkön keresztül",
+        "website": "Látogassa meg weboldalunkat: www.ringdy.com"
+      },
+      "backToHome": "Vissza a kezdőlapra",
+      "privacyPolicy": "Adatvédelmi irányelvek"
+    }
+  },
+  "safety": {
+    "title": "Biztonsági tippek és trükkök",
+    "subtitle": "Az Ön biztonsága a legfontosabb számunkra. Ismerje meg a biztonságos hálózatépítés és a biztonságos kapcsolatok fontos tippjeit.",
+    "lastUpdated": "Utolsó frissítés: 2025. január",
+    "commitment": {
+      "title": "Elkötelezettségünk az Ön biztonsága iránt",
+      "items": {
+        "privacy": "Te döntöd el, mennyit osztasz meg – bármikor válthatsz avatarra, és soha nem osztjuk meg a telefonszámodat vagy a pontos címedet más felhasználókkal.",
+        "noStorage": "Nem adjuk ki a privát elérhetőségeidet más felhasználóknak, kivéve, ha te magad is megosztod azokat.",
+        "tools": "Olyan eszközöket kínálunk, mint a blokkolás és a jelentéskészítés, hogy minden interakció felett ellenőrzést biztosítsunk.",
+        "ageLimit": "Ringdy csak 18 éves és idősebb felhasználók számára érhető el."
+      }
+    },
+    "respectfulBehavior": {
+      "title": "Tiszteletteljes viselkedés szükséges",
+      "expectation": "Azt várjuk el tőled, hogy:",
+      "items": {
+        "kind": "Légy kedves, tisztelettudó és őszinte",
+        "language": "Használjon tiszta, megfelelő nyelvet",
+        "laws": "Tartsa be a helyi törvényeket és a közösségi normákat",
+        "genuine": "Csak őszinte és tiszteletteljes interakcióra használd az alkalmazást"
+      }
+    },
+    "prohibitedConduct": {
+      "title": "Tiltott magatartás",
+      "warning": "Mindenki biztonságának garantálása érdekében tilos:",
+      "items": {
+        "harassment": "Zaklatni, zaklatni vagy megfélemlíteni bárkit",
+        "hateful": "Gyűlöletkeltő, erőszakos vagy diszkriminatív tartalom megosztása",
+        "impersonation": "Mások megszemélyesítése vagy hamis munkamenetek létrehozása",
+        "personalData": "Személyes adatok, például cím, telefonszám vagy közösségi média felhasználói név megadása",
+        "explicit": "Explicit, pornográf vagy sértő üzenetek küldése",
+        "scamming": "Csalásban, adathalászatban vagy pénzkérésekben való részvétel",
+        "offPlatform": "Megtévesztő célokból próbáld meg külső üzenetküldő alkalmazásokba áthelyezni a csevegéseket",
+        "tracking": "Bluetooth által biztosítottakon túlmutató módon próbálja meg nyomon követni vagy megtalálni a felhasználókat"
+      },
+      "consequence": "Ezen intézkedések bármelyike felfüggesztést vagy végleges kitiltást vonhat maga után."
+    },
+    "commonSense": {
+      "title": "Használjon józan észt és óvatosságot",
+      "intro": "Ön ismeri a legjobban a saját biztonságát. Ezek a tippek segíthetnek:",
+      "chatting": {
+        "title": "🗣 Csevegés közben:",
+        "items": {
+          "noPersonalInfo": "Ne oszd meg a teljes neved, címed, telefonszámod vagy pénzügyi adataidat",
+          "cautious": "Légy óvatos azokkal, akik gyorsan kérik a csevegés áthelyezését máshová.",
+          "noPressure": "Ne érezd magad kényszerítve a válaszadásra vagy a beszélgetés folytatására"
+        }
+      },
+      "redFlags": {
+        "title": "🛑 Figyeljen a vészjelzésekre:",
+        "items": {
+          "quickLove": "Valaki néhány üzenet után azt állítja, hogy szerelmes",
+          "moneyRequests": "Pénz vagy személyes adatok küldésére vonatkozó kérések",
+          "strangeLinks": "Furcsa linkek vagy platformon kívüli csevegési kérések",
+          "emergencyStories": "Sürgősségi utazásokkal, kórházi számlákkal vagy vízumproblémákkal kapcsolatos történetek"
+        },
+        "advice": "Ha bármi nem stimmel, tiltsd le és jelentsd."
+      }
+    },
+    "reportBlock": {
+      "title": "Jelentés- és blokkeszközök",
+      "intro": "Ha valaki:",
+      "reasons": {
+        "uncomfortable": "Kellemetlenül érzi magát",
+        "violates": "Sérti az irányelveinket",
+        "suspicious": "Gyanús vagy káros üzeneteket küld"
+      },
+      "instruction": "Használd azonnal a blokkolás és jelentés funkciót. Minden bejelentést komolyan kivizsgálunk, és az ismételt szabálysértések végleges felfüggesztést vonhatnak maguk után.",
+      "anonymity": "Mások bejelentésekor névtelen maradsz. A bejelentő személyt nem értesítik."
+    },
+    "meetingInPerson": {
+      "title": "Találkozó a való életben (ha alkalmazható)",
+      "disclaimer": "Ringdy segítségével Bluetooth szkennelés vagy helyi helyszínek segítségével felfedezheted és kapcsolatba léphetsz a közeledben lévő emberekkel, és sok felhasználó a személyes találkozást választja a párosítás után. Kérjük, tartsd be az alábbi óvintézkedéseket:",
+      "safetyTips": {
+        "publicPlaces": "Csak nyilvános helyeken találkozzunk",
+        "tellFriend": "Mondd el egy barátodnak a terveidet",
+        "shareLocation": "Oszd meg a tartózkodási helyedet egy megbízható személlyel",
+        "noRides": "Ne fogadj el fuvart olyanoktól, akikkel nemrég találkoztál",
+        "staySober": "Maradj józan és éber",
+        "chargePhone": "Töltsd fel a telefonodat, és tartsd a közeledben",
+        "ownTransport": "Szervezd meg a saját utazásodat mindkét irányba"
+      },
+      "reminder": "Ha kellemetlenül érzed magad, bármikor szabadon elhagyhatod az oldalt. Blokkold a felhasználót, és utána jelentsd nekünk."
+    },
+    "enforcement": {
+      "title": "Végrehajtási és biztonsági intézkedések",
+      "intro": "Ringdy a következő intézkedéseket teheti szabálysértések esetén:",
+      "actions": {
+        "suspend": "Fiókok ideiglenes felfüggesztése",
+        "ban": "A visszaélést okozó felhasználók végleges kitiltása",
+        "lawEnforcement": "Jelentse a súlyos fenyegetéseket a bűnüldöző szerveknek",
+        "verification": "Személyi adatokkal való visszaélés gyanúja esetén ellenőrzés szükséges"
+      }
+    },
+    "appeals": {
+      "title": "Fellebbezések és támogatás",
+      "intro": "Ha úgy érzed, hogy igazságtalanul tiltottak el, vagy komoly aggályt szeretnél jelenteni:",
+      "contact": {
+        "email": "📧 Email: support@ringdy.com",
+        "website": "🌐 Látogassa meg: Ringdy Biztonsági Központ (Hamarosan)"
+      }
+    },
+    "finalThoughts": {
+      "title": "Záró gondolatok",
+      "message": "Ringdy segít az embereknek biztonságos, értelmes módon kapcsolatba lépni egymással anélkül, hogy felfednék személyes adataikat. Mindig te döntöd el, hogy kivel csevegsz, és mi itt vagyunk, hogy támogassunk ebben."
+    },
+    "navigation": {
+      "backToHome": "Vissza a kezdőlapra",
+      "downloadApp": "Alkalmazás letöltése"
+    }
+  },
+  "profile": {
+    "connectViaBLE": "Csatlakozás BLE n keresztül",
+    "stats": {
+      "connections": "Kapcsolatok",
+      "messages": "Üzenetek",
+      "filesShared": "Megosztott fájlok"
+    },
+    "location": "San Francisco, Kalifornia",
+    "onlineViaBLE": "Online BLE n keresztül",
+    "occupation": "Szoftverfejlesztő - Tech Startup",
+    "education": "Stanford Egyetem - Számítástechnika",
+    "interests": "Érdeklődési körök: IoT, Bluetooth technológia, mobilfejlesztés",
+    "bio": "Szenvedélyesen szeretek zökkenőmentes kapcsolatokat létrehozni a technológia segítségével. Szeretek felfedezni a Bluetooth Low Energy lehetőségeit, és olyan alkalmazásokat készíteni, amelyek összehozzák az embereket. Mindig örömmel kapcsolatba lépek a környékemen élő fejlesztőkkel és tech-rajongókkal. Bátran keress meg együttműködésre vagy csak egy jó kis technikai beszélgetésre!",
+    "showMore": "Mutass többet"
+  },
+  "auth": {
+    "agreeWith": "Egyetértek a"
+  }
+}
