@@ -384,7 +384,7 @@
     "termsConditions": "Vilkår og betingelser",
     "privacyPolicy": "Personvernerklæring",
     "contactUs": "Kontakt oss",
-    "copyright": "Opphavsrett © {{year}} Ringdy . Alle rettigheter forbeholdt."
+    "copyright": "Opphavsrett © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Alle rettigheter forbeholdt."
   },
   "legal": {
     "privacyPolicy": {
@@ -425,9 +425,9 @@
           "application": "Refererer til Ringdy , programvaren levert av selskapet.",
           "business": "I forbindelse med CCPA/CPRA refererer dette til selskapet som den juridiske enheten som samler inn forbrukernes personopplysninger og bestemmer formålene og midlene for behandling av forbrukernes personopplysninger.",
           "ccpaCpra": "Refererer til California Consumer Privacy Act («CCPA») som endret av California Privacy Rights Act av 2020 («CPRA»).",
-          "company": "Med enten «Selskapet», «Vi», «Oss» eller «Vår» i denne avtalen menes Ringdy . I henhold til GDPR er Selskapet behandlingsansvarlig.",
+          "company": "Med enten «Selskapet», «Vi», «Oss» eller «Vår» i denne avtalen menes HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. I henhold til GDPR er Selskapet behandlingsansvarlig.",
           "consumer": "I forbindelse med CCPA/CPRA betyr dette en fysisk person som er bosatt i California.",
-          "country": "Refererer til: USA",
+          "country": "Refererer til: Vietnam",
           "dataController": "I henhold til GDPR (General Data Protection Regulation) refererer [navn på personvernforordning] til selskapet som den juridiske personen som alene eller i fellesskap med andre bestemmer formålene og midlene for behandlingen av personopplysninger.",
           "device": "Enhver enhet som kan få tilgang til Tjenesten, for eksempel en smarttelefon, nettbrett eller datamaskin.",
           "doNotTrack": "Et konsept som har blitt promotert av amerikanske reguleringsmyndigheter for at internettbransjen skal utvikle og implementere en mekanisme som lar internettbrukere kontrollere sporingen av sine nettaktiviteter på tvers av nettsteder.",
@@ -487,7 +487,7 @@
         "description": "Hvis du har spørsmål om denne personvernerklæringen, kan du kontakte oss:",
         "email": "Via e-post: privacy@ringdy.com",
         "website": "På denne siden på nettsiden vår: https://ringdy.com/contact",
-        "mail": "Per post: Ringdy Privacy Team, 123 Tech Street, San Francisco, CA 94105, USA"
+        "mail": "Per post: HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY, Group 1, An Tri Zone, Hong Bang Ward, Hai Phong City, Viet Nam"
       },
       "shineTheLight": {
         "title": "Dine personvernrettigheter i California (Californias Shine the Light-lov)",
@@ -1000,7 +1000,7 @@
           "affiliate": "Betyr en enhet som kontrollerer, er kontrollert av eller er under felles kontroll med en part, hvor «kontroll» betyr eierskap til 50 % eller mer av aksjene, egenkapitalandelene eller andre verdipapirer som gir rett til å stemme ved valg av styremedlemmer eller annen forvaltningsmyndighet.",
           "account": "Betyr en unik konto opprettet for at du skal få tilgang til tjenesten vår eller deler av tjenesten vår.",
           "country": "Refererer til: Vietnam",
-          "company": "(referert til som enten «Selskapet», «Vi», «Oss» eller «Vår» i denne avtalen) refererer til Ringdy .",
+          "company": "(referert til som enten «Selskapet», «Vi», «Oss» eller «Vår» i denne avtalen) refererer til HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY.",
           "content": "Refererer til innhold som tekst, bilder eller annen informasjon som kan legges ut, lastes opp, lenkes til eller på annen måte gjøres tilgjengelig av deg, uavhengig av innholdets form.",
           "device": "Betyr enhver enhet som kan få tilgang til Tjenesten, for eksempel en datamaskin, en smarttelefon eller et digitalt nettbrett.",
           "feedback": "Betyr tilbakemeldinger, innovasjoner eller forslag sendt av deg angående egenskapene, ytelsen eller funksjonene til tjenesten vår.",

@@ -384,7 +384,7 @@
     "termsConditions": "Vilkår og betingelser",
     "privacyPolicy": "Privatlivspolitik",
     "contactUs": "Kontakt os",
-    "copyright": "Ophavsret © {{year}} Ringdy . Alle rettigheder forbeholdes."
+    "copyright": "Ophavsret © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Alle rettigheder forbeholdes."
   },
   "legal": {
     "privacyPolicy": {
@@ -425,9 +425,9 @@
           "application": "Henviser til Ringdy , softwareprogrammet leveret af virksomheden.",
           "business": "I forbindelse med CCPA/CPRA henviser *til* virksomheden som den juridiske enhed, der indsamler forbrugernes personlige oplysninger og fastlægger formålene og midlerne til behandling af forbrugernes personlige oplysninger.",
           "ccpaCpra": "Henviser til California Consumer Privacy Act (\"CCPA\") som ændret ved California Privacy Rights Act fra 2020 (\"CPRA\").",
-          "company": "I denne aftale henviser udtrykkene enten \"Virksomheden\", \"Vi\", \"Os\" eller \"Vores\" til Ringdy . I henhold til GDPR er Virksomheden den dataansvarlige.",
+          "company": "I denne aftale henviser udtrykkene enten \"Virksomheden\", \"Vi\", \"Os\" eller \"Vores\" til HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. I henhold til GDPR er Virksomheden den dataansvarlige.",
           "consumer": "I forbindelse med CCPA/CPRA betyder *en* fysisk person, der er bosiddende i Californien.",
-          "country": "Henviser til: USA",
+          "country": "Henviser til: Vietnam",
           "dataController": "I henhold til GDPR (General Data Protection Regulation) henviser virksomheden til den juridiske person, der alene eller i fællesskab med andre fastlægger formålene og midlerne til behandling af personoplysninger.",
           "device": "Enhver enhed, der kan tilgå Tjenesten, såsom en smartphone, tablet eller computer.",
           "doNotTrack": "Et koncept, der er blevet promoveret af amerikanske tilsynsmyndigheder for internetbranchen, for at udvikle og implementere en mekanisme, der giver internetbrugere mulighed for at kontrollere sporingen af deres onlineaktiviteter på tværs af websteder.",
@@ -487,7 +487,7 @@
         "description": "Hvis du har spørgsmål til denne privatlivspolitik, kan du kontakte os:",
         "email": "Via e-mail: privacy@ringdy.com",
         "website": "På denne side på vores hjemmeside: https://ringdy.com/contact",
-        "mail": "Via post: Ringdy Privacy Team, 123 Tech Street, San Francisco, CA 94105, USA"
+        "mail": "Via post: HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY, Group 1, An Tri Zone, Hong Bang Ward, Hai Phong City, Viet Nam"
       },
       "shineTheLight": {
         "title": "Dine rettigheder vedrørende privatlivets fred i Californien (Californiens Shine the Light-lov)",
@@ -1000,7 +1000,7 @@
           "affiliate": "Betyder en enhed, der kontrollerer, kontrolleres af eller er under fælles kontrol med en part, hvor \"kontrol\" betyder ejerskab af 50 % eller mere af aktierne, kapitalandele eller andre værdipapirer, der giver ret til at stemme ved valg af bestyrelsesmedlemmer eller anden ledelsesmyndighed.",
           "account": "Betyder en unik konto, der er oprettet til dig for at få adgang til vores tjeneste eller dele af vores tjeneste.",
           "country": "Henviser til: Vietnam",
-          "company": "(i denne aftale enten omtalt som \"Virksomheden\", \"Vi\", \"Os\" eller \"Vores\") henviser til Ringdy .",
+          "company": "(i denne aftale enten omtalt som \"Virksomheden\", \"Vi\", \"Os\" eller \"Vores\") henviser til HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY.",
           "content": "Henviser til indhold såsom tekst, billeder eller andre oplysninger, der kan offentliggøres, uploades, linkes til eller på anden måde stilles til rådighed af dig, uanset indholdets form.",
           "device": "Betyder enhver enhed, der kan tilgå Tjenesten, såsom en computer, en smartphone eller en digital tablet.",
           "feedback": "Betyder feedback, innovationer eller forslag sendt af dig vedrørende vores tjenestes egenskaber, ydeevne eller funktioner.",

@@ -384,7 +384,7 @@
     "termsConditions": "条款及细则",
     "privacyPolicy": "隐私政策",
     "contactUs": "联系我们",
-    "copyright": "版权所有 © {{year}} Ringdy 。保留所有权利。"
+    "copyright": "版权所有 © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY。保留所有权利。"
   },
   "legal": {
     "privacyPolicy": {
@@ -425,9 +425,9 @@
           "application": "指Ringdy ，即该公司提供的软件程序。",
           "business": "就 CCPA/CPRA 而言，指公司作为收集消费者个人信息的法律实体，并决定处理消费者个人信息的目的和方式。",
           "ccpaCpra": "指经 2020 年加州隐私权法案（“CPRA”）修订的加州消费者隐私法案（“CCPA”）。",
-          "company": "本协议中提及的“公司”、“我们”或“我们的”均指Ringdy 。根据GDPR的规定，公司是数据控制者。",
+          "company": "本协议中提及的“公司”、“我们”或“我们的”均指HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY。根据GDPR的规定，公司是数据控制者。",
           "consumer": "就 CCPA/CPRA 而言，指加利福尼亚州居民的自然人。",
-          "country": "指：美国",
+          "country": "指：越南",
           "dataController": "就 GDPR（通用数据保护条例）而言，公司是指单独或与他人共同决定个人数据处理的目的和方式的法人实体。",
           "device": "任何可以访问该服务的设备，例如智能手机、平板电脑或计算机。",
           "doNotTrack": "美国监管机构一直倡导互联网行业开发和实施一种机制，允许互联网用户控制其在各个网站上的在线活动跟踪，这一理念应运而生。",
@@ -487,7 +487,7 @@
         "description": "如果您对本隐私政策有任何疑问，可以联系我们：",
         "email": "通过电子邮件：privacy@ringdy.com",
         "website": "在本页面（https://ringdy.com/contact）上",
-        "mail": "邮寄地址： Ringdy Privacy Team, 123 Tech Street, San Francisco, CA 94105, United States"
+        "mail": "邮寄地址： HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY, Group 1, An Tri Zone, Hong Bang Ward, Hai Phong City, Viet Nam"
       },
       "shineTheLight": {
         "title": "您的加州隐私权（加州阳光法案）",
@@ -1000,7 +1000,7 @@
           "affiliate": "指控制一方、受一方控制或与一方处于共同控制之下的实体，其中“控制”指拥有50%或以上有权选举董事或其他管理机构成员的股份、股权或其他证券。",
           "account": "指为您创建的唯一帐户，用于访问我们的服务或部分服务。",
           "country": "指：越南",
-          "company": "（在本协议中称为“公司”、“我们”或“我们的”）是指Ringdy 。",
+          "company": "（在本协议中称为“公司”、“我们”或“我们的”）是指HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY。",
           "content": "指您可以发布、上传、链接或以其他方式提供的任何内容，例如文本、图像或其他信息，无论该内容的形式如何。",
           "device": "指任何可以访问该服务的设备，例如电脑、智能手机或平板电脑。",
           "feedback": "指您就我们服务的属性、性能或功能发送的反馈、创新或建议。",

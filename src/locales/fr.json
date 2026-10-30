@@ -276,7 +276,7 @@
     "termsConditions": "Conditions générales",
     "privacyPolicy": "politique de confidentialité",
     "contactUs": "Contactez-nous",
-    "copyright": "Copyright © {{year}} Ringdy . Tous droits réservés."
+    "copyright": "Copyright © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Tous droits réservés."
   },
   "featurePage": {
     "title": "Découvrez les lieux à proximité.\n Entrez en contact avec de vraies personnes.",
@@ -405,9 +405,9 @@
           "application": "Fait référence à Ringdy , le logiciel fourni par la société.",
           "business": "Aux fins de la CCPA/CPRA, le terme « Société » désigne l’entité juridique qui collecte les renseignements personnels des consommateurs et détermine les fins et les moyens du traitement de ces renseignements.",
           "ccpaCpra": "Fait référence à la loi californienne sur la protection de la vie privée des consommateurs (la « CCPA ») telle que modifiée par la loi californienne sur les droits à la vie privée de 2020 (la « CPRA »).",
-          "company": "Dans le présent Contrat, les termes « la Société », « Nous », « Notre » ou « Nos » font référence à Ringdy . Aux fins du RGPD, la Société est le Responsable du traitement des données.",
+          "company": "Dans le présent Contrat, les termes « la Société », « Nous », « Notre » ou « Nos » font référence à HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Aux fins du RGPD, la Société est le Responsable du traitement des données.",
           "consumer": "Aux fins de la CCPA/CPRA, désigne une personne physique qui réside en Californie.",
-          "country": "Se réfère aux États-Unis",
+          "country": "Fait référence au Vietnam",
           "dataController": "Aux fins du RGPD (Règlement général sur la protection des données), le terme « Société » désigne la personne morale qui, seule ou conjointement avec d’autres, détermine les finalités et les moyens du traitement des données à caractère personnel.",
           "device": "Tout appareil permettant d'accéder au Service, tel qu'un smartphone, une tablette ou un ordinateur.",
           "doNotTrack": "Un concept promu par les autorités réglementaires américaines pour que l'industrie Internet développe et mette en œuvre un mécanisme permettant aux internautes de contrôler le suivi de leurs activités en ligne sur différents sites web.",
@@ -487,7 +487,7 @@
         "description": "Si vous avez des questions concernant cette politique de confidentialité, vous pouvez nous contacter :",
         "email": "Par courriel : privacy@ringdy.com",
         "website": "Sur cette page de notre site web : https://ringdy.com/contact",
-        "mail": "Par courrier : Ringdy Privacy Team, 123 Tech Street, San Francisco, CA 94105, États-Unis"
+        "mail": "Par courrier : HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY, Group 1, An Tri Zone, Hong Bang Ward, Hai Phong City, Viet Nam"
       },
       "backToHome": "Retour à l'accueil",
       "shineTheLight": {
@@ -1001,7 +1001,7 @@
           "affiliate": "Désigne une entité qui contrôle, est contrôlée par ou est sous contrôle commun avec une partie, où « contrôle » signifie la propriété de 50 % ou plus des actions, des parts sociales ou autres titres donnant droit de vote pour l'élection des administrateurs ou autres organes de direction.",
           "account": "Désigne un compte unique créé pour vous permettre d'accéder à notre Service ou à certaines parties de celui-ci.",
           "country": "Fait référence au Vietnam",
-          "company": "(désignée dans le présent Accord par « la Société », « Nous », « Notre » ou « Nos ») fait référence à Ringdy .",
+          "company": "(désignée dans le présent Accord par « la Société », « Nous », « Notre » ou « Nos ») fait référence à HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY.",
           "content": "Désigne tout contenu tel que du texte, des images ou d'autres informations que vous pouvez publier, télécharger, lier ou rendre disponible de toute autre manière, quelle que soit la forme de ce contenu.",
           "device": "Désigne tout appareil pouvant accéder au Service, tel qu'un ordinateur, un smartphone ou une tablette numérique.",
           "feedback": "Désigne les commentaires, innovations ou suggestions que vous nous envoyez concernant les attributs, les performances ou les fonctionnalités de notre Service.",

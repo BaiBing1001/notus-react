@@ -384,7 +384,7 @@
     "termsConditions": "利用規約",
     "privacyPolicy": "プライバシーポリシー",
     "contactUs": "お問い合わせ",
-    "copyright": "著作権 © {{year}} Ringdy 。無断複写・転載を禁じます。"
+    "copyright": "著作権 © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY。無断複写・転載を禁じます。"
   },
   "legal": {
     "privacyPolicy": {
@@ -425,9 +425,9 @@
           "application": "当社が提供するソフトウェアプログラムであるRingdyを指します。",
           "business": "CCPA/CPRAの目的において、当社とは、消費者の個人情報を収集し、消費者の個人情報の処理の目的および手段を決定する法的実体を指します。",
           "ccpaCpra": "カリフォルニア州消費者プライバシー法（「CCPA」）を、2020年カリフォルニア州プライバシー権法（「CPRA」）によって改正したものを指します。",
-          "company": "本契約において「当社」、「私たち」、「弊社」または「当社の」と表記されるものは、 Ringdyを指します。GDPRの目的上、当社はデータ管理者です。",
+          "company": "本契約において「当社」、「私たち」、「弊社」または「当社の」と表記されるものは、 HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANYを指します。GDPRの目的上、当社はデータ管理者です。",
           "consumer": "CCPA/CPRAの目的においては、カリフォルニア州居住者である自然人を意味する。",
-          "country": "アメリカ合衆国を指す",
+          "country": "ベトナムを指す",
           "dataController": "GDPR（一般データ保護規則）の目的において、当社とは、単独で、または他者と共同で、個人データの処理の目的および手段を決定する法人を指します。",
           "device": "スマートフォン、タブレット、コンピューターなど、本サービスにアクセスできるあらゆるデバイス。",
           "doNotTrack": "これは、インターネット業界がインターネット利用者がウェブサイトを横断したオンライン活動の追跡を制御できる仕組みを開発・実装するために、米国の規制当局によって推進されてきた概念である。",
@@ -487,7 +487,7 @@
         "description": "このプライバシーポリシーについてご質問がある場合は、下記までお問い合わせください。",
         "email": "メールアドレス：privacy@ringdy.com",
         "website": "当社のウェブサイトのこちらのページをご覧ください：https://ringdy.com/contact",
-        "mail": "郵送先： Ringdy Privacy Team, 123 Tech Street, San Francisco, CA 94105, United States"
+        "mail": "郵送先： HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY, Group 1, An Tri Zone, Hong Bang Ward, Hai Phong City, Viet Nam"
       },
       "shineTheLight": {
         "title": "カリフォルニア州におけるあなたのプライバシー権（カリフォルニア州の「シャイン・ザ・ライト法」）",
@@ -1000,7 +1000,7 @@
           "affiliate": "支配権を有する事業体、支配される事業体、または当事者と共通の支配下にある事業体を意味し、「支配」とは、取締役またはその他の経営機関の選任に投票する権利を有する株式、持分、またはその他の証券の50%以上を所有することを意味する。",
           "account": "これは、お客様が当社のサービスまたは当社のサービスの一部にアクセスするために作成される固有のアカウントを意味します。",
           "country": "ベトナムを指す",
-          "company": "（本契約では「当社」、「私たち」、「弊社」または「当社の」と表記される）とは、 Ringdyを指します。",
+          "company": "（本契約では「当社」、「私たち」、「弊社」または「当社の」と表記される）とは、 HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANYを指します。",
           "content": "テキスト、画像、その他の情報など、お客様が投稿、アップロード、リンク、またはその他の方法で利用可能にできるコンテンツを指し、そのコンテンツの形式は問いません。",
           "device": "本サービスにアクセスできるあらゆるデバイス（コンピュータ、スマートフォン、デジタルタブレットなど）を指します。",
           "feedback": "とは、お客様が当社のサービスの属性、パフォーマンス、または機能に関して送信するフィードバック、イノベーション、または提案を意味します。",

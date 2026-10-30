@@ -384,7 +384,7 @@
     "termsConditions": "Villkor",
     "privacyPolicy": "Integritetspolicy",
     "contactUs": "Kontakta oss",
-    "copyright": "Upphovsrätt © {{year}} Ringdy . Alla rättigheter förbehållna."
+    "copyright": "Upphovsrätt © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Alla rättigheter förbehållna."
   },
   "legal": {
     "privacyPolicy": {
@@ -425,9 +425,9 @@
           "application": "Avser Ringdy , programvaran som tillhandahålls av företaget.",
           "business": "I CCPA/CPRA avses med Företaget den juridiska enhet som samlar in Konsumenters personuppgifter och fastställer syftena och medlen för behandlingen av Konsumenters personuppgifter.",
           "ccpaCpra": "Avser California Consumer Privacy Act (\"CCPA\") i dess ändrade lydelse enligt California Privacy Rights Act från 2020 (\"CPRA\").",
-          "company": "Med \"Företaget\", \"Vi\", \"Oss\" eller \"Vårt\" i detta avtal avses Ringdy . I enlighet med GDPR är Företaget personuppgiftsansvarig.",
+          "company": "Med \"Företaget\", \"Vi\", \"Oss\" eller \"Vårt\" i detta avtal avses HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. I enlighet med GDPR är Företaget personuppgiftsansvarig.",
           "consumer": "I CCPA/CPRA avses med en fysisk person som är bosatt i Kalifornien.",
-          "country": "Avser: Förenta staterna",
+          "country": "Avser: Vietnam",
           "dataController": "I den mening som avses i GDPR (Allmänna dataskyddsförordningen) avses med Bolaget den juridiska person som ensam eller tillsammans med andra bestämmer ändamålen och medlen för behandlingen av Personuppgifter.",
           "device": "Alla enheter som kan komma åt Tjänsten, såsom en smartphone, surfplatta eller dator.",
           "doNotTrack": "Ett koncept som har marknadsförts av amerikanska tillsynsmyndigheter för att internetindustrin ska utveckla och implementera en mekanism som gör det möjligt för internetanvändare att kontrollera spårningen av sina onlineaktiviteter på olika webbplatser.",
@@ -487,7 +487,7 @@
         "description": "Om du har några frågor om denna integritetspolicy kan du kontakta oss:",
         "email": "Via e-post: privacy@ringdy.com",
         "website": "På den här sidan på vår webbplats: https://ringdy.com/contact",
-        "mail": "Via post: Ringdy Privacy Team, 123 Tech Street, San Francisco, CA 94105, USA"
+        "mail": "Via post: HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY, Group 1, An Tri Zone, Hong Bang Ward, Hai Phong City, Viet Nam"
       },
       "shineTheLight": {
         "title": "Dina rättigheter till integritet i Kalifornien (Kaliforniens Shine the Light-lag)",
@@ -1000,7 +1000,7 @@
           "affiliate": "Avser en enhet som kontrollerar, kontrolleras av eller står under gemensam kontroll med en part, där \"kontroll\" avser ägande av 50 % eller mer av aktierna, andelarna eller andra värdepapper som ger rösträtt vid val av styrelseledamöter eller annan ledningsmyndighet.",
           "account": "Avser ett unikt konto som skapats för att du ska kunna få åtkomst till vår Tjänst eller delar av vår Tjänst.",
           "country": "Avser: Vietnam",
-          "company": "(i detta avtal antingen kallat \"Företaget\", \"Vi\", \"Oss\" eller \"Vårt\") avser Ringdy .",
+          "company": "(i detta avtal antingen kallat \"Företaget\", \"Vi\", \"Oss\" eller \"Vårt\") avser HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY.",
           "content": "Avser innehåll såsom text, bilder eller annan information som kan publiceras, laddas upp, länkas till eller på annat sätt göras tillgänglig av dig, oavsett innehållets form.",
           "device": "Avser alla enheter som kan komma åt Tjänsten, såsom en dator, en smartphone eller en digital surfplatta.",
           "feedback": "Avser feedback, innovationer eller förslag som du skickat angående attribut, prestanda eller funktioner hos vår tjänst.",

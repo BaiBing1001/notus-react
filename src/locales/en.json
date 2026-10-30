@@ -361,7 +361,7 @@
     "termsConditions": "Terms & Conditions",
     "privacyPolicy": "Privacy Policy",
     "contactUs": "Contact Us",
-    "copyright": "Copyright \u00a9 {{year}} Ringdy. All rights reserved."
+    "copyright": "Copyright \u00a9 {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. All rights reserved."
   },
   "legal": {
     "privacyPolicy": {
@@ -402,9 +402,9 @@
           "application": "Refers to Ringdy, the software program provided by the Company.",
           "business": "For the purpose of CCPA/CPRA, refers to the Company as the legal entity that collects Consumers' personal information and determines the purposes and means of the processing of Consumers' personal information.",
           "ccpaCpra": "Refers to the California Consumer Privacy Act (the \"CCPA\") as amended by the California Privacy Rights Act of 2020 (the \"CPRA\").",
-          "company": "Referred to as either \"the Company\", \"We\", \"Us\" or \"Our\" in this Agreement refers to Ringdy. For the purpose of the GDPR, the Company is the Data Controller.",
+          "company": "Referred to as either \"the Company\", \"We\", \"Us\" or \"Our\" in this Agreement refers to HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY, the owner and operator of Ringdy. For the purpose of the GDPR, the Company is the Data Controller.",
           "consumer": "For the purpose of the CCPA/CPRA, means a natural person who is a California resident.",
-          "country": "Refers to: United States",
+          "country": "Refers to: Viet Nam",
           "dataController": "For the purposes of the GDPR (General Data Protection Regulation), refers to the Company as the legal person which alone or jointly with others determines the purposes and means of the processing of Personal Data.",
           "device": "Any device that can access the Service such as a smartphone, tablet or computer.",
           "doNotTrack": "A concept that has been promoted by US regulatory authorities for the Internet industry to develop and implement a mechanism for allowing internet users to control the tracking of their online activities across websites.",
@@ -464,7 +464,7 @@
         "description": "If you have any questions about this Privacy Policy, You can contact us:",
         "email": "By email: privacy@ringdy.com",
         "website": "On this page on our website: https://ringdy.com/contact",
-        "mail": "By mail: Ringdy Privacy Team, 123 Tech Street, San Francisco, CA 94105, United States"
+        "mail": "By mail: HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY, Group 1, An Tri Zone, Hong Bang Ward, Hai Phong City, Viet Nam"
       },
       "shineTheLight": {
         "title": "Your California Privacy Rights (California's Shine the Light law)",
@@ -978,8 +978,8 @@
           "applicationStore": "Means the digital distribution service operated and developed by Apple Inc. (Apple App Store) or Google Inc. (Google Play Store) in which the Application has been downloaded.",
           "affiliate": "Means an entity that controls, is controlled by or is under common control with a party, where \"control\" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.",
           "account": "Means a unique account created for You to access our Service or parts of our Service.",
-          "country": "Refers to: Vietnam",
-          "company": "(referred to as either \"the Company\", \"We\", \"Us\" or \"Our\" in this Agreement) refers to Ringdy.",
+          "country": "Refers to: Viet Nam",
+          "company": "(referred to as either \"the Company\", \"We\", \"Us\" or \"Our\" in this Agreement) refers to HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY, the owner and operator of Ringdy.",
           "content": "Refers to content such as text, images, or other information that can be posted, uploaded, linked to or otherwise made available by You, regardless of the form of that content.",
           "device": "Means any device that can access the Service such as a computer, a smartphone or a digital tablet.",
           "feedback": "Means feedback, innovations or suggestions sent by You regarding the attributes, performance or features of our Service.",

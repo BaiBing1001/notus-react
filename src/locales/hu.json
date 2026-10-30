@@ -384,7 +384,7 @@
     "termsConditions": "Felhasználási feltételek",
     "privacyPolicy": "Adatvédelmi irányelvek",
     "contactUs": "Kapcsolat",
-    "copyright": "Szerzői jog © {{year}} Ringdy . Minden jog fenntartva."
+    "copyright": "Szerzői jog © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Minden jog fenntartva."
   },
   "legal": {
     "privacyPolicy": {
@@ -425,9 +425,9 @@
           "application": "Ringdy re utal, a Társaság által biztosított szoftverprogramra.",
           "business": "A CCPA/CPRA alkalmazásában a Társaságra, mint olyan jogi személyre utal, amely a Fogyasztók személyes adatait gyűjti, és meghatározza a Fogyasztók személyes adatainak feldolgozásának céljait és eszközeit.",
           "ccpaCpra": "A 2020. évi kaliforniai adatvédelmi törvény (a továbbiakban: „CPRA”) által módosított kaliforniai fogyasztói adatvédelmi törvényre (a továbbiakban: „CCPA”) utal.",
-          "company": "A jelen Megállapodásban a „Társaság”, a „Mi”, a „Minket” vagy a „Miénk” kifejezések Ringdy re vonatkoznak. A GDPR alkalmazásában a Társaság az Adatkezelő.",
+          "company": "A jelen Megállapodásban a „Társaság”, a „Mi”, a „Minket” vagy a „Miénk” kifejezések HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY cégre vonatkoznak. A GDPR alkalmazásában a Társaság az Adatkezelő.",
           "consumer": "A CCPA/CPRA alkalmazásában kaliforniai lakos természetes személyt jelent.",
-          "country": "Utal: Egyesült Államok",
+          "country": "Utal: Vietnam",
           "dataController": "A GDPR (Általános Adatvédelmi Rendelet) alkalmazásában a Társaságra, mint jogi személyre utal, amely önállóan vagy másokkal együtt meghatározza a Személyes Adatok kezelésének céljait és eszközeit.",
           "device": "Bármely olyan eszköz, amely képes hozzáférni a Szolgáltatáshoz, például okostelefon, táblagép vagy számítógép.",
           "doNotTrack": "Egy olyan koncepció, amelyet az amerikai szabályozó hatóságok támogattak az internetes iparág számára, hogy kidolgozzanak és megvalósítsanak egy olyan mechanizmust, amely lehetővé teszi az internetfelhasználók számára, hogy ellenőrizzék online tevékenységeik nyomon követését a weboldalakon.",
@@ -487,7 +487,7 @@
         "description": "Ha bármilyen kérdése van ezzel az adatvédelmi irányelvvel kapcsolatban, a következőképpen veheti fel velünk a kapcsolatot:",
         "email": "E-mailben: privacy@ringdy.com",
         "website": "Weboldalunkon ezen az oldalon: https://ringdy.com/contact",
-        "mail": "Postai úton: Ringdy Privacy Team, 123 Tech Street, San Francisco, CA 94105, Amerikai Egyesült Államok"
+        "mail": "Postai úton: HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY, Group 1, An Tri Zone, Hong Bang Ward, Hai Phong City, Viet Nam"
       },
       "shineTheLight": {
         "title": "Kaliforniai adatvédelmi jogai (Kalifornia Shine the Light törvénye)",
@@ -1000,7 +1000,7 @@
           "affiliate": "Olyan jogalanyt jelent, amely egy féllel közös ellenőrzés alatt áll, vagy amely egy fél irányítása alatt áll, ahol az „ellenőrzés” a részvények, tőkerészesedés vagy egyéb, igazgatósági tagok vagy más irányító hatóság megválasztására szavazati joggal feljogosító értékpapírok 50%-ának vagy annál nagyobb részének tulajdonjogát jelenti.",
           "account": "Egy olyan egyedi fiókot jelent, amelyet az Ön számára hoztak létre, hogy hozzáférhessen a Szolgáltatásunkhoz vagy annak egyes részeihez.",
           "country": "Utal: Vietnam",
-          "company": "(a jelen Megállapodásban „Társaság”, „Mi”, „Minket” vagy „Miénk” néven hivatkozunk rá) Ringdy re vonatkozik.",
+          "company": "(a jelen Megállapodásban „Társaság”, „Mi”, „Minket” vagy „Miénk” néven hivatkozunk rá) HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY cégre vonatkozik.",
           "content": "Olyan tartalomra utal, mint például szöveg, képek vagy egyéb információk, amelyeket Ön közzétehet, feltölthet, összekapcsolhat vagy más módon elérhetővé tehet, függetlenül a tartalom formájától.",
           "device": "Bármely olyan eszközt jelent, amely képes hozzáférni a Szolgáltatáshoz, például számítógépet, okostelefont vagy digitális táblagépet.",
           "feedback": "Az Ön által küldött visszajelzéseket, innovációkat vagy javaslatokat jelenti a Szolgáltatásunk tulajdonságaival, teljesítményével vagy funkcióival kapcsolatban.",

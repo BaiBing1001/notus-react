@@ -384,7 +384,7 @@
     "termsConditions": "Şartlar ve Koşullar",
     "privacyPolicy": "Gizlilik Politikası",
     "contactUs": "Bize Ulaşın",
-    "copyright": "Telif hakkı © {{year}} Ringdy . Tüm hakları saklıdır."
+    "copyright": "Telif hakkı © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Tüm hakları saklıdır."
   },
   "legal": {
     "privacyPolicy": {
@@ -425,9 +425,9 @@
           "application": "Şirket tarafından sağlanan Ringdy adlı yazılım programına atıfta bulunur.",
           "business": "CCPA/CPRA kapsamında, Şirket, Tüketicilerin kişisel bilgilerini toplayan ve Tüketicilerin kişisel bilgilerinin işlenmesinin amaçlarını ve yöntemlerini belirleyen yasal kuruluş olarak tanımlanmaktadır.",
           "ccpaCpra": "Kaliforniya Tüketici Gizliliği Yasası'na (\"CCPA\") ve 2020 Kaliforniya Gizlilik Hakları Yasası'na (\"CPRA\") atıfta bulunmaktadır.",
-          "company": "Bu Sözleşmede \"Şirket\", \"Biz\", \"Bize\" veya \"Bizim\" olarak anılan her şirket Ringdy ifade eder. GDPR amaçları doğrultusunda Şirket, Veri Sorumlusudur.",
+          "company": "Bu Sözleşmede \"Şirket\", \"Biz\", \"Bize\" veya \"Bizim\" olarak anılan her şirket HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY ifade eder. GDPR amaçları doğrultusunda Şirket, Veri Sorumlusudur.",
           "consumer": "CCPA/CPRA kapsamında, \"Kaliforniya'da ikamet eden gerçek kişi\" anlamına gelir.",
-          "country": "Amerika Birleşik Devletleri'ni ifade eder.",
+          "country": "Vietnam'ı ifade eder.",
           "dataController": "Genel Veri Koruma Yönetmeliği (GDPR) amaçları doğrultusunda, Şirket, tek başına veya başkalarıyla birlikte Kişisel Verilerin işlenmesinin amaçlarını ve yöntemlerini belirleyen tüzel kişi olarak ifade edilir.",
           "device": "Akıllı telefon, tablet veya bilgisayar gibi Hizmete erişebilen herhangi bir cihaz.",
           "doNotTrack": "ABD düzenleyici otoriteleri tarafından internet endüstrisi için geliştirilen ve internet kullanıcılarının web sitelerindeki çevrimiçi etkinliklerinin izlenmesini kontrol etmelerine olanak tanıyan bir mekanizmanın uygulanmasını amaçlayan bir kavram.",
@@ -487,7 +487,7 @@
         "description": "Bu Gizlilik Politikası ile ilgili herhangi bir sorunuz varsa, bizimle iletişime geçebilirsiniz:",
         "email": "E-posta yoluyla: privacy@ringdy.com",
         "website": "Web sitemizdeki şu sayfada: https://ringdy.com/contact",
-        "mail": "Posta yoluyla: Ringdy Privacy Team, 123 Tech Street, San Francisco, CA 94105, Amerika Birleşik Devletleri"
+        "mail": "Posta yoluyla: HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY, Group 1, An Tri Zone, Hong Bang Ward, Hai Phong City, Viet Nam"
       },
       "shineTheLight": {
         "title": "Kaliforniya Gizlilik Haklarınız (Kaliforniya'nın Şeffaflık Yasası)",
@@ -1000,7 +1000,7 @@
           "affiliate": "\"Kontrol\", bir tarafı kontrol eden, bir tarafça kontrol edilen veya bir tarafla ortak kontrol altında olan bir kuruluşu ifade eder; burada \"kontrol\", yönetim kurulu üyelerinin veya diğer yönetim yetkililerinin seçimi için oy kullanma hakkına sahip hisselerin, öz sermaye paylarının veya diğer menkul kıymetlerin %50 veya daha fazlasına sahip olmayı ifade eder.",
           "account": "Bu, hizmetimize veya hizmetimizin belirli bölümlerine erişmeniz için sizin için oluşturulmuş benzersiz bir hesap anlamına gelir.",
           "country": "Vietnam'ı ifade eder.",
-          "company": "(Bu Sözleşmede \"Şirket\", \"Biz\", \"Bize\" veya \"Bizim\" olarak anılan) Ringdy ifade eder.",
+          "company": "(Bu Sözleşmede \"Şirket\", \"Biz\", \"Bize\" veya \"Bizim\" olarak anılan) HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY ifade eder.",
           "content": "Metin, resim veya diğer bilgiler gibi, içeriğin biçiminden bağımsız olarak, sizin tarafınızdan yayınlanabilen, yüklenebilen, bağlantı verilebilen veya başka bir şekilde erişilebilir hale getirilebilen içerikleri ifade eder.",
           "device": "Hizmete erişebilen herhangi bir cihaz anlamına gelir; örneğin bilgisayar, akıllı telefon veya dijital tablet.",
           "feedback": "Bu, Hizmetimizin nitelikleri, performansı veya özellikleriyle ilgili olarak Sizin tarafınızdan gönderilen geri bildirim, yenilik veya öneriler anlamına gelir.",

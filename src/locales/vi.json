@@ -384,7 +384,7 @@
     "termsConditions": "Điều khoản và điều kiện",
     "privacyPolicy": "Chính sách bảo mật",
     "contactUs": "Liên hệ với chúng tôi",
-    "copyright": "Bản quyền © {{year}} Ringdy . Mọi quyền được bảo lưu."
+    "copyright": "Bản quyền © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Mọi quyền được bảo lưu."
   },
   "legal": {
     "privacyPolicy": {
@@ -425,9 +425,9 @@
           "application": "Thuật ngữ này đề cập đến Ringdy , chương trình phần mềm do Công ty cung cấp.",
           "business": "Theo quy định của CCPA/CPRA, \"Công ty\" được hiểu là pháp nhân thu thập thông tin cá nhân của Người tiêu dùng và xác định mục đích cũng như phương tiện xử lý thông tin cá nhân của Người tiêu dùng.",
           "ccpaCpra": "Điều khoản này đề cập đến Đạo luật Bảo vệ Quyền riêng tư Người tiêu dùng California (CCPA) được sửa đổi bởi Đạo luật Quyền riêng tư California năm 2020 (CPRA).",
-          "company": "Trong Thỏa thuận này, bất kỳ thuật ngữ nào được dùng để chỉ \"Công ty\", \"Chúng tôi\", \"Chúng ta\" hoặc \"Của chúng tôi\" đều đề cập đến Ringdy . Theo quy định của GDPR, Công ty là Bên kiểm soát dữ liệu.",
+          "company": "Trong Thỏa thuận này, bất kỳ thuật ngữ nào được dùng để chỉ \"Công ty\", \"Chúng tôi\", \"Chúng ta\" hoặc \"Của chúng tôi\" đều đề cập đến HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Theo quy định của GDPR, Công ty là Bên kiểm soát dữ liệu.",
           "consumer": "Theo mục đích của CCPA/CPRA, \"cá nhân\" có nghĩa là một người cư trú tại California.",
-          "country": "Áp dụng cho: Hoa Kỳ",
+          "country": "Đề cập đến: Việt Nam",
           "dataController": "Theo quy định của GDPR (Quy định chung về bảo vệ dữ liệu), Công ty được hiểu là pháp nhân tự mình hoặc cùng với các pháp nhân khác xác định mục đích và phương tiện xử lý Dữ liệu Cá nhân.",
           "device": "Bất kỳ thiết bị nào có thể truy cập Dịch vụ, chẳng hạn như điện thoại thông minh, máy tính bảng hoặc máy tính.",
           "doNotTrack": "Một khái niệm được các cơ quan quản lý của Hoa Kỳ thúc đẩy nhằm giúp ngành công nghiệp Internet phát triển và triển khai một cơ chế cho phép người dùng Internet kiểm soát việc theo dõi hoạt động trực tuyến của họ trên các trang web.",
@@ -487,7 +487,7 @@
         "description": "Nếu bạn có bất kỳ thắc mắc nào về Chính sách Bảo mật này, bạn có thể liên hệ với chúng tôi:",
         "email": "Qua email: privacy@ringdy.com",
         "website": "Trên trang này của trang web chúng tôi: https://ringdy.com/contact",
-        "mail": "Qua đường bưu điện: Ringdy Privacy Team, 123 Tech Street, San Francisco, CA 94105, Hoa Kỳ"
+        "mail": "Qua đường bưu điện: HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY, Group 1, An Tri Zone, Hong Bang Ward, Hai Phong City, Viet Nam"
       },
       "shineTheLight": {
         "title": "Quyền riêng tư của bạn tại California (Luật Shine the Light của California)",
@@ -1000,7 +1000,7 @@
           "affiliate": "Thuật ngữ \"kiểm soát\" có nghĩa là một thực thể kiểm soát, bị kiểm soát bởi hoặc thuộc quyền kiểm soát chung với một bên, trong đó \"kiểm soát\" có nghĩa là sở hữu 50% hoặc hơn cổ phần, vốn chủ sở hữu hoặc các chứng khoán khác có quyền biểu quyết để bầu chọn giám đốc hoặc cơ quan quản lý khác.",
           "account": "Có nghĩa là một tài khoản duy nhất được tạo cho Bạn để truy cập Dịch vụ của chúng tôi hoặc một phần Dịch vụ của chúng tôi.",
           "country": "Đề cập đến: Việt Nam",
-          "company": "(được gọi chung là \"Công ty\", \"Chúng tôi\", \"Chúng ta\" hoặc \"Của chúng tôi\" trong Thỏa thuận này) là Ringdy .",
+          "company": "(được gọi chung là \"Công ty\", \"Chúng tôi\", \"Chúng ta\" hoặc \"Của chúng tôi\" trong Thỏa thuận này) là HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY.",
           "content": "Nội dung này đề cập đến các loại nội dung như văn bản, hình ảnh hoặc thông tin khác mà bạn có thể đăng tải, tải lên, liên kết hoặc cung cấp theo bất kỳ cách nào, bất kể hình thức của nội dung đó là gì.",
           "device": "Có nghĩa là bất kỳ thiết bị nào có thể truy cập Dịch vụ, chẳng hạn như máy tính, điện thoại thông minh hoặc máy tính bảng.",
           "feedback": "Điều này có nghĩa là phản hồi, cải tiến hoặc đề xuất do Bạn gửi liên quan đến các thuộc tính, hiệu suất hoặc tính năng của Dịch vụ của chúng tôi.",

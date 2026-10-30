@@ -384,7 +384,7 @@
     "termsConditions": "Käyttöehdot",
     "privacyPolicy": "Tietosuojakäytäntö",
     "contactUs": "Ota yhteyttä",
-    "copyright": "Tekijänoikeus © {{year}} Ringdy . Kaikki oikeudet pidätetään."
+    "copyright": "Tekijänoikeus © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Kaikki oikeudet pidätetään."
   },
   "legal": {
     "privacyPolicy": {
@@ -425,9 +425,9 @@
           "application": "Viittaa Ringdy , yhtiön tarjoamaan ohjelmistoon.",
           "business": "CCPA/CPRA-lakien tarkoituksia varten viittaa Yhtiöön oikeushenkilönä, joka kerää kuluttajien henkilötietoja ja määrittää kuluttajien henkilötietojen käsittelyn tarkoitukset ja keinot.",
           "ccpaCpra": "Viittaa Kalifornian kuluttajien yksityisyyden suojaa koskevaan lakiin (\"CCPA\") sellaisena kuin se on muutettuna Kalifornian vuoden 2020 yksityisyyden suojaa koskevalla lailla (\"CPRA\").",
-          "company": "Tässä sopimuksessa \"Yhtiö\", \"Me\", \"Meidän\" tai \"Meidän\" viittaavat Ringdy . GDPR:n tarkoituksia varten Yhtiö on rekisterinpitäjä.",
+          "company": "Tässä sopimuksessa \"Yhtiö\", \"Me\", \"Meidän\" tai \"Meidän\" viittaavat HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. GDPR:n tarkoituksia varten Yhtiö on rekisterinpitäjä.",
           "consumer": "CCPA/CPRA-laissa tarkoitetaan luonnollista henkilöä, joka on Kalifornian asukas.",
-          "country": "Viittaa: Yhdysvaltoihin",
+          "country": "Viittaa: Vietnamiin",
           "dataController": "GDPR:n (yleisen tietosuoja-asetuksen) tarkoituksiin Yhtiöllä tarkoitetaan oikeushenkilöä, joka yksin tai yhdessä toisten kanssa määrittelee henkilötietojen käsittelyn tarkoitukset ja keinot.",
           "device": "Mikä tahansa laite, jolla voi käyttää Palvelua, kuten älypuhelin, tabletti tai tietokone.",
           "doNotTrack": "Yhdysvaltain sääntelyviranomaisten internet-alalle edistämä konsepti, jonka tarkoituksena on kehittää ja ottaa käyttöön mekanismi, jonka avulla internetin käyttäjät voivat hallita verkkotoimintansa seurantaa eri verkkosivustoilla.",
@@ -487,7 +487,7 @@
         "description": "Jos sinulla on kysyttävää tästä tietosuojakäytännöstä, voit ottaa meihin yhteyttä:",
         "email": "Sähköpostitse: privacy@ringdy.com",
         "website": "Tällä sivulla verkkosivuillamme: https://ringdy.com/contact",
-        "mail": "Postitse: Ringdy Privacy Team, 123 Tech Street, San Francisco, CA 94105, Yhdysvallat"
+        "mail": "Postitse: HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY, Group 1, An Tri Zone, Hong Bang Ward, Hai Phong City, Viet Nam"
       },
       "shineTheLight": {
         "title": "Kalifornian yksityisyyden suojaan liittyvät oikeutesi (Kalifornian Shine the Light -laki)",
@@ -1000,7 +1000,7 @@
           "affiliate": "Tarkoittaa yhteisöä, joka hallitsee osapuolta, on osapuolen hallitsema tai on osapuolen kanssa yhteisessä hallinnassa, jossa \"hallinta\" tarkoittaa 50 prosentin tai suuremman osuuden omistusta osakkeista, pääomaosuuksista tai muista arvopapereista, jotka oikeuttavat äänioikeuteen johtajien tai muun hallintoelimen valinnassa.",
           "account": "Tarkoittaa sinulle luotua yksilöllistä tiliä, jolla voit käyttää Palveluamme tai sen osia.",
           "country": "Viittaa: Vietnamiin",
-          "company": "(tässä sopimuksessa jäljempänä \"Yhtiö\", \"Me\", \"Meidän\" tai \"Meidän\") viittaa Ringdy .",
+          "company": "(tässä sopimuksessa jäljempänä \"Yhtiö\", \"Me\", \"Meidän\" tai \"Meidän\") viittaa HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY.",
           "content": "Viittaa sisältöön, kuten tekstiin, kuviin tai muuhun tietoon, jonka voit julkaista, ladata, linkittää tai muuten asettaa saataville sinun toimestasi, riippumatta sisällön muodosta.",
           "device": "Tarkoittaa mitä tahansa laitetta, jolla voi käyttää Palvelua, kuten tietokonetta, älypuhelinta tai digitaalista tablettia.",
           "feedback": "Tarkoittaa palautetta, innovaatioita tai ehdotuksia, jotka olet lähettänyt Palvelumme ominaisuuksiin, suorituskykyyn tai toimintoihin liittyen.",

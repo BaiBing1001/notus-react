@@ -63,12 +63,12 @@ function MapExample() {
       position: myLatlng,
       map: map,
       animation: google.maps.Animation.DROP,
-      title: "Notus React!",
+      title: "Ringdy",
     });
 
     const contentString =
-      '<div class="info-window-content"><h2>Notus React</h2>' +
-      "<p>A free Admin for Tailwind CSS, React, and React Hooks.</p></div>";
+      '<div class="info-window-content"><h2>Ringdy</h2>' +
+      "<p>Discover and connect with people nearby.</p></div>";
 
     const infowindow = new google.maps.InfoWindow({
       content: contentString,

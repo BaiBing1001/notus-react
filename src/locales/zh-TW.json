@@ -384,7 +384,7 @@
     "termsConditions": "條款及細則",
     "privacyPolicy": "隱私權政策",
     "contactUs": "聯絡我們",
-    "copyright": "版權所有 © {{year}} Ringdy 。保留所有權利。"
+    "copyright": "版權所有 © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY。保留所有權利。"
   },
   "legal": {
     "privacyPolicy": {
@@ -425,9 +425,9 @@
           "application": "指Ringdy ，即該公司提供的軟體程式。",
           "business": "就 CCPA/CPRA 而言，指公司作為收集消費者個人資訊的法律實體，並決定處理消費者個人資訊的目的和方式。",
           "ccpaCpra": "指經 2020 年加州隱私權法案（「CPRA」）修訂的加州消費者隱私法案（「CCPA」）。",
-          "company": "本協議中提及的「本公司」、「我們」或「我們的」均指Ringdy 。根據GDPR的規定，公司是資料控制者。",
+          "company": "本協議中提及的「本公司」、「我們」或「我們的」均指HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY。根據GDPR的規定，公司是資料控制者。",
           "consumer": "就 CCPA/CPRA 而言，指加州居民的自然人。",
-          "country": "指：美國",
+          "country": "指：越南",
           "dataController": "就 GDPR（一般資料保護規範）而言，公司是指單獨或與他人共同決定個人資料處理的目的和方式的法人實體。",
           "device": "任何可以存取該服務的設備，例如智慧型手機、平板電腦或電腦。",
           "doNotTrack": "美國監管機構一直倡導互聯網行業開發和實施一種機制，允許互聯網用戶控制其在各個網站上的在線活動跟踪，這一理念應運而生。",
@@ -487,7 +487,7 @@
         "description": "如果您對本隱私權政策有任何疑問，可以聯絡我們：",
         "email": "透過電子郵件：privacy@ringdy.com",
         "website": "在本頁面（https://ringdy.com/contact）上",
-        "mail": "郵寄地址： Ringdy Privacy Team, 123 Tech Street, San Francisco, CA 94105, United States"
+        "mail": "郵寄地址： HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY, Group 1, An Tri Zone, Hong Bang Ward, Hai Phong City, Viet Nam"
       },
       "shineTheLight": {
         "title": "您的加州隱私權（加州陽光法案）",
@@ -1000,7 +1000,7 @@
           "affiliate": "指控制一方、受一方控製或與一方處於共同控制之下的實體，其中「控制」指擁有50%或以上有權選舉董事或其他管理機構成員的股份、股權或其他證券。",
           "account": "指為您建立的唯一帳戶，用於存取我們的服務或部分服務。",
           "country": "指：越南",
-          "company": "（在本協議中稱為「本公司」、「我們」或「我們的」）是指Ringdy 。",
+          "company": "（在本協議中稱為「本公司」、「我們」或「我們的」）是指HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY。",
           "content": "指您可以發布、上傳、連結或以其他方式提供的任何內容，例如文字、圖像或其他訊息，無論該內容的形式為何。",
           "device": "指任何可以存取該服務的設備，例如電腦、智慧型手機或平板電腦。",
           "feedback": "指您就我們服務的屬性、效能或功能所發送的回饋、創新或建議。",

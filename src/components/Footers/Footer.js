@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { useTranslation } from 'react-i18next';
 import appIcon from "assets/img/icon.png";
+import { COMPANY_NAME, COMPANY_ADDRESS } from "../../constants/company.js";
 
 export default function Footer() {
   const { t } = useTranslation();
@@ -46,6 +47,10 @@ export default function Footer() {
                   <i className="fas fa-envelope"></i>
                 </a>
               </div>
+              <address className="not-italic text-sm text-blueGray-600 mt-2">
+                <span className="block font-semibold">{COMPANY_NAME}</span>
+                <span className="block">{COMPANY_ADDRESS}</span>
+              </address>
             </div>
             <div className="w-full lg:w-6/12 px-4">
               <div className="flex flex-wrap items-top mb-6">
