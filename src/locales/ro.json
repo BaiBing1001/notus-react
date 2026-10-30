@@ -384,7 +384,8 @@
     "termsConditions": "Termeni și condiții",
     "privacyPolicy": "Politica de confidențialitate",
     "contactUs": "Contactaţi-ne",
-    "copyright": "Drepturi de autor © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Toate drepturile rezervate."
+    "copyright": "Drepturi de autor © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Toate drepturile rezervate.",
+    "companyAddress": "Grupa 1, Zona An Tri, Cartierul Hong Bang, Orașul Hai Phong, Vietnam"
   },
   "legal": {
     "privacyPolicy": {

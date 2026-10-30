@@ -384,7 +384,8 @@
     "termsConditions": "الشروط والأحكام",
     "privacyPolicy": "سياسة الخصوصية",
     "contactUs": "اتصل بنا",
-    "copyright": "جميع الحقوق محفوظة © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY."
+    "copyright": "جميع الحقوق محفوظة © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY.",
+    "companyAddress": "المجموعة 1، منطقة آن تري، حي هونغ بانغ، مدينة هاي فونغ، فيتنام"
   },
   "legal": {
     "privacyPolicy": {

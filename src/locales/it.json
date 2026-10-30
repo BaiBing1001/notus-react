@@ -384,7 +384,8 @@
     "termsConditions": "Termini e condizioni",
     "privacyPolicy": "politica sulla riservatezza",
     "contactUs": "Contattaci",
-    "copyright": "Copyright © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Tutti i diritti riservati."
+    "copyright": "Copyright © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Tutti i diritti riservati.",
+    "companyAddress": "Gruppo 1, Zona An Tri, Distretto di Hong Bang, Città di Hai Phong, Vietnam"
   },
   "legal": {
     "privacyPolicy": {

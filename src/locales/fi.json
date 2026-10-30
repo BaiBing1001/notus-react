@@ -384,7 +384,8 @@
     "termsConditions": "Käyttöehdot",
     "privacyPolicy": "Tietosuojakäytäntö",
     "contactUs": "Ota yhteyttä",
-    "copyright": "Tekijänoikeus © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Kaikki oikeudet pidätetään."
+    "copyright": "Tekijänoikeus © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Kaikki oikeudet pidätetään.",
+    "companyAddress": "Ryhmä 1, An Trin alue, Hong Bangin kaupunginosa, Hai Phongin kaupunki, Vietnam"
   },
   "legal": {
     "privacyPolicy": {

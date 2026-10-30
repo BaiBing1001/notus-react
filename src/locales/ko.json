@@ -384,7 +384,8 @@
     "termsConditions": "이용약관",
     "privacyPolicy": "개인정보 보호정책",
     "contactUs": "문의하기",
-    "copyright": "저작권 © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. 모든 권리 보유."
+    "copyright": "저작권 © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. 모든 권리 보유.",
+    "companyAddress": "1그룹, 안찌 구역, 홍방 동, 하이퐁시, 베트남"
   },
   "legal": {
     "privacyPolicy": {

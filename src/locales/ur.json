@@ -384,7 +384,8 @@
     "termsConditions": "شرائط و ضوابط",
     "privacyPolicy": "رازداری کی پالیسی",
     "contactUs": "ہم سے رابطہ کریں۔",
-    "copyright": "کاپی رائٹ © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. جملہ حقوق محفوظ ہیں۔"
+    "copyright": "کاپی رائٹ © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. جملہ حقوق محفوظ ہیں۔",
+    "companyAddress": "گروپ 1، این تری زون، ہونگ بانگ وارڈ، ہائی فونگ شہر، ویتنام"
   },
   "legal": {
     "privacyPolicy": {

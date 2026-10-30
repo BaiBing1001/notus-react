@@ -384,7 +384,8 @@
     "termsConditions": "ข้อกำหนดและเงื่อนไข",
     "privacyPolicy": "นโยบายความเป็นส่วนตัว",
     "contactUs": "ติดต่อเรา",
-    "copyright": "ลิขสิทธิ์ © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY สงวนลิขสิทธิ์ทุกประการ"
+    "copyright": "ลิขสิทธิ์ © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY สงวนลิขสิทธิ์ทุกประการ",
+    "companyAddress": "กลุ่ม 1, เขตอานตรี, แขวงหงบ่าง, เมืองไฮฟอง, เวียดนาม"
   },
   "legal": {
     "privacyPolicy": {

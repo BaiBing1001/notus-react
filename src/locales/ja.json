@@ -384,7 +384,8 @@
     "termsConditions": "利用規約",
     "privacyPolicy": "プライバシーポリシー",
     "contactUs": "お問い合わせ",
-    "copyright": "著作権 © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY。無断複写・転載を禁じます。"
+    "copyright": "著作権 © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY。無断複写・転載を禁じます。",
+    "companyAddress": "第1グループ、アンチ地区、ホンバン区、ハイフォン市、ベトナム"
   },
   "legal": {
     "privacyPolicy": {

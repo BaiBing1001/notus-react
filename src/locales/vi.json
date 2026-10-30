@@ -384,7 +384,8 @@
     "termsConditions": "Điều khoản và điều kiện",
     "privacyPolicy": "Chính sách bảo mật",
     "contactUs": "Liên hệ với chúng tôi",
-    "copyright": "Bản quyền © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Mọi quyền được bảo lưu."
+    "copyright": "Bản quyền © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Mọi quyền được bảo lưu.",
+    "companyAddress": "Tổ 1, Khu An Trì, Phường Hồng Bàng, Thành phố Hải Phòng, Việt Nam"
   },
   "legal": {
     "privacyPolicy": {

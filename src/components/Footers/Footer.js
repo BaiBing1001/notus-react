@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { useTranslation } from 'react-i18next';
 import appIcon from "assets/img/icon.png";
-import { COMPANY_NAME, COMPANY_ADDRESS } from "../../constants/company.js";
+import { COMPANY_NAME } from "../../constants/company.js";
 
 export default function Footer() {
   const { t } = useTranslation();
@@ -49,7 +49,7 @@ export default function Footer() {
               </div>
               <address className="not-italic text-sm text-blueGray-600 mt-2">
                 <span className="block font-semibold">{COMPANY_NAME}</span>
-                <span className="block">{COMPANY_ADDRESS}</span>
+                <span className="block">{t('footer.companyAddress')}</span>
               </address>
             </div>
             <div className="w-full lg:w-6/12 px-4">

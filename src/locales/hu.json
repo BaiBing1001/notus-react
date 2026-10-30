@@ -384,7 +384,8 @@
     "termsConditions": "Felhasználási feltételek",
     "privacyPolicy": "Adatvédelmi irányelvek",
     "contactUs": "Kapcsolat",
-    "copyright": "Szerzői jog © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Minden jog fenntartva."
+    "copyright": "Szerzői jog © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Minden jog fenntartva.",
+    "companyAddress": "1. csoport, An Tri övezet, Hong Bang kerület, Hai Phong város, Vietnam"
   },
   "legal": {
     "privacyPolicy": {

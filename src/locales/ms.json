@@ -384,7 +384,8 @@
     "termsConditions": "Terma & Syarat",
     "privacyPolicy": "Dasar Privasi",
     "contactUs": "Hubungi Kami",
-    "copyright": "Hak Cipta © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Semua hak cipta terpelihara."
+    "copyright": "Hak Cipta © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Semua hak cipta terpelihara.",
+    "companyAddress": "Kumpulan 1, Zon An Tri, Wad Hong Bang, Bandar Hai Phong, Vietnam"
   },
   "legal": {
     "privacyPolicy": {

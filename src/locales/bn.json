@@ -384,7 +384,8 @@
     "termsConditions": "শর্তাবলী",
     "privacyPolicy": "গোপনীয়তা নীতি",
     "contactUs": "আমাদের সাথে যোগাযোগ করুন",
-    "copyright": "কপিরাইট © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY। সর্বস্বত্ব সংরক্ষিত।"
+    "copyright": "কপিরাইট © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY। সর্বস্বত্ব সংরক্ষিত।",
+    "companyAddress": "গ্রুপ ১, আন ত্রি জোন, হং বাং ওয়ার্ড, হাই ফং শহর, ভিয়েতনাম"
   },
   "legal": {
     "privacyPolicy": {

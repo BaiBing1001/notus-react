@@ -384,7 +384,8 @@
     "termsConditions": "नियम एवं शर्तें",
     "privacyPolicy": "गोपनीयता नीति",
     "contactUs": "हमसे संपर्क करें",
-    "copyright": "कॉपीराइट © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY सर्वाधिकार सुरक्षित।"
+    "copyright": "कॉपीराइट © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY सर्वाधिकार सुरक्षित।",
+    "companyAddress": "समूह 1, आन त्री ज़ोन, होंग बांग वार्ड, हाई फोंग शहर, वियतनाम"
   },
   "legal": {
     "privacyPolicy": {

@@ -384,7 +384,8 @@
     "termsConditions": "Obchodní podmínky",
     "privacyPolicy": "Zásady ochrany osobních údajů",
     "contactUs": "Kontaktujte nás",
-    "copyright": "Autorská práva © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Všechna práva vyhrazena."
+    "copyright": "Autorská práva © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Všechna práva vyhrazena.",
+    "companyAddress": "Skupina 1, Zóna An Tri, Obvod Hong Bang, Město Hai Phong, Vietnam"
   },
   "legal": {
     "privacyPolicy": {

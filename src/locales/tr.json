@@ -384,7 +384,8 @@
     "termsConditions": "Şartlar ve Koşullar",
     "privacyPolicy": "Gizlilik Politikası",
     "contactUs": "Bize Ulaşın",
-    "copyright": "Telif hakkı © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Tüm hakları saklıdır."
+    "copyright": "Telif hakkı © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Tüm hakları saklıdır.",
+    "companyAddress": "Grup 1, An Tri Bölgesi, Hong Bang Mahallesi, Hai Phong Şehri, Vietnam"
   },
   "legal": {
     "privacyPolicy": {

@@ -384,7 +384,8 @@
     "termsConditions": "Όροι και Προϋποθέσεις",
     "privacyPolicy": "Πολιτική Απορρήτου",
     "contactUs": "Επικοινωνήστε μαζί μας",
-    "copyright": "Πνευματικά δικαιώματα © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Με επιφύλαξη παντός δικαιώματος."
+    "copyright": "Πνευματικά δικαιώματα © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Με επιφύλαξη παντός δικαιώματος.",
+    "companyAddress": "Ομάδα 1, Ζώνη Αν Τρι, Συνοικία Χονγκ Μπανγκ, Πόλη Χάι Φονγκ, Βιετνάμ"
   },
   "legal": {
     "privacyPolicy": {

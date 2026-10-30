@@ -384,7 +384,8 @@
     "termsConditions": "Условия и положения",
     "privacyPolicy": "политика конфиденциальности",
     "contactUs": "Связаться с нами",
-    "copyright": "Авторские права © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Все права защищены."
+    "copyright": "Авторские права © {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. Все права защищены.",
+    "companyAddress": "Группа 1, зона Ан Чи, район Хонг Банг, город Хайфон, Вьетнам"
   },
   "legal": {
     "privacyPolicy": {

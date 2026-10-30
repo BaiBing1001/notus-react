@@ -361,7 +361,8 @@
     "termsConditions": "Terms & Conditions",
     "privacyPolicy": "Privacy Policy",
     "contactUs": "Contact Us",
-    "copyright": "Copyright \u00a9 {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. All rights reserved."
+    "copyright": "Copyright \u00a9 {{year}} HUNTER SOFTWARE TECHNOLOGY LIMITED LIABILITY COMPANY. All rights reserved.",
+    "companyAddress": "Group 1, An Tri Zone, Hong Bang Ward, Hai Phong City, Viet Nam"
   },
   "legal": {
     "privacyPolicy": {
